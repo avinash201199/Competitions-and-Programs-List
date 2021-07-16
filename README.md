@@ -1,4 +1,4 @@
-<div align="center" style="font-size:60px;">
+<div align="center" style="font-size:100px;">
  List-of-Competitions-for-Students
 </div>
 
