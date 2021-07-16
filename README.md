@@ -5,24 +5,13 @@
 <details>
 <summary>Code Jam by Google</summary>
 <br>
-Category/Type - <br>
-Development<br>
+About <br>
+Google Code Jam is an international programming competition hosted and administered by Google.[2] The competition began in 2003.[3] The competition consists of a set of algorithmic problems which must be solved in a fixed amount of time. Competitors may use any programming language and development environment to obtain their solutions. <br>
 <br>
-Documentation - <br>
-https://www.autodesk.com/products/3ds-max/overview?#3ds-max-intro<br>
+Official Website- <br>
+https://codingcompetitions.withgoogle.com/codejam<br>
 <br>
-Best Youtube creators - <br>
-https://www.youtube.com/watch?v=T_KkXZVkQJw&list=PLMtzJAOD3B7YUSUMdi_beDcI0AMVRztqs<br>
-
-<br>
-Useful Websites - <br>
-https://www.autodesk.eu/products/3ds-max/overview<br>
-
-<br>
-Dedicated Github page - <br>
-https://github.com/topics/autodesk-3ds-max<br>
-
-<br>
-
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=ey5XU4MU6VQ
 
 </details>
