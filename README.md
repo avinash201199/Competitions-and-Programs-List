@@ -1,5 +1,5 @@
 <div align="center">
- <font size="4"> List-of-Competitions-for-Students </font>
+ <font size="+1"> List-of-Competitions-for-Students </font>
 </div>
 
 
