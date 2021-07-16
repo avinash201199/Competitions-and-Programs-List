@@ -1,5 +1,4 @@
-
-                                                                     # List-of-Competitions-for-Students </font>
+# List-of-Competitions-for-Students </font>
 
 
 
