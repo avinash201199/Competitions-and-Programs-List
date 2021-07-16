@@ -1,6 +1,6 @@
-<div align="center">
- <font size="+1"> List-of-Competitions-for-Students </font>
-</div>
+
+                                                                     # List-of-Competitions-for-Students </font>
+
 
 
 <details>
