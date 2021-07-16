@@ -1,5 +1,5 @@
-<div align="center" style="font-size:100px;">
- List-of-Competitions-for-Students
+<div align="center">
+ <font size="4"> List-of-Competitions-for-Students </font>
 </div>
 
 
