@@ -42,3 +42,18 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=9wad39LmzPY
 
 </details>
+
+</details>
+<details>
+<summary>Imagine Cup by Microsoft</summary>
+<br>
+About <br>
+Imagine Cup is an annual competition sponsored and hosted by Microsoft Corp. which brings together student developers worldwide to help resolve some of the world's toughest challenges.[1] It is considered as "Olympics of Technology" by computer science and engineering and is considered one of the top competitions and awards related to technology and software design. All Imagine Cup competitors create projects that address the Imagine Cup theme: "Imagine a world where technology helps solve the toughest problems". Started in 2003, it has steadily grown, with more than 358,000 competitors representing 183 countries and regions in 2011. <br>
+<br>
+Official Website- <br>
+https://imaginecup.microsoft.com/en-us/Events<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=Mtx8FWqxrMs
+
+</details>
