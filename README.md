@@ -154,7 +154,39 @@ https://www.youtube.com/watch?v=9wad39LmzPY
 
 </details>
 
+<details>
+<summary>Microsoft Learn Student Ambassadors </summary>
+<br>
+About <br>
+Microsoft Learn Student Ambassadors Program is a program to bring together all the students from all over the world who have the passion for Technology, have the desire and craze to learn more about technology and help the community.
+The Ambassadors get an opportunity to interact with their peers, mentors, Professionals, learn various Microsoft technologies, and implement it in real world.
+  Eligibility Criteria:
+To apply for the program:
+
+i) You must be at least 16 years old, have valid identification and be actively enrolled in an accredited, higher education academic institution.
+
+ii) Some experience in coding or technology will definitely be helpful, but do not worry if you don't have much of technical background. Students of all academic backgrounds who are interested in growing their career and tech skills, are encouraged to apply for this program, as all the tools and resources are provided to help you learn more and engage in the program.
+  What are the benefits of being a Microsoft Learn Student Ambassador?
+
+. Access to Microsoft 365, plus TechSmith Snagit and Camtasia
+screen capture and recording software
+. Visual Studio Enterprise subscription and $150 monthly Azure
+credits
+. Exam certification vouchers
+. LinkedIn Learning
+. Free Name.com domain name
+. Event support
+. Engagement with Cloud Advocates and Microsoft MVPs
+. Student Ambassador Milestone badges to highlight program accomplishments on your LinkedIn profile
+<br>
+Official Website- <br>
+https://studentambassadors.microsoft.com/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=_H65WfXPxuA
+
 </details>
+
 
 
 <details>
