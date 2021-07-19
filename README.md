@@ -154,6 +154,26 @@ https://www.youtube.com/watch?v=9wad39LmzPY
 
 </details>
 
+ <details>
+<summary>Master the Mainframe by IBM</summary>
+<br>
+About <br>
+Master the Mainframe is the world’s largest student mainframe competition. This unique, virtual contest is open globally to high school and college students to progressively teach mainframe skills in a real-world enterprise computing environment. Employers from around the globe use this contest to seek out candidates for mainframe careers.
+
+Master the Mainframe is a fun way to get hands-on experience across a variety of technologies, to develop valuable skills, and to earn digital badges – with no prior knowledge required!
+Part 1: Learn the basics of navigation, files and programs.
+Part 2: Practice programming languages, operating systems and technologies.
+Part 3: Participate in real-world challenges.
+The Student Contest and the Learning System are available worldwide.<br>
+<br>
+Official Website- <br>
+https://www.ibm.com/it-infrastructure/z/education/master-the-mainframe<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=lKLkqsKTo3Y
+
+</details>
+
 <details>
 <summary>Microsoft Learn Student Ambassadors </summary>
 <br>
