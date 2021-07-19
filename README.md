@@ -2,6 +2,20 @@
 
 
 
+
+<details>
+<summary>Alexa Prize by Amazon</summary>
+<br>
+About <br>
+The Alexa Prize, launched in 2016, is a competition for university students dedicated to advancing the field of conversational AI. Teams are challenged to design socialbots that Alexa customers can interact with via Alexa-enabled devices. Their ultimate goal is to meet the Grand Challenge: earn a composite score of 4.0 or higher (out of 5) from the judges, and have the judges find that at least two-thirds of their conversations with the socialbot in the final round of judging remain coherent and engaging for 20 minutes. <br>
+<br>
+Official Website- <br>
+https://developer.amazon.com/alexaprize<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=nVi-QwX82GI
+
+</details>
 <details>
 <summary>Code Jam by Google</summary>
 <br>
