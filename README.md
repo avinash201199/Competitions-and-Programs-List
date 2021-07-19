@@ -69,6 +69,21 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=earTjC0iSjg
 
 </details>
+<details>
+<summary>Google Summer of Code by Google</summary>
+<br>
+About <br>
+Google Summer of Code (GSoC) is a global program that matches students with open source, free software and technology-related organizations to write code and become part of these communities while making some money along the way! The organizations provide mentors who act as guides through the entire process, from learning about the community to contributing code. The idea is to get students involved in and familiar with the open source community and help them to put their summer break to good use.
+
+Accepted students gain exposure to real-world software development and employment opportunities in areas related to their academic pursuits. Participating organizations are able to identify and bring in new developers to their communities who will hopefully stay involved long after their GSoC year ends. Best of all, more source code is created and released for the use and benefit of all; all code produced as part of the program is released under an open source license. The fact that you get to write code that people from all over the world can use - how cool is that!
+<br>
+Official Website- <br>
+https://summerofcode.withgoogle.com/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=fyy2Mr84vNM
+
+</details>
 
 <details>
 <summary>Hash code by Google</summary>
@@ -141,21 +156,7 @@ https://www.youtube.com/watch?v=9wad39LmzPY
 
 </details>
 
-<details>
-<summary>Google Summer of Code by Google</summary>
-<br>
-About <br>
-Google Summer of Code (GSoC) is a global program that matches students with open source, free software and technology-related organizations to write code and become part of these communities while making some money along the way! The organizations provide mentors who act as guides through the entire process, from learning about the community to contributing code. The idea is to get students involved in and familiar with the open source community and help them to put their summer break to good use.
 
-Accepted students gain exposure to real-world software development and employment opportunities in areas related to their academic pursuits. Participating organizations are able to identify and bring in new developers to their communities who will hopefully stay involved long after their GSoC year ends. Best of all, more source code is created and released for the use and benefit of all; all code produced as part of the program is released under an open source license. The fact that you get to write code that people from all over the world can use - how cool is that!
-<br>
-Official Website- <br>
-https://summerofcode.withgoogle.com/<br>
-<br>
-Explanation on Youtube- <br>
-https://www.youtube.com/watch?v=fyy2Mr84vNM
-
-</details>
 <details>
 <summary>Smart India Hackthon by Govt. India </summary>
 <br>
