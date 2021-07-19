@@ -52,14 +52,14 @@ https://www.youtube.com/watch?v=lIEADL2wD6I
 About <br>
 Helping students bridge the gap between theory and practice
 Google Developer Student Clubs are community groups for college and university students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.
-  What does a lead do?
+  [What does a lead do?]
 Start a club
 Work with your university to start a student club. Select a core team and faculty advisor to support.
 event_availability
-  Host workshops
+  [Host workshops]
 Grow student knowledge on developer products and platforms through hands-on workshops and events.
 developer_mode
-  Build projects
+ [Build projects]
 Identify local partners to work with and lead project building activities.<br>
 <br>
 Official Website- <br>
