@@ -166,8 +166,8 @@ To apply for the program:
 i) You must be at least 16 years old, have valid identification and be actively enrolled in an accredited, higher education academic institution.
 
 ii) Some experience in coding or technology will definitely be helpful, but do not worry if you don't have much of technical background. Students of all academic backgrounds who are interested in growing their career and tech skills, are encouraged to apply for this program, as all the tools and resources are provided to help you learn more and engage in the program.
-  What are the benefits of being a Microsoft Learn Student Ambassador?
 
+What are the benefits of being a Microsoft Learn Student Ambassador?
 . Access to Microsoft 365, plus TechSmith Snagit and Camtasia
 screen capture and recording software
 . Visual Studio Enterprise subscription and $150 monthly Azure
