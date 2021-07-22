@@ -17,6 +17,26 @@ https://www.youtube.com/watch?v=nVi-QwX82GI
 
 </details>
 <details>
+<summary>Capgemini Tech Challenge</summary>
+<br>
+About <br>
+Capgemini Tech Challenge is one of the largest hackathons in India. Over 7.5 Lakh people have been a part of this challenge in the last seven years, 35% of them being women. Last year, only the finest lot of the registered participants made it to the finale.
+
+In case you are wondering what’s in store for you:
+
+There are prizes worth INR 20,00,000*
+A chance to land your dream job* at Capgemini
+Exclusive mentoring from the tech wizards of Capgemini
+An opportunity to showcase your tech skills in front of a C-suite jury; the celebrated leaders from the start-up, academia and IT industry.<br>
+<br>
+Official Website- <br>
+https://techchallenge.in.capgemini.com/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=Q-JFUzGSWT8
+
+</details>
+<details>
 <summary>Code Jam by Google</summary>
 <br>
 About <br>
