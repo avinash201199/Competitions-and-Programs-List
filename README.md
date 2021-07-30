@@ -1,4 +1,4 @@
-# List-of-Competitions-and-Programs-for-Students </font>
+# <h1 align="center">List-of-Competitions-and-Programs-for-Students</h1> </font>
 
 
 
