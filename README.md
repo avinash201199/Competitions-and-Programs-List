@@ -51,6 +51,22 @@ https://www.youtube.com/watch?v=ey5XU4MU6VQ
 </details>
 
 <details>
+<summary>Github Campus Expert</summary>
+<br>
+About <br>
+Campus Experts are student leaders that strive to build diverse and inclusive spaces to learn skills, share their experiences, and build projects together. They can be found across the globe leading in-person and online conferences, meetups, and hackathons, and maintaining open source projects. <br>
+  Get training and support from GitHub <br>
+As local leaders, Campus Experts know the challenges students on their campuses face. With the GitHub Campus Experts training, you’ll learn technical and professional skills—like public speaking, technical writing, community leadership, and software development—that will help you build a strong technical community, teach valuable skills, create new opportunities for your student community, and position your institution within a global community of student leaders.
+<br>
+Official Website- <br>
+https://education.github.com/experts<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=9-h_d-56IXk
+
+</details>
+
+<details>
 <summary>GoogleCloudReady Facilitator Program</summary>
 <br>
 About <br>
