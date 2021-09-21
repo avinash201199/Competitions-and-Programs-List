@@ -122,6 +122,20 @@ https://www.youtube.com/watch?v=fyy2Mr84vNM
 </details>
 
 <details>
+<summary>Hacktoberfest by DigitalOcean</summary>
+<br>
+About <br>
+Hacktoberfest is the month-long event held in October, to celebrate open source software. For the past seven years DigitalOcean along with its partners (including DEV) has run the campaign to promote opensource. The first 70,000 participants to complete the challenge will receive a bunch of free SWAG, including a limited edition Hacktoberfest t-shirt as a reward.<br>
+<br>
+Official Website- <br>
+https://hacktoberfest.digitalocean.com/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=mq_FIHdxmIk
+
+</details>
+
+<details>
 <summary>Hash code by Google</summary>
 <br>
 About <br>
