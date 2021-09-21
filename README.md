@@ -1,4 +1,4 @@
-# <h1 align="center">List-of-Competitions-and-Programs-for-Students</h1> </font>
+# <h1 align="center">Competitions-List-and-Programs-for-Students</h1> </font>
 
 
 
