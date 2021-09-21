@@ -51,6 +51,20 @@ https://www.youtube.com/watch?v=ey5XU4MU6VQ
 </details>
 
 <details>
+<summary>DevFest India by Google Developers Group</summary>
+<br>
+About <br>
+DevFest India is the annual developer’s fest organized by Google Developers Group.Are you someone who’s looking to enhance your skills, who believes in lifting others as you climb? Are you someone frustrated with fixing bugs ? Or do you just want peer learning? This year, we have a safe space for everything. While learning about different technologies at DevFest India 2021 and getting job-ready, you can enlighten your mind with flash talks, create your profile for peer learning, make your own badges, and win exciting gifts! <br>
+<br>
+Official Website- <br>
+https://devfestindia.com/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=U8SQZh6rHow
+
+</details>
+
+<details>
 <summary>Github Campus Expert</summary>
 <br>
 About <br>
