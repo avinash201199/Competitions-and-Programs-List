@@ -5,15 +5,10 @@
 * Star this repository
 * Create an issue with description about the competiton and wait for approval.
 * Then fork this repository.
-* In forked repository update the readme file in given alphabet order of the competition.
-* Add description about the program ,official website and youtube link for the explanation. 
-* for example check this folder [Array](https://github.com/avinash201199/DSA-Questions/tree/main/Array)
-* Make your pull request after adding the program 
-* Wait for review.
+* Add description about the program ,official website and youtube link in alphabetical order.
+* Make pull request and wait for review.
 
-After reviewing your code if there will be no changes required then your pull request will be accepted.<br>
-
-
+<hr>
 
 
 <details>
