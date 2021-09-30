@@ -85,6 +85,8 @@ https://gssoc.girlscript.tech/<br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=1KXH58pcslU
 
+</details>
+
 <details>
 <summary>Github Campus Expert</summary>
 <br>
