@@ -73,6 +73,21 @@ https://www.youtube.com/watch?v=U8SQZh6rHow
 </details>
 
 <details>
+<summary>GirlScript Summer of Code</summary>
+<br>
+About <br>
+GirlScript Summer of Code is the 3 month long Open Source program during summers conducted by GirlScript Foundation, started in 2018, with an aim to help beginners get started with Open Source Development while encouraging diversity. Throughout the program, participants contribute to different projects under guidance of experienced mentors. Top participants get exciting goodies and opportunities. <br>
+GirlScript Summer of Code 2020 witnessed overwhelming participation and 2021 edition will carry the legacy forward while promising to be even more impactful and grand.
+<br><br>
+Official Website- <br>
+https://gssoc.girlscript.tech/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=1KXH58pcslU
+
+</details>
+
+<details>
 <summary>Github Campus Expert</summary>
 <br>
 About <br>
