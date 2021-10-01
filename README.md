@@ -72,6 +72,21 @@ https://www.youtube.com/watch?v=U8SQZh6rHow
 </details>
 
 <details>
+<summary>e-Yantra Robotic Competition by IIT Bombay</summary>
+<br>
+About <br>
+The e-Yantra Robotics Competition (eYRC) is the flagship initiative of the e-Yantra project. The competition is open to students from an engineering or polytechnic background and comprises 2 stages spanning over 6-7 months. The competition comprises 2 stages, from which Stage 1 is open to all and is a Robotics MOOC (Massive Online Open Course). During the competition, the participating teams are allotted “themes" with varying levels of complexity that are abstractions of real-world problems. A selected cohort from Stage 1 is admitted into Stage 2. The leading 5-6 teams from Stage 2 are hosted for the National Finals at IIT Bombay in March every year where they demonstrate their projects before a jury.! <br>
+<br>
+Official Website- <br>
+https://portal.e-yantra.org/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=VXgX-qQnTZU
+
+</details>
+
+
+<details>
 <summary>Flipkart GRiD</summary>
 <br>
 ABOUT<br>
