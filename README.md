@@ -331,6 +331,35 @@ https://www.youtube.com/watch?v=_H65WfXPxuA
 </details>
 
 <details>
+<summary>Myntra HackerRamp: WeForShe</summary>
+<br>
+ABOUT-<br>
+Myntra HackerRamp is an initiative by Myntra which extends  an opportunity for all women coders from engineering colleges across the country
+ to create and innovate through technology. <br>
+ <br>
+ ELIGIBILITY-<br>
+ open to female students across engineering colleges in India, who are pursuing:<br>
+•	B.Tech/ B.E. programs (full-time) and currently in 2nd/ 3rd/ 4th year.<br>
+•	M.Tech program (full-time) and currently in 1st or 2nd year.<br>
+•	Dual Degree program (full-time) and currently in 3rd/ 4th/ 5th year.<br>
+Students must register in teams of 2 to 3 members.<br>
+
+PRIZES-<br>
+The top 3 winners receive a handsome prize money.<br>
+Pre-Placement Opportunities are offered to the teams that make it to the pre finale.<br>
+
+This challenge is conducted in 4 phases.<br>
+The first being the ideation phase, second being the implementation phase ,third being the Pre- Finale followed by the Finale.<br>
+
+official link-<br>
+https://dare2compete.com/hackathon/myntra-hackerramp-weforshe-myntra-151942<br>
+
+YouTube link for information-<br>
+https://youtu.be/YTeck476Wzc<br>
+
+</details>
+
+<details>
 <summary>Smart India Hackthon by Govt. India </summary>
 <br>
 About <br>
