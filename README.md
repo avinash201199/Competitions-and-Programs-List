@@ -2,14 +2,13 @@
 
 ### How to contribute 😎<br>
 
-* Star this repository
-* Create an issue with description about the competiton and wait for approval.
-* Then fork this repository.
-* Add description about the program ,official website and youtube link in alphabetical order.
-* Make pull request and wait for review.
+- Star this repository
+- Create an issue with description about the competiton and wait for approval.
+- Then fork this repository.
+- Add description about the program ,official website and youtube link in alphabetical order.
+- Make pull request and wait for review.
 
 <hr>
-
 
 <details>
 <summary>Alexa Prize by Amazon</summary>
@@ -70,6 +69,11 @@ https://devfestindia.com/<br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=U8SQZh6rHow
 
+</details>
+
+<details>
+<summary>Flipkart GRiD</summary>
+<br>
 </details>
 
 <details>
@@ -200,7 +204,6 @@ https://www.youtube.com/watch?v=Mtx8FWqxrMs
 
 </details>
 
-
 <details>
 <summary> International Collegiate Programming Contest </summary>
 <br>
@@ -248,13 +251,13 @@ About <br>
 Master the Mainframe is the world’s largest student mainframe competition. This unique, virtual contest is open globally to high school and college students to progressively teach mainframe skills in a real-world enterprise computing environment. Employers from around the globe use this contest to seek out candidates for mainframe careers.
 
 Master the Mainframe is a fun way to get hands-on experience across a variety of technologies, to develop valuable skills, and to earn digital badges – with no prior knowledge required!
-  
+
 Part 1: Learn the basics of navigation, files and programs.
-  
+
 Part 2: Practice programming languages, operating systems and technologies.
-  
+
 Part 3: Participate in real-world challenges.
-  
+
 The Student Contest and the Learning System are available worldwide.<br>
 <br>
 Official Website- <br>
@@ -297,8 +300,6 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=_H65WfXPxuA
 
 </details>
-
-
 
 <details>
 <summary>Smart India Hackthon by Govt. India </summary>
