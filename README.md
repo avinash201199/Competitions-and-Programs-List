@@ -208,6 +208,21 @@ https://www.youtube.com/watch?v=fyy2Mr84vNM
 </details>
 
 <details>
+<summary>HackerCup by Facebook</summary>
+<br>
+About <br>
+Hacker Cup is Facebook's annual open programming competition. Open to participants around the world, participants are invited to apply problem-solving and algorithmic coding skills to advance through each year’s online rounds, win prizes, and have a chance to make it to the global finals and win the grand prize.<br>
+<br>
+Official Website- <br>
+https://www.facebook.com/codingcompetitions/hacker-cup<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=SA91yNdx_e0
+
+</details>
+
+
+<details>
 <summary>Hacktoberfest by DigitalOcean</summary>
 <br>
 About <br>
