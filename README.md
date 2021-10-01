@@ -106,6 +106,22 @@ https://youtu.be/ZOSH8tXbJao
 </details>
 
 <details>
+<summary>Flipkart Runway</summary>
+
+<br>About<br>
+Flipkart Runway is Flipkart's early career program for women engineers. It aims at laying an early foundation for women in engineering by giving them early exposure to developmental opportunities through challenging & real-time problem statements, mentoring, and networking opportunities.
+Open to all women engineers who are in 2nd year of their engineering course.
+Selected students will get an opportunity to intern with Flipkart .
+
+<br>Official link to apply<br>
+https://dare2compete.com/competition/flipkart-runway-flipkart-157441
+
+<br>YouTube link for more information<br>
+https://dare2compete.com/competition/flipkart-runway-flipkart-157441
+</details>
+
+
+<details>
 <summary>GirlScript Summer of Code</summary>
 <br>
 About <br>
