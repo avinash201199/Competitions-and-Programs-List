@@ -163,6 +163,18 @@ https://dare2compete.com/competition/flipkart-runway-flipkart-157441
 https://dare2compete.com/competition/flipkart-runway-flipkart-157441
 </details>
 
+<details>
+<summary>Flipr Hackathon</summary>
+
+<br>About<br>
+Flipr conducts hackathons in android and web frequently. Flipr hackathon has proven to be a simple and effective way for students to upscale their career. All they have to do is code and prove themselves. 10000+ Students have taken the challenge and have been mentored a step forword towards their goal. Upcoming hackathon from flipr is from 12th to 14th November. Registrations has already started.
+<br>
+  Official link to apply : https://flipr.ai/
+<br>
+  Flipr's Linkedin page : https://www.linkedin.com/company/fliprindia/?originalSubdomain=in
+</details>
+
+
 
 <details>
 <summary>GirlScript Summer of Code</summary>
