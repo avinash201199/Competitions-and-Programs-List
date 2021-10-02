@@ -58,6 +58,21 @@ https://www.youtube.com/watch?v=ey5XU4MU6VQ
 </details>
 
 <details>
+<summary>Code Jam to I/O for Women</summary>
+<br>
+About <br>
+At Google, we’re committed to building for everyone, and we know that a diversity of voices leads to better outcomes. We’re committed to increasing representation and building community in the online coding contest space and at Google I/O, our largest developer conference. Code Jam to I/O for Women is one way we bring women (students and professionals) from around the globe together, working to solve tough algorithmic challenges in a 2.5 hour, single-round coding competition. The top 150 on the scoreboard will receive a ticket and a stipend to participate in virtual Google I/O. <br>
+<br>
+Official Website- <br>
+https://codingcompetitions.withgoogle.com/codejamio<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=Q_2TwBhqHPg
+
+</details>
+
+
+<details>
 <summary>DevFest India by Google Developers Group</summary>
 <br>
 About <br>
