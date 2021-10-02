@@ -11,6 +11,19 @@
 <hr>
 
 <details>
+<summary>Adobe Analytics Challenge</summary>
+<br>
+About <br>
+The Adobe Analytics Challenge is a unique analytics-focused business case competition where university students are given the opportunity to use Adobe’s industry-leading analytics products and access to real-world data from leading organizations such as Nike, Major League Baseball, T‑Mobile, Starwood, Lenovo, Condé Nast, Comcast, Overstock.com, Backcountry.com, Sony PlayStation, and MGM Resort International. <br>
+<br>
+Official Website- <br>
+https://www.adobeanalyticschallenge.com/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=1fNx08ONKkM
+</details>
+
+<details>
 <summary>Alexa Prize by Amazon</summary>
 <br>
 About <br>
