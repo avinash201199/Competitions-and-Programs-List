@@ -416,6 +416,21 @@ https://www.youtube.com/watch?v=_H65WfXPxuA
 
 </details>
 
+
+<details>
+<summary>Mitacs Globalink Research Internship</summary>
+<br>
+About <br>
+Mitacs Globalink Research Internship is a competitive initiative for international undergraduates from the following countries and regions: Australia, Brazil, China, Colombia, France, Germany, Hong Kong, India, Mexico, Pakistan, Taiwan, Tunisia, Ukraine, United Kingdom and the United States. From May to October of each year, top-ranked applicants participate in a 12-week research internship under the supervision of Canadian university faculty members in a variety of academic disciplines, from science, engineering, and mathematics to the humanities and social sciences. <br>
+<br>
+Official Website- <br>
+https://www.mitacs.ca/en/programs/globalink/globalink-research-internship<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=_Ffrgy28H7c
+</details>
+
+
 <details>
 <summary>Myntra HackerRamp: WeForShe</summary>
 <br>
