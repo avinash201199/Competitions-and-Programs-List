@@ -486,13 +486,6 @@ Script Winter of Code is an open-source program envisioned by the Script Foundat
 
 </details>
 
-🎃 🎯 HacktoberFest 2021 🎃🎯
-
-<b>What is Hacktoberfest?</b>
-<p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.</p>
-
-https://hacktoberfest.digitalocean.com/
-
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
 <br>(Must Check My Github for more cool stuff !)<br>
