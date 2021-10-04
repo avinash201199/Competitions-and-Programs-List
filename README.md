@@ -8,6 +8,11 @@
 - Add description about the program ,official website and youtube link in alphabetical order.
 - Make pull request and wait for review.
 
+
+
+
+
+                                                     
 <hr>
 
 <details>
@@ -553,6 +558,17 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=nRjwazPk8S4
 
 </details>
+
+<details>
+<summary>Knockathons For Devs and Hackers</summary>
+<br> This Event is Conducted By Google Developer Students Club<br>
+ The last date to register for the event is 07th October 2021.⏰<br>
+ <h4> The registrations for The Event is : https://devjams.dscvit.com/<h4>
+ <br> Official Website: https://devjams.dscvit.com/<br>
+  <br><b>Get your tickets at:<a href="https://portal.devjams.dscvit.com/login/oauth">[click_here]</a></b><br>
+  <br>Thank You <br>
+  </details>
+
 <details>
 <summary>SCRIPT WINTER OF CODE </summary>
 <br>
@@ -563,7 +579,12 @@ Script Winter of Code is an open-source program envisioned by the Script Foundat
 </details>
 
 
+
+
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
 <br>(Must Check My Github for more cool stuff !)<br>
 ### Thank you for your valuable contribution!
+
+
+
