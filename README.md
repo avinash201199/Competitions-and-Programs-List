@@ -476,6 +476,21 @@ https://youtu.be/YTeck476Wzc<br>
 
 </details>
 
+
+<details>
+<summary>
+Nanyang Technological University (NTU) – India Connect</summary>
+<br>
+ABOUT-<br>
+The India Connect @ntu office (IC@N) is proud to take a leading role in fostering partnerships with Indian institutes of higher learning and industrial organizations. The flagship programme of IC@N is the Visiting Research Student Programme for 2 to 6 months for undergraduate and Master’s level graduate students from India – so far more than 400 students have benefited from the programme. This research programme was introduced in 2016 to enable students of Indian universities to pursue their research interests at NTU by working under the supervision of NTU faculty, developing a strong research expertise in specific research areas, experiencing a multicultural life, developing a strong network of friends and a better understanding of Singapore.
+official link-<br>
+https://www.ntu.edu.sg/education/student-exchanges/india-connect@ntu<br>
+
+YouTube link for information-<br>
+https://www.youtube.com/watch?v=P-l0DaAiMw8<br>
+
+</details>
+
 <details>
 <summary>Smart India Hackthon by Govt. India </summary>
 <br>
