@@ -86,6 +86,22 @@ https://www.youtube.com/watch?v=Q_2TwBhqHPg
 
 
 <details>
+<summary>Codechef SnackDown</summary>
+<br>
+About <br>
+SnackDown is a global programming event that invites programmers from all over the world to take part in India’s most prestigious multi-round programming competition. Hosted by CodeChef, SnackDown is open to anyone with a knack for programming and began in the year 2010.
+SnackDown aims to pit the finest programming brains from different parts of the globe against each other. Everyone from middle/high school to college to working professionals from the industry can attempt to take home the coveted crown of SnackDown champion. <br>
+<br>
+Official Website- <br>
+https://snackdown.codechef.com/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=6GIw04ieGv4
+
+</details>
+
+
+<details>
 <summary>DevFest India by Google Developers Group</summary>
 <br>
 About <br>
