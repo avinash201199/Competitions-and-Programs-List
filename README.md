@@ -56,6 +56,8 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=Q-JFUzGSWT8
 
 </details>
+
+
 <details>
 <summary>Code Jam by Google</summary>
 <br>
@@ -98,6 +100,17 @@ https://snackdown.codechef.com/<br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=6GIw04ieGv4
 
+</details>
+
+<details>
+<summary>Coderita 2.0 by GeeksforGeeks</summary>
+<br>
+About<br>
+Coderita 2.0 is a 1- Day online coding contest that is designed only for the female coders (Yes! only for Women) to appreciate their programming skills.<br>
+Every year this contest helds on Women's Day.<br>
+<br>
+For more details : <br>
+https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-geeksforgeeks/<br>
 </details>
 
 <details>
