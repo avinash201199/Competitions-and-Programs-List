@@ -531,6 +531,24 @@ Script Winter of Code is an open-source program envisioned by the Script Foundat
 
 </details>
 
+<details>
+<summary>D.E. Shaw Mentorship Program </summary>
+<br>
+ About <br>
+ DESIS ASCEND EDUCARE is a program for women in tech that focuses on helping participants enhance their skills from D.E. Shaw Private Limited. Those who take part can receive mentorship in various technical and non-technical areas from subject matter experts, and get first-hand industry exposure, networking opportunities, and much more.<br>
+  <br>Eligibility Criteria:
+  <br>
+<br>- The program is open to women who are:
+<br>• In their 3rd year of a full-time 4-year engineering course in Computer Science or related branches (IT, software engineering, etc.).
+<br>• In their 2nd year of a full-time 4-year engineering course in Computer Science or related branches (IT, software engineering, etc.).<br>
+  <br>
+
+  Explanation on Youtube -<br>
+
+  https://www.youtube.com/watch?v=96AtHaKpilQ&t=533s
+  <br>
+  </details>
+
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
 <br>(Must Check My Github for more cool stuff !)<br>
