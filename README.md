@@ -400,6 +400,20 @@ https://www.youtube.com/watch?v=lKLkqsKTo3Y
 </details>
 
 <details>
+<summary>Microsoft Engage Program</summary>
+<br>
+About <br>
+Microsoft Engage is a student engagement and mentorship program by Microsoft that offers 1:1 mentorship to shortlisted students while working on a project, learning sessions specially curated for Engage students and a sneak peek into Microsoft’s culture and values. Students who have completed their second year(B.Tech/B.E.) or third year(Dual Degree) having 7 above CGPA with no pending backlogs and strong CS Fundamentals and coding principles were eligible to apply. There was no restriction on branch.<br>
+<br>
+Official Website- <br>
+https://microsoft.acehacker.com/engage2021/index.html<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=OX6qRLs0Z9o
+
+</details>
+
+<details>
 <summary>Microsoft Learn Student Ambassadors </summary>
 <br>
 About <br>
