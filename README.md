@@ -293,6 +293,27 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=earTjC0iSjg
 
 </details>
+
+<details>
+<summary>Google Step Intern</summary>
+<br>
+About <br>
+STEP (Student Training in Engineering Program), formerly known as Engineering Practicum, is a 12-week internship for first and second-year undergraduate students with a passion for computer science.
+The internship program has a focus of providing development opportunities to students from groups historically underrepresented in tech, through technical training and professional development. Our unique internship offers the opportunity to work on a software project alongside other STEP interns and full-time Googlers, and provides the chance to bridge the gap between academic understanding and practical professional experience.
+
+There are two program date options (must be available for the entirety of the program):
+May 25 - August 12, 2022
+June 13 - September 2, 2022 
+For Indian Nationals Applications are out in November.<br>
+<br>
+Official Website- <br>
+https://buildyourfuture.withgoogle.com/programs/step/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=psDqdNNZMfA
+
+</details>
+
 <details>
 <summary>Google Summer of Code by Google</summary>
 <br>
@@ -560,6 +581,43 @@ About <br>
 Script Winter of Code is an open-source program envisioned by the Script Foundation. It aims to bring students into the world of open source development and see the power of unified problem-solving in real time. The students will be guided by experienced mentors throughout their journey. They will learn the skills essential in the world of programming, all the while developing a deep appreciation for the world of open-source. Registrations has started and will close on 10th November
 <br> Official Website- https://swoc.scriptindia.org/#/<br>
 
+</details>
+
+<details>
+<summary>Visa Code UR Way</summary>
+<br>
+About <br>
+ 
+Everyone at Visa works with one goal in mind – making sure that Visa is the best way to pay and be paid, for everyone everywhere. This is our global vision and the common purpose that unites the entire Visa team.
+
+Join Visa Code UR Way to solve algorithm coding challenges, win exciting prizes and stand a chance to win an all-expenses-paid trip to meet to Visa team in Bangalore! Visa is recruiting students for internship and new graduate engineering opportunities. 
+
+ Job role: Software Engineers - Full-Time and Summer Internships | Job Location: Bangalore
+
+Intern Opportunities
+
+Visa’s internship program is a great way to learn and explore the world of digital payments. During this 10-12-week program, you will be immersed in a team, working on important projects. We benefit from the experience you bring, and you get to work on strategic initiatives, meet brilliant peers, and gain executive exposure. At Visa, we'll help you make your mark as you kick-start your career.
+
+New College Graduate Opportunities
+
+Visa provides a wide range of full-time opportunities for new college graduates across the organization. If you have ambition, focus, and drive, and are interested in joining a global team focused on changing the way the world pays and is paid, we want to talk to you.
+
+Eligibility:
+
+Pre-final & Final year women students only 
+Graduating year - 2020 & 2021 
+Only from the selected list of engineering colleges in India (check your college)
+Study discipline – B.E/B.Tech, M.Tech/Dual Degree 
+Study branch – All branches allowed 
+Challenge format:
+
+5 Programming questions (Based upon the concepts of Data Structures & Algorithms)<br>
+<br>
+Official Website- <br>
+https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=AA7we1OR0Y4
 </details>
 
 
