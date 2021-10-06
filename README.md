@@ -451,7 +451,21 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=9wad39LmzPY
 
 </details>
+<details>
+<summary>Learn to Earn Cloud Challenge</summary>
+<br>
+About <br>
+Google Cloud skills are in demand. 86% of IT leaders report that the shortage of cloud computing skills will slow down their cloud projects. 
 
+Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills.  <br>
+<br>
+Official Website- <br>
+https://go.qwiklabs.com/learn-to-earn<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=VZUx4GuCJiM
+
+</details>
  <details>
 <summary>Master the Mainframe by IBM</summary>
 <br>
