@@ -72,7 +72,6 @@ https://www.youtube.com/watch?v=Q-JFUzGSWT8
 
 </details>
 
-
 <details>
 <summary>Code Jam by Google</summary>
 <br>
@@ -100,7 +99,6 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=Q_2TwBhqHPg
 
 </details>
-
 
 <details>
 <summary>Codechef SnackDown</summary>
@@ -140,12 +138,12 @@ https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-ge
 <br>• In their 2nd year of a full-time 4-year engineering course in Computer Science or related branches (IT, software engineering, etc.).<br>
   <br>
 
-  Explanation on Youtube -<br>
+Explanation on Youtube -<br>
 
-  https://www.youtube.com/watch?v=96AtHaKpilQ&t=533s
-  <br>
+https://www.youtube.com/watch?v=96AtHaKpilQ&t=533s
+<br>
+
   </details>
-
 
 <details>
 <summary>DevFest India by Google Developers Group</summary>
@@ -174,7 +172,6 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=VXgX-qQnTZU
 
 </details>
-
 
 <details>
 <summary>Flipkart GRiD</summary>
@@ -223,6 +220,7 @@ https://dare2compete.com/competition/flipkart-runway-flipkart-157441
 
 <br>YouTube link for more information<br>
 https://dare2compete.com/competition/flipkart-runway-flipkart-157441
+
 </details>
 
 <details>
@@ -231,12 +229,11 @@ https://dare2compete.com/competition/flipkart-runway-flipkart-157441
 <br>About<br>
 Flipr conducts hackathons in android and web frequently. Flipr hackathon has proven to be a simple and effective way for students to upscale their career. All they have to do is code and prove themselves. 10000+ Students have taken the challenge and have been mentored a step forword towards their goal. Upcoming hackathon from flipr is from 12th to 14th November. Registrations has already started.
 <br>
-  Official link to apply : https://flipr.ai/
+Official link to apply : https://flipr.ai/
 <br>
-  Flipr's Linkedin page : https://www.linkedin.com/company/fliprindia/?originalSubdomain=in
+Flipr's Linkedin page : https://www.linkedin.com/company/fliprindia/?originalSubdomain=in
+
 </details>
-
-
 
 <details>
 <summary>GirlScript Summer of Code</summary>
@@ -318,7 +315,7 @@ The internship program has a focus of providing development opportunities to stu
 
 There are two program date options (must be available for the entirety of the program):
 May 25 - August 12, 2022
-June 13 - September 2, 2022 
+June 13 - September 2, 2022
 For Indian Nationals Applications are out in November.<br>
 <br>
 Official Website- <br>
@@ -358,7 +355,6 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=SA91yNdx_e0
 
 </details>
-
 
 <details>
 <summary>Hacktoberfest by DigitalOcean</summary>
@@ -401,7 +397,6 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=KCCttp-_Qn8
 
 </details>
-
 
 <details>
 <summary>Imagine Cup by Microsoft</summary>
@@ -538,7 +533,6 @@ https://www.youtube.com/watch?v=_H65WfXPxuA
 
 </details>
 
-
 <details>
 <summary>Mitacs Globalink Research Internship</summary>
 <br>
@@ -551,7 +545,6 @@ https://www.mitacs.ca/en/programs/globalink/globalink-research-internship<br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=_Ffrgy28H7c
 </details>
-
 
 <details>
 <summary>Myntra HackerRamp: WeForShe</summary>
@@ -581,7 +574,6 @@ YouTube link for information-<br>
 https://youtu.be/YTeck476Wzc<br>
 
 </details>
-
 
 <details>
 <summary>
@@ -625,15 +617,39 @@ https://swoc.scriptindia.org/#/<br>
 </details>
 
 <details>
+<summary>Uber HackTag</summary>
+<br>
+ABOUT- <br>
+Uber HackTag is organized by Uber Technologies. In this competition both students and professionals can participate.<br>
+The competition consists of  a total of three rounds, the first round is Online coding round, the second round is Prototyping and the final  round is building a demoable outcome on their prototype.<br>
+Uber HackTag is open to all working professionals and engineering students pursuing a full-time B.Tech./ B.E./ M.Tech./ M.E. (all years) degrees across branches.<br>
+
+• Participants must register for this competition on the Dare2Compete platform in teams with an upper limit of 3 people per team.<br>
+• Cross-college and cross-organization teams are allowed.<br>
+• Cross track teams are not allowed i.e. working professionals and students can't make a team together.<br>
+PRIZES-<br>
+• Cash prizes of INR 2,00,000 (winning team), INR 1,00,000 (team in second place), and INR 50,000 (team in third place) for working professionals<br>
+• Cash prizes of INR 1,20,000 (winning team), INR 60,000 (team in second place), and INR 30,000 (team in third place) for students<br>
+• An opportunity to be a part of a prestigious cohort who receive industry-relevant mentorship from experts at Uber.<br>
+<br>
+OFFICIAL LINK- <br>
+https://dare2compete.com/competition/uber-hacktag-uber-technologies-inc-148162 <br>
+<br>
+YouTube Link for information-<br>
+https://www.youtube.com/watch?v=sBo7rCu1XYY <br>
+
+</details>
+
+<details>
 <summary>Visa Code UR Way</summary>
 <br>
 About <br>
  
 Everyone at Visa works with one goal in mind – making sure that Visa is the best way to pay and be paid, for everyone everywhere. This is our global vision and the common purpose that unites the entire Visa team.
 
-Join Visa Code UR Way to solve algorithm coding challenges, win exciting prizes and stand a chance to win an all-expenses-paid trip to meet to Visa team in Bangalore! Visa is recruiting students for internship and new graduate engineering opportunities. 
+Join Visa Code UR Way to solve algorithm coding challenges, win exciting prizes and stand a chance to win an all-expenses-paid trip to meet to Visa team in Bangalore! Visa is recruiting students for internship and new graduate engineering opportunities.
 
- Job role: Software Engineers - Full-Time and Summer Internships | Job Location: Bangalore
+Job role: Software Engineers - Full-Time and Summer Internships | Job Location: Bangalore
 
 Intern Opportunities
 
@@ -645,11 +661,11 @@ Visa provides a wide range of full-time opportunities for new college graduates 
 
 Eligibility:
 
-Pre-final & Final year women students only 
-Graduating year - 2020 & 2021 
+Pre-final & Final year women students only
+Graduating year - 2020 & 2021
 Only from the selected list of engineering colleges in India (check your college)
-Study discipline – B.E/B.Tech, M.Tech/Dual Degree 
-Study branch – All branches allowed 
+Study discipline – B.E/B.Tech, M.Tech/Dual Degree
+Study branch – All branches allowed
 Challenge format:
 
 5 Programming questions (Based upon the concepts of Data Structures & Algorithms)<br>
@@ -659,10 +675,11 @@ https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/<br
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=AA7we1OR0Y4
-</details>
 
+</details>
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
 <br>(Must Check My Github for more cool stuff !)<br>
+
 ### Thank you for your valuable contribution!
