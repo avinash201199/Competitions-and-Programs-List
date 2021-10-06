@@ -24,6 +24,23 @@ https://www.youtube.com/watch?v=1fNx08ONKkM
 </details>
 
 <details>
+<summary>Advent of Code</summary>
+<br>
+About <br>
+Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other. <br>
+<br>
+You don't need a computer science background to participate - just a little programming knowledge and some problem solving skills will get you pretty far. Nor do you need a fancy computer; every problem has a solution that completes in at most 15 seconds on ten-year-old hardware.<br>
+<br>
+Advent of Code is a registered trademark in the United States.<br>
+<br>
+Official Website- <br>
+https://adventofcode.com/
+<br><br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=QAwQ8eKBpYw
+</details>
+
+<details>
 <summary>Alexa Prize by Amazon</summary>
 <br>
 About <br>
