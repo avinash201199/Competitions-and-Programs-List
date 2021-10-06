@@ -480,6 +480,16 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=lKLkqsKTo3Y
 
 </details>
+<details>
+<summary>Microsoft Codess</summary>
+<br>
+About<br>
+Codess is a community for female coders initiated by Microsoft. Codess was established to explore ways to promote gender diversity in the engineering field.Codess aims to inspire female coders and help them achieve their professional goals. Through networking events, mentoring and sharing advice and experiences.
+<br>
+Offical Website-<br>
+https://careers.microsoft.com/us/en/codess<br>
+<br>
+</details>
 
 <details>
 <summary>Microsoft Engage Program</summary>
