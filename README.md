@@ -36,6 +36,21 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=nVi-QwX82GI
 
 </details>
+
+<details>
+<summary>Amazon WOW</summary>
+<br>About<br>
+
+Amazon WoW is a networking platform for all women engineering students in India that connects them to Amazon leaders, recruiters, and the broader Amazon community. The platform provides an opportunity to participate in skill building sessions, utilize available resources, converse with alumni on their career experiences, and be acquainted with the culture at Amazon. The objective is to help women students build long-term career in technology.
+Amazon WoW is open to all women students across engineering campuses in India. Any women student who is currently pursuing a four-year B.Tech/BE or two-year MCA, M.Tech/ME program or five year Dual Degree can participate.
+
+<br>Official Website- <br>
+https://amazonwowindia.splashthat.com/
+<br>Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=dRAVWI8UZlo
+
+</details>
+
 <details>
 <summary>Capgemini Tech Challenge</summary>
 <br>
