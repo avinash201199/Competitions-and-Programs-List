@@ -573,7 +573,7 @@ https://www.youtube.com/watch?v=P-l0DaAiMw8<br>
 </details>
 
 <details>
-<summary>Smart India Hackthon by Govt. India </summary>
+<summary>Smart India Hackthon by Govt. of India </summary>
 <br>
 About <br>
 Smart India Hackathon is a nationwide initiative to provide students a platform to solve some of pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem solving.
@@ -590,11 +590,12 @@ https://www.youtube.com/watch?v=nRjwazPk8S4
 
 </details>
 <details>
-<summary>SCRIPT WINTER OF CODE </summary>
+<summary>Script Winter of Code </summary>
 <br>
 About <br>
 Script Winter of Code is an open-source program envisioned by the Script Foundation. It aims to bring students into the world of open source development and see the power of unified problem-solving in real time. The students will be guided by experienced mentors throughout their journey. They will learn the skills essential in the world of programming, all the while developing a deep appreciation for the world of open-source. Registrations has started and will close on 10th November
-<br> Official Website- https://swoc.scriptindia.org/#/<br>
+<br> Official Website- <br>
+https://swoc.scriptindia.org/#/<br>
 
 </details>
 
