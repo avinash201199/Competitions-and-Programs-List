@@ -374,6 +374,21 @@ https://www.youtube.com/watch?v=j5Q7gVtTy3M
 </details>
 
 <details>
+<summary>HP CodeWars</summary>
+<br>
+About <br>
+Born in the US more than 20 years ago, this initiative was brought to Europe and Barcelona in 2015 and since then, it has been a major success counting on more than 300 students in every edition, adding new schools and talent year after year. This unique experience help students from high school to get inspired by all the things coding and programming allows them to do. With this initiative, HP aims to raise interest in STEM careers among youth, especially among girls! The target is to promote an educational, collaborative, and fun contest. Happening every first Saturday of March, this is an exciting and challenging day for the students to know our company from the within.<br>
+<br>
+Official Website- <br>
+https://hpcodewarsbcn.com/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=KCCttp-_Qn8
+
+</details>
+
+
+<details>
 <summary>Imagine Cup by Microsoft</summary>
 <br>
 About <br>
