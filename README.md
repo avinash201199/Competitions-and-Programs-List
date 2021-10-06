@@ -373,33 +373,17 @@ https://www.youtube.com/watch?v=j5Q7gVtTy3M
 
 </details>
 
-
-
-<details>
-<summary>HP CodeWars</summary>
-<br>
-About <br>
-Hash Code is a team programming competition, organized by Google, for students and professionals around the world. You pick your team and programming language and we pick an engineering problem for you to solve. This year’s contest kicks off with an Online Qualifications, where your team can compete virtually from wherever you’d like, alongside your virtual Hub. Top teams will then be invited to compete from our virtual World Finals.<br>
-<br>
-Official Website- <br>
-https://codingcompetitions.withgoogle.com/hashcode<br>
-<br>
-Explanation on Youtube- <br>
-https://www.youtube.com/watch?v=j5Q7gVtTy3M
-
-</details>
-
 <details>
 <summary>Imagine Cup by Microsoft</summary>
 <br>
 About <br>
-Born in the US more than 20 years ago, this initiative was brought to Europe and Barcelona in 2015 and since then, it has been a major success counting on more than 300 students in every edition, adding new schools and talent year after year. This unique experience help students from high school to get inspired by all the things coding and programming allows them to do. With this initiative, HP aims to raise interest in STEM careers among youth, especially among girls! The target is to promote an educational, collaborative, and fun contest. Happening every first Saturday of March, this is an exciting and challenging day for the students to know our company from the within. <br>
+Imagine Cup is an annual competition sponsored and hosted by Microsoft Corp. which brings together student developers worldwide to help resolve some of the world's toughest challenges.[1] It is considered as "Olympics of Technology" by computer science and engineering and is considered one of the top competitions and awards related to technology and software design. All Imagine Cup competitors create projects that address the Imagine Cup theme: "Imagine a world where technology helps solve the toughest problems". Started in 2003, it has steadily grown, with more than 358,000 competitors representing 183 countries and regions in 2011. <br>
 <br>
 Official Website- <br>
-https://hpcodewarsbcn.com/<br>
+https://imaginecup.microsoft.com/en-us/Events<br>
 <br>
 Explanation on Youtube- <br>
-https://www.youtube.com/watch?v=KCCttp-_Qn8
+https://www.youtube.com/watch?v=Mtx8FWqxrMs
 
 </details>
 
