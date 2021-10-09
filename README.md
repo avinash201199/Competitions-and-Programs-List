@@ -597,26 +597,6 @@ https://www.youtube.com/watch?v=_Ffrgy28H7c
 </details>
 
 <details>
-<summary>MLH Fellowship</summary>
-<br>
-About <br>
-Major League Hacking Fellowship is a 12-week remote program, where students can participate from their homes. This program has options for full-time and part-time participation. Meanwhile, the full-time program requires students to commit 30-40 hours per week for the full term and the part-time program requires students to commit 10-20 hours per week for the full term. In this program, students will collaborate on Open Source projects that align their personal interests with the general needs of the industry.<br>
-<br>
-The programs offered by MLH are:<br>
-1) Explorer<br>
-2) Open Source<br>
-3) Externship<br>
-<br>
-This program also offers need-based stipends up to $5,000 USD to accepted students who require the stipend in order to participate in the fellowship.<br>
-<br>
-Official Website- <br>
-https://fellowship.mlh.io/<br>
-<br>
-You can also visit: <br>
-https://www.geeksforgeeks.org/mlh-fellowship-programs-offered-application-process-benefits/ <br>
-</details>
-
-<details>
 <summary>Myntra HackerRamp: WeForShe</summary>
 <br>
 ABOUT-<br>
