@@ -24,6 +24,25 @@ https://www.youtube.com/watch?v=1fNx08ONKkM
 </details>
 
 <details>
+<summary>Adobe India Women-in-Technology Scholarship</summary>
+<br>
+About<br>
+Adobe India Women-in-Technology Scholarship is for Indian females enrolled in a formal technology program in computer science, computer engineering, or a closely related technical field. The scholarship offered by Adobe Research aims to recognize outstanding female students in the field of technology. The scholarship focuses on creating gender equality in the science and engineering domain by encouraging women to excel in computing and technology. <br>
+<br>
+Benefits:<br>
+1) Girl students selected for the scholarship will receive funding toward tuition fees for the remainder of their university education.<br>
+2) Summer Internship at Adobe.<br>
+3) Mentoring by a senior technology leader from Adobe.<br>
+4) Opportunity to travel to Grace Hopper Conference India, including the coverage of the participation fees.<br>
+<br>
+Official Website: <br>
+https://research.adobe.com/adobe-india-women-in-technology-scholarship/ <br>
+<br>
+Explanation on YouTube: <br>
+https://www.youtube.com/watch?v=eF6ek2j5gfE <br>
+</details>
+
+<details>
 <summary>Advent of Code</summary>
 <br>
 About <br>
