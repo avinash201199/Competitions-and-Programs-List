@@ -597,7 +597,6 @@ https://www.youtube.com/watch?v=_Ffrgy28H7c
 </details>
  
 <details>
-<<<<<<< HEAD
 <summary>MLH Fellowship</summary>
 <br>
 About <br>
@@ -618,8 +617,6 @@ https://www.geeksforgeeks.org/mlh-fellowship-programs-offered-application-proces
 </details>
 
 <details>
-=======
->>>>>>> 1a46f8542f6d744b2bff848548d496c3adf58ad1
 <summary>Myntra HackerRamp: WeForShe</summary>
 <br>
 ABOUT-<br>
