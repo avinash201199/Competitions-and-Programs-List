@@ -268,6 +268,22 @@ https://www.youtube.com/watch?v=1KXH58pcslU
 </details>
 
 <details>
+<summary>GirlScript Winter of Contributing</summary>
+<br>
+About <br>
+GirlScript Winter of Contributing is a three-month newly established initiative by GirlScript Foundation to be conducted during winters. GWOC encourages individuals to share their knowledge and ideas to develop technical skills and gain valuable experience in the field of tech education. Over the course of the program, participants can contribute to a variety of themes under the guidance of an expert facilitator. and grand.
+<br><br>
+Official Website- <br>
+https://gwoc.girlscript.tech/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=LwglfLv5otA
+
+</details>
+
+
+
+<details>
 <summary>Github Campus Expert</summary>
 <br>
 About <br>
