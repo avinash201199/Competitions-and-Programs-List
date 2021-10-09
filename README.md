@@ -595,7 +595,7 @@ https://www.mitacs.ca/en/programs/globalink/globalink-research-internship<br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=_Ffrgy28H7c
 </details>
-
+ 
 <details>
 <summary>MLH Fellowship</summary>
 <br>
@@ -609,7 +609,7 @@ The programs offered by MLH are:<br>
 <br>
 This program also offers need-based stipends up to $5,000 USD to accepted students who require the stipend in order to participate in the fellowship.<br>
 <br>
-Official Website- <br>
+Official Website: <br>
 https://fellowship.mlh.io/<br>
 <br>
 You can also visit: <br>
