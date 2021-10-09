@@ -655,6 +655,30 @@ https://www.youtube.com/watch?v=P-l0DaAiMw8<br>
 
 </details>
 
+
+<details>
+<summary>
+Outreachy Program</summary>
+<br>
+ABOUT-<br>
+Outreachy is a diversity initiative that provides paid, remote internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.
+
+Outreachy provides internships to work on open source. Our internships are:
+
+💵 Paid - $6,000 USD total internship stipend
+
+🌍 Remote - both interns and mentors work remotely
+
+🕰 3 months - internships run May to August, or December to March
+official link-<br>
+https://www.outreachy.org/<br>
+
+YouTube link for information-<br>
+https://www.youtube.com/watch?v=2C6lJorOYfA&t=1s<br>
+
+</details>
+
+
 <details>
 <summary>Smart India Hackthon by Govt. of India </summary>
 <br>
