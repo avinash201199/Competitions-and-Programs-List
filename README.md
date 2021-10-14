@@ -42,6 +42,8 @@ Explanation on YouTube: <br>
 https://www.youtube.com/watch?v=eF6ek2j5gfE <br>
 </details>
 
+
+
 <details>
 <summary>Advent of Code</summary>
 <br>
@@ -194,6 +196,21 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=U8SQZh6rHow
 
 </details>
+
+
+<details>
+<summary>Discovery Fellowship</summary>
+<br>
+About<br>
+Since 2016, the D. E. Shaw group has hosted fellowship programs for students interested in learning from diverse, talented leaders who are at the top of their fields.  <br>
+<br>
+Eligibilty:
+Open to women in their sophomore year of a full-time undergraduate program at a U.S. college or university.
+<br>
+Official Website: <br>
+https://fellowships.deshaw.com/ <br>
+</details>
+
 
 <details>
 <summary>e-Yantra Robotic Competition by IIT Bombay</summary>
@@ -768,6 +785,10 @@ YouTube Link for information-<br>
 https://www.youtube.com/watch?v=sBo7rCu1XYY <br>
 
 </details>
+
+
+
+
 
 <details>
 <summary>Visa Code UR Way</summary>
