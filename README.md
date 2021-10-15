@@ -511,7 +511,31 @@ https://icpc.global/<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=wyA0cYHmF30
+</details>
 
+<details>
+<summary> International Conference on Functional Programming </summary>
+<br>
+About <br>
+1)ICFP Programming Contest has been held annually near June or July since 1998, with results declared at the International Conference on Functional Programming.
+ 
+2)ICFP is a fun and challenging three-days open programming competition. There is no entry fee or pre-registration.
+ 
+3)Participants can participate from any location. They may form teams, and there is no size limit for team formation. 
+ 
+4)Participants have 72 hours to complete and submit their entry over the Internet. 
+ 
+5)There is often also a 24-hour challenge called “lightning division.”
+ 
+6)One of the competition goals is to showcase the programming languages and tools that the contestants admire. The winners boast the right to claim that their language is “the programming tool of choice for discriminatory hackers. 
+ 
+7)Previously, first prize winners have used Haskell, OCaml, C++, Cilk, Java, F#, and Rust..<br>
+<br>
+Official Website- <br>
+https://www.icfpconference.org/<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/WfRqE4NBecM
 </details>
 
 <details>
