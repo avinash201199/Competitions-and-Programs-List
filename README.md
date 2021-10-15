@@ -529,7 +529,7 @@ About <br>
  
 6)One of the competition goals is to showcase the programming languages and tools that the contestants admire. The winners boast the right to claim that their language is “the programming tool of choice for discriminatory hackers. 
  
-7)Previously, first prize winners have used Haskell, OCaml, C++, Cilk, Java, F#, and Rust..<br>
+7)Previously, first prize winners have used Haskell, OCaml, C++, Cilk, Java, F#, and Rust.<br>
 <br>
 Official Website- <br>
 https://www.icfpconference.org/<br>
