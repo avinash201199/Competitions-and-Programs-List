@@ -513,6 +513,21 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=wyA0cYHmF30
 
 </details>
+
+<details>
+<summary> Internet Problem Solving Contest </summary>
+<br>
+About <br>
+The Internet Problem Solving Contest (IPSC) is an online contest for teams consisting of up to three people. Several problems are published at the beginning of the competition. Some of them are unusual kinds of problems which will test your out of the box thinking.To solve a problem you will have to compute correct output data for the given input data sets. Usually this means that you will write a program that solves the problem, but you may produce the output by hand or in any other way.<br>
+<br>
+Official Website- <br>
+https://ipsc.ksp.sk/<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/L90Kw4CVEA8
+ 
+</details>
+
 <details>
 <summary>Kaggle by Google</summary>
 <br>
