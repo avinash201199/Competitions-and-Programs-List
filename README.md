@@ -459,15 +459,18 @@ https://www.youtube.com/watch?v=mq_FIHdxmIk
 </details>
 
 <details>
- About
-HackWithInfy is a coding competition for final-year engineering students across India. This program is specially designed to inculcate a culture of rapid problem-solving and innovative thinking early in academic life. HackWithInfy provides the perfect stepping-stone for students to explore their interest in programming and an opportunity to compete and win exciting prizes.
+ <summary>HackwithInfy by Infosys</summary>
+ <br>
+ About <br>
+HackWithInfy is a coding competition for final-year engineering students across India. This program is specially designed to inculcate a culture of rapid problem-solving and innovative thinking early in academic life. HackWithInfy provides the perfect stepping-stone for students to explore their interest in programming and an opportunity to compete and win exciting prizes. <br>
 The top performers also get a chance to work with Infosys. The top three winning teams of HackWithInfy 2021 won a cash prize of INR 200,000, INR 100,000, and INR 50,000 respectively.
+<br>
+Official Website <br>
+https://www.infosys.com/careers/hackwithinfy.html <br>
 
-Official Website
-https://www.infosys.com/careers/hackwithinfy.html
-
-Explanation on Youtube
+Explanation on Youtube <br>
 https://www.youtube.com/watch?v=8qdmvPCrbYU
+ 
  </details>
 
 <details>
@@ -487,7 +490,8 @@ https://www.youtube.com/watch?v=j5Q7gVtTy3M
 <details>
 <summary>HP CodeWars</summary>
 <br>
-About <br>
+About 
+ <br>
 Born in the US more than 20 years ago, this initiative was brought to Europe and Barcelona in 2015 and since then, it has been a major success counting on more than 300 students in every edition, adding new schools and talent year after year. This unique experience help students from high school to get inspired by all the things coding and programming allows them to do. With this initiative, HP aims to raise interest in STEM careers among youth, especially among girls! The target is to promote an educational, collaborative, and fun contest. Happening every first Saturday of March, this is an exciting and challenging day for the students to know our company from the within.<br>
 <br>
 Official Website- <br>
