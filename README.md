@@ -459,6 +459,18 @@ https://www.youtube.com/watch?v=mq_FIHdxmIk
 </details>
 
 <details>
+ About
+HackWithInfy is a coding competition for final-year engineering students across India. This program is specially designed to inculcate a culture of rapid problem-solving and innovative thinking early in academic life. HackWithInfy provides the perfect stepping-stone for students to explore their interest in programming and an opportunity to compete and win exciting prizes.
+The top performers also get a chance to work with Infosys. The top three winning teams of HackWithInfy 2021 won a cash prize of INR 200,000, INR 100,000, and INR 50,000 respectively.
+
+Official Website
+https://www.infosys.com/careers/hackwithinfy.html
+
+Explanation on Youtube
+https://www.youtube.com/watch?v=8qdmvPCrbYU
+ </details>
+
+<details>
 <summary>Hash code by Google</summary>
 <br>
 About <br>
