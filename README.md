@@ -895,7 +895,7 @@ It aims to help everyone from English learning to Machine Learning.<br>
 • It offers training programs in technical skills, eg. AI, ML, Full Stack Dev.<br>
 • It offers training programs in soft skills, eg. Public Speaking, Leadership.<br>
 • Anyone can either participate as a participant or as a mentor.<br>
-• Registeration normally open around the month of May and the contribution period ends in late september.<br>
+• Registrations, normally, open around the month of May and the contribution period ends in late september.<br>
 <br>
 OFFICIAL WEBSITE LINK- <br>
 https://uplift.girlscript.tech/ <br>
