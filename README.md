@@ -923,6 +923,29 @@ https://www.youtube.com/watch?v=AA7we1OR0Y4
 
 </details>
 
+<details>
+<summary>Women Engineers Program</summary>
+<br>
+ABOUT- <br>
+The Women Engineers program is a program offered by TalentSprint and supported by Google. This program provides opportunity to talented and motivated women students to excel in the global tech industry. To address gender disparity in the tech industry, this program nurtures promising women student to rapidly advance their expertise for the evolving tech industry.<br>
+
+• This is an intensive 2-year program <br>
+• Eligibility : First year engineering girls students pursuing CS/IT/ECE/EEE or equivalent studies.<br>
+• The applications generally come in the February and March.
+• Selection Process :  In 2021, there were three rounds of assessment tests:<br>
+    1. The Logical Reasoning and the Aptitude test
+    2. The Versant English test
+    3. Final Coding round<br>
+• An opportunity to be a part of a prestigious cohort who receive industry-relevant mentorship from experts at Google and Talensprint.<br>
+<br>
+OFFICIAL WEBSITE LINK- <br>
+https://we.talentsprint.com/ <br>
+<br>
+YouTube Link for further information-<br>
+https://youtu.be/yhGu9lxfs-g<br>
+
+</details>
+
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
 <br>(Must Check My Github for more cool stuff !)<br>
