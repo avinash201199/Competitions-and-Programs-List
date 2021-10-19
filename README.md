@@ -165,6 +165,19 @@ https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-ge
 </details>
 
 <details>
+<summary>Cook-off by CodeChef </summary>
+<br>
+About<br>
+Cook-off is an amazing 2.5 hours long coding competition held by Codechef every month. This competition helps improve your analytical and problem solving skills.
+<br><br>
+Official Website : <br>
+https://www.codechef.com/COOK134
+<br><br>
+Explaination on Youtube : <br>
+https://www.youtube.com/playlist?list=PLQXZIFwMtjoxrJvVaqoGlFYJRwUCHUq1t
+</details>
+
+<details>
 <summary>D.E. Shaw Mentorship Program </summary>
 <br>
  About <br>
