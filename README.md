@@ -765,6 +765,19 @@ https://www.youtube.com/watch?v=P-l0DaAiMw8<br>
 
 <details>
 <summary>
+Nutanix Heart Women in Technology Scholarships </summary>
+<br> ABOUT- <br>
+Nutanix believes in the power of diversity and realizes that a key component to driving innovation is cultivating diverse teams. Nutanix Advancing Women in Technology Scholarship program help future tech leaders to pursue and complete their education goals. They offer up to eleven scholarships to students in the United States, India, United Kingdom, Serbia and Australia who want to apply their passion for technology while advancing women in the field to make a positive impact on the industry and the planet.
+Official link-<br>
+https://www.nutanix.com/scholarships <br>
+
+Youtube link for information- <br>
+https://www.youtube.com/watch?v=xiV7DZ8cK4g <br>
+</details>
+
+
+<details>
+<summary>
 Outreachy Program</summary>
 <br>
 ABOUT-<br>
