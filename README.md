@@ -820,6 +820,7 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=nRjwazPk8S4
 
 </details>
+
 <details>
 <summary>Script Winter of Code </summary>
 <br>
@@ -853,9 +854,6 @@ YouTube Link for information-<br>
 https://www.youtube.com/watch?v=sBo7rCu1XYY <br>
 
 </details>
-
-
-
 
 
 <details>
@@ -893,6 +891,16 @@ https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/<br
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=AA7we1OR0Y4
+
+</details>
+
+
+<details>
+<summary>Code Gladiators </summary>
+<br>About <br>
+Code Gladiators is a TechGig hackathon presented by Cognizant. This hackathon continues for 4 months where an individual can write, compile and run code in a live coding environment provided by the application. The total prize pool at Code Gladiators worths Rs 50 Lakh. Due to the pandemic, this hackathon is hosted over a virtual platform. The registration of the TechGig Code Gladiators initiated during summers of every year. After a user completes the registration process 2 coding problems will be available to solve. The highest score regardless of unbound attempts will be considered as the final score.
+<br> Official Website- <br>
+https://www.techgig.com/codegladiators<br>
 
 </details>
 
