@@ -629,7 +629,7 @@ https://www.youtube.com/watch?v=VZUx4GuCJiM
 <summary>Linkedin Wintathon</summary>
 <br>
  About <br>
- Linkedin Wintathon is a chance for you to turn something you are passionate about into a working prototype of your idea in just 24 hours. During the event, you’ll learn how to network with like-minded individuals from different colleges across India and build an app to solve a real-world problem as a small group. All females who are studying 3rd/4th year Btech or 1st/2nd year Mtech are eligible. The winning team receives a summer internship with Linkedin Bangalore. <br>
+ Linkedin Wintathon is a chance for you to turn something you are passionate about into a working prototype of your idea in just 24 hours. During the event, you’ll learn how to network with like-minded individuals from different colleges across India and build an app to solve a real-world problem as a small group. All females who are studying 3rd/4th year Btech/BE or 1st/2nd year Mtech are eligible. The winning team receives a summer internship with Linkedin Bangalore. <br>
  <br>
  
 Official Website: <br>
