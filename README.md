@@ -804,6 +804,18 @@ https://www.youtube.com/watch?v=2C6lJorOYfA&t=1s<br>
 
 
 <details>
+<summary>
+SheCodes by Accolite Digital </summary>
+<br> ABOUT- <br>
+Transforming the Future with Women Technologists, believe diversity creates an inclusive environment that fuels innovation and creativity. And are committed to attracting and retaining women technologists who can lead the way, achieve their career goals, and deliver value to teams and our clients.
+
+Official website-<br>
+https://www.accolite.com/careers/shecodes <br>
+
+</details>
+
+
+<details>
 <summary>Smart India Hackthon by Govt. of India </summary>
 <br>
 About <br>
