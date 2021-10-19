@@ -569,6 +569,21 @@ https://youtu.be/L90Kw4CVEA8
 </details>
 
 <details>
+<summary>
+JP Morgan Code for Good </summary>
+<br>
+ About <br>
+JP Morgan Code for Good is a platform for university students, industry experts, and NPOs, where all come together to use technology to build a product that can help in solving real-world problems, not the bigger ones, but putting up a foundation stone for the greater good. Students get to learn from industry experts, and vice-versa. In the end, competent students are offered internships and FTE opportunities with the firm. Students who are studying second year and third year in Computer and related fields are eligible<br>
+<br>
+Official Website- <br>
+https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210072211/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=UjIU6iwLhAw&t=67s
+</details>
+
+
+<details>
 <summary>Kaggle by Google</summary>
 <br>
 About <br>
