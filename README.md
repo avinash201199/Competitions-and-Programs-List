@@ -908,7 +908,28 @@ https://www.youtube.com/watch?v=sBo7rCu1XYY <br>
 </details>
 
 
+<details>
+<summary>Uplift Project</summary>
+<br>
+ABOUT- <br>
+The Uplift Project is a global-remote initiative by GirlScript Foundation <br>
+for people worldwide who want to talk about something fruitful. <br>
+The program created to help people who cannot find like-minded friends or mentors. <br>
+It aims to help everyone from English learning to Machine Learning.<br>
+<br>
+• Eligibility: Interseted students from any fields can apply. <br>
+• It offers training programs in technical skills, eg. AI, ML, Full Stack Dev.<br>
+• It offers training programs in soft skills, eg. Public Speaking, Leadership.<br>
+• Anyone can either participate as a participant or as a mentor.<br>
+• Registrations, normally, open around the month of May and the contribution period ends in late september.<br>
+<br>
+OFFICIAL WEBSITE LINK- <br>
+https://uplift.girlscript.tech/ <br>
+<br>
+YouTube Link for further information-<br>
+https://youtu.be/5cV6sWG_EWc <br>
 
+</details>
 
 
 <details>
