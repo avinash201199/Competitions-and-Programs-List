@@ -165,6 +165,19 @@ https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-ge
 </details>
 
 <details>
+<summary>Cook-off by CodeChef </summary>
+<br>
+About<br>
+Cook-off is an amazing 2.5 hours long coding competition held by Codechef every month. This competition helps improve your analytical and problem solving skills.
+<br><br>
+Official Website : <br>
+https://www.codechef.com/COOK134
+<br><br>
+Explaination on Youtube : <br>
+https://www.youtube.com/playlist?list=PLQXZIFwMtjoxrJvVaqoGlFYJRwUCHUq1t
+</details>
+
+<details>
 <summary>D.E. Shaw Mentorship Program </summary>
 <br>
  About <br>
@@ -581,6 +594,33 @@ https://youtu.be/L90Kw4CVEA8
 </details>
 
 <details>
+<summary> Intuit Augment </summary>
+<br>
+About <br>
+Intuit is inviting young women technologists to be part of a mentorship program. This is in line with our commitment to power prosperity amongst young engineers to be industry-ready with guidance from domain experts. The mentorship program is specifically designed to equip budding women engineers to develop core competencies and compliment their career aspirations. Women who are studying 2nd-year B.Tech/B.E and 3rd-year Dual Degree in Computer Science / Information Technology /Maths & Computing and having cgpa 7 or above. Registration happens in January.<br>
+<br>
+Official Website: <br>
+https://www.surveymonkey.com/r/INTUIT_2020<br>
+<br>
+ 
+</details>
+
+<details>
+<summary>
+JP Morgan Code for Good </summary>
+<br>
+ About <br>
+JP Morgan Code for Good is a platform for university students, industry experts, and NPOs, where all come together to use technology to build a product that can help in solving real-world problems, not the bigger ones, but putting up a foundation stone for the greater good. Students get to learn from industry experts, and vice-versa. In the end, competent students are offered internships and FTE opportunities with the firm. Students who are studying second year and third year in Computer and related fields are eligible<br>
+<br>
+Official Website- <br>
+https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210072211/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=UjIU6iwLhAw&t=67s
+</details>
+
+
+<details>
 <summary>Kaggle by Google</summary>
 <br>
 About <br>
@@ -621,6 +661,19 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=VZUx4GuCJiM
 
 </details>
+
+<details>
+<summary>Linkedin Wintathon</summary>
+<br>
+ About <br>
+ Linkedin Wintathon is a chance for you to turn something you are passionate about into a working prototype of your idea in just 24 hours. During the event, you’ll learn how to network with like-minded individuals from different colleges across India and build an app to solve a real-world problem as a small group. All females who are studying 3rd/4th year Btech/BE or 1st/2nd year Mtech are eligible. The winning team receives a summer internship with Linkedin Bangalore. <br>
+ <br>
+ 
+Official Website: <br>
+https://wintathon2020.splashthat.com/<br> 
+
+ </details>
+
  <details>
 <summary>Master the Mainframe by IBM</summary>
 <br>
@@ -879,7 +932,28 @@ https://www.youtube.com/watch?v=sBo7rCu1XYY <br>
 </details>
 
 
+<details>
+<summary>Uplift Project</summary>
+<br>
+ABOUT- <br>
+The Uplift Project is a global-remote initiative by GirlScript Foundation <br>
+for people worldwide who want to talk about something fruitful. <br>
+The program created to help people who cannot find like-minded friends or mentors. <br>
+It aims to help everyone from English learning to Machine Learning.<br>
+<br>
+• Eligibility: Interseted students from any fields can apply. <br>
+• It offers training programs in technical skills, eg. AI, ML, Full Stack Dev.<br>
+• It offers training programs in soft skills, eg. Public Speaking, Leadership.<br>
+• Anyone can either participate as a participant or as a mentor.<br>
+• Registrations, normally, open around the month of May and the contribution period ends in late september.<br>
+<br>
+OFFICIAL WEBSITE LINK- <br>
+https://uplift.girlscript.tech/ <br>
+<br>
+YouTube Link for further information-<br>
+https://youtu.be/5cV6sWG_EWc <br>
 
+</details>
 
 
 <details>
@@ -917,6 +991,42 @@ https://assessment.hackerearth.com/challenges/hiring/visa-code-your-way-2019/<br
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=AA7we1OR0Y4
+
+</details>
+
+<details>
+<summary>Women Engineers Program</summary>
+<br>
+ABOUT- <br>
+The Women Engineers program is a program offered by TalentSprint and supported by Google. This program provides opportunity to talented and motivated women students to excel in the global tech industry. To address gender disparity in the tech industry, this program nurtures promising women student to rapidly advance their expertise for the evolving tech industry.<br>
+
+• This is an intensive 2-year program. <br>
+• Eligibility : First year engineering girls students pursuing CS/IT/ECE/EEE or equivalent studies.<br>
+• The applications generally come in the February and March. <br>
+• Selection Process : In 2021, there were 3 rounds of assessment tests: <br>
+ ```diff
+        1. The Logical Reasoning and the Aptitude test
+        2. The Versant English test
+        3. The Final Coding round
+ ```
+• An opportunity to be a part of a prestigious cohort who receive industry-relevant mentorship from experts at Google and Talensprint.<br>
+<br>
+OFFICIAL WEBSITE LINK- <br>
+https://we.talentsprint.com/ <br>
+ <br>
+YouTube Link for further information-<br>
+https://youtu.be/yhGu9lxfs-g<br>
+ <br>
+Related blog post: <br>
+https://medium.com/@archanakumari943064/all-about-women-engineers-program-7bb7a7f434c8 <br>
+
+</details>
+<details>
+<summary>Code Gladiators </summary>
+<br>About <br>
+Code Gladiators is a TechGig hackathon presented by Cognizant. This hackathon continues for 4 months where an individual can write, compile and run code in a live coding environment provided by the application. The total prize pool at Code Gladiators worths Rs 50 Lakh. Due to the pandemic, this hackathon is hosted over a virtual platform. The registration of the TechGig Code Gladiators initiated during summers of every year. After a user completes the registration process 2 coding problems will be available to solve. The highest score regardless of unbound attempts will be considered as the final score.
+<br> Official Website- <br>
+https://www.techgig.com/codegladiators<br>
 
 </details>
 
