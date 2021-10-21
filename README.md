@@ -301,6 +301,19 @@ Flipr's Linkedin page : https://www.linkedin.com/company/fliprindia/?originalSub
 
 </details>
 
+
+<details>
+<summary> Generation Google Scholarship (Aisa Pacific) </summary>
+<br> About <br>
+Generation Google Scholarship for women in computer science was established to help students pursuing computer science degrees excel in technology and become leaders in the field. Applicable only for 2nd year girls in a Bachelor's degree. Selected students will receive $1,000 USD. Generation Google Scholarship for women in computer science will be awarded based on the strength of each candidate's commitment to diversity, equity and inclusion, innovation and academic performance. The program is open to students who meet all the minimum qualifications and we strongly encourage women interested in computer science to apply.<br>
+Official link : https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship-apac/
+<br>
+Explanation on Youtube : <br>
+https://www.youtube.com/watch?v=YzBJxCpPZS8
+
+</details>
+
+
 <details>
 <summary>GirlScript Summer of Code</summary>
 <br>
@@ -824,7 +837,7 @@ https://www.youtube.com/watch?v=P-l0DaAiMw8<br>
 <summary>
 Nutanix Heart Women in Technology Scholarships </summary>
 <br> ABOUT- <br>
-Nutanix believes in the power of diversity and realizes that a key component to driving innovation is cultivating diverse teams. Nutanix Advancing Women in Technology Scholarship program help future tech leaders to pursue and complete their education goals. They offer up to eleven scholarships to students in the United States, India, United Kingdom, Serbia and Australia who want to apply their passion for technology while advancing women in the field to make a positive impact on the industry and the planet.
+Nutanix believes in the power of diversity and realizes that a key component to driving innovation is cultivating diverse teams. Nutanix Advancing Women in Technology Scholarship program help future tech leaders to pursue and complete their education goals. They offer up to eleven scholarships to students in the United States, India, United Kingdom, Serbia and Australia who want to apply their passion for technology while advancing women in the field to make a positive impact on the industry and the planet.<br>
 Official link-<br>
 https://www.nutanix.com/scholarships <br>
 
@@ -860,7 +873,7 @@ https://www.youtube.com/watch?v=2C6lJorOYfA&t=1s<br>
 <summary>
 SheCodes by Accolite Digital </summary>
 <br> ABOUT- <br>
-Transforming the Future with Women Technologists, believe diversity creates an inclusive environment that fuels innovation and creativity. And are committed to attracting and retaining women technologists who can lead the way, achieve their career goals, and deliver value to teams and our clients.
+Transforming the Future with Women Technologists, believe diversity creates an inclusive environment that fuels innovation and creativity. And are committed to attracting and retaining women technologists who can lead the way, achieve their career goals, and deliver value to teams and our clients.<br>
 
 Official website-<br>
 https://www.accolite.com/careers/shecodes <br>
