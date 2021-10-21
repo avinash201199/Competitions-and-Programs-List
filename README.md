@@ -1009,6 +1009,14 @@ Related blog post: <br>
 https://medium.com/@archanakumari943064/all-about-women-engineers-program-7bb7a7f434c8 <br>
 
 </details>
+<details>
+<summary>Code Gladiators </summary>
+<br>About <br>
+Code Gladiators is a TechGig hackathon presented by Cognizant. This hackathon continues for 4 months where an individual can write, compile and run code in a live coding environment provided by the application. The total prize pool at Code Gladiators worths Rs 50 Lakh. Due to the pandemic, this hackathon is hosted over a virtual platform. The registration of the TechGig Code Gladiators initiated during summers of every year. After a user completes the registration process 2 coding problems will be available to solve. The highest score regardless of unbound attempts will be considered as the final score.
+<br> Official Website- <br>
+https://www.techgig.com/codegladiators<br>
+
+</details>
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
