@@ -582,6 +582,18 @@ https://youtu.be/L90Kw4CVEA8
 </details>
 
 <details>
+<summary> Intuit Augment </summary>
+<br>
+About <br>
+Intuit is inviting young women technologists to be part of a mentorship program. This is in line with our commitment to power prosperity amongst young engineers to be industry-ready with guidance from domain experts. The mentorship program is specifically designed to equip budding women engineers to develop core competencies and compliment their career aspirations. Women who are studying 2nd-year B.Tech/B.E and 3rd-year Dual Degree in Computer Science / Information Technology /Maths & Computing and having cgpa 7 or above. Registration happens in January.<br>
+<br>
+Official Website: <br>
+https://www.surveymonkey.com/r/INTUIT_2020<br>
+<br>
+ 
+</details>
+
+<details>
 <summary>
 JP Morgan Code for Good </summary>
 <br>
