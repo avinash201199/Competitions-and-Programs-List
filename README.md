@@ -310,6 +310,7 @@ Official link : https://buildyourfuture.withgoogle.com/scholarships/generation-g
 <br>
 Explanation on Youtube : <br>
 https://www.youtube.com/watch?v=YzBJxCpPZS8
+
 </details>
 
 
