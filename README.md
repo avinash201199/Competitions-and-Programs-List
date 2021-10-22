@@ -818,6 +818,20 @@ https://swoc.scriptindia.org/#/<br>
 </details>
 
 <details>
+ <summary>TCS CodeVita </summary>
+ <br>
+ About <br>
+TCS CodeVita, the largest global computer programming competition, is a 24-hour online programming contest where a participant can log in from anywhere, any time. Coding enthusiasts can sharpen their programming skills through a series of intriguing real-life challenges across a stretch of 3 Rounds and an opportunity to win the coveted "World's Best Coder" title along with prize money of $10000.
+<br>
+Official Website <br>
+https://www.tcscodevita.com/  <br>
+<br>
+Explanation on YouTube   <br>
+https://youtu.be/5Ma4V_rsyGw
+ 
+ </details>
+
+<details>
 <summary>Uber HackTag</summary>
 <br>
 ABOUT- <br>
