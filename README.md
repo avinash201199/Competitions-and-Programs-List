@@ -433,6 +433,20 @@ Official Website- <br>
 https://summerofcode.withgoogle.com/<br>
 <br>
 Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=YdqhIScmRVA
+
+</details>
+
+<details>
+<summary>Google Season of Docs by Google</summary>
+<br>
+About <br>
+Season of Docs provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience in open source. Google and students raise awareness of open source, of docs, and of technical writing.
+<br>
+Official Website- <br>
+https://developers.google.com/season-of-docs/<br>
+<br>
+Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=fyy2Mr84vNM
 
 </details>
