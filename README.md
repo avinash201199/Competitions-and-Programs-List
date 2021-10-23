@@ -42,8 +42,6 @@ Explanation on YouTube: <br>
 https://www.youtube.com/watch?v=eF6ek2j5gfE <br>
 </details>
 
-
-
 <details>
 <summary>Advent of Code</summary>
 <br>
@@ -86,6 +84,17 @@ Amazon WoW is open to all women students across engineering campuses in India. A
 https://amazonwowindia.splashthat.com/
 <br>Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=dRAVWI8UZlo
+
+</details>
+
+<details>
+<summary>Bubble Cup</summary>
+<br>About<br>
+
+Bubble Cup is an international team coding competition aimed at university and high school students. It is a coding contest started by Microsoft Development Center Serbia in 2008 with a purpose of creating a local competition similar to the ACM Collegiate Contest, but soon that idea was overgrown and the vision was expanded to attract talented programmers from the entire region and promote the values of communication, companionship and teamwork. Since Bubble Cup 10 (2017), Bubble Cup is being co-organized by Petlja Foundation. The competition consists of two parts – two online qualifying rounds in the spring and the final round in Belgrade in September.
+
+<br>Official Website- <br>
+https://www.bubblecup.org/
 
 </details>
 
@@ -180,7 +189,6 @@ https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-ge
 
 <details>
 
- 
  <summary> Codiva by Adobe </summary> <br>
 Codiva is a hackathon conducted by Adobe exclusively for women. Students who are in their final or pre-final years can be a part of this. The top-performing candidates are eligible for an interview for either an internship or full-time employment. And the packages offered by Adobe are going to be a great boost to the overall average package at your college.
 
@@ -198,8 +206,8 @@ Top 50 participants – Adobe branded T-shirts
 Top 20 contestants will get a chance to interview with Adobe for Internship or Full-time position depending on eligibility
 
 Prizes will be rewarded to only women participants who have given the consent to share their information with Adobe <br>
- 
-Website  <br>
+
+Website <br>
 https://www.hackerrank.com/adobe-codiva/
 
  </details>
@@ -216,7 +224,6 @@ https://www.codechef.com/COOK134
 Explaination on Youtube : <br>
 https://www.youtube.com/playlist?list=PLQXZIFwMtjoxrJvVaqoGlFYJRwUCHUq1t
 </details>
-
 
 <details>
 <summary>D.E. Shaw Mentorship Program </summary>
@@ -251,7 +258,6 @@ https://www.youtube.com/watch?v=U8SQZh6rHow
 
 </details>
 
-
 <details>
 <summary>Discovery Fellowship</summary>
 <br>
@@ -264,7 +270,6 @@ Open to women in their sophomore year of a full-time undergraduate program at a 
 Official Website: <br>
 https://fellowships.deshaw.com/ <br>
 </details>
-
 
 <details>
 <summary>e-Yantra Robotic Competition by IIT Bombay</summary>
@@ -342,7 +347,6 @@ Flipr's Linkedin page : https://www.linkedin.com/company/fliprindia/?originalSub
 
 </details>
 
-
 <details>
 <summary> Generation Google Scholarship (Aisa Pacific) </summary>
 <br> About <br>
@@ -353,7 +357,6 @@ Explanation on Youtube : <br>
 https://www.youtube.com/watch?v=YzBJxCpPZS8
 
 </details>
-
 
 <details>
 <summary>GirlScript Summer of Code</summary>
@@ -383,8 +386,6 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=LwglfLv5otA
 
 </details>
-
-
 
 <details>
 <summary>Github Campus Expert</summary>
@@ -551,7 +552,7 @@ https://www.infosys.com/careers/hackwithinfy.html <br>
 
 Explanation on Youtube <br>
 https://www.youtube.com/watch?v=8qdmvPCrbYU
- 
+
  </details>
 
 <details>
@@ -675,7 +676,6 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=UjIU6iwLhAw&t=67s
 </details>
 
-
 <details>
 <summary>Kaggle by Google</summary>
 <br>
@@ -706,9 +706,9 @@ https://www.youtube.com/watch?v=9wad39LmzPY
 <summary>Learn to Earn Cloud Challenge</summary>
 <br>
 About <br>
-Google Cloud skills are in demand. 86% of IT leaders report that the shortage of cloud computing skills will slow down their cloud projects. 
+Google Cloud skills are in demand. 86% of IT leaders report that the shortage of cloud computing skills will slow down their cloud projects.
 
-Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills.  <br>
+Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills. <br>
 <br>
 Official Website- <br>
 https://go.qwiklabs.com/learn-to-earn<br>
@@ -726,7 +726,7 @@ https://www.youtube.com/watch?v=VZUx4GuCJiM
  <br>
  
 Official Website: <br>
-https://wintathon2020.splashthat.com/<br> 
+https://wintathon2020.splashthat.com/<br>
 
  </details>
 
@@ -799,9 +799,6 @@ Microsoft Imagine Cup has been around for two decades now. This program invites 
 Official Website- <br>
 https://imaginecup.microsoft.com/en-us/Events <br>
 </details>
-
-
-
 
 <details>
 <summary>Microsoft Learn Student Ambassadors </summary>
@@ -912,7 +909,6 @@ https://www.youtube.com/watch?v=P-l0DaAiMw8<br>
 
 </details>
 
-
 <details>
 <summary>
 Nutanix Heart Women in Technology Scholarships </summary>
@@ -923,8 +919,8 @@ https://www.nutanix.com/scholarships <br>
 
 Youtube link for information- <br>
 https://www.youtube.com/watch?v=xiV7DZ8cK4g <br>
-</details>
 
+</details>
 
 <details>
 <summary>
@@ -948,7 +944,6 @@ https://www.youtube.com/watch?v=2C6lJorOYfA&t=1s<br>
 
 </details>
 
-
 <details>
 <summary>
 SheCodes by Accolite Digital </summary>
@@ -959,7 +954,6 @@ Official website-<br>
 https://www.accolite.com/careers/shecodes <br>
 
 </details>
-
 
 <details>
 <summary>Smart India Hackthon by Govt. of India </summary>
@@ -1026,7 +1020,6 @@ https://www.youtube.com/watch?v=sBo7rCu1XYY <br>
 
 </details>
 
-
 <details>
 <summary>Uplift Project</summary>
 <br>
@@ -1049,7 +1042,6 @@ YouTube Link for further information-<br>
 https://youtu.be/5cV6sWG_EWc <br>
 
 </details>
-
 
 <details>
 <summary>Visa Code UR Way</summary>
@@ -1099,19 +1091,21 @@ The Women Engineers program is a program offered by TalentSprint and supported b
 • Eligibility : First year engineering girls students pursuing CS/IT/ECE/EEE or equivalent studies.<br>
 • The applications generally come in the February and March. <br>
 • Selection Process : In 2021, there were 3 rounds of assessment tests: <br>
- ```diff
-        1. The Logical Reasoning and the Aptitude test
-        2. The Versant English test
-        3. The Final Coding round
- ```
+
+```diff
+       1. The Logical Reasoning and the Aptitude test
+       2. The Versant English test
+       3. The Final Coding round
+```
+
 • An opportunity to be a part of a prestigious cohort who receive industry-relevant mentorship from experts at Google and Talensprint.<br>
 <br>
 OFFICIAL WEBSITE LINK- <br>
 https://we.talentsprint.com/ <br>
- <br>
+<br>
 YouTube Link for further information-<br>
 https://youtu.be/yhGu9lxfs-g<br>
- <br>
+<br>
 Related blog post: <br>
 https://medium.com/@archanakumari943064/all-about-women-engineers-program-7bb7a7f434c8 <br>
 
