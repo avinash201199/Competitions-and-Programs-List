@@ -745,8 +745,22 @@ https://microsoft.acehacker.com/engage2021/index.html<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=OX6qRLs0Z9o
-
 </details>
+
+<details>
+<summary>Microsoft Imagine Cup</summary>
+<br>
+About <br>
+The 2022 Imagine Cup is where passion meets innovation, and you can build together with students around the world to make a difference. Over the past 20 years of the competition, students have created inspiring and inclusive projects using cutting-edge technologies, while developing valuable skills as part of the journey.  
+Microsoft Imagine Cup has been around for two decades now. This program invites participants to take on real-world problems submitted by IGOs, NGOs and non-profits that you can then take on as part of Imagine Cup project. Then put ideas into action as you create solutions that have potential to change the world.
+<br>
+<br>
+Official Website- <br>
+https://imaginecup.microsoft.com/en-us/Events <br>
+</details>
+
+
+
 
 <details>
 <summary>Microsoft Learn Student Ambassadors </summary>
