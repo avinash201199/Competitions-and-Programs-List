@@ -111,6 +111,20 @@ https://www.youtube.com/watch?v=Q-JFUzGSWT8
 </details>
 
 <details>
+ <summary>Code For Good </summary>  <br>
+Use your coding skills to make a difference
+At our Code for Good hackathon, you'll collaborate with other coders to develop innovative technology solutions for not-for-profit organizations. You'll also learn about starting a Technology career with us while being guided by the sharpest minds in our industry.
+<br>
+ 
+Website
+https://careers.jpmorgan.com/in/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India  <br>
+ 
+ Explanantion on Youtube
+ https://www.youtube.com/watch?v=IIzfQqX4QDo
+ 
+ </details>
+
+<details>
 <summary>Code Jam by Google</summary>
 <br>
 About <br>
@@ -165,6 +179,32 @@ https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-ge
 </details>
 
 <details>
+
+ 
+ <summary> Codiva by Adobe </summary> <br>
+Codiva is a hackathon conducted by Adobe exclusively for women. Students who are in their final or pre-final years can be a part of this. The top-performing candidates are eligible for an interview for either an internship or full-time employment. And the packages offered by Adobe are going to be a great boost to the overall average package at your college.
+
+Prizes <br>
+1st prize – iPhone 8
+
+2nd prize – Apple iPad Air 2
+
+3rd prize – Bose Bluetooth Speakers
+
+4th to 20th Place – Online gift vouchers worth Rs. 2000
+
+Top 50 participants – Adobe branded T-shirts
+
+Top 20 contestants will get a chance to interview with Adobe for Internship or Full-time position depending on eligibility
+
+Prizes will be rewarded to only women participants who have given the consent to share their information with Adobe <br>
+ 
+Website  <br>
+https://www.hackerrank.com/adobe-codiva/
+
+ </details>
+ 
+<details>
 <summary>Cook-off by CodeChef </summary>
 <br>
 About<br>
@@ -176,6 +216,7 @@ https://www.codechef.com/COOK134
 Explaination on Youtube : <br>
 https://www.youtube.com/playlist?list=PLQXZIFwMtjoxrJvVaqoGlFYJRwUCHUq1t
 </details>
+
 
 <details>
 <summary>D.E. Shaw Mentorship Program </summary>
