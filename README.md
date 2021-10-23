@@ -96,6 +96,9 @@ Bubble Cup is an international team coding competition aimed at university and h
 <br>Official Website- <br>
 https://www.bubblecup.org/
 
+<br>Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=Jkul-W1KBTk
+
 </details>
 
 <details>
