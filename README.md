@@ -165,6 +165,31 @@ https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-ge
 </details>
 
 <details>
+ 
+ <summary> Codiva by Adobe </summary> <br>
+Codiva is a hackathon conducted by Adobe exclusively for women. Students who are in their final or pre-final years can be a part of this. The top-performing candidates are eligible for an interview for either an internship or full-time employment. And the packages offered by Adobe are going to be a great boost to the overall average package at your college.
+
+Prizes <br>
+1st prize – iPhone 8
+
+2nd prize – Apple iPad Air 2
+
+3rd prize – Bose Bluetooth Speakers
+
+4th to 20th Place – Online gift vouchers worth Rs. 2000
+
+Top 50 participants – Adobe branded T-shirts
+
+Top 20 contestants will get a chance to interview with Adobe for Internship or Full-time position depending on eligibility
+
+Prizes will be rewarded to only women participants who have given the consent to share their information with Adobe <br>
+ 
+Website  <br>
+https://www.hackerrank.com/adobe-codiva/
+
+ </details>
+ 
+<details>
 <summary>D.E. Shaw Mentorship Program </summary>
 <br>
  About <br>
