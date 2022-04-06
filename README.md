@@ -2,7 +2,7 @@
 
 ### How to contribute 😎<br>
 
-- Star this repository
+- Star this repository.
 - Create an issue with description about the competiton and wait for approval.
 - Then fork this repository.
 - Add description about the program ,official website and youtube link in alphabetical order.
