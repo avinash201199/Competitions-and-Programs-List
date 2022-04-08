@@ -1018,6 +1018,21 @@ https://swoc.scriptindia.org/#/<br>
 </details>
 
 <details>
+<summary>Solution Challenge </summary>
+<br>
+About <br>
+The mission of the 2022 Solution Challenge is to solve for one or more of the United Nations 17 Sustainable Development Goals using Google technology.
+The Solution Challenge is open to members of Google Developer Student Clubs. Join a Google Developer Student Club (GDSC) on the GDSC community page.
+The last date to apply for the Solution Challenge 2022 is 31st March, 2022.
+<br> Official Website- <br>
+https://developers.google.com/community/gdsc-solution-challenge<br>
+ 
+Explanation on Youtube- <br>
+https://youtu.be/EuEZ83VAfgQ
+
+</details>
+
+<details>
  <summary>TCS CodeVita </summary>
  <br>
  About <br>
