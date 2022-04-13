@@ -166,6 +166,15 @@ https://www.youtube.com/watch?v=ey5XU4MU6VQ
 </details>
 
 <details>
+<summary>Code Gladiators </summary>
+<br>About <br>
+Code Gladiators is a TechGig hackathon presented by Cognizant. This hackathon continues for 4 months where an individual can write, compile and run code in a live coding environment provided by the application. The total prize pool at Code Gladiators worths Rs 50 Lakh. Due to the pandemic, this hackathon is hosted over a virtual platform. The registration of the TechGig Code Gladiators initiated during summers of every year. After a user completes the registration process 2 coding problems will be available to solve. The highest score regardless of unbound attempts will be considered as the final score.
+<br> Official Website- <br>
+https://www.techgig.com/codegladiators<br>
+
+</details>
+
+<details>
 <summary>Code Jam to I/O for Women</summary>
 <br>
 About <br>
@@ -697,19 +706,7 @@ https://www.surveymonkey.com/r/INTUIT_2020<br>
  
 </details>
 
-<details>
-<summary>
-JP Morgan Code for Good </summary>
-<br>
- About <br>
-JP Morgan Code for Good is a platform for university students, industry experts, and NPOs, where all come together to use technology to build a product that can help in solving real-world problems, not the bigger ones, but putting up a foundation stone for the greater good. Students get to learn from industry experts, and vice-versa. In the end, competent students are offered internships and FTE opportunities with the firm. Students who are studying second year and third year in Computer and related fields are eligible<br>
-<br>
-Official Website- <br>
-https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210072211/<br>
-<br>
-Explanation on Youtube- <br>
-https://www.youtube.com/watch?v=UjIU6iwLhAw&t=67s
-</details>
+
 
 <details>
 <summary>Kaggle by Google</summary>
@@ -821,18 +818,6 @@ https://microsoft.acehacker.com/engage2021/index.html<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=OX6qRLs0Z9o
-</details>
-
-<details>
-<summary>Microsoft Imagine Cup</summary>
-<br>
-About <br>
-The 2022 Imagine Cup is where passion meets innovation, and you can build together with students around the world to make a difference. Over the past 20 years of the competition, students have created inspiring and inclusive projects using cutting-edge technologies, while developing valuable skills as part of the journey.  
-Microsoft Imagine Cup has been around for two decades now. This program invites participants to take on real-world problems submitted by IGOs, NGOs and non-profits that you can then take on as part of Imagine Cup project. Then put ideas into action as you create solutions that have potential to change the world.
-<br>
-<br>
-Official Website- <br>
-https://imaginecup.microsoft.com/en-us/Events <br>
 </details>
 
 <details>
@@ -1033,6 +1018,23 @@ https://youtu.be/EuEZ83VAfgQ
 </details>
 
 <details>
+  <summary>TopCoder Open</summary>
+  <br>
+  About
+  <br>
+  The Topcoder Open (TCO) is an annual online and onsite tournament to celebrate and reward the community. TCO encompasses every day competitions at Topcoder and adds points to them. While you’re competing, you’re earning TCO points and more potential prizes as well as trips to the TCO Finals held in the United States!
+  <br>
+  Official Website:
+  <br>
+  https://tco21.topcoder.com/ <br>
+  <br>
+  Explanation on YouTube:
+  <br>
+  https://www.youtube.com/watch?v=qS59Yy_IK_8
+  <br>
+</details>
+
+<details>
  <summary>TCS CodeVita </summary>
  <br>
  About <br>
@@ -1158,17 +1160,7 @@ https://youtu.be/yhGu9lxfs-g<br>
 <br>
 Related blog post: <br>
 https://medium.com/@archanakumari943064/all-about-women-engineers-program-7bb7a7f434c8 <br>
-
 </details>
-<details>
-<summary>Code Gladiators </summary>
-<br>About <br>
-Code Gladiators is a TechGig hackathon presented by Cognizant. This hackathon continues for 4 months where an individual can write, compile and run code in a live coding environment provided by the application. The total prize pool at Code Gladiators worths Rs 50 Lakh. Due to the pandemic, this hackathon is hosted over a virtual platform. The registration of the TechGig Code Gladiators initiated during summers of every year. After a user completes the registration process 2 coding problems will be available to solve. The highest score regardless of unbound attempts will be considered as the final score.
-<br> Official Website- <br>
-https://www.techgig.com/codegladiators<br>
-
-</details>
-
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
 <br>(Must Check My Github for more cool stuff !)<br>
