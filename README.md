@@ -127,7 +127,7 @@ In case you are wondering what’s in store for you:
 There are prizes worth INR 20,00,000*
 A chance to land your dream job* at Capgemini
 Exclusive mentoring from the tech wizards of Capgemini
-An opportunity to showcase your tech skills in front of a C-suite jury; the celebrated leaders from the start-up, academia and IT industry.<br>
+An opportunity to showcase your tech skills in front of a C-suite jury;n the celebrated leaders from the start-up, academia and IT industry.<br>
 <br>
 Official Website- <br>
 https://techchallenge.in.capgemini.com/<br>
@@ -749,6 +749,18 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=VZUx4GuCJiM
 
 </details>
+
+<details>
+<summary>LiFT Scholar!</summary>
+<br>
+ About <br>
+ The Linux Foundation hosts The Linux Foundation Training (LiFT) Scholarship Program to provide opportunities to up-and-coming developers and sysadmins who show promise for helping shape the future of Linux and open source software but do not otherwise have the ability to attend training courses or take certification exams.<br>
+ <br>
+ 
+Official Website: <br>
+https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/<br>
+
+ </details>
 
 <details>
 <summary>Linkedin Wintathon</summary>
