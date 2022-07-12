@@ -1182,4 +1182,4 @@ For any doubt contact me here: - <br>
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)
 
-[or PayPal to show some support](https://paypal.me/Avinash425) 
+[PayPal me to show some support](https://paypal.me/Avinash425) 
