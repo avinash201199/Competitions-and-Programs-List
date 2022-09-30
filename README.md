@@ -14,6 +14,8 @@ Check [Contributing.md](https://github.com/avinash201199/Competitions-and-Progra
 
 #### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
 
+[Helpful Website](https://github.com/avinash201199/Competitions-and-Programs-List/tree/main/Helpful%20Websites)
+
 <hr>
 
 <details>
@@ -31,13 +33,7 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=r3qElNn2IZQ
 </details>
 <details>
-<summary>Best website for regular coding contest</summary>
-<br>
-Official Website- <br>
-https://clist.by/<br>
 
-</details>
-<details>
 <summary>Adobe Analytics Challenge</summary>
 <br>
 About <br>
