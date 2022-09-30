@@ -14,7 +14,7 @@ Check [Contributing.md](https://github.com/avinash201199/Competitions-and-Progra
 
 #### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
 
-[Helpful Website](https://github.com/avinash201199/Competitions-and-Programs-List/tree/main/Helpful%20Websites) You can also contribute by adding some rsourceful websites.
+[Helpful Website](https://github.com/avinash201199/Competitions-and-Programs-List/tree/main/Helpful%20Websites) You can also contribute by adding some resourceful websites.
 
 <hr>
 
