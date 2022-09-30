@@ -9,6 +9,8 @@ You can contribute in many ways in this repository
 
 Check [Contributing.md](https://github.com/avinash201199/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started 
 
+#### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
+
 <hr>
 
 <details>
