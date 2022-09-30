@@ -2,6 +2,11 @@
 
 ### How to contribute 😎<br>
 
+You can contribute in many ways in this repository 
+1. If you are beginner then you can contribute by improving the structure of the repository. <br>
+2. Design the website for this repository with the content. <br>
+3. Add more competition into the list which are not present. <br>
+
 - Star this repository.
 - Create an issue with description about the competiton and wait for approval.
 - Then fork this repository.
