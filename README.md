@@ -7,11 +7,7 @@ You can contribute in many ways in this repository
 2. Design the website for this repository with the content. <br>
 3. Add more competition into the list which are not present. <br>
 
-- Star this repository.
-- Create an issue with description about the competiton and wait for approval.
-- Then fork this repository.
-- Add description about the program ,official website and youtube link in alphabetical order.
-- Make pull request and wait for review.
+Check [Contributing.md](https://github.com/avinash201199/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started 
 
 <hr>
 
