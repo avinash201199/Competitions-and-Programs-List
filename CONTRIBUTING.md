@@ -1,6 +1,6 @@
 ### How to contibute in this repository 
 
-You can contribute in this repositroy in many ways 
+You can contributey in many ways 
 
 1. By adding new competition into the list 
 
@@ -12,4 +12,4 @@ You can contribute in this repositroy in many ways
 
 2. By Desgining the website for this repository so that it can be helpful for more students
 
-- To design the website you can use HTML, CSS and JavaScript 
+- To design the website you can use HTML, CSS and JavaScript or anything you could suggest better then raise the issue.
