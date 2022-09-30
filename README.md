@@ -1,7 +1,7 @@
 # <h1 align="center">Competitions and Programs list for Students</h1> </font>
 
 This repository contains list of some of the great competitions and programs for college students, in which they can compete,learn,explore and experience.
-These experience will tighten their resume for jobs and career growth.
+These experience will tighten their resume for jobs and will help them in their career growth.
 
 ### How to contribute 😎<br>
 
