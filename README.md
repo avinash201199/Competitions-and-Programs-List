@@ -833,8 +833,14 @@ https://careers.microsoft.com/us/en/codess<br>
 About <br>
 Microsoft Engage is a student engagement and mentorship program by Microsoft that offers 1:1 mentorship to shortlisted students while working on a project, learning sessions specially curated for Engage students and a sneak peek into Microsoft’s culture and values. Students who have completed their second year(B.Tech/B.E.) or third year(Dual Degree) having 7 above CGPA with no pending backlogs and strong CS Fundamentals and coding principles were eligible to apply. There was no restriction on branch.<br>
 <br>
+ <details>
+<summary>Microsoft Imagine Cup</summary>
+<br>
+About <br>
+The Imagine Cup is full of opportunities to gain new skills, access exclusive training, unlock mentorship opportunities, and have a chance to win great prizes and make a difference in the world. In this you have to solve real world problems and you can win a hige amount of money to implement that plan and start a company<br>
+<br>
 Official Website- <br>
-https://microsoft.acehacker.com/engage2021/index.html<br>
+https://imaginecup.microsoft.com/en-us/Eventsl<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=OX6qRLs0Z9o
