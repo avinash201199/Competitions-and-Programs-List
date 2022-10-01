@@ -573,6 +573,17 @@ https://www.youtube.com/watch?v=earTjC0iSjg
 </details>
 
 <details>
+<summary>Google Online Challenge</summary>
+<br>
+About <br>
+Google’s Online Challenge is a platform that presents a fair, unbiased opportunity for you to engage in Google's hiring process. By participating in a timed online challenge, Google gains a better understanding of your skills while also providing you with insight into Google's hiring process.
+If you’re looking for a place that values your curiosity and desire to learn, seeking colleagues who are big thinkers and you’re eager to take on fresh challenges as a team, Google’s Online Challenge could take you one step closer to becoming a Googler.<br>
+<br>
+Official Website- <br>
+https://onlinechallenge.withgoogle.com/
+</details>
+
+<details>
 <summary>Google Step Intern</summary>
 <br>
 About <br>
