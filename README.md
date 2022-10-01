@@ -1110,6 +1110,18 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=nRjwazPk8S4
 
 </details>
+
+<details>
+<summary>Social Summer of Code </summary>
+<br>
+About <br>
+SSOC is a 3 Month Open Source Program Organized By Social.
+It is aimed to promote open source with new age technologies & want everyone to get the right path & gudience through SSOC.
+<br> Official Website- <br>
+https://ssoc.devfolio.co/<br>
+
+</details>
+
 <details>
 <summary>Script Winter of Code </summary>
 <br>
