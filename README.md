@@ -1,19 +1,19 @@
-# <h1 align="center">Competitions and Programs list for Students</h1> </font>
+# <h1 align="center">Competitions and Programs List for Students</h1> </font>
 
-This repository contains list of some of the great competitions and programs for college students, in which they can compete,learn,explore and experience.
-These experience will tighten their resume for jobs and will help them in their career growth.
+This repository contains a list of some great competitions and programs for college students, in which they can compete, learn, explore, and gain experience.
+
+This experience will improve their job resumes for jobs and help them in their career growth.
 
 ### How to contribute 😎<br>
 
-You can contribute in many ways in this repository 
+You can contribute in many ways to this repository:
 1. If you are beginner then you can contribute by improving the structure of the repository. <br>
-2. Design the website for this repository with the content. <br>
-3. Add more competition into the list which are not present. <br>
+2. You could design a website for this repository that includes its content. <br>
+3. You could add new competitions to the list. <br>
 
-Check [Contributing.md](https://github.com/avinash201199/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started 
+Take a look at the [CONTRIBUTING.md](https://github.com/avinash201199/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started.
 
-#### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
-
+#### Note: before contributing, please create an issue first so that I can assign you one to work on.
 
 <hr>
 
