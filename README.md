@@ -1126,7 +1126,22 @@ YouTube link for information-<br>
 https://www.youtube.com/watch?v=2C6lJorOYfA&t=1s<br>
 
 </details>
+<details>
+<summary> Open Mainframe Project Mentorship Program</summary>
+About<br>
+Open Mainframe Project also has its own open-source program and the mentees will be able to expand their knowledge on the mainframe technology. So, if you’re interested in the mainframe and all these things you can definitely check that out. You’ll also help in contributing to open source projects which will make it easier for infrastructure applications to run on the mainframe. So, it is an overwhelming fact that the application or the code that you’re writing is actually being used by a lot of people.<br>
 
+Timeline: February-September<br>
+Link: https://www.openmainframeproject.org/all-projects/mentorship-program <br>
+</details>
+<details>
+<summary> Redox OS Summer of Code</summary>
+About<br>
+Redox is a general-purpose operating system written in pure Rust. The Redox OS Summer of Code is the primary use of donations to the Redox OS project. Here, the students who have already demonstrated a desire and ability to contribute to Redox OS get selected.
+<br>
+Link: https://www.redox-os.org/rsoc/<br>
+
+</details>
 <details>
 <summary>
 SheCodes by Accolite Digital </summary>
