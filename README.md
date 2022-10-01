@@ -1322,6 +1322,16 @@ For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
 <br>(Must Check My Github for more cool stuff !)<br>
 
+<details>
+About<br>
+OnePlus Student Ambassador Program is a campus-marketing program that aims to form a community of individuals who want to make a difference in the world through technology and have fun while doing it
+
+The program facilitates and nurtures the skills to contribute to your career growth. We want to empower and strengthen selected students across India who will serve as OnePlus community specialists and brand evangelists in their respective institutions
+
+Official Website- <br>
+https://www.oneplus.in/campus#:~:text=What%20is%20the%20OnePlus%20Student,prosper%20in%20your%20respective%20fields.
+</details>
+
 ### Thank you for your valuable contribution!
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)
