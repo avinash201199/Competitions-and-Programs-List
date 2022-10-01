@@ -488,6 +488,20 @@ https://www.youtube.com/watch?v=34YdIU4GQs4&t=2526s
 </details>
 
 <details>
+ <summary>GitKraken Ambassador Program</summary>
+ <br>
+ About <br>
+ GitKraken Ambassadors are a group of professionals from all around the world who love sharing their knowledge about Git and the GitKraken Git Client. They are passionate about learning and sharing technical expertise by creating articles, videos, and other content. 
+<br>
+ GitKraken Ambassadors are building their personal brands by creating world-class, technical content to share with a global GitKraken audience. By working with the GitKraken team, you can hone your writing talents, refine your video production abilities, and amplify your reach to millions of software developers.
+ <br><br>
+ 
+ [Official Website](https://www.gitkraken.com/ambassador)
+ <br><br>
+ [Explanation on Youtube](https://www.youtube.com/watch?v=PJ-2Af-PSGM)
+ </details>
+
+<details>
 <summary>GoogleCloudReady Facilitator Program</summary>
 <br>
 About <br>
