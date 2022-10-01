@@ -127,7 +127,7 @@ https://www.youtube.com/watch?v=dRAVWI8UZlo
 <summary>Bubble Cup</summary>
 <br>About<br>
 
-Bubble Cup is an international team coding competition aimed at university and high school students. It is a coding contest started by Microsoft Development Center Serbia in 2008 with a purpose of creating a local competition similar to the ACM Collegiate Contest, but soon that idea was overgrown and the vision was expanded to attract talented programmers from the entire region and promote the values of communication, companionship and teamwork. Since Bubble Cup 10 (2017), Bubble Cup is being co-organized by Petlja Foundation. The competition consists of two parts – two online qualifying rounds in the spring and the final round in Belgrade in September.
+Bubble Cup is an international team coding competition aimed at university and high school students. It is a coding contest started by Microsoft Development Center Serbia in 2008 with a purpose of creating a local competition similar to the ACM Collegiate Contest, but soon that idea was overgrown and the vision was expanded to attract talented programmers from the entire region and promote the values of communication, companionship and teamwork. Since Bubble Cup 10 (2017), Bubble Cup is being co-organized by Petlja Foundation. The competition consists of two parts, i.e,  two online qualifying rounds in the spring and the final round in Belgrade in September.
 
 <br>Official Website- <br>
 https://www.bubblecup.org/

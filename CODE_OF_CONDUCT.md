@@ -83,7 +83,7 @@ behavior was inappropriate. A public apology may be requested.
 ### 2. Warning
 
 **Community Impact**: A violation through a single incident or series
-of actions.
+of actions. Taken to be seriously.
 
 **Consequence**: A warning with consequences for continued behavior. No
 interaction with the people involved, including unsolicited interaction with
