@@ -124,6 +124,20 @@ https://www.youtube.com/watch?v=dRAVWI8UZlo
 </details>
 
 <details>
+<summary>Atlassian Women in Tech</summary>
+<br>About<br>
+
+Atlassian Women in Tech is a networking platform for all women engineering students that connects them to Atlassian leaders, recruiters, and the broader Atlassian community.This is a wonderful initiative to empower women in tech. It is open to all young women in the country, regardless of their college,thus providing a fair opportunity for everyone.The event was well-planned with informative sessions and Q&As to help to prepare you for a smooth interview process.In this program you learned more about Atlassian's products, values, and assessment tools which helped you better to prepare for your interview.The objective is to help women students build long-term career in technology.
+
+<br>Official Website- <br>
+https://womenintech.girlscript.tech/
+
+<br>Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=f8VcKV4IvhM
+
+</details>
+
+<details>
 <summary>Bubble Cup</summary>
 <br>About<br>
 
@@ -488,6 +502,20 @@ https://www.youtube.com/watch?v=34YdIU4GQs4&t=2526s
 </details>
 
 <details>
+ <summary>GitKraken Ambassador Program</summary>
+ <br>
+ About <br>
+ GitKraken Ambassadors are a group of professionals from all around the world who love sharing their knowledge about Git and the GitKraken Git Client. They are passionate about learning and sharing technical expertise by creating articles, videos, and other content. 
+<br>
+ GitKraken Ambassadors are building their personal brands by creating world-class, technical content to share with a global GitKraken audience. By working with the GitKraken team, you can hone your writing talents, refine your video production abilities, and amplify your reach to millions of software developers.
+ <br><br>
+ 
+ [Official Website](https://www.gitkraken.com/ambassador)
+ <br><br>
+ [Explanation on Youtube](https://www.youtube.com/watch?v=PJ-2Af-PSGM)
+ </details>
+
+<details>
 <summary>GoogleCloudReady Facilitator Program</summary>
 <br>
 About <br>
@@ -626,29 +654,6 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=SA91yNdx_e0
 
 </details>
-
-<details>
-<summary>Hackerrank Contests</summary>
-<br>
-About <br>
-
-If you are a beginner and want to develop basic concept then I will suggest you go with this website because they have some good problems for beginners which is sorted level wise i.e. you will get problems in increasing difficulty level. And by applying some basic logic you will able to crack them. And also we can say this is they have a good beginner-friendly environment.
-
-They also divide problems topic wise manner e.g. In case you just completed for loop concept and want to solve the problem on that then you can. And they have some other features like 30 Days of codes or recently they publish a new section i.e. interview preparation where you will get some videos related to technical interview rounds.
-
-The main domain they cover:
-Algorithms, Mathematics, SQL, Functional programming, AI and more.<br>
-
-<br>
-
-Official Website- <br>
-
-https://www.hackerrank.com/contests<br>
-
-<br>
-
-</details>
-
 
 <details>
 <summary>Hacktoberfest by DigitalOcean</summary>
@@ -987,6 +992,19 @@ https://www.geeksforgeeks.org/mlh-fellowship-programs-offered-application-proces
 </details>
 
 <details>
+<summary>MLH Prep Program</summary>
+<br>
+About<br>
+The Prep Program is an intensive 3-week experience, during which you'll build out your portfolio of personal projects, experiment with new technologies, and collaborate in small groups during a short, impactful hackathon sprint. The Prep Program is designed to quickly build technical skills and experience for candidates who wish to pursue the full MLH Fellowship in the future. It’s basically a bite-sized version of the Fellowship track, specifically designed to build your technical skills and get you ready for an internship or a future batch of the MLH Fellowship.<br><br>
+And the best news of all: Fellows who successfully complete the Prep Program track will be priority candidates for future Fellowship classes.
+<br><br>
+ 
+[Official Website](https://fellowship.mlh.io/programs/prep)
+<br><br>
+[Youtube Explanation](https://www.youtube.com/watch?v=cnltMbvsQUo&t=1s)
+</details>
+
+<details>
 <summary>Myntra HackerRamp: WeForShe</summary>
 <br>
 ABOUT-<br>
@@ -1043,6 +1061,17 @@ https://www.youtube.com/watch?v=xiV7DZ8cK4g <br>
 </details>
 
 <details>
+ <summary> OnePlus Student Program</summary>
+About<br>
+OnePlus Student Ambassador Program is a campus-marketing program that aims to form a community of individuals who want to make a difference in the world through technology and have fun while doing it
+
+The program facilitates and nurtures the skills to contribute to your career growth. We want to empower and strengthen selected students across India who will serve as OnePlus community specialists and brand evangelists in their respective institutions
+
+Official Website- <br>
+https://www.oneplus.in/campus#:~:text=What%20is%20the%20OnePlus%20Student,prosper%20in%20your%20respective%20fields.
+ </details>
+
+<details>
 <summary>
 Outreachy Program</summary>
 <br>
@@ -1092,6 +1121,9 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=nRjwazPk8S4
 
 </details>
+
+
+
 <details>
 <summary>Script Winter of Code </summary>
 <br>
@@ -1099,6 +1131,17 @@ About <br>
 Script Winter of Code is an open-source program envisioned by the Script Foundation. It aims to bring students into the world of open source development and see the power of unified problem-solving in real time. The students will be guided by experienced mentors throughout their journey. They will learn the skills essential in the world of programming, all the while developing a deep appreciation for the world of open-source. Registrations has started and will close on 10th November
 <br> Official Website- <br>
 https://swoc.scriptindia.org/#/<br>
+
+</details>
+
+<details>
+<summary>Social Summer of Code </summary>
+<br>
+About <br>
+SSOC is a 3 Month Open Source Program Organized By Social.
+It is aimed to promote open source with new age technologies & want everyone to get the right path & gudience through SSOC.
+<br> Official Website- <br>
+https://ssoc.devfolio.co/<br>
 
 </details>
 
@@ -1114,6 +1157,19 @@ https://developers.google.com/community/gdsc-solution-challenge<br>
  
 Explanation on Youtube- <br>
 https://youtu.be/EuEZ83VAfgQ
+
+</details>
+
+<details>
+<summary>Technica</summary>
+<br>
+About <br>
+Technica is the world’s largest hackathon for underrepresented genders, hosted over the duration of 24 hours each fall by students at the University of Maryland and online. This year’s theme is "Reach New Heights!" This year, we want to help all of our hackers rise to the next level in their tech journey, whether that means tackling challenging new projects or writing your first line of code. We encourage you to be open-minded, be curious, and find your space in tech. Explore your untapped potential — the sky's the limit at Technica! Whether we serve as a push in the right direction or as a place for you to explore your curiosities, we hope that you are able to #ReachNewHeights! <br>
+ <br> Official Website:<br>
+ https://gotechnica.org/
+
+<br> Explanation on Youtube: <br>
+https://www.youtube.com/watch?v=zzIGwnKOkyw
 
 </details>
 
@@ -1244,7 +1300,8 @@ https://www.youtube.com/watch?v=AA7we1OR0Y4
 </details>
 
 <details>
-<summary>Women Engineers Program</summary>
+
+ <summary>Women Engineers Program</summary>
 <br>
 ABOUT- <br>
 The Women Engineers program is a program offered by TalentSprint and supported by Google. This program provides opportunity to talented and motivated women students to excel in the global tech industry. To address gender disparity in the tech industry, this program nurtures promising women student to rapidly advance their expertise for the evolving tech industry.<br>
@@ -1271,6 +1328,43 @@ https://youtu.be/yhGu9lxfs-g<br>
 Related blog post: <br>
 https://medium.com/@archanakumari943064/all-about-women-engineers-program-7bb7a7f434c8 <br>
 </details>
+
+<details>
+<summary>IEEEXtream</summary>
+<br>
+About <br>
+IEEEXtreme is a global challenge in which teams of IEEE Student members – advised and proctored by an IEEE member, and often supported by an IEEE Student Branch – compete in a 24-hour time span against each other to solve a set of programming problems.
+
+It takes place on 22 October, 2022 and registrations will close by 12 October, 2022. <br>
+<br>
+Official Website- <br>
+https://ieeextreme.org/#REGISTRATION<br>
+<br>
+</details>
+<details>
+
+
+<details>
+<summary>IBM zStudent Contest</summary>
+<br>
+About <br>
+HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrilling coding contest centered around sustainable energy that will teach you computing skills used to power some of today’s largest enterprise companies. Along the way, you will learn JCL, z/OS, SQL, COBOL, Python, APIs, Unix and more.
+
+Through completion of Fundamentals and Concepts levels (how you earn the Concepts Badge), contestants will have skills in:
+
+VS Code
+JCL
+Files and Members
+Unix System Services (USS)
+REXX
+Python
+
+<br>
+Official Website- <br>
+https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/?utm_source=arsh&utm_medium=instagram_story&utm_campaign=IBMz<br>
+<br>
+</details>
+<details>
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
