@@ -656,6 +656,24 @@ https://www.youtube.com/watch?v=SA91yNdx_e0
 </details>
 
 <details>
+ <summary>HackCbs 5.0 by Hack2Skill</summary> 
+ <br>
+ <About>
+  <br>
+  hackCBS 5.0, a legacy being carried forward by like-minded individuals aims to collaborate the intellects of programmers, designers, application developers, tech-geeks, and newbies in the world of programming for the intensive development of a hack.
+<br>
+At hackCBS, we help you turn your ideas into reality by providing a comforting and welcoming environment. You’ll have all the freedom to create a product, learn new things, and have hilariously funny moments with your friends. Moreover, we’ll offer you a chance to network with working professionals and hacker community leaders. You will never learn faster than you will at a hackathon.
+  <br>
+  Official Website-<br>
+  https://hack2skill.com/hack/hackcbs
+  <br>
+  Explanation on YouTube-
+  <br>
+  https://www.youtube.com/watch?v=tDcEn5Mu6nE
+  <br>
+</details>
+ 
+<details>
 <summary>Hacktoberfest by DigitalOcean</summary>
 <br>
 About <br>
