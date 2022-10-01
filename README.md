@@ -978,6 +978,19 @@ https://www.geeksforgeeks.org/mlh-fellowship-programs-offered-application-proces
 </details>
 
 <details>
+<summary>MLH Prep Program</summary>
+<br>
+About<br>
+The Prep Program is an intensive 3-week experience, during which you'll build out your portfolio of personal projects, experiment with new technologies, and collaborate in small groups during a short, impactful hackathon sprint. The Prep Program is designed to quickly build technical skills and experience for candidates who wish to pursue the full MLH Fellowship in the future. It’s basically a bite-sized version of the Fellowship track, specifically designed to build your technical skills and get you ready for an internship or a future batch of the MLH Fellowship.<br><br>
+And the best news of all: Fellows who successfully complete the Prep Program track will be priority candidates for future Fellowship classes.
+<br><br>
+ 
+[Official Website](https://fellowship.mlh.io/programs/prep)
+<br><br>
+[Youtube Explanation](https://www.youtube.com/watch?v=cnltMbvsQUo&t=1s)
+</details>
+
+<details>
 <summary>Myntra HackerRamp: WeForShe</summary>
 <br>
 ABOUT-<br>
