@@ -572,6 +572,34 @@ https://www.youtube.com/watch?v=earTjC0iSjg
 </details>
 
 <details>
+<summary>Google Maps Platform Hackathon</summary>
+<br>
+About <br>
+Google Maps Platform allows developers to create unique location-based experiences using our APIs & SDKs. Now is your chance to build or expand an existing app to incorporate rich location experiences using the latest APIs and push the boundaries of what is possible with their platform.
+<br>
+ In this hackathon they invite you to use Google Maps Platform APIs and SDKs. Build a unique app in one of the following categories.<br><br>
+
+Map Customization<br>
+Use Cloud-based map styling to create custom map styles for real-time updates across all devices and platforms. The new Cloud-based map styling makes it easy to tailor experiences for specific industries or customer needs with hundreds of customization types.<br><br>
+
+
+Data Visualization<br>
+Let data tell a unique story. Help make decisions and improve overall operational efficiencies by displaying data on your map. <br><br>
+
+
+Mobile App<br>
+Use Google Maps Platform mobile SDKs to connect your mobile app and the real world. Leverage mobile SDKs to build dynamic, interactive, geospatial experiences for your mobile app.<br><br>
+
+User Experience<br>
+Provide a unique experience for your app users with Google Maps Platform APIs and tools. Whether it’s unique transit information, a delivery game, or beyond, discover the breadth of capabilities Google Maps Platform has to offer.<br><br>
+Official Website: <br>
+https://googlemapsplatform.devpost.com/?ref_feature=challenge&ref_medium=discover<br>
+<br>
+Explanation on Youtube: <br>
+https://www.youtube.com/watch?v=kA679ERgBV4<br>
+</details>
+
+<details>
 <summary>Google Step Intern</summary>
 <br>
 About <br>
