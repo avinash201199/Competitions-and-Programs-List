@@ -1361,6 +1361,29 @@ https://ieeextreme.org/#REGISTRATION<br>
 </details>
 <details>
 
+
+<details>
+<summary>IBM zStudent Contest</summary>
+<br>
+About <br>
+HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrilling coding contest centered around sustainable energy that will teach you computing skills used to power some of today’s largest enterprise companies. Along the way, you will learn JCL, z/OS, SQL, COBOL, Python, APIs, Unix and more.
+
+Through completion of Fundamentals and Concepts levels (how you earn the Concepts Badge), contestants will have skills in:
+
+VS Code
+JCL
+Files and Members
+Unix System Services (USS)
+REXX
+Python
+
+<br>
+Official Website- <br>
+https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/?utm_source=arsh&utm_medium=instagram_story&utm_campaign=IBMz<br>
+<br>
+</details>
+<details>
+
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
 <br>(Must Check My Github for more cool stuff !)<br>
