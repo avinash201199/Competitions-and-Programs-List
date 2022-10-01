@@ -1111,16 +1111,7 @@ https://www.youtube.com/watch?v=nRjwazPk8S4
 
 </details>
 
-<details>
-<summary>Social Summer of Code </summary>
-<br>
-About <br>
-SSOC is a 3 Month Open Source Program Organized By Social.
-It is aimed to promote open source with new age technologies & want everyone to get the right path & gudience through SSOC.
-<br> Official Website- <br>
-https://ssoc.devfolio.co/<br>
 
-</details>
 
 <details>
 <summary>Script Winter of Code </summary>
@@ -1129,6 +1120,17 @@ About <br>
 Script Winter of Code is an open-source program envisioned by the Script Foundation. It aims to bring students into the world of open source development and see the power of unified problem-solving in real time. The students will be guided by experienced mentors throughout their journey. They will learn the skills essential in the world of programming, all the while developing a deep appreciation for the world of open-source. Registrations has started and will close on 10th November
 <br> Official Website- <br>
 https://swoc.scriptindia.org/#/<br>
+
+</details>
+
+<details>
+<summary>Social Summer of Code </summary>
+<br>
+About <br>
+SSOC is a 3 Month Open Source Program Organized By Social.
+It is aimed to promote open source with new age technologies & want everyone to get the right path & gudience through SSOC.
+<br> Official Website- <br>
+https://ssoc.devfolio.co/<br>
 
 </details>
 
