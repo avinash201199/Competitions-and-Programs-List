@@ -1285,7 +1285,9 @@ The program facilitates and nurtures the skills to contribute to your career gro
 
 Official Website- <br>
 https://www.oneplus.in/campus#:~:text=What%20is%20the%20OnePlus%20Student,prosper%20in%20your%20respective%20fields.
- 
+ </details>
+
+<details>
  <summary>Women Engineers Program</summary>
 <br>
 ABOUT- <br>
