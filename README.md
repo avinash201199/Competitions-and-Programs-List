@@ -673,6 +673,23 @@ At hackCBS, we help you turn your ideas into reality by providing a comforting a
 </details>
  
 <details>
+<summary>HackerRank Contests</summary>
+<br>
+About <br>
+If you are a beginner and want to develop basic concept then I will suggest you go with this website because they have some good problems for beginners which is sorted level wise i.e. you will get problems in increasing difficulty level. And by applying some basic logic you will able to crack them. And also we can say this is they have a good beginner-friendly environment.
+
+They also divide problems topic wise manner e.g. In case you just completed for loop concept and want to solve the problem on that then you can. And they have some other features like 30 Days of codes or recently they publish a new section i.e. interview preparation where you will get some videos related to technical interview rounds.
+
+The main domain they cover:
+Algorithms, Mathematics, SQL, Functional programming, AI and more.<br>
+<br>
+Official Website- <br>
+https://www.hackerrank.com/contests<br>
+<br>
+
+</details>
+ 
+<details>
 <summary>Hacktoberfest by DigitalOcean</summary>
 <br>
 About <br>
