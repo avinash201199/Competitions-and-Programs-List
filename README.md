@@ -1276,7 +1276,17 @@ https://www.youtube.com/watch?v=AA7we1OR0Y4
 </details>
 
 <details>
-<summary>Women Engineers Program</summary>
+
+ <summary> OnePlus Student Program</summary>
+About<br>
+OnePlus Student Ambassador Program is a campus-marketing program that aims to form a community of individuals who want to make a difference in the world through technology and have fun while doing it
+
+The program facilitates and nurtures the skills to contribute to your career growth. We want to empower and strengthen selected students across India who will serve as OnePlus community specialists and brand evangelists in their respective institutions
+
+Official Website- <br>
+https://www.oneplus.in/campus#:~:text=What%20is%20the%20OnePlus%20Student,prosper%20in%20your%20respective%20fields.
+ 
+ <summary>Women Engineers Program</summary>
 <br>
 ABOUT- <br>
 The Women Engineers program is a program offered by TalentSprint and supported by Google. This program provides opportunity to talented and motivated women students to excel in the global tech industry. To address gender disparity in the tech industry, this program nurtures promising women student to rapidly advance their expertise for the evolving tech industry.<br>
@@ -1321,15 +1331,6 @@ https://ieeextreme.org/#REGISTRATION<br>
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
 <br>(Must Check My Github for more cool stuff !)<br>
-
- <summary> OnePlus Student Program</summary>
-About<br>
-OnePlus Student Ambassador Program is a campus-marketing program that aims to form a community of individuals who want to make a difference in the world through technology and have fun while doing it
-
-The program facilitates and nurtures the skills to contribute to your career growth. We want to empower and strengthen selected students across India who will serve as OnePlus community specialists and brand evangelists in their respective institutions
-
-Official Website- <br>
-https://www.oneplus.in/campus#:~:text=What%20is%20the%20OnePlus%20Student,prosper%20in%20your%20respective%20fields.
 
 ### Thank you for your valuable contribution!
 
