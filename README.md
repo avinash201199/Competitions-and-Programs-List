@@ -47,6 +47,19 @@ https://www.youtube.com/watch?v=1fNx08ONKkM
 </details>
 
 <details>
+<summary>Adobe Express Community</summary>
+<br>
+About <br>
+The Adobe Express community of like-minded business owners, online marketers, and content creators will help you find what it takes to become an expert at Adobe Express. Boost your content confidence with workshops and more for honing your skills in business and design.Empower your community to grow their businesses and stand out with Adobe Express. Tap into rewards from exclusive merchandise to free access to Adobe Express Premium.<br>
+<br>
+Official Website- <br>
+https://www.adobe.com/express/ambassadors/<br>
+<br>
+Community List- <br>
+https://www.adobe.com/express/ambassadors/list
+</details>
+
+<details>
 <summary>Adobe India Women-in-Technology Scholarship</summary>
 <br>
 About<br>
@@ -328,6 +341,18 @@ https://portal.e-yantra.org/<br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=VXgX-qQnTZU
 
+</details>
+
+<details>
+<summary>Figma Student Leader</summary>
+<br>
+About <br>
+They are constantly inspired by students who use Figma both inside and outside of the classroom. We believe creating community while studying is an important part in growing and learning. Their Student Leaders facilitate a space for students to connect, grow, and learn.
+
+If you’re interested in becoming a Student Leader and starting a group at your school, They want to hear from you! <br>
+<br>
+Official Website- <br>
+https://friends.figma.com/become-a-student-leader/<br>
 </details>
 
 <details>
