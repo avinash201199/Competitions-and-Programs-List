@@ -124,6 +124,20 @@ https://www.youtube.com/watch?v=dRAVWI8UZlo
 </details>
 
 <details>
+<summary>Atlassian Women in Tech</summary>
+<br>About<br>
+
+Atlassian Women in Tech is a networking platform for all women engineering students that connects them to Atlassian leaders, recruiters, and the broader Atlassian community.This is a wonderful initiative to empower women in tech. It is open to all young women in the country, regardless of their college,thus providing a fair opportunity for everyone.The event was well-planned with informative sessions and Q&As to help to prepare you for a smooth interview process.In this program you learned more about Atlassian's products, values, and assessment tools which helped you better to prepare for your interview.The objective is to help women students build long-term career in technology.
+
+<br>Official Website- <br>
+https://womenintech.girlscript.tech/
+
+<br>Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=f8VcKV4IvhM
+
+</details>
+
+<details>
 <summary>Bubble Cup</summary>
 <br>About<br>
 
