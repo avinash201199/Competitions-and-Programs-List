@@ -1359,9 +1359,18 @@ Official Website- <br>
 https://ieeextreme.org/#REGISTRATION<br>
 <br>
 </details>
-<details>
-
-
+ <details>
+<summary>Zuno Fellowship Program</summary>
+<br>
+About <br>
+The idea behind the Zuno Fellowship Program is to be the largest Fellowship Program in India. Candidates will stand a chance to win rewards worth over $1M annually and also have a chance to Upskill, add Premium Internship tag, win Cash & Brand Goodies.All candidates between the age of 17 - 25 years who are pursuing their UG or PG courses.
+It takes place on 17 December,  04:00 PM - 07:00 PM <br>
+<br>
+Official Website- <br>
+https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia
+<br>
+</details>
+ 
 <details>
 <summary>IBM zStudent Contest</summary>
 <br>
@@ -1384,18 +1393,8 @@ https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/?utm
 </details>
 <details>
 
-<details>
-<summary>Zuno Fellowship Program</summary>
-<br>
-About <br>
-The idea behind the Zuno Fellowship Program is to be the largest Fellowship Program in India. Candidates will stand a chance to win rewards worth over $1M annually and also have a chance to Upskill, add Premium Internship tag, win Cash & Brand Goodies.All candidates between the age of 17 - 25 years who are pursuing their UG or PG courses.
-It takes place on 17 December,  04:00 PM - 07:00 PM <br>
-<br>
-Official Website- <br>
-https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia
-<br>
-</details>
-<details>
+
+
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
