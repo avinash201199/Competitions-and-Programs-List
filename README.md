@@ -307,6 +307,16 @@ https://fellowships.deshaw.com/ <br>
 </details>
 
 <details>
+<summary>Doodle 4 Google</summary>
+<br>
+About<br>
+ Submit a design to Google for a chance to have your artwork appear on millions of computer screens as the Google Logo. Google also provides $30,000 college scholarship and $50,000 technology award for school students<br>
+<br>
+For more details : <br>
+https://doodles.google.com/d4g <br>
+</details>
+
+<details>
 <summary>e-Yantra Robotic Competition by IIT Bombay</summary>
 <br>
 About <br>
