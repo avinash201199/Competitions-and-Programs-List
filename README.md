@@ -1398,6 +1398,28 @@ Official Website- <br>
 https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/?utm_source=arsh&utm_medium=instagram_story&utm_campaign=IBMz<br>
 <br>
 </details>
+
+<details>
+<summary>Cosmos and Chaos</summary>
+<br>
+About <br>
+“Curiosity creates innovation. Innovation fuels success.”
+
+Astronomy Club brings Cosmos and Chaos- a 3-hour rendition of a multi-dimensional treasure hunt, spanning 5 phases. Our aim? To allow our participants to channel their inner Sherlock Holmes, and challenge the limits of their cognitive and creative abilities in a limited time frame.
+
+The event will be based on the theme of astronomy. There will be 5 phases or levels that the participants have to complete. 
+A team can progress to higher levels as soon as they are approved for completion of a prior level. They can collaboratively work as a team of 2-4 members to find answers.
+
+<br>
+Official Website- <br>
+https://unstop.com/competition/cosmos-and-chaos-uphoria-x-zenevia-bennett-university-bu-greater-noida-440498<br>
+<br>
+</details>
+
+
+
+
+
 <details>
 
 For any doubt contact me here: - <br>
