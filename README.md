@@ -1150,6 +1150,19 @@ https://youtu.be/EuEZ83VAfgQ
 </details>
 
 <details>
+<summary>Technica</summary>
+<br>
+About <br>
+Technica is the world’s largest hackathon for underrepresented genders, hosted over the duration of 24 hours each fall by students at the University of Maryland and online. This year’s theme is "Reach New Heights!" This year, we want to help all of our hackers rise to the next level in their tech journey, whether that means tackling challenging new projects or writing your first line of code. We encourage you to be open-minded, be curious, and find your space in tech. Explore your untapped potential — the sky's the limit at Technica! Whether we serve as a push in the right direction or as a place for you to explore your curiosities, we hope that you are able to #ReachNewHeights! <br>
+ <br> Official Website:<br>
+ https://gotechnica.org/
+
+<br> Explanation on Youtube: <br>
+https://www.youtube.com/watch?v=zzIGwnKOkyw
+
+</details>
+
+<details>
   <summary>TopCoder Open</summary>
   <br>
   About
