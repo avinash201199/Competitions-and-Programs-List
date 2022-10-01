@@ -1159,6 +1159,16 @@ https://youtu.be/5cV6sWG_EWc <br>
 </details>
 
 <details>
+<summary>Venkat Panchapakesan Scholarship Progarm</summary>
+<br>
+About<br>
+ The Venkat Panchapakesan Memorial Scholarship (India) award of $2,500 USD must be spent on tuition, fees, books, supplies and equipment required for the students' classes at their primary university. Scholarship recipients must be enrolled as full-time students for the academic years 2022-2023.<br>
+<br>
+For more details : <br>
+https://buildyourfuture.withgoogle.com/scholarships/venkat-panchapakesan-memorial-scholarship <br>
+</details>
+
+<details>
 <summary>Visa Code UR Way</summary>
 <br>
 About <br>
