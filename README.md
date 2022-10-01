@@ -1061,6 +1061,17 @@ https://www.youtube.com/watch?v=xiV7DZ8cK4g <br>
 </details>
 
 <details>
+ <summary> OnePlus Student Program</summary>
+About<br>
+OnePlus Student Ambassador Program is a campus-marketing program that aims to form a community of individuals who want to make a difference in the world through technology and have fun while doing it
+
+The program facilitates and nurtures the skills to contribute to your career growth. We want to empower and strengthen selected students across India who will serve as OnePlus community specialists and brand evangelists in their respective institutions
+
+Official Website- <br>
+https://www.oneplus.in/campus#:~:text=What%20is%20the%20OnePlus%20Student,prosper%20in%20your%20respective%20fields.
+ </details>
+
+<details>
 <summary>
 Outreachy Program</summary>
 <br>
@@ -1277,17 +1288,6 @@ https://www.youtube.com/watch?v=AA7we1OR0Y4
 
 <details>
 
- <summary> OnePlus Student Program</summary>
-About<br>
-OnePlus Student Ambassador Program is a campus-marketing program that aims to form a community of individuals who want to make a difference in the world through technology and have fun while doing it
-
-The program facilitates and nurtures the skills to contribute to your career growth. We want to empower and strengthen selected students across India who will serve as OnePlus community specialists and brand evangelists in their respective institutions
-
-Official Website- <br>
-https://www.oneplus.in/campus#:~:text=What%20is%20the%20OnePlus%20Student,prosper%20in%20your%20respective%20fields.
- </details>
-
-<details>
  <summary>Women Engineers Program</summary>
 <br>
 ABOUT- <br>
