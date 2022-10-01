@@ -474,6 +474,20 @@ https://www.youtube.com/watch?v=9-h_d-56IXk
 </details>
 
 <details>
+<summary>Github India Externship</summary>
+<br>
+About <br>
+The GitHub Externship is a <b>90-day fellowship program</b> for third or pre-final year students of GitHub Campus Partner schools. The initiative provides hands-on learning with practical and on ground experience. It's collaborative, remote, and happens under the guidance of expert mentors.
+<br><br>
+Official Website- <br>
+https://externship.github.in/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=34YdIU4GQs4&t=2526s
+
+</details>
+
+<details>
 <summary>GoogleCloudReady Facilitator Program</summary>
 <br>
 About <br>
