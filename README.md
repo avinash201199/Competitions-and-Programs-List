@@ -515,6 +515,20 @@ https://www.youtube.com/watch?v=34YdIU4GQs4&t=2526s
  </details>
 
 <details>
+ <summary>GitLab Hackathon</summary>
+ <br>
+ About <br>
+ The Hackathon is a virtual event open to anyone who is interested in contributing code, documentation, translations, UX designs and more to GitLab. By participating in GitLab's Hackathon, you have the opportunity to work on issues that matter to you and advance your skills/experience while joining a global, diverse and inclusive team of contributors and GitLab team members.
+For this Hackathon, we are introducing the following contribution areas: Website, Security, Front-end, Back-end, Documentation. Prizes are awarded to participants for having Merge Requests (MRs) merged that contribute to the issues/epics linked below on each contribution area.<br>
+ Official Website-<br>
+ https://about.gitlab.com/community/hackathon/
+ <br>
+Explanation on Youtube- <br>
+ https://www.youtube.com/watch?v=4K47L8Q0pwo&t=17s
+ 
+ </details>
+
+<details>
 <summary>GoogleCloudReady Facilitator Program</summary>
 <br>
 About <br>
