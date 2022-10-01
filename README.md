@@ -1101,6 +1101,14 @@ Timeline: February-September<br>
 Link: https://www.openmainframeproject.org/all-projects/mentorship-program <br>
 </details>
 <details>
+<summary> Redox OS Summer of Code</summary>
+About<br>
+Redox is a general-purpose operating system written in pure Rust. The Redox OS Summer of Code is the primary use of donations to the Redox OS project. Here, the students who have already demonstrated a desire and ability to contribute to Redox OS get selected.
+<br>
+Link: https://www.redox-os.org/rsoc/<br>
+
+</details>
+<details>
 <summary>
 SheCodes by Accolite Digital </summary>
 <br> ABOUT- <br>
