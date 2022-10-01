@@ -1,6 +1,6 @@
 ### How to contibute in this repository 
 
-You can contributey in many ways 
+You can contribute in many ways 
 
 1. By adding new competition into the list 
 
