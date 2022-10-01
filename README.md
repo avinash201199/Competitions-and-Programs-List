@@ -620,6 +620,17 @@ https://www.youtube.com/watch?v=psDqdNNZMfA
 </details>
 
 <details>
+<summary>Google Kick Start</summary>
+<br>
+About <br>
+Google Kickstart, formerly known as APAC is a test designed to hire people who are looking for a career in Google. The major difference between its former form and Kickstart is that there will be more testing rounds than before and is targeted to any age group rather than graduating students.
+<br>
+Official Website- <br>
+https://codingcompetitions.withgoogle.com/kickstart/<br>
+
+</details>
+
+<details>
 <summary>Google Summer of Code by Google</summary>
 <br>
 About <br>
