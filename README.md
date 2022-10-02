@@ -1,20 +1,19 @@
-# <h1 align="center">Competitions and Programs list for Students</h1> </font>
+# <h1 align="center">Competitions and Programs List for Students</h1> </font>
 
-This repository contains list of some of the great competitions and programs for college students, in which they can compete,learn,explore and experience.
-These experience will tighten their resume for jobs and will help them in their career growth.
+This repository contains a list of some great competitions and programs for college students, in which they can compete, learn, explore, and gain experience.
+
+This experience will improve their job resumes for jobs and help them in their career growth.
 
 ### How to contribute 😎<br>
 
-You can contribute in many ways in this repository 
+You can contribute in many ways to this repository:
 1. If you are beginner then you can contribute by improving the structure of the repository. <br>
-2. Design the website for this repository with the content. <br>
-3. Add more competition into the list which are not present. <br>
+2. You could design a website for this repository that includes its content. <br>
+3. You could add new competitions to the list. <br>
 
-Check [Contributing.md](https://github.com/avinash201199/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started 
+Take a look at the [CONTRIBUTING.md](https://github.com/avinash201199/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started.
 
-#### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
-
-[Helpful Website](https://github.com/avinash201199/Competitions-and-Programs-List/tree/main/Helpful%20Websites) You can also contribute by adding some resourceful websites.
+#### Note: before contributing, please create an issue first so that I can assign you one to work on.
 
 <hr>
 
@@ -516,6 +515,20 @@ https://www.youtube.com/watch?v=34YdIU4GQs4&t=2526s
  </details>
 
 <details>
+ <summary>GitLab Hackathon</summary>
+ <br>
+ About <br>
+ The Hackathon is a virtual event open to anyone who is interested in contributing code, documentation, translations, UX designs and more to GitLab. By participating in GitLab's Hackathon, you have the opportunity to work on issues that matter to you and advance your skills/experience while joining a global, diverse and inclusive team of contributors and GitLab team members.
+For this Hackathon, we are introducing the following contribution areas: Website, Security, Front-end, Back-end, Documentation. Prizes are awarded to participants for having Merge Requests (MRs) merged that contribute to the issues/epics linked below on each contribution area.<br>
+ Official Website-<br>
+ https://about.gitlab.com/community/hackathon/
+ <br>
+Explanation on Youtube- <br>
+ https://www.youtube.com/watch?v=4K47L8Q0pwo&t=17s
+ 
+ </details>
+
+<details>
 <summary>GoogleCloudReady Facilitator Program</summary>
 <br>
 About <br>
@@ -584,6 +597,28 @@ https://onlinechallenge.withgoogle.com/
 </details>
 
 <details>
+<summary>Google Maps Platform Hackathon</summary>
+<br>
+About <br>
+Google Maps Platform allows developers to create unique location-based experiences using our APIs & SDKs. Now is your chance to build or expand an existing app to incorporate rich location experiences using the latest APIs and push the boundaries of what is possible with their platform.
+<br>
+ In this hackathon they invite you to use Google Maps Platform APIs and SDKs. Build a unique app in one of the following categories.<br><br>
+Map Customization<br>
+Use Cloud-based map styling to create custom map styles for real-time updates across all devices and platforms. The new Cloud-based map styling makes it easy to tailor experiences for specific industries or customer needs with hundreds of customization types.<br><br>
+Data Visualization<br>
+Let data tell a unique story. Help make decisions and improve overall operational efficiencies by displaying data on your map. <br><br>
+Mobile App<br>
+Use Google Maps Platform mobile SDKs to connect your mobile app and the real world. Leverage mobile SDKs to build dynamic, interactive, geospatial experiences for your mobile app.<br><br>
+User Experience<br>
+Provide a unique experience for your app users with Google Maps Platform APIs and tools. Whether it’s unique transit information, a delivery game, or beyond, discover the breadth of capabilities Google Maps Platform has to offer.<br><br>
+Official Website: <br>
+https://googlemapsplatform.devpost.com/?ref_feature=challenge&ref_medium=discover<br>
+<br>
+Explanation on Youtube: <br>
+https://www.youtube.com/watch?v=kA679ERgBV4<br>
+</details>
+
+<details>
 <summary>Google Step Intern</summary>
 <br>
 About <br>
@@ -600,6 +635,17 @@ https://buildyourfuture.withgoogle.com/programs/step/<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=psDqdNNZMfA
+
+</details>
+
+<details>
+<summary>Google Kick Start</summary>
+<br>
+About <br>
+Google Kickstart, formerly known as APAC is a test designed to hire people who are looking for a career in Google. The major difference between its former form and Kickstart is that there will be more testing rounds than before and is targeted to any age group rather than graduating students.
+<br>
+Official Website- <br>
+https://codingcompetitions.withgoogle.com/kickstart/<br>
 
 </details>
 
@@ -682,6 +728,23 @@ At hackCBS, we help you turn your ideas into reality by providing a comforting a
   <br>
   https://www.youtube.com/watch?v=tDcEn5Mu6nE
   <br>
+</details>
+ 
+<details>
+<summary>HackerRank Contests</summary>
+<br>
+About <br>
+If you are a beginner and want to develop basic concept then I will suggest you go with this website because they have some good problems for beginners which is sorted level wise i.e. you will get problems in increasing difficulty level. And by applying some basic logic you will able to crack them. And also we can say this is they have a good beginner-friendly environment.
+
+They also divide problems topic wise manner e.g. In case you just completed for loop concept and want to solve the problem on that then you can. And they have some other features like 30 Days of codes or recently they publish a new section i.e. interview preparation where you will get some videos related to technical interview rounds.
+
+The main domain they cover:
+Algorithms, Mathematics, SQL, Functional programming, AI and more.<br>
+<br>
+Official Website- <br>
+https://www.hackerrank.com/contests<br>
+<br>
+
 </details>
  
 <details>
@@ -1121,7 +1184,22 @@ YouTube link for information-<br>
 https://www.youtube.com/watch?v=2C6lJorOYfA&t=1s<br>
 
 </details>
+<details>
+<summary> Open Mainframe Project Mentorship Program</summary>
+About<br>
+Open Mainframe Project also has its own open-source program and the mentees will be able to expand their knowledge on the mainframe technology. So, if you’re interested in the mainframe and all these things you can definitely check that out. You’ll also help in contributing to open source projects which will make it easier for infrastructure applications to run on the mainframe. So, it is an overwhelming fact that the application or the code that you’re writing is actually being used by a lot of people.<br>
 
+Timeline: February-September<br>
+Link: https://www.openmainframeproject.org/all-projects/mentorship-program <br>
+</details>
+<details>
+<summary> Redox OS Summer of Code</summary>
+About<br>
+Redox is a general-purpose operating system written in pure Rust. The Redox OS Summer of Code is the primary use of donations to the Redox OS project. Here, the students who have already demonstrated a desire and ability to contribute to Redox OS get selected.
+<br>
+Link: https://www.redox-os.org/rsoc/<br>
+
+</details>
 <details>
 <summary>
 SheCodes by Accolite Digital </summary>
@@ -1370,7 +1448,64 @@ Official Website- <br>
 https://ieeextreme.org/#REGISTRATION<br>
 <br>
 </details>
+ <details>
+<summary>Zuno Fellowship Program</summary>
+<br>
+About <br>
+The idea behind the Zuno Fellowship Program is to be the largest Fellowship Program in India. Candidates will stand a chance to win rewards worth over $1M annually and also have a chance to Upskill, add Premium Internship tag, win Cash & Brand Goodies.All candidates between the age of 17 - 25 years who are pursuing their UG or PG courses.
+It takes place on 17 December,  04:00 PM - 07:00 PM <br>
+<br>
+Official Website- <br>
+https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia
+<br>
+</details>
+ 
 <details>
+<summary>IBM zStudent Contest</summary>
+<br>
+About <br>
+HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrilling coding contest centered around sustainable energy that will teach you computing skills used to power some of today’s largest enterprise companies. Along the way, you will learn JCL, z/OS, SQL, COBOL, Python, APIs, Unix and more.
+
+Through completion of Fundamentals and Concepts levels (how you earn the Concepts Badge), contestants will have skills in:
+
+VS Code
+JCL
+Files and Members
+Unix System Services (USS)
+REXX
+Python
+
+<br>
+Official Website- <br>
+https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/?utm_source=arsh&utm_medium=instagram_story&utm_campaign=IBMz<br>
+<br>
+</details>
+
+<details>
+<summary>Cosmos and Chaos</summary>
+<br>
+About <br>
+“Curiosity creates innovation. Innovation fuels success.”
+
+Astronomy Club brings Cosmos and Chaos- a 3-hour rendition of a multi-dimensional treasure hunt, spanning 5 phases. Our aim? To allow our participants to channel their inner Sherlock Holmes, and challenge the limits of their cognitive and creative abilities in a limited time frame.
+
+The event will be based on the theme of astronomy. There will be 5 phases or levels that the participants have to complete. 
+A team can progress to higher levels as soon as they are approved for completion of a prior level. They can collaboratively work as a team of 2-4 members to find answers.
+
+<br>
+Official Website- <br>
+https://unstop.com/competition/cosmos-and-chaos-uphoria-x-zenevia-bennett-university-bu-greater-noida-440498<br>
+<br>
+</details>
+
+
+
+
+
+<details>
+
+
+
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
