@@ -1530,6 +1530,25 @@ https://www.facebook.com/codingcompetitions/hacker-cup<br>
  
 </details>
 
+<details>
+<summary>Technovation Challenge</summary>
+<br>
+About <br>
+The Technovation Challenge is designed to get more girls interested in coding and computer science. 
+Girls work in teams of 1-5 and with volunteer mentors to use technology to design an app that helps 
+solve real world problems such as climate change, bullying, and hunger. 
+Both novices and girls with strong backgrounds in computer science can participate, 
+as the competition is designed to help girls build their tech skills.
+
+<br>
+ 
+ 
+Official Website- <br>
+https://technovationchallenge.org/<br>
+<br>
+ 
+</details>
+
 
 
 <details>
