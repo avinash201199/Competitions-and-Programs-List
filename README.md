@@ -1312,6 +1312,23 @@ https://youtu.be/5Ma4V_rsyGw
  </details>
 
 <details>
+ <summary>Twitter #DevelopHER JAPAC</summary>
+ <br>
+ About <br>
+Twitter #DevelopHER, A two-day program for third year students who identify as women. Participants will experience hands-on technical workshops, professional development seminars, meet with senior leaders, engage with our Business Resource Groups (BRGs), and explore career opportunities at Twitter.
+
+<br>Application procedure:<br> Simple procedure asking for a resume and LinkedIn profile. The applications open around August-September every year.
+Out of the 9,000+ applicants they had this year, 30 students were selected for the final #DevelopHer program.<br>
+<br>
+Official Website <br>
+https://careers.twitter.com/en/early-career.html <br>
+<br>
+Explanation on YouTube   <br>
+https://www.youtube.com/watch?v=y2ciehLvJP4&t=4s
+ 
+</details>
+
+<details>
 <summary>Uber HackTag</summary>
 <br>
 ABOUT- <br>
