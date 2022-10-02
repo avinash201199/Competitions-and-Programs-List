@@ -172,6 +172,25 @@ https://www.youtube.com/watch?v=Q-JFUzGSWT8
 </details>
 
 <details>
+<summary>CodeAgon by CodeNation(Trilogy Innovations)</summary>
+<br>
+CodeAgon is a nationwide coding challenge in India focusing on Data Structures and Algorithms organised by CodeNation.<br>
+Highlights:<br>
+1. Chance to win worth 200000+ INR.<br>
+2. Chance to interview with CodeNation for SDE role (CTC 3500000+ INR).<br>
+3. Chance to get internship at CodeNation.<br>
+<br>
+Website:<br>
+Challenge - https://www.interviewbit.com/contest/codeagon-2021-106e/ <br>
+CodeNation - https://codenation.org/ <br>
+<br>
+Explanation on Youtube:<br>
+https://www.youtube.com/watch?v=1wk8NYQl6t8 (Hindi/English)<br>
+https://www.youtube.com/watch?v=X-eT_np4naY (English) [Preparation]<br>
+<br>
+</details>
+
+<details>
  <summary>Code For Good </summary>  <br>
 Use your coding skills to make a difference
 At our Code for Good hackathon, you'll collaborate with other coders to develop innovative technology solutions for not-for-profit organizations. You'll also learn about starting a Technology career with us while being guided by the sharpest minds in our industry.
