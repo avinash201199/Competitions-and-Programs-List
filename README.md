@@ -1353,6 +1353,28 @@ https://www.youtube.com/watch?v=sBo7rCu1XYY <br>
 </details>
 
 <details>
+<summary>Uber She++</summary>
+<br>
+ABOUT- <br>
+Uber She++ is Uber’s event for promoting diversity and inclusion. It is a 2-day event that includes interaction with senior leaders at Uber, a fireside chat with women engineers at Uber, and a lot more about Uber’s culture. <br>
+Application Dates: Usually opens around March (around Women’s Day).<br>
+
+<br>Eligibility<br>
+• You will received a form to fill out, from your Placement cell for this event, around the second week of March.The form included basic details such as college, stream, and CGPA.<br>
+• The 17 best engineering colleges in India were eligible for She++, which included the top 3 NITs (including my college NITK Surathkal), 3 BITS, the top 7–8 IITs, IIITH, and few colleges from Delhi (NSIT, DTU).<br>
+• Almost everyone who registered and met the basic criteria of studying from the above colleges, irrespective of the branch of study, was selected for the next coding round.<br>
+• Basically, 2nd-year students from a 4-year program and 3rd-year students from a 5-year program from the above colleges are eligible for She++. <br>
+<br>
+OFFICIAL WEBSITE LINK- <br>
+https://events.beamery.com/uber/uber-she++-2022-t1khjteyw/0 <br>
+<br>
+YouTube Link for further information-<br>
+https://www.youtube.com/watch?v=FLBLrEc4wEo <br>
+
+</details>
+
+
+<details>
 <summary>Uplift Project</summary>
 <br>
 ABOUT- <br>
