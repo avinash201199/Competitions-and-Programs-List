@@ -109,6 +109,22 @@ https://www.youtube.com/watch?v=nVi-QwX82GI
 </details>
 
 <details>
+<summary>AmazeWIT Circles</summary>
+<br>About<br>
+
+AmazeWIT (WIT - Women in Technology) is a unique networking and mentoring platform to educate women and prepare them for long term careers in technology.Through this initiative, their goal is to develop community of women in technology who can share,interact and support each other while learning from the journeys of successful women and leaders in this field.
+This is a dedicated cohort-based connection that brings women of similar skill sets and aspirations together to enhance their knowledge of the field. It includes leadership sessions focusing on topics ranging from data structures, coding, algorithms, and more.
+As of now, AmazeWIT Circles are curated for Software Development Engineers where technology leaders from Amazon cover topics relevant for tech innovation- thus enabling a long-term career in technology.
+
+
+<br>Official Website- <br>
+https://amazewitcirclesamazon.splashthat.com/
+<br>Explanation on Youtube- <br>
+https://youtu.be/PegOU0RO3MM
+
+</details>
+
+<details>
 <summary>Amazon WOW</summary>
 <br>About<br>
 
