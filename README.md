@@ -586,24 +586,29 @@ https://www.youtube.com/watch?v=earTjC0iSjg
 </details>
 
 <details>
+<summary>Google Online Challenge</summary>
+<br>
+About <br>
+Google’s Online Challenge is a platform that presents a fair, unbiased opportunity for you to engage in Google's hiring process. By participating in a timed online challenge, Google gains a better understanding of your skills while also providing you with insight into Google's hiring process.
+If you’re looking for a place that values your curiosity and desire to learn, seeking colleagues who are big thinkers and you’re eager to take on fresh challenges as a team, Google’s Online Challenge could take you one step closer to becoming a Googler.<br>
+<br>
+Official Website- <br>
+https://onlinechallenge.withgoogle.com/
+</details>
+
+<details>
 <summary>Google Maps Platform Hackathon</summary>
 <br>
 About <br>
 Google Maps Platform allows developers to create unique location-based experiences using our APIs & SDKs. Now is your chance to build or expand an existing app to incorporate rich location experiences using the latest APIs and push the boundaries of what is possible with their platform.
 <br>
  In this hackathon they invite you to use Google Maps Platform APIs and SDKs. Build a unique app in one of the following categories.<br><br>
-
 Map Customization<br>
 Use Cloud-based map styling to create custom map styles for real-time updates across all devices and platforms. The new Cloud-based map styling makes it easy to tailor experiences for specific industries or customer needs with hundreds of customization types.<br><br>
-
-
 Data Visualization<br>
 Let data tell a unique story. Help make decisions and improve overall operational efficiencies by displaying data on your map. <br><br>
-
-
 Mobile App<br>
 Use Google Maps Platform mobile SDKs to connect your mobile app and the real world. Leverage mobile SDKs to build dynamic, interactive, geospatial experiences for your mobile app.<br><br>
-
 User Experience<br>
 Provide a unique experience for your app users with Google Maps Platform APIs and tools. Whether it’s unique transit information, a delivery game, or beyond, discover the breadth of capabilities Google Maps Platform has to offer.<br><br>
 Official Website: <br>
