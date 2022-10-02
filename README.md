@@ -1086,6 +1086,20 @@ https://www.youtube.com/watch?v=_H65WfXPxuA
 </details>
 
 <details>
+<summary>Millennium Campus Fellowship Program</summary>
+<br>
+About <br>
+ Millennium Campus Network (MCN) is a Boston-based, global non-profit convening and training 21st-century social impact leaders. Through the Millennium Fellowship and Millennium Oceans Prize, MCN helps young leaders use their voices and power to make a difference on campus and in community.
+ The Millennium Fellowship, which launched in 2013, is a 10 session, semester-long leadership accelerator convening student leaders across universities to improve their student organizations, partnerships, and community impact. <br>
+<br>
+Official Website:<br>
+ https://www.millenniumfellows.org/<br>
+<br>
+Explanation on Youtube:<br>
+https://youtu.be/1De8MJlpGRw
+</details>
+ 
+<details>
 <summary>Mitacs Globalink Research Internship</summary>
 <br>
 About <br>
