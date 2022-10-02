@@ -1498,7 +1498,19 @@ https://unstop.com/competition/cosmos-and-chaos-uphoria-x-zenevia-bennett-univer
 <br>
 </details>
 
+<details>
+<summary>MLH Global Hack Week, October 23-30, 2022</summary>
+<br>
+About <br>
+Global Hack Week October is their beginner-friendly hacker festival. You can expect to complete challenges, chat at hacker hangouts, enjoy fun live sessions, build technical projects, and make new memories.
 
+Global Hack Weeks are attended by hackers from all over the globe. Whether this is your first time coding or you're a seasoned expert, we will have events here for you. Our last Global Hack Week included hackers from over 90 countries around the world! If you're a first-time hacker, there will be beginner-focused activities for you.
+
+<br>
+Official Website- <br>
+https://ghw.mlh.io/oct<br>
+<br>
+</details>
 
 
 
