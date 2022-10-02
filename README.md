@@ -1626,6 +1626,24 @@ https://technovationchallenge.org/<br>
 
 
 <details>
+<details>
+<summary>Google Cloud Programs</summary>
+<br> 1. Google Cloud Ready Facilitator Program<br>
+ <br>about<br>
+It is the programs of qwiklabs which provides goodies & swags.
+ It held in (April-June).
+<br>Official Website- <br>
+https://gdsc.community.dev/events/details/developer-student-clubs-college-of-engineering-thalassery-presents-googlecloudready-facilitator-program/
+<br>Explanation on Youtube- <br>
+https://lnkd.in/dabknRqp
+<br> 2. The Arcade<br>
+ <br>about<br>
+This is Launched for the First Time and going on currently you can take part in it and this event will provide you all the goodies of qwiklabs in December
+<br>Official Website- <br>
+https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade
+<br>Explanation on Youtube- <br>
+https://lnkd.in/dPNVidri
+</details>
 
 
 
