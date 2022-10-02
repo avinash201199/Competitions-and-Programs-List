@@ -1512,6 +1512,43 @@ https://ghw.mlh.io/oct<br>
 <br>
 </details>
 
+<details>
+<summary>Meta Hacker Cup</summary>
+<br>
+About <br>
+Hacker Cup is Meta's annual open programming competition. 
+Open to participants around the world, we invite you to apply problem-solving and algorithmic
+coding skills to advance through each year’s online rounds, win prizes, and
+have a chance to make it to the global finals and win the grand prize.
+
+<br>
+ 
+ 
+Official Website- <br>
+https://www.facebook.com/codingcompetitions/hacker-cup<br>
+<br>
+ 
+</details>
+
+<details>
+<summary>Technovation Challenge</summary>
+<br>
+About <br>
+The Technovation Challenge is designed to get more girls interested in coding and computer science. 
+Girls work in teams of 1-5 and with volunteer mentors to use technology to design an app that helps 
+solve real world problems such as climate change, bullying, and hunger. 
+Both novices and girls with strong backgrounds in computer science can participate, 
+as the competition is designed to help girls build their tech skills.
+
+<br>
+ 
+ 
+Official Website- <br>
+https://technovationchallenge.org/<br>
+<br>
+ 
+</details>
+
 
 
 <details>
