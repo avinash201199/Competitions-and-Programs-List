@@ -1512,6 +1512,21 @@ https://ghw.mlh.io/oct<br>
 <br>
 </details>
 
+<details>
+<summary>Meta Hacker Cup</summary>
+<br>
+About <br>
+Hacker Cup is Meta's annual open programming competition. 
+Open to participants around the world, we invite you to apply problem-solving and algorithmic
+coding skills to advance through each year’s online rounds, win prizes, and
+have a chance to make it to the global finals and win the grand prize.
+
+<br>
+Official Website- <br>
+https://www.facebook.com/codingcompetitions/hacker-cup<br>
+<br>
+</details>
+
 
 
 <details>
