@@ -19,10 +19,16 @@ export const Accordion_Item_Title = styled.div`
   cursor: pointer;
   max-width: auto;
   
+  
   h5{
     font-family: 'IBM Plex Serif', serif;
     font-size: 1.85rem;
     font-weight: 500;
+  }
+
+  .open{
+    transform: rotate(450deg); 
+    transition: all 0.3s ease-in-out;
   }
 `
 export const Accordion_Item_Content = styled.div`
@@ -32,12 +38,23 @@ export const Accordion_Item_Content = styled.div`
   font-family: 'IBM Plex Sans Thai Looped', sans-serif;
   /* display: flex ; */
   display: none;
-  transition: all 1s ease-in-out;
+  height: 0;
+  transition: height 0.3s ease-in-out;
 
   &.show{
     display: flex;
-    transition: all 1s ease-in-out;
+    height: auto;
+    transition: height 1s ease-in-out;
 
+  }
+
+  @keyframes animate {
+    0% { 
+      height: 0;
+    }
+    100% {
+      height: auto;
+    }
   }
 
   h5{

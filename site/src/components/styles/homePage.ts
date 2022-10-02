@@ -13,6 +13,7 @@ export const Container = styled.div`
     /* height: 100vh;   */
     width: 90%;
     background-color: #e5e5e5;
+    position: relative;
     /* display: flex;
     justify-content: center;
     align-items: center;
@@ -43,6 +44,13 @@ export const Container = styled.div`
         margin: 5rem auto 0rem;
         color: #777B84;
         font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    }
+    .icon{
+        position: absolute;
+        top: 4rem;
+        right: 5rem;
+        font-size: 3.5rem;
+        cursor: pointer;
     }
 `
 // export const Container = styled.div``

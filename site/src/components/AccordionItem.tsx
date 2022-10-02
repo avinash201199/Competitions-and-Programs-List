@@ -19,7 +19,7 @@ const AccordionItem: React.FC<any> = ({ ...props }) => {
     return (
         <Accordion_Item_Wrapper>
             <Accordion_Item_Title onClick={() => setIsOpen(!isOpen)}>
-                <ArrowRightIcon style={{ fontSize: "3rem" }} />
+                <ArrowRightIcon style={{ fontSize: "3rem"  }} className={isOpen ? "open" : ""} />
                 <h5>{props.title}</h5>
             </Accordion_Item_Title>
             <Accordion_Item_Content className={isOpen ? "show" : ""}>
