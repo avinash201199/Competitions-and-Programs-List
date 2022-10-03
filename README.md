@@ -1379,6 +1379,27 @@ Explanation on Youtube- <br>
 https://youtu.be/EuEZ83VAfgQ
 
 </details>
+ 
+<details>
+<summary>TechGig Geek Goddess</summary>
+<br>
+About<br>
+TechGig Geek Goddess, presented by American Express, is India's biggest women-only hackathon, wherein you stand a chance to win prizes upto INR 10+ Lakh. This is a huge opportunity to showcase your coding skills, compete with your peers, meet top women tech leaders and interact with innovative technology companies at one place. <br>
+<br>
+Rules:<br> 
+ 
+- Time duration of Geek Goddess 2022 - Open Round would be 3 hours.<br>
+- You will be able to access the problem statement once you click the "Solve Problem" button.<br>
+- The Problem Statement page has a Live Coding Environment where you can code and compile your code.<br>
+- Once you are done writing your code, a default test case will be used to check your code.<br>
+
+Official Website: <br>
+https://www.techgig.com/geekgoddess <br>
+<br>
+Explanation on YouTube: <br>
+https://www.youtube.com/watch?v=ws_L3sWFE_4&list=PLyys4weFOrPecVbNdoUc9bgAsIR-SYQx7
+</details>
+ 
 
 <details>
 <summary>Technica</summary>
