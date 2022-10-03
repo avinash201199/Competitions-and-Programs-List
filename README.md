@@ -1060,6 +1060,26 @@ Microsoft Engage is a student engagement and mentorship program by Microsoft tha
 </details>
 
 <details>
+<summary>Microsoft Fix-a-thon</summary>
+<br>
+About<br>
+Microsoft Fix-a-thon is a National-level hackathon, conducted to hire final year college students for the role of Support Engineering interns. Support engineers are part of Microsoft’s Customer Experience & Success (CE&S) team. <br>
+<br>
+Eligibility Criteria for Fix-a-thon:<br> 
+
+- Students who are pursuing BE/B.Tech in CSE/IT/other quantitative branches.<br>
+- CGPA above 8 in the current degree.<br>
+- Degree Completion year should be current year(last year of Graduation).<br>
+- Candidate should not have participated in any Microsoft hiring event in the last 12 months.<br>
+
+Official Website: <br>
+https://careers.microsoft.com/us/en/fix-a-thon <br>
+<br>
+Explanation on YouTube: <br>
+https://youtu.be/fGFQkdn5BPg
+</details>
+
+<details>
 <summary>Microsoft Imagine Cup</summary>
 <br>
 About <br>
