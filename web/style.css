@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 62.5%;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.wrapper {
+    width: 100vw;
+    /* height: 100vh; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper .container {
+    width: 90%;
+    background-color: #e5e5e5;
+    position: relative;
+}
+
+
+
+.wrapper .container a .GitHubIcon{
+    position: absolute;
+    top: 4rem;
+    right: 3rem;
+    font-size: 4rem;
+    cursor: pointer;
+}
+
+.wrapper .container .greeting{
+    font-size: 1.8rem;
+}
+
+.wrapper .container .greeting span{
+    font-size: 3rem;
+    color: #ff0000;
+}
+
+.wrapper .container .heading {
+    width: 80%;
+    font-size: 3rem;
+    font-family: 'IBM Plex Serif', serif;
+    font-weight: 500;
+    text-align: center;
+    margin: 4rem auto 0rem;
+    color: #090808;
+
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #7B8487;
+}
+
+.wrapper .container .heading span {
+    font-family: 'Great Vibes', cursive;
+    font-size: 3.6rem;
+}
+
+.wrapper .container p {
+    text-align: center;
+    font-size: 1.8rem;
+    width: 80%;
+    margin: 5rem auto 0rem;
+    color: #777B84;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    position: relative;
+}
+
+.wrapper .container .accordion_wrapper {
+    width: 80%;
+    margin: 10rem auto 1rem;
+}
+
+.wrapper .container .accordion_wrapper .accordion_container {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    flex-direction: column;
+    padding-bottom: .7rem;
+    border-bottom: 1px solid #cccaca;
+    margin-top: 1.2rem;
+    transition: all 1s ease-in-out;
+    transition: all 0.5s cubic-bezier(0, 1, 0, 1);
+    
+}
+
+
+.wrapper .container .accordion_wrapper .accordion_container:last-child{
+    border-bottom: none;
+}
+
+.wrapper .container .accordion_wrapper .accordion_container .accordion_title {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    color: #284B63;
+    cursor: pointer;
+    max-width: auto;
+}
+
+.wrapper .container .accordion_wrapper .accordion_container .accordion_title h5 {
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 1.85rem;
+    font-weight: 500;
+    margin-left: .5rem;
+    
+}
+
+.wrapper .container .accordion_wrapper .accordion_container .accordion_title .arrow_icon{
+    font-size: 2rem;
+    color: #284B63;
+    opacity: 0.8;
+}
+
+.wrapper .container .accordion_wrapper .accordion_container .accordion_title .open{
+    transform: rotate(450deg); 
+    transition: all 0.3s ease-in-out;
+}
+
+.wrapper .container .accordion_wrapper .accordion_container .accordion_content {
+    flex-direction: column;
+    margin: 1rem 0rem 0.8rem 2rem;
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    /* display: flex; */
+    display: none;
+    /* height: 0; */
+    transition: height 0.3s ease-in-out;
+}
+
+.wrapper .container .accordion_wrapper .accordion_container .accordion_content h5 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #777B84;
+}
+
+.wrapper .container .accordion_wrapper .accordion_container .accordion_content section {
+    font-family: 'IBM Plex Serif', serif;
+    margin: .5rem 0rem 2rem;
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: #14274E;
+}
+
+.wrapper .container .accordion_wrapper .accordion_container .accordion_content section:last-child {
+    margin: .5rem 0rem .2rem;
+}
+
+.wrapper .container .accordion_wrapper .accordion_container .accordion_content a {
+    font-family: 'IBM Plex Serif', serif;
+    margin: .5rem 0rem 2rem;
+    font-size: 1.45rem;
+    font-style: italic;
+    font-weight: 500;
+    color: #132470;
+    word-wrap: break-word;
+}
+
+.wrapper .container .accordion_wrapper .accordion_container .active{
+    display: flex;
+}
+
+
+/* for @responsiveness -> smaller screens */
+@media (max-width: 768px){
+    .wrapper .container a .GitHubIcon{
+        top: 2.5%;
+        font-size: 3.3rem;
+    }
+    .wrapper .container .accordion_wrapper{
+        width: 92%;
+    }
+
+    .wrapper .container .accordion_wrapper .accordion_container .accordion_content h5{
+        font-size: 1.4rem;
+    }
+}
