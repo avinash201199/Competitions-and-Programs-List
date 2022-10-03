@@ -1851,17 +1851,19 @@ Explanation on Youtube- <br>
 <br>
  
   <details>
-<summary>WE Harvard Code for Women</summary>
+<summary>LinkedIn CoachIn</summary>
 <br>
 About <br>
-The Harvard WECode (Women Engineers Code) Conference is organized by undergraduate women at Harvard University and is an initiative of Harvard Undergraduate Women in CS. WECode hosts the largest student-run women in tech conference in the world.  <br>
+Mock interviews and tests scheduled based on Data Structures and Algorithms
+Speaker sessions where senior and junior engineers from Linkedin spoke on various topics and gave us a lot of insights on what is happening in the industry currently
+A great community of like-minded individuals! We are a group of 40 young women constantly empowering each other and taking inspiration from each other  <br>
 <br>
 Official Website - <br>
-https://www.harvardwecode.com/about-wecode
+https://www.linkedin.com/company/coachin_2/
 <br>
 <br>
 Explanation on Youtube- <br>
-https://youtu.be/cFmosT0KSRo
+https://youtu.be/BS12nHUkraA
 
 
 </details>
