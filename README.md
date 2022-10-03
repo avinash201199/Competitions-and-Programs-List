@@ -439,6 +439,30 @@ https://doodles.google.com/d4g <br>
 </details>
 
 <details>
+ <summary> Exercism </summary>
+ <br>
+ About
+ <br>
+The website differs from other coding platforms by requiring students to download exercises through a command line client, solve the code on their own computers then submit the solution for feedback, at which point they can also view other's solutions to the same problem.
+A lot of quizes and question based on every difficult levels are available on the exercism website. Also it looks very fancy and enjoyable to code.
+The Exercism codebase is open source, consisting of over 50 repositories, containing website code, API code, command-line code and over 40 stand-alone repositories for different language tracks.
+More than 1 Million students practice questions on the website and more than 3 lakh Mentoring Discussions have been made on this website.
+ <br>
+ Official Website : <br>
+ https://exercism.org/
+ <br>
+ Explanation On Youtube : <br>
+ https://youtu.be/BNfyAYlN8s4
+ <br>
+ How To Use Exercism : <br>
+ https://code.likeagirl.io/getting-started-with-exercism-io-e06e508a1fb6
+ <br>
+ https://www.codecraftr.nl/learning-programming-languages-with-exercism/
+ <br>
+ 
+</details>
+
+<details>
 <summary>e-Yantra Robotic Competition by IIT Bombay</summary>
 <br>
 About <br>
@@ -952,6 +976,20 @@ https://hpcodewarsbcn.com/<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=KCCttp-_Qn8
+
+</details>
+
+<details>
+<summary>Huawei Apps UP</summary>
+<br>
+About
+<br>
+The Huawei Global App Innovation Contest ("Apps UP" for short) is a global event held by Huawei that pools the skills of developers from around the world to build an app ecosystem that intelligently connects everything. It aims to inspire developers to innovate, bring together people, devices, and scenarios, and create consistent app experiences.<br>
+<br>
+Official Details for 2022: https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898<br>
+<br>
+2022 Youtube Announcement: <br>
+https://www.youtube.com/watch?v=HRBY0Ad_PBI
 
 </details>
 
