@@ -17,7 +17,7 @@
 
 const data = [
     {
-        id: 1,
+        
         title: "30 Days of Google Cloud by Google",
         about:
             '30 Days of Google Cloud program will provide you an opportunity to kickstart your career in cloud and get hands-on practice on Google Cloud - the tool that powers apps like Google Search, Gmail and YouTube.Along the way, you will learn & practice concepts like computing, application development, big data & machine learning using cloud & if you get stuck, you will have your "Campus Facilitators" who are specially trained on Google Cloud to help. 😎',
@@ -33,7 +33,7 @@ const data = [
         YouTube: "https://www.youtube.com/watch?v=1fNx08ONKkM",
     },
     {
-        id: 3,
+        
         title: "Adobe Express Community",
         about:
             "The Adobe Express community of like-minded business owners, online marketers, and content creators will help you find what it takes to become an expert at Adobe Express. Boost your content confidence with workshops and more for honing your skills in business and design.Empower your community to grow their businesses and stand out with Adobe Express. Tap into rewards from exclusive merchandise to free access to Adobe Express Premium.",
@@ -41,7 +41,7 @@ const data = [
         YouTube: "https://www.adobe.com/express/ambassadors/list",
     },
     {
-        id: 4,
+        
         title: "Adobe India Women-in-Technology Scholarship",
         about:
             "Adobe India Women-in-Technology Scholarship is for Indian females enrolled in a formal technology program in computer science, computer engineering, or a closely related technical field. The scholarship offered by Adobe Research aims to recognize outstanding female students in the field of technology. The scholarship focuses on creating gender equality in the science and engineering domain by encouraging women to excel in computing and technology.",
