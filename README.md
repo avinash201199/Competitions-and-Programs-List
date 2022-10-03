@@ -782,6 +782,42 @@ https://www.youtube.com/watch?v=psDqdNNZMfA
 
 </details>
 
+ <details>
+<summary>Grace Hooper Celebration Scholarship for Women</summary>
+<br>
+About <br>
+The Virtual GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. <br>
+<br>
+Official Website- <br>
+ https://ghc.anitab.org/attend/scholarships/
+<br>
+<br>
+Explanation on Youtube- <br>
+ https://www.youtube.com/watch?v=qmb0XG-55SA
+ 
+</details>
+
+
+<details>
+<summary>Google Cloud Programs</summary>
+<br> 1. Google Cloud Ready Facilitator Program<br>
+ <br>about<br>
+It is the programs of qwiklabs which provides goodies & swags.
+ It held in (April-June).
+<br>Official Website- <br>
+https://gdsc.community.dev/events/details/developer-student-clubs-college-of-engineering-thalassery-presents-googlecloudready-facilitator-program/
+<br>Explanation on Youtube- <br>
+https://lnkd.in/dabknRqp
+<br> 2. The Arcade<br>
+ About<br>
+This is Launched for the First Time and going on currently you can take part in it and this event will provide you all the goodies of qwiklabs in December
+<br>Official Website- <br>
+https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade
+<br>Explanation on Youtube- <br>
+https://lnkd.in/dPNVidri
+</details>
+
+
 <details>
 <summary>Google Kick Start</summary>
 <br>
@@ -1863,43 +1899,6 @@ https://technovationchallenge.org/<br>
  
 </details>
  
- <details>
-<summary>Grace Hooper Celebration Scholarship for Women</summary>
-<br>
-About <br>
-The Virtual GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. <br>
-<br>
-Official Website- <br>
- https://ghc.anitab.org/attend/scholarships/
-<br>
-<br>
-Explanation on Youtube- <br>
- https://www.youtube.com/watch?v=qmb0XG-55SA
-
-
-</details>
-
-
-
-
-<details>
-<summary>Google Cloud Programs</summary>
-<br> 1. Google Cloud Ready Facilitator Program<br>
- <br>about<br>
-It is the programs of qwiklabs which provides goodies & swags.
- It held in (April-June).
-<br>Official Website- <br>
-https://gdsc.community.dev/events/details/developer-student-clubs-college-of-engineering-thalassery-presents-googlecloudready-facilitator-program/
-<br>Explanation on Youtube- <br>
-https://lnkd.in/dabknRqp
-<br> 2. The Arcade<br>
- About<br>
-This is Launched for the First Time and going on currently you can take part in it and this event will provide you all the goodies of qwiklabs in December
-<br>Official Website- <br>
-https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade
-<br>Explanation on Youtube- <br>
-https://lnkd.in/dPNVidri
-</details>
 
 
  <details>
@@ -1916,9 +1915,9 @@ Explanation on Youtube- <br>
  https://youtu.be/y2ciehLvJP4
 </details>
 <br>
-  <details>
+  
 
-<br>
+
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
