@@ -1885,6 +1885,42 @@ https://lnkd.in/dPNVidri
 </details>
 
 
+ <details>
+<summary>Twitter DevelopHer for Women</summary>
+<br>
+About <br>
+A two-day program for third year students who identify as women. Participants will experience hands-on technical workshops, professional development seminars, meet with senior leaders, engage with our Business Resource Groups (BRGs), and explore career opportunities at Twitter. <br>
+<br>
+Official Website- <br>
+https://careers.twitter.com/en/early-career.html
+<br>
+<br>
+Explanation on Youtube- <br>
+ https://youtu.be/y2ciehLvJP4
+
+
+</details>
+
+<br>
+ 
+  <details>
+<summary>LinkedIn CoachIn</summary>
+<br>
+About <br>
+Mock interviews and tests scheduled based on Data Structures and Algorithms
+Speaker sessions where senior and junior engineers from Linkedin spoke on various topics and gave us a lot of insights on what is happening in the industry currently
+A great community of like-minded individuals! We are a group of 40 young women constantly empowering each other and taking inspiration from each other  <br>
+<br>
+Official Website - <br>
+https://www.linkedin.com/company/coachin_2/
+<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/BS12nHUkraA
+
+
+</details>
+
 <br>
 
 For any doubt contact me here: - <br>
