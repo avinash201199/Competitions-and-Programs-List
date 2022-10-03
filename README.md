@@ -355,6 +355,26 @@ https://www.youtube.com/watch?v=U8SQZh6rHow
 </details>
 
 <details>
+<summary>Delta Winter of Code</summary>
+<br>
+ABOUT- <br>
+ Delta Winter of Code is a open source program held in every winter organised by Delta Force, and the Coding club of NIT Trichy. With an aim to support and improve the culture of open source software around us, this serves as a platform for young student developers (or even starters) to hone their technical skills by taking up projects of their interests. We hope this encourages collabrative experiences and allows students from all backgrounds to contribute to quality technical projects from diverse fields. 
+<br>
+
+<br>Eligibility<br>
+• Anyone can contribute doesn't matter wheather He/She is new to open-source and expert in this file. Motive is to make every familiar with open source and it's power how can it impact in positive way<br>
+ 
+• It generally start between Nov and run till January.<br>
+<br>
+ 
+OFFICIAL WEBSITE LINK- <br>
+https://dwoc.io/ <br>
+<br>
+
+
+</details>
+
+<details>
 <summary>Discovery Fellowship</summary>
 <br>
 About<br>
