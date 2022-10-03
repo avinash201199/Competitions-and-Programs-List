@@ -815,6 +815,12 @@ The event will be based on the theme of astronomy. There will be 5 phases or lev
 
 Global Hack Weeks are attended by hackers from all over the globe. Whether this is your first time coding or you're a seasoned expert, we will have events here for you. Our last Global Hack Week included hackers from over 90 countries around the world! If you're a first-time hacker, there will be beginner-focused activities for you. `,
         siteUrl: "https://ghw.mlh.io/oct",
+    }, {
+        title: "LinkedIn Coachin, March, 2023",
+        about: `Mock interviews and tests scheduled based on Data Structures and Algorithms
+Speaker sessions where senior and junior engineers from Linkedin spoke on various topics and gave us a lot of insights on what is happening in the industry currently
+A great community of like-minded individuals! We are a group of 40 young women constantly empowering each other and taking inspiration from each other `,
+        siteUrl: "https://coachin2021.splashthat.com/",
     },
 ];
 
