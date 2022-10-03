@@ -510,6 +510,20 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=1KXH58pcslU
 
 </details>
+<details>
+<summary>GOOGLE DEVELOPERS Machine Learning Bootcamp - India</summary>
+<br>
+About <br>
+Screened participants are required to complete a training course in deep learning, a ML certification, and a hands-on project in 4 months. Those that complete all of them will be given a chance to apply for a full-time job or an intern position at one of the IT companies in India that provide services involving machine learning. 
+<br><br>
+Official Website- <br>
+https://rsvp.withgoogle.com/events/google-ml-bootcamp-india/<br>
+<br>
+
+
+</details>
+
+
 
 <details>
 <summary>GirlScript Winter of Contributing</summary>
