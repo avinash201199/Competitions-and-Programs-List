@@ -1811,7 +1811,7 @@ Explanation on Youtube- <br>
 
 
 
-<details>
+
 <details>
 <summary>Google Cloud Programs</summary>
 <br> 1. Google Cloud Ready Facilitator Program<br>
