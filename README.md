@@ -1835,7 +1835,7 @@ Explanation on Youtube- <br>
 
 
 
-<details>
+
 <details>
 <summary>Google Cloud Programs</summary>
 <br> 1. Google Cloud Ready Facilitator Program<br>
@@ -1847,7 +1847,7 @@ https://gdsc.community.dev/events/details/developer-student-clubs-college-of-eng
 <br>Explanation on Youtube- <br>
 https://lnkd.in/dabknRqp
 <br> 2. The Arcade<br>
- <br>about<br>
+ About<br>
 This is Launched for the First Time and going on currently you can take part in it and this event will provide you all the goodies of qwiklabs in December
 <br>Official Website- <br>
 https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade
@@ -1856,7 +1856,7 @@ https://lnkd.in/dPNVidri
 </details>
 
 
-
+<br>
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
