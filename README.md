@@ -962,9 +962,9 @@ About
 <br>
 The Huawei Global App Innovation Contest ("Apps UP" for short) is a global event held by Huawei that pools the skills of developers from around the world to build an app ecosystem that intelligently connects everything. It aims to inspire developers to innovate, bring together people, devices, and scenarios, and create consistent app experiences.<br>
 <br>
-Official Details for 2022 : https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898<br>
+Official Details for 2022: https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898<br>
 <br>
-2022 Youtube Announcement : <br>
+2022 Youtube Announcement: <br>
 https://www.youtube.com/watch?v=HRBY0Ad_PBI
 
 </details>
@@ -978,7 +978,7 @@ Imagine Cup is an annual competition sponsored and hosted by Microsoft Corp. whi
 Official Website- <br>
 https://imaginecup.microsoft.com/en-us/Events<br>
 <br>
-Explanation on Youtube: <br>
+Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=Mtx8FWqxrMs
 
 </details>
