@@ -1623,6 +1623,47 @@ https://technovationchallenge.org/<br>
  
 </details>
 
+<details>
+<summary>Yandex Algorithm</summary>
+<br>
+About <br>
+Yandex has supported competitive programming for many years: it arranges competitions and organizes training camps and schools. From 2011 to 2018, the company held international competitions for competitive programing: Yandex.Algorithm.
+
+This year, it's back as a separate track, and its tasks were created by Yandex developers, programming competition participants. <br>
+<br>
+Official Website- <br>
+https://yandex.com/cup/algorithm
+<br>
+</details>
+
+
+
+<details>
+<summary>VK Cup</summary>
+<br>
+About<br>
+The VK Cup Championship is an open computer programming competition that is held by VK, Codeforces and Saratov State University. VK is the largest European social network with more than a 100 million active users. The Championship Final Round will be held in July in St. Petersburg. Top 50 contestants of the Round 3 will be invited to the Finals, with trip expenses covered by the organizing committee.<br>
+<br>
+For more details : <br>
+https://codeforces.com/blog/entry/3977 <br>
+</details>
+
+<details>
+<summary>
+NASA International Space Apps Challenge (Space Apps)</summary>
+<br>
+About-<br>
+The NASA International Space Apps Challenge (Space Apps) is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage the National Aeronautics and Space Administration’s (NASA’s) free and open data to address real-world problems on Earth and in space.
+
+Each October, over the course of two days, Space Apps brings participants from around the world together at hundreds of in-person and virtual local events to solve challenges submitted by NASA experts. After the hackathon, project submissions are judged by space agency experts and winners are selected for one of 10 Global Awards.
+<br>
+Official Link-
+<https://www.spaceappschallenge.org/><br>
+
+YouTube link for information-<br>
+https://www.youtube.com/watch?v=hmKw7CQwNls<br>
+</details>
+
 
 
 <details>
