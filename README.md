@@ -1557,6 +1557,15 @@ Explanation on Youtube- <br>
 https://youtu.be/EuEZ83VAfgQ
 
 </details>
+<details>
+<summary>Season of KDE </summary>
+<br>
+About <br>
+Season of KDE is an outreach program hosted by the KDE community. Every year since 2013, KDE Student Programs has been running Season of KDE as a program similar to, but not quite the same as Google Summer of Code, offering an opportunity to everyone (not just students) to participate in both code and non-code projects that benefits the KDE ecosystem. In the past few years, SoK participants have not only contributed new application features but have also developed the KDE Continuous Integration System, statistical reports for developers, a web framework, ported KDE Applications, created documentation and lots and lots of other work.
+<br> Official Website- <br>
+https://season.kde.org/<br>
+
+</details>
  
 <details>
 <summary>TechGig Geek Goddess</summary>
