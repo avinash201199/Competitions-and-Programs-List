@@ -414,6 +414,12 @@ The top performers also get a chance to work with Infosys. The top three winning
         YouTube: "https://www.youtube.com/watch?v=KCCttp-_Qn8",
     },
     {
+        title:"Huawei Apps UP",
+        about:`The Huawei Global App Innovation Contest ("Apps UP" for short) is a global event held by Huawei that pools the skills of developers from around the world to build an app ecosystem that intelligently connects everything. It aims to inspire developers to innovate, bring together people, devices, and scenarios, and create consistent app experiences`,
+        siteUrl:"https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898",
+        YouTube:"https://www.youtube.com/watch?v=HRBY0Ad_PBI",
+    },
+    {
         title: "Imagine Cup by Microsoft",
         about: `Imagine Cup is an annual competition sponsored and hosted by Microsoft Corp. which brings together student developers worldwide to help resolve some of the world's toughest challenges.[1] It is considered as "Olympics of Technology" by computer science and engineering and is considered one of the top competitions and awards related to technology and software design. All Imagine Cup competitors create projects that address the Imagine Cup theme: "Imagine a world where technology helps solve the toughest problems". Started in 2003, it has steadily grown, with more than 358,000 competitors representing 183 countries and regions in 2011. `,
         siteUrl: "https://imaginecup.microsoft.com/en-us/Events",

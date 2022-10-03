@@ -956,6 +956,20 @@ https://www.youtube.com/watch?v=KCCttp-_Qn8
 </details>
 
 <details>
+<summary>Huawei Apps UP</summary>
+<br>
+About
+<br>
+The Huawei Global App Innovation Contest ("Apps UP" for short) is a global event held by Huawei that pools the skills of developers from around the world to build an app ecosystem that intelligently connects everything. It aims to inspire developers to innovate, bring together people, devices, and scenarios, and create consistent app experiences.<br>
+<br>
+Official Details for 2022: https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898<br>
+<br>
+2022 Youtube Announcement: <br>
+https://www.youtube.com/watch?v=HRBY0Ad_PBI
+
+</details>
+
+<details>
 <summary>Imagine Cup by Microsoft</summary>
 <br>
 About <br>
