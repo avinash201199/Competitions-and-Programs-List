@@ -109,6 +109,22 @@ https://www.youtube.com/watch?v=nVi-QwX82GI
 </details>
 
 <details>
+<summary>AmazeWIT Circles</summary>
+<br>About<br>
+
+AmazeWIT (WIT - Women in Technology) is a unique networking and mentoring platform to educate women and prepare them for long term careers in technology.Through this initiative, their goal is to develop community of women in technology who can share,interact and support each other while learning from the journeys of successful women and leaders in this field.
+This is a dedicated cohort-based connection that brings women of similar skill sets and aspirations together to enhance their knowledge of the field. It includes leadership sessions focusing on topics ranging from data structures, coding, algorithms, and more.
+As of now, AmazeWIT Circles are curated for Software Development Engineers where technology leaders from Amazon cover topics relevant for tech innovation- thus enabling a long-term career in technology.
+
+
+<br>Official Website- <br>
+https://amazewitcirclesamazon.splashthat.com/
+<br>Explanation on Youtube- <br>
+https://youtu.be/PegOU0RO3MM
+
+</details>
+
+<details>
 <summary>Amazon WOW</summary>
 <br>About<br>
 
@@ -169,6 +185,25 @@ https://techchallenge.in.capgemini.com/<br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=Q-JFUzGSWT8
 
+</details>
+
+<details>
+<summary>CodeAgon by CodeNation(Trilogy Innovations)</summary>
+<br>
+CodeAgon is a nationwide coding challenge in India focusing on Data Structures and Algorithms organised by CodeNation.<br>
+Highlights:<br>
+1. Chance to win worth 200000+ INR.<br>
+2. Chance to interview with CodeNation for SDE role (CTC 3500000+ INR).<br>
+3. Chance to get internship at CodeNation.<br>
+<br>
+Website:<br>
+Challenge - https://www.interviewbit.com/contest/codeagon-2021-106e/ <br>
+CodeNation - https://codenation.org/ <br>
+<br>
+Explanation on Youtube:<br>
+https://www.youtube.com/watch?v=1wk8NYQl6t8 (Hindi/English)<br>
+https://www.youtube.com/watch?v=X-eT_np4naY (English) [Preparation]<br>
+<br>
 </details>
 
 <details>
@@ -316,6 +351,26 @@ https://devfestindia.com/<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=U8SQZh6rHow
+
+</details>
+
+<details>
+<summary>Delta Winter of Code</summary>
+<br>
+ABOUT- <br>
+ Delta Winter of Code is a open source program held in every winter organised by Delta Force, and the Coding club of NIT Trichy. With an aim to support and improve the culture of open source software around us, this serves as a platform for young student developers (or even starters) to hone their technical skills by taking up projects of their interests. We hope this encourages collabrative experiences and allows students from all backgrounds to contribute to quality technical projects from diverse fields. 
+<br>
+
+<br>Eligibility<br>
+• Anyone can contribute doesn't matter wheather He/She is new to open-source and expert in this file. Motive is to make every familiar with open source and it's power how can it impact in positive way<br>
+ 
+• It generally start between Nov and run till January.<br>
+<br>
+ 
+OFFICIAL WEBSITE LINK- <br>
+https://dwoc.io/ <br>
+<br>
+
 
 </details>
 
@@ -586,6 +641,16 @@ https://www.youtube.com/watch?v=earTjC0iSjg
 </details>
 
 <details>
+<summary>Google HashCode</summary>
+<br>
+About <br>
+Hash Code is Google’s team-based programming competition. It gives you a platform to share your skills and connect with other coders around the globe as you work together to solve a problem like a real Google engineering challenge! Coders all over the world will tackle the first problem through the Qualification Round in small teams of two to four. This round is hosted online but the teams can come together virtually to compete side-by-side in locally coordinated Hash Code Hubs. The top teams from this round are invited to be a part of the virtual World Finals and get their fair chance at winning.<br>
+<br>
+Official Website- <br>
+https://codingcompetitions.withgoogle.com/hashcode
+</details>
+
+<details>
 <summary>Google Online Challenge</summary>
 <br>
 About <br>
@@ -728,6 +793,20 @@ At hackCBS, we help you turn your ideas into reality by providing a comforting a
   <br>
   https://www.youtube.com/watch?v=tDcEn5Mu6nE
   <br>
+</details>
+ 
+<details>
+<summary>HackerEarth Challanges</summary>
+<br>
+About <br>
+HackerEarth is an AI-powered developer assessment software that helps companies accurately measure a developer’s skills through online coding tests. It takes a skill-based approach to assessment, allowing companies to automatically generate standardized tests based on various skills and then accurately measure the developer’s performance on those skills.
+ 
+HackerEarth also has a community version of the product that is used by developers all across the globe, to assess their coding skills, become better at it, and measure their true potential. They do it by solving coding challenges across different topics/skills and by participating in online competitions/hackathons. They have a thriving community of 6M developers.<br>
+<br>
+Official Website- <br>
+https://www.hackerearth.com/challenges/<br>
+<br>
+
 </details>
  
 <details>
@@ -1021,6 +1100,26 @@ Microsoft Engage is a student engagement and mentorship program by Microsoft tha
 </details>
 
 <details>
+<summary>Microsoft Fix-a-thon</summary>
+<br>
+About<br>
+Microsoft Fix-a-thon is a National-level hackathon, conducted to hire final year college students for the role of Support Engineering interns. Support engineers are part of Microsoft’s Customer Experience & Success (CE&S) team. <br>
+<br>
+Eligibility Criteria for Fix-a-thon:<br> 
+
+- Students who are pursuing BE/B.Tech in CSE/IT/other quantitative branches.<br>
+- CGPA above 8 in the current degree.<br>
+- Degree Completion year should be current year(last year of Graduation).<br>
+- Candidate should not have participated in any Microsoft hiring event in the last 12 months.<br>
+
+Official Website: <br>
+https://careers.microsoft.com/us/en/fix-a-thon <br>
+<br>
+Explanation on YouTube: <br>
+https://youtu.be/fGFQkdn5BPg
+</details>
+
+<details>
 <summary>Microsoft Imagine Cup</summary>
 <br>
 About <br>
@@ -1066,6 +1165,20 @@ https://www.youtube.com/watch?v=_H65WfXPxuA
 
 </details>
 
+<details>
+<summary>Millennium Campus Fellowship Program</summary>
+<br>
+About <br>
+ Millennium Campus Network (MCN) is a Boston-based, global non-profit convening and training 21st-century social impact leaders. Through the Millennium Fellowship and Millennium Oceans Prize, MCN helps young leaders use their voices and power to make a difference on campus and in community.
+ The Millennium Fellowship, which launched in 2013, is a 10 session, semester-long leadership accelerator convening student leaders across universities to improve their student organizations, partnerships, and community impact. <br>
+<br>
+Official Website:<br>
+ https://www.millenniumfellows.org/<br>
+<br>
+Explanation on Youtube:<br>
+https://youtu.be/1De8MJlpGRw
+</details>
+ 
 <details>
 <summary>Mitacs Globalink Research Internship</summary>
 <br>
@@ -1603,10 +1716,44 @@ https://technovationchallenge.org/<br>
 <br>
  
 </details>
+ 
+ <details>
+<summary>Grace Hooper Celebration Scholarship for Women</summary>
+<br>
+About <br>
+The Virtual GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. <br>
+<br>
+Official Website- <br>
+ https://ghc.anitab.org/attend/scholarships/
+<br>
+<br>
+Explanation on Youtube- <br>
+ https://www.youtube.com/watch?v=qmb0XG-55SA
+
+
+</details>
 
 
 
 <details>
+<details>
+<summary>Google Cloud Programs</summary>
+<br> 1. Google Cloud Ready Facilitator Program<br>
+ <br>about<br>
+It is the programs of qwiklabs which provides goodies & swags.
+ It held in (April-June).
+<br>Official Website- <br>
+https://gdsc.community.dev/events/details/developer-student-clubs-college-of-engineering-thalassery-presents-googlecloudready-facilitator-program/
+<br>Explanation on Youtube- <br>
+https://lnkd.in/dabknRqp
+<br> 2. The Arcade<br>
+ <br>about<br>
+This is Launched for the First Time and going on currently you can take part in it and this event will provide you all the goodies of qwiklabs in December
+<br>Official Website- <br>
+https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade
+<br>Explanation on Youtube- <br>
+https://lnkd.in/dPNVidri
+</details>
 
 
 
