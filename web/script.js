@@ -1,8 +1,6 @@
 // line 3 - 897 contains data for the page
 // @DOM_Manipulation and @functionality code starts at @line_901
 
-
-
 // structure of the @Object in Array:
 // {
 //     id: (an number in increasing order, follow the sequence),
@@ -12,8 +10,7 @@
 //     Youtube: (link to video of the event on youtube)
 // }
 
-// NOTE: All the keys and properties of the @Object are important. @Youtube key is optional, in case if you don't have this. 
-
+// NOTE: All the keys and properties of the @Object are important. @Youtube key is optional, in case if you don't have this.
 
 const data = [
   {
@@ -850,6 +847,105 @@ Speaker sessions where senior and junior engineers from Linkedin spoke on variou
 A great community of like-minded individuals! We are a group of 40 young women constantly empowering each other and taking inspiration from each other `,
     siteUrl: "https://coachin2021.splashthat.com/",
   },
+  {
+    title: "Codechef Starters",
+    about:
+      "Starters is a global programming event that invites programmers from all over the world to take part in India’s most prestigious multi-round programming competition. Hosted by CodeChef, Starters is open to anyone with a knack for programming.Starters aims to pit the finest programming brains from different parts of the globe against each other. ",
+    siteUrl:
+      "https://www.codechef.com/START59?itm_medium=hpbanner_1&itm_campaign=START59",
+  },
+  {
+    title: "Codegoda",
+    about:
+      "The Codegoda is a Competitive Programming Competition conducted by  where coders get 5 hours to code and solve algorithmic challenges, with a chance to win up to $10,000 USD in cash prizes. Agoda tech powers global travel at scale, with 220Tbs of data written daily (That is ~58,000 Netflix HD Movies, ~70 million iPhone Photos), 1 trillion data events generated every day, 1,000 experiments running in parallel at any given time, and 1,200 deployments every day. Whether you are a seasoned programmer or a beginner – Codegoda is designed to help you develop new problem-solving skills in a competitive environment with like-minded peers. You have an opportunity to advance your computational thinking, sharpen your algorithmic problem-solving skills, gain competitive programming experience, network with other programmers in the industry, and practice writing actual code.",
+    siteUrl: "https://codegoda.io/",
+  },
+  {
+    title: "Codegoda by Agoda",
+    about:
+      "Codegoda is one of the biggest online programming competitions in the region that has been joined by over 14,000 coders from 83 countries. It’s a single-round competition where programmers log in to tackle fun challenges and take home prizes worth a total of 10,000 USD and a fast-tracked opportunity to join Agoda’s world-class tech team in Gurugram or Bangkok (relocation provided for eligible candidates).",
+    siteUrl: "https://codegoda.io/",
+    YouTube: "https://www.youtube.com/watch?v=on66UzHVB2g",
+  },
+  {
+    title: "GOOGLE DEVELOPERS Machine Learning Bootcamp - India",
+    about:
+      "Screened participants are required to complete a training course in deep learning, a ML certification, and a hands-on project in 4 months. Those that complete all of them will be given a chance to apply for a full-time job or an intern position at one of the IT companies in India that provide services involving machine learning. ",
+    siteUrl: "https://rsvp.withgoogle.com/events/google-ml-bootcamp-india/",
+  },
+  {
+    title: "Google HashCode",
+    about:
+      "Hash Code is Google’s team-based programming competition. It gives you a platform to share your skills and connect with other coders around the globe as you work together to solve a problem like a real Google engineering challenge! Coders all over the world will tackle the first problem through the Qualification Round in small teams of two to four. This round is hosted online but the teams can come together virtually to compete side-by-side in locally coordinated Hash Code Hubs. The top teams from this round are invited to be a part of the virtual World Finals and get their fair chance at winning.",
+    siteUrl: "https://codingcompetitions.withgoogle.com/hashcode",
+  },
+  {
+    title: "HackerEarth Challanges",
+    about:
+      "HackerEarth is an AI-powered developer assessment software that helps companies accurately measure a developer’s skills through online coding tests. It takes a skill-based approach to assessment, allowing companies to automatically generate standardized tests based on various skills and then accurately measure the developer’s performance on those skills.",
+    siteUrl: "https://www.hackerearth.com/challenges/",
+  },
+  {
+    title: "Harvard WECode",
+    about:
+      "The Harvard WECode (Women Engineers Code) Conference is organized by undergraduate women at Harvard University and is an initiative of Harvard Undergraduate Women in CS. WECode hosts the largest student-run women in tech conference in the world.Harvard WECode is a global community of technical leaders aiming to foster a network among engineers, and promote greater representation in the technical industry by those who have been traditionally marginalized. WECode culminates in the world’s largest student-run women in tech conferences, held for undergraduates students.",
+    siteUrl: "https://www.harvardwecode.com/",
+    YouTube: "https://www.youtube.com/watch?v=8cLlUfXoDy4&t=597s",
+  },
+  {
+    title: "Millennium Campus Fellowship Program",
+    about:
+      "Millennium Campus Network (MCN) is a Boston-based, global non-profit convening and training 21st-century social impact leaders. Through the Millennium Fellowship and Millennium Oceans Prize, MCN helps young leaders use their voices and power to make a difference on campus and in community.The Millennium Fellowship, which launched in 2013, is a 10 session, semester-long leadership accelerator convening student leaders across universities to improve their student organizations, partnerships, and community impact.",
+    siteUrl: "https://www.millenniumfellows.org/",
+    YouTube: "https://youtu.be/1De8MJlpGRw",
+  },
+  {
+    title: "TechGig Geek Goddess",
+    about:
+      "TechGig Geek Goddess, presented by American Express, is India's biggest women-only hackathon, wherein you stand a chance to win prizes upto INR 10+ Lakh. This is a huge opportunity to showcase your coding skills, compete with your peers, meet top women tech leaders and interact with innovative technology companies at one place.",
+    siteUrl: "https://www.techgig.com/geekgoddess",
+    YouTube:
+      "https://www.youtube.com/watch?v=ws_L3sWFE_4&list=PLyys4weFOrPecVbNdoUc9bgAsIR-SYQx7",
+  },
+  {
+    title: "Twitter #DevelopHER JAPAC",
+    about:
+      "Twitter #DevelopHER, A two-day program for third year students who identify as women. Participants will experience hands-on technical workshops, professional development seminars, meet with senior leaders, engage with our Business Resource Groups (BRGs), and explore career opportunities at Twitter.",
+    siteUrl: "https://careers.twitter.com/en/early-career.html",
+    YouTube: "https://www.youtube.com/watch?v=y2ciehLvJP4&t=4s",
+  },
+  {
+    title: "Uber She++",
+    about:
+      "Uber She++ is Uber’s event for promoting diversity and inclusion. It is a 2-day event that includes interaction with senior leaders at Uber, a fireside chat with women engineers at Uber, and a lot more about Uber’s culture.",
+    siteUrl: "https://events.beamery.com/uber/uber-she++-2022-t1khjteyw/0",
+    YouTube: "https://www.youtube.com/watch?v=FLBLrEc4wEo",
+  },
+  {
+    title: "Meta Hacker Cup",
+    about:
+      "Hacker Cup is Meta's annual open programming competition. Open to participants around the world, we invite you to apply problem-solving and algorithmiccoding skills to advance through each year’s online rounds, win prizes, andhave a chance to make it to the global finals and win the grand prize.",
+    siteUrl: "https://www.facebook.com/codingcompetitions/hacker-cup",
+  },
+  {
+    title: "Technovation Challenge",
+    about:
+      "The Technovation Challenge is designed to get more girls interested in coding and computer science. Girls work in teams of 1-5 and with volunteer mentors to use technology to design an app that helps solve real world problems such as climate change, bullying, and hunger. Both novices and girls with strong backgrounds in computer science can participate, as the competition is designed to help girls build their tech skills.",
+    siteUrl: "https://technovationchallenge.org/",
+  },
+  {
+    title: "Grace Hooper Celebration Scholarship for Women",
+    about:
+      "The Virtual GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime.",
+    siteUrl: " https://ghc.anitab.org/attend/scholarships/",
+    YouTube: " https://www.youtube.com/watch?v=qmb0XG-55SA",
+  },
+  {
+    title: "Google Cloud Programs",
+    about: " 1. Google Cloud Ready Facilitator Program and 2. The Arcade",
+    siteUrl: "https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade",
+    YouTube: "https://lnkd.in/dPNVidri",
+  },
 ];
 
 // --------------------------------------------------------------------------------------------------------------------
@@ -857,8 +953,8 @@ A great community of like-minded individuals! We are a group of 40 young women c
 const Accordion_wrapper = document.querySelector(".accordion_wrapper");
 
 Accordion_wrapper.innerHTML = data
-    .map((item) => {
-        return `<div class="accordion_container">
+  .map((item) => {
+    return `<div class="accordion_container">
                     <div class="accordion_title">
                         <i class="fa-solid fa-caret-right arrow_icon"></i>
                         <h5>${item.title}</h5>
@@ -874,21 +970,18 @@ Accordion_wrapper.innerHTML = data
                         <a href=${item.YouTube}>${item.YouTube}</a>
                     </div>
                 </div>`;
-    })
-    .join("");
+  })
+  .join("");
 
+const accordion_content = () =>
+  document.getElementsByClassName("accordion_content");
+const accordion_title = () =>
+  document.getElementsByClassName("accordion_title");
+const arrow_icon = () => document.getElementsByClassName("arrow_icon");
 
-
-const accordion_content = () => document.getElementsByClassName("accordion_content"); 
-const accordion_title = () => document.getElementsByClassName("accordion_title"); 
-const arrow_icon = () => document.getElementsByClassName("arrow_icon"); 
-
-
-for (let i = 0; i < accordion_content().length; i++){
-        accordion_title()[i].onclick = function () {
-        accordion_content()[i].classList.toggle("active");
-        arrow_icon()[i].classList.toggle("open");
-    };
+for (let i = 0; i < accordion_content().length; i++) {
+  accordion_title()[i].onclick = function () {
+    accordion_content()[i].classList.toggle("active");
+    arrow_icon()[i].classList.toggle("open");
+  };
 }
-
-
