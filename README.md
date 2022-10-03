@@ -273,6 +273,20 @@ https://www.youtube.com/watch?v=6GIw04ieGv4
 </details>
 
 <details>
+<summary>Codegoda by Agoda</summary>
+<br>
+About <br>
+Codegoda is one of the biggest online programming competitions in the region that has been joined by over 14,000 coders from 83 countries. It’s a single-round competition where programmers log in to tackle fun challenges and take home prizes worth a total of 10,000 USD and a fast-tracked opportunity to join Agoda’s world-class tech team in Gurugram or Bangkok (relocation provided for eligible candidates). <br>
+<br>
+Official Website- <br>
+https://codegoda.io/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=on66UzHVB2g
+</details>
+
+<details>
+
 <summary>Coderita 2.0 by GeeksforGeeks</summary>
 <br>
 About<br>
@@ -281,6 +295,7 @@ Every year this contest helds on Women's Day.<br>
 <br>
 For more details : <br>
 https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-geeksforgeeks/<br>
+
 </details>
 
 <details>
