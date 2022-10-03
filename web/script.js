@@ -210,6 +210,13 @@ Eligibilty: Open to women in their sophomore year of a full- time undergraduate 
         siteUrl: "https://doodles.google.com/d4g",
     },
     {
+        id: 103,
+        title: "Exercism",
+        about: "The website differs from other coding platforms by requiring students to download exercises through a command line client, solve the code on their own computers then submit the solution for feedback, at which point they can also view other's solutions to the same problem. A lot of quizes and question based on every difficult levels are available on the exercism website. Also it looks very fancy and enjoyable to code. The Exercism codebase is open source, consisting of over 50 repositories, containing website code, API code, command-line code and over 40 stand-alone repositories for different language tracks. More than 1 Million students practice questions on the website and more than 3 lakh Mentoring Discussions have been made on this website.",
+        siteUrl: "https://exercism.org/",
+        YouTube: "https://youtu.be/BNfyAYlN8s4",
+    },
+    {
         id: 23,
         title: "e-Yantra Robotic Competition by IIT Bombay",
         about: `The e-Yantra Robotics Competition (eYRC) is the flagship initiative of the e-Yantra project. The competition is open to students from an engineering or polytechnic background and comprises 2 stages spanning over 6-7 months. The competition comprises 2 stages, from which Stage 1 is open to all and is a Robotics MOOC (Massive Online Open Course). During the competition, the participating teams are allotted “themes" with varying levels of complexity that are abstractions of real- world problems.A selected cohort from Stage 1 is admitted into Stage 2. The leading 5 - 6 teams from Stage 2 are hosted for the National Finals at IIT Bombay in March every year where they demonstrate their projects before a jury.! `,
