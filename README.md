@@ -1178,6 +1178,7 @@ https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/<br>
 
  </details>
 
+ <details>
 <summary>LinkedIn CoachIn</summary>
 <br>
 About <br>
