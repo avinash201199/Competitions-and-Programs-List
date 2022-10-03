@@ -244,6 +244,18 @@ https://www.techgig.com/codegladiators<br>
 </details>
 
 <details>
+
+<summary>Codegoda</summary>
+<br>
+About <br>
+The Codegoda is a Competitive Programming Competition conducted by <a href="https://www.agoda.com/">Agoda</a> where coders get 5 hours to code and solve algorithmic challenges, with a chance to win up to $10,000 USD in cash prizes. Agoda tech powers global travel at scale, with 220Tbs of data written daily (That is ~58,000 Netflix HD Movies, ~70 million iPhone Photos), 1 trillion data events generated every day, 1,000 experiments running in parallel at any given time, and 1,200 deployments every day. Whether you are a seasoned programmer or a beginner – Codegoda is designed to help you develop new problem-solving skills in a competitive environment with like-minded peers. You have an opportunity to advance your computational thinking, sharpen your algorithmic problem-solving skills, gain competitive programming experience, network with other programmers in the industry, and practice writing actual code.  <br>
+<br>
+Official Website- <br>
+https://codegoda.io/<br>
+
+</details>
+
+<details>
 <summary>Code Jam to I/O for Women</summary>
 <br>
 About <br>
