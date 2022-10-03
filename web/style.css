@@ -27,6 +27,25 @@ body {
     position: relative;
 }
 
+
+
+.wrapper .container a .GitHubIcon{
+    position: absolute;
+    top: 4rem;
+    right: 3rem;
+    font-size: 4rem;
+    cursor: pointer;
+}
+
+.wrapper .container .greeting{
+    font-size: 1.8rem;
+}
+
+.wrapper .container .greeting span{
+    font-size: 3rem;
+    color: #ff0000;
+}
+
 .wrapper .container .heading {
     width: 80%;
     font-size: 3rem;
@@ -52,6 +71,7 @@ body {
     margin: 5rem auto 0rem;
     color: #777B84;
     font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+    position: relative;
 }
 
 .wrapper .container .accordion_wrapper {
@@ -69,7 +89,9 @@ body {
     margin-top: 1.2rem;
     transition: all 1s ease-in-out;
     transition: all 0.5s cubic-bezier(0, 1, 0, 1);
+    
 }
+
 
 .wrapper .container .accordion_wrapper .accordion_container:last-child{
     border-bottom: none;
@@ -148,6 +170,10 @@ body {
 
 /* for @responsiveness -> smaller screens */
 @media (max-width: 768px){
+    .wrapper .container a .GitHubIcon{
+        top: 2.5%;
+        font-size: 3.3rem;
+    }
     .wrapper .container .accordion_wrapper{
         width: 92%;
     }
