@@ -641,6 +641,16 @@ https://www.youtube.com/watch?v=earTjC0iSjg
 </details>
 
 <details>
+<summary>Google HashCode</summary>
+<br>
+About <br>
+Hash Code is Google’s team-based programming competition. It gives you a platform to share your skills and connect with other coders around the globe as you work together to solve a problem like a real Google engineering challenge! Coders all over the world will tackle the first problem through the Qualification Round in small teams of two to four. This round is hosted online but the teams can come together virtually to compete side-by-side in locally coordinated Hash Code Hubs. The top teams from this round are invited to be a part of the virtual World Finals and get their fair chance at winning.<br>
+<br>
+Official Website- <br>
+https://codingcompetitions.withgoogle.com/hashcode
+</details>
+
+<details>
 <summary>Google Online Challenge</summary>
 <br>
 About <br>
