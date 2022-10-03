@@ -1849,6 +1849,24 @@ Explanation on Youtube- <br>
 </details>
 
 <br>
+ 
+  <details>
+<summary>WE Harvard Code for Women</summary>
+<br>
+About <br>
+The Harvard WECode (Women Engineers Code) Conference is organized by undergraduate women at Harvard University and is an initiative of Harvard Undergraduate Women in CS. WECode hosts the largest student-run women in tech conference in the world.  <br>
+<br>
+Official Website- <br>
+https://www.harvardwecode.com/about-wecode
+<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/cFmosT0KSRo
+
+
+</details>
+
+<br>
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
