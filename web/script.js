@@ -830,6 +830,11 @@ The event will be based on the theme of astronomy. There will be 5 phases or lev
 Global Hack Weeks are attended by hackers from all over the globe. Whether this is your first time coding or you're a seasoned expert, we will have events here for you. Our last Global Hack Week included hackers from over 90 countries around the world! If you're a first-time hacker, there will be beginner-focused activities for you. `,
         siteUrl: "https://ghw.mlh.io/oct",
     },
+    {
+        title: "Harvard WE Code, Feberuary 18-19, 2023",
+        about: `The Harvard WECode (Women Engineers Code) Conference is organized by undergraduate women at Harvard University and is an initiative of Harvard Undergraduate Women in CS. WECode hosts the largest student-run women in tech conference in the world. . `,
+        siteUrl: "https://www.harvardwecode.com/about-wecode",
+    },
 ];
 
 // --------------------------------------------------------------------------------------------------------------------
