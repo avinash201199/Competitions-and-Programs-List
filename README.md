@@ -796,6 +796,20 @@ At hackCBS, we help you turn your ideas into reality by providing a comforting a
 </details>
  
 <details>
+<summary>HackerEarth Challanges</summary>
+<br>
+About <br>
+HackerEarth is an AI-powered developer assessment software that helps companies accurately measure a developer’s skills through online coding tests. It takes a skill-based approach to assessment, allowing companies to automatically generate standardized tests based on various skills and then accurately measure the developer’s performance on those skills.
+ 
+HackerEarth also has a community version of the product that is used by developers all across the globe, to assess their coding skills, become better at it, and measure their true potential. They do it by solving coding challenges across different topics/skills and by participating in online competitions/hackathons. They have a thriving community of 6M developers.<br>
+<br>
+Official Website- <br>
+https://www.hackerearth.com/challenges/<br>
+<br>
+
+</details>
+ 
+<details>
 <summary>HackerRank Contests</summary>
 <br>
 About <br>
