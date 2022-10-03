@@ -1,6 +1,20 @@
 // line 3 - 897 contains data for the page
 // @DOM_Manipulation and @functionality code starts at @line_901
 
+
+
+// structure of the @Object in Array:
+// {
+//     id: (an number in increasing order, follow the sequence),
+//     title: (title of the event / program / competitions same as in the github's README.md file),
+//     about: (about  the event),
+//     siteUrl: ( official or any other link of the event),
+//     Youtube: (link to video of the event on youtube)
+// }
+
+// NOTE: All the keys and properties of the @Object are important. @Youtube key is optional, in case if you don't have this. 
+
+
 const data = [
     {
         id: 1,
