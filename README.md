@@ -1,5 +1,7 @@
 # <h1 align="center">Competitions and Programs List for Students</h1> </font>
 
+[Website URL](https://avinash201199.github.io/Competitions-and-Programs-List/)
+
 This repository contains a list of some great competitions and programs for college students, in which they can compete, learn, explore, and gain experience.
 
 This experience will improve their job resumes for jobs and help them in their career growth.
