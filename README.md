@@ -870,6 +870,22 @@ https://www.youtube.com/watch?v=j5Q7gVtTy3M
 </details>
 
 <details>
+
+<summary>Harvard WECode</summary>
+<br>
+About <br>
+The Harvard WECode (Women Engineers Code) Conference is organized by undergraduate women at Harvard University and is an initiative of Harvard Undergraduate Women in CS. WECode hosts the largest student-run women in tech conference in the world.<br>
+Harvard WECode is a global community of technical leaders aiming to foster a network among engineers, and promote greater representation in the technical industry by those who have been traditionally marginalized. WECode culminates in the world’s largest student-run women in tech conferences, held for undergraduates students. <br>
+<br>
+Official Website- <br>
+https://www.harvardwecode.com/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=8cLlUfXoDy4&t=597s
+
+</details>
+
+<details>
 <summary>HP CodeWars</summary>
 <br>
 About 
