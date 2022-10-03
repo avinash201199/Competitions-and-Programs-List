@@ -1622,6 +1622,22 @@ https://technovationchallenge.org/<br>
 <br>
  
 </details>
+ 
+ <details>
+<summary>Grace Hooper Celebration Scholarship for Women</summary>
+<br>
+About <br>
+The Virtual GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. <br>
+<br>
+Official Website- <br>
+ https://ghc.anitab.org/attend/scholarships/
+<br>
+<br>
+Explanation on Youtube- <br>
+ https://www.youtube.com/watch?v=qmb0XG-55SA
+
+
+</details>
 
 
 
