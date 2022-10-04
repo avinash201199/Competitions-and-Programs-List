@@ -1269,6 +1269,25 @@ Explanation on Youtube- <br>
 https://youtu.be/uG5IJML0L0c
 
 </details>
+ 
+ 
+ <details>
+<summary>Learn to Earn Cloud Security Challenge</summary>
+<br>
+About <br>
+These labs help you get started with cloud security basics. At the end of each lab, you’ll have hands-on experience with securing your cloud. Complete this game to earn the Level 1 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!
+  These labs will give you a deeper understanding of security features in the cloud. These labs are a little more challenging. It’s OK to take a lab more than once to achieve a great score. Complete this game to earn the Level 2 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!
+  These labs will challenge you to explore advanced cloud security scenarios. It’s OK to take a lab more than once to achieve a great score. Complete this game to earn the Level 3 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!<br>
+<br>
+Official Website- <br>
+https://www.cloudskillsboost.google/games/2288<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=rFR5SZ0CQks
+
+</details>
+ 
+ 
 <details>
 <summary>LiFT Scholar!</summary>
 <br>
