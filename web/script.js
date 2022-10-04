@@ -866,6 +866,14 @@ A great community of like-minded individuals! We are a group of 40 young women c
         siteUrl: "https://amazonmlsummerschoolindia.splashthat.com/",
         YouTube: "https://youtu.be/0QedVNGvZlQ",
     },
+     {
+        id: 98,
+        title: "Hyperledger mentorship program",
+        about:
+            "The Hyperledger mentorship program is aimed at creating a structured hands-on learning opportunity for new developers who may otherwise lack the opportunity to gain exposure to Hyperledger open source development and entry to the technical community. Mentees will be eligible to receive a stipend. For Indian students, Total Stipend Amount will 3000 USD",
+        siteUrl: "https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program",
+        
+    },
 ];
 
 // --------------------------------------------------------------------------------------------------------------------
