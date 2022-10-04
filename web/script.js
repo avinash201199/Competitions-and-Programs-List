@@ -71,12 +71,20 @@ const data = [
         YouTube: "https://youtu.be/PegOU0RO3MM",
     },
     {
+        title: "Amazon ML Summer School",
+        about:
+            "Amazon ML Summer School aims at providing students the opportunity to gain Machine Learning (ML) skills which is the first step in becoming ready to build a career in ML. This program is an intensive course on key ML topics and is a great opportunity to learn from and interact with Scientists at Amazon who have immense knowledge in their ML domain. After a successful pilot in 2021, Amazon ML Summer School is being expanded to include students enrolled in any Indian campus and will see a bigger class size.",
+        siteUrl: "https://amazonmlsummerschoolindia.splashthat.com/",
+        YouTube: "https://youtu.be/0QedVNGvZlQ",
+    },
+    {
         title: "Amazon WOW",
         about:
             "Amazon WoW is a networking platform for all women engineering students in India that connects them to Amazon leaders, recruiters, and the broader Amazon community. The platform provides an opportunity to participate in skill building sessions, utilize available resources, converse with alumni on their career experiences, and be acquainted with the culture at Amazon. The objective is to help women students build long-term career in technology. Amazon WoW is open to all women students across engineering campuses in India. Any women student who is currently pursuing a four-year B.Tech/BE or two-year MCA, M.Tech/ME program or five year Dual Degree can participate.",
         siteUrl: "https://amazonwowindia.splashthat.com/",
         YouTube: "https://www.youtube.com/watch?v=dRAVWI8UZlo",
     },
+   
     {
         title: "Atlassian Women in Tech",
         about:
@@ -229,6 +237,14 @@ Eligibilty: Open to women in their sophomore year of a full- time undergraduate 
         siteUrl: "https://doodles.google.com/d4g",
     },
     {
+        id: 103,
+        title: "Exercism",
+        about: "The website differs from other coding platforms by requiring students to download exercises through a command line client, solve the code on their own computers then submit the solution for feedback, at which point they can also view other's solutions to the same problem. A lot of quizes and question based on every difficult levels are available on the exercism website. Also it looks very fancy and enjoyable to code. The Exercism codebase is open source, consisting of over 50 repositories, containing website code, API code, command-line code and over 40 stand-alone repositories for different language tracks. More than 1 Million students practice questions on the website and more than 3 lakh Mentoring Discussions have been made on this website.",
+        siteUrl: "https://exercism.org/",
+        YouTube: "https://youtu.be/BNfyAYlN8s4",
+    },
+    {
+        id: 23,
         title: "e-Yantra Robotic Competition by IIT Bombay",
         about: `The e-Yantra Robotics Competition (eYRC) is the flagship initiative of the e-Yantra project. The competition is open to students from an engineering or polytechnic background and comprises 2 stages spanning over 6-7 months. The competition comprises 2 stages, from which Stage 1 is open to all and is a Robotics MOOC (Massive Online Open Course). During the competition, the participating teams are allotted “themes" with varying levels of complexity that are abstractions of real- world problems.A selected cohort from Stage 1 is admitted into Stage 2. The leading 5 - 6 teams from Stage 2 are hosted for the National Finals at IIT Bombay in March every year where they demonstrate their projects before a jury.! `,
         siteUrl: "https://portal.e-yantra.org/",
@@ -528,6 +544,11 @@ The top performers also get a chance to work with Infosys. The top three winning
 `,
         siteUrl: "https://www.surveymonkey.com/r/INTUIT_2020",
     },
+{
+title:"JGEC Winter Of Code",
+about:"JWOC ( JGEC Winter of Code) is an open-source program organized by Developers' JGEC which helps students to plunge into Open Source contribution and get the realm of Software Development. In Google Developer Student Club, Jalpaiguri Govt. Engg College.",
+siteUrl:"https://jwoc.tech/"
+},
     {
         title: " JGEC Winter Of Code",
         about: `JWOC ( JGEC Winter of Code) is an open-source program organized by Developers' JGEC which helps students to plunge into Open Source contribution and get the realm of Software Development. In Google Developer Student Club, Jalpaiguri Govt. Engg College.
@@ -546,6 +567,7 @@ The top performers also get a chance to work with Infosys. The top three winning
         siteUrl: "https://codingcompetitions.withgoogle.com/kickstart",
         YouTube: "https://www.youtube.com/watch?v=9wad39LmzPY",
     },
+
     {
         title: "Learn to Earn Cloud Challenge",
         about: `Google Cloud skills are in demand. 86% of IT leaders report that the shortage of cloud computing skills will slow down their cloud projects.
@@ -553,6 +575,15 @@ The top performers also get a chance to work with Infosys. The top three winning
 Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills. `,
         siteUrl: "https://go.qwiklabs.com/learn-to-earn",
         YouTube: "https://www.youtube.com/watch?v=VZUx4GuCJiM",
+    },
+    {
+        title: "Learn to Earn Cloud Data Challenge",
+        about: `The world of sports has never been the same since a certain player named Google Cloud stepped onto the pitch. Be it helping coaches pick up their best players or helping you pick up your best fantasy team or making life easier for broadcasters to show your favorite game live for you to enjoy along with your favorite pizza, Google Cloud has got it all covered!
+        Google Cloud is transforming the way sports are played & viewed by monitoring the real-time parameters of athletes to utilize data to improve the team’s performance.
+        At the top level of any sport, it’s all about fractional improvements and technology is helping elite personalities power to glory. Google Cloud technology can enable colossal amounts of data to be crunched, analyzed and presented quickly.
+Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills. `,
+        siteUrl: "https://www.googlecloudcommunity.com/gc/Community-Blogs/Learn-to-Earn-Cloud-Data-Challenge-Step-up-your-Data-Game/ba-p/437137",
+        YouTube: "https://youtu.be/uG5IJML0L0c",
     },
     {
         title: "LiFT Scholar!",
