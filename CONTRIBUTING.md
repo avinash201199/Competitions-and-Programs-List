@@ -20,6 +20,7 @@ You can contribute in many ways
 - There you will find an `array` containing `objects`
 - You can add more lists of events/competitions there in the `object` form in `array`.
 - Follow the structure of the object's attributes and naming conventions.
+- Also update in readme file.
 
 #### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
 
