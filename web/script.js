@@ -70,6 +70,7 @@ const data = [
         siteUrl: "https://amazonwowindia.splashthat.com/",
         YouTube: "https://www.youtube.com/watch?v=dRAVWI8UZlo",
     },
+   
     {
         title: "Atlassian Women in Tech",
         about:
@@ -856,6 +857,14 @@ Global Hack Weeks are attended by hackers from all over the globe. Whether this 
 Speaker sessions where senior and junior engineers from Linkedin spoke on various topics and gave us a lot of insights on what is happening in the industry currently
 A great community of like-minded individuals! We are a group of 40 young women constantly empowering each other and taking inspiration from each other `,
         siteUrl: "https://coachin2021.splashthat.com/",
+    },
+     {
+        id: 97,
+        title: "Amazon ML Summer School",
+        about:
+            "Amazon ML Summer School aims at providing students the opportunity to gain Machine Learning (ML) skills which is the first step in becoming ready to build a career in ML. This program is an intensive course on key ML topics and is a great opportunity to learn from and interact with Scientists at Amazon who have immense knowledge in their ML domain. After a successful pilot in 2021, Amazon ML Summer School is being expanded to include students enrolled in any Indian campus and will see a bigger class size.",
+        siteUrl: "https://amazonmlsummerschoolindia.splashthat.com/",
+        YouTube: "https://youtu.be/0QedVNGvZlQ",
     },
 ];
 

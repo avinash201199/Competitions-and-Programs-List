@@ -139,6 +139,25 @@ https://amazonwowindia.splashthat.com/
 https://www.youtube.com/watch?v=dRAVWI8UZlo
 
 </details>
+<details>
+<summary>Amazon ML Summer School</summary>
+<br>About<br>
+
+Amazon ML Summer School aims at providing students the opportunity to gain Machine Learning (ML) skills which is the first step in becoming ready to build a career in ML. This program is an intensive course on key ML topics and is a great opportunity to learn from and interact with Scientists at Amazon who have immense knowledge in their ML domain. After a successful pilot in 2021, Amazon ML Summer School is being expanded to include students enrolled in any Indian campus and will see a bigger class size. 
+
+Key takeaways:
+• In-depth knowledge on key ML topics from Amazon Scientists
+• Platform to interact with Scientists and learn about break-through innovation
+• Opportunity to prepare for a career in ML
+
+<br>Official Website- <br>
+https://amazonmlsummerschoolindia.splashthat.com/
+
+<br>Explanation on Youtube- <br>
+https://youtu.be/0QedVNGvZlQ
+
+</details>
+
 
 <details>
 <summary>Atlassian Women in Tech</summary>
