@@ -468,6 +468,7 @@ The top performers also get a chance to work with Infosys. The top three winning
     title: " Intuit Augment ",
     about: `Intuit is inviting young women technologists to be part of a mentorship program. This is in line with our commitment to power prosperity amongst young engineers to be industry-ready with guidance from domain experts. The mentorship program is specifically designed to equip budding women engineers to develop core competencies and compliment their career aspirations. Women who are studying 2nd-year B.Tech/B.E and 3rd-year Dual Degree in Computer Science / Information Technology /Maths & Computing and having cgpa 7 or above. Registration happens in January.
 `,
+<<<<<<< HEAD
     siteUrl: "https://www.surveymonkey.com/r/INTUIT_2020",
   },
   {
@@ -485,6 +486,31 @@ The top performers also get a chance to work with Infosys. The top three winning
   {
     title: "Learn to Earn Cloud Challenge",
     about: `Google Cloud skills are in demand. 86% of IT leaders report that the shortage of cloud computing skills will slow down their cloud projects.
+=======
+        siteUrl: "https://www.surveymonkey.com/r/INTUIT_2020",
+    },
+{
+title:"JGEC Winter Of Code",
+about:"JWOC ( JGEC Winter of Code) is an open-source program organized by Developers' JGEC which helps students to plunge into Open Source contribution and get the realm of Software Development. In Google Developer Student Club, Jalpaiguri Govt. Engg College.",
+siteUrl:"https://jwoc.tech/"
+},
+    {
+        title: "Kaggle by Google",
+        about: `Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. `,
+        siteUrl: "https://www.kaggle.com/",
+        YouTube: "https://www.youtube.com/watch?v=jbRNGuz3IRM",
+    },
+    {
+        title: "Kick start by Google",
+        about: `Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google).  `,
+        siteUrl: "https://codingcompetitions.withgoogle.com/kickstart",
+        YouTube: "https://www.youtube.com/watch?v=9wad39LmzPY",
+    },
+
+    {
+        title: "Learn to Earn Cloud Challenge",
+        about: `Google Cloud skills are in demand. 86% of IT leaders report that the shortage of cloud computing skills will slow down their cloud projects.
+>>>>>>> 8cf05337769e5a48bee841866362ab34c77262e5
 
 Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills. `,
     siteUrl: "https://go.qwiklabs.com/learn-to-earn",
@@ -683,6 +709,7 @@ Timeline: February-September`,
 The last edition of the hackathon saw over 5 million+ students from various engineering colleges compete for the top prize at 35+ locations.
 
 In SIH, the students would also have the opportunity to work on challenges faced within the private sector organisations and create world class solutions for some of the top companies in the world, thus helping the Private sector hire the best minds from across the nation. `,
+<<<<<<< HEAD
     siteUrl: "https://www.sih.gov.in/",
     YouTube: "https://www.youtube.com/watch?v=nRjwazPk8S4",
   },
@@ -723,6 +750,54 @@ In SIH, the students would also have the opportunity to work on challenges faced
   {
     title: "Uber HackTag",
     about: `Uber HackTag is organized by Uber Technologies. In this competition both students and professionals can participate.
+=======
+        siteUrl: "https://www.sih.gov.in/",
+        YouTube: "https://www.youtube.com/watch?v=nRjwazPk8S4",
+    },
+    {
+        title: "Script Winter of Code ",
+        about: `Script Winter of Code is an open-source program envisioned by the Script Foundation. It aims to bring students into the world of open source development and see the power of unified problem-solving in real time. The students will be guided by experienced mentors throughout their journey. They will learn the skills essential in the world of programming, all the while developing a deep appreciation for the world of open-source. Registrations has started and will close on 10th November `,
+        siteUrl: "https://swoc.scriptindia.org/#/",
+    },
+    {
+        title: "Social Summer of Code ",
+        about: `SSOC is a 3 Month Open Source Program Organized By Social. It is aimed to promote open source with new age technologies & want everyone to get the right path & gudience through SSOC. `,
+        siteUrl: "https://ssoc.devfolio.co/",
+    },
+    {
+        title: "Solution Challenge ",
+        about: `The mission of the 2022 Solution Challenge is to solve for one or more of the United Nations 17 Sustainable Development Goals using Google technology. The Solution Challenge is open to members of Google Developer Student Clubs. Join a Google Developer Student Club (GDSC) on the GDSC community page. The last date to apply for the Solution Challenge 2022 is 31st March, 2022. `,
+        siteUrl: "https://developers.google.com/community/gdsc-solution-challenge",
+        YouTube: "https://youtu.be/EuEZ83VAfgQ",
+    },
+    {
+        title: "Summer of Bitcoin",
+        about: `A global summer internship program focused on introducing university students to bitcoin and open-source development.The organizations provide mentors who act as guides through the entire process, from learning about the community to contributing.Students get involved in and become familiar with the bitcoin open source community and put their summer break to good use.The last date to apply for Summer of Bitcoin program is March 5, 2022. `,
+        siteUrl: "https://www.summerofbitcoin.org",
+        YouTube: "https://youtu.be/GwpTNKCsgSc",
+    },
+    {
+        title: "Technica",
+        about: `Technica is the world’s largest hackathon for underrepresented genders, hosted over the duration of 24 hours each fall by students at the University of Maryland and online. This year’s theme is "Reach New Heights!" This year, we want to help all of our hackers rise to the next level in their tech journey, whether that means tackling challenging new projects or writing your first line of code. We encourage you to be open-minded, be curious, and find your space in tech. Explore your untapped potential — the sky's the limit at Technica! Whether we serve as a push in the right direction or as a place for you to explore your curiosities, we hope that you are able to #ReachNewHeights! `,
+        siteUrl: "https://gotechnica.org/",
+        YouTube: "https://www.youtube.com/watch?v=zzIGwnKOkyw",
+    },
+    {
+        title: "TopCoder Open",
+        about: `The Topcoder Open (TCO) is an annual online and onsite tournament to celebrate and reward the community. TCO encompasses every day competitions at Topcoder and adds points to them. While you’re competing, you’re earning TCO points and more potential prizes as well as trips to the TCO Finals held in the United States! `,
+        siteUrl: "https://tco21.topcoder.com/",
+        YouTube: "https://www.youtube.com/watch?v=qS59Yy_IK_8",
+    },
+    {
+        title: "TCS CodeVita ",
+        about: `TCS CodeVita, the largest global computer programming competition, is a 24-hour online programming contest where a participant can log in from anywhere, any time. Coding enthusiasts can sharpen their programming skills through a series of intriguing real-life challenges across a stretch of 3 Rounds and an opportunity to win the coveted "World's Best Coder" title along with prize money of $10000. `,
+        siteUrl: "https://www.tcscodevita.com/",
+        YouTube: "https://youtu.be/5Ma4V_rsyGw",
+    },
+    {
+        title: "Uber HackTag",
+        about: `Uber HackTag is organized by Uber Technologies. In this competition both students and professionals can participate.
+>>>>>>> 8cf05337769e5a48bee841866362ab34c77262e5
 The competition consists of a total of three rounds, the first round is Online coding round, the second round is Prototyping and the final round is building a demoable outcome on their prototype.
 Uber HackTag is open to all working professionals and engineering students pursuing a full-time B.Tech./ B.E./ M.Tech./ M.E. (all years) degrees across branches.
 
