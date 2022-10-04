@@ -10,3 +10,13 @@ Explanation on Youtube- <br>
 https://youtu.be/fzymgR7EdUs
 
 </details>
+
+<details>
+<summary>Leetcode Contests</summary>
+<br>
+About <br>
+Leetcode hosts weekly and biweekly competitions mostly centred around data structures and algorithms. Each contest has a variety of prizes to be won.
+<br> Official Website- <br>
+leetcode.com/contest<br>
+
+</details>
