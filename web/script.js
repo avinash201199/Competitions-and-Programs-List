@@ -64,6 +64,13 @@ const data = [
         YouTube: "https://www.youtube.com/watch?v=nVi-QwX82GI",
     },
     {
+        title: "AmazeWIT Circles",
+        about:
+            "AmazeWIT (WIT - Women in Technology) is a unique networking and mentoring platform to educate women and prepare them for long term careers in technology.Through this initiative, their goal is to develop community of women in technology who can share,interact and support each other while learning from the journeys of successful women and leaders in this field. This is a dedicated cohort-based connection that brings women of similar skill sets and aspirations together to enhance their knowledge of the field. It includes leadership sessions focusing on topics ranging from data structures, coding, algorithms, and more. As of now, AmazeWIT Circles are curated for Software Development Engineers where technology leaders from Amazon cover topics relevant for tech innovation- thus enabling a long-term career in technology.",
+        siteUrl: "https://amazewitcirclesamazon.splashthat.com/",
+        YouTube: "https://youtu.be/PegOU0RO3MM",
+    },
+    {
         title: "Amazon WOW",
         about:
             "Amazon WoW is a networking platform for all women engineering students in India that connects them to Amazon leaders, recruiters, and the broader Amazon community. The platform provides an opportunity to participate in skill building sessions, utilize available resources, converse with alumni on their career experiences, and be acquainted with the culture at Amazon. The objective is to help women students build long-term career in technology. Amazon WoW is open to all women students across engineering campuses in India. Any women student who is currently pursuing a four-year B.Tech/BE or two-year MCA, M.Tech/ME program or five year Dual Degree can participate.",
@@ -92,6 +99,13 @@ const data = [
         YouTube: "https://www.youtube.com/watch?v=Q-JFUzGSWT8",
     },
     {
+        title: "CodeAgon by CodeNation(Trilogy Innovations)",
+        about:
+            "CodeAgon is a nationwide coding challenge in India focusing on Data Structures and Algorithms organised by CodeNation.",
+        siteUrl: "https://www.interviewbit.com/contest/codeagon-2021-106e/",
+        YouTube: "https://www.youtube.com/watch?v=1wk8NYQl6t8"
+    },
+    {
         title: "Code For Good",
         about:
             "Use your coding skills to make a difference At our Code for Good hackathon, you'll collaborate with other coders to develop innovative technology solutions for not-for-profit organizations. You'll also learn about starting a Technology career with us while being guided by the sharpest minds in our industry. ",
@@ -115,7 +129,7 @@ const data = [
     {
         title: "Code Jam to I/O for Women",
         about:
-            "At Google, we’re committed to building for everyone, and we know that a diversity of voices leads to better outcomes. We’re committed to increasing representation and building community in the online coding contest space and at Google I/O, our largest developer conference. Code Jam to I/O for Women is one way we bring women (students and professionals) from around the globe together, working to solve tough algorithmic challenges in a 2.5 hour, single-round coding competition. The top 150 on the scoreboard will receive a ticket and a stipend to participate in virtual Google I/O. ",
+            "At Google, we're committed to building for everyone, and we know that a diversity of voices leads to better outcomes. We’re committed to increasing representation and building community in the online coding contest space and at Google I/O, our largest developer conference. Code Jam to I/O for Women is one way we bring women (students and professionals) from around the globe together, working to solve tough algorithmic challenges in a 2.5 hour, single-round coding competition. The top 150 on the scoreboard will receive a ticket and a stipend to participate in virtual Google I/O. ",
         siteUrl: "https://codingcompetitions.withgoogle.com/codejamio",
         YouTube: "https://www.youtube.com/watch?v=Q_2TwBhqHPg",
     },
@@ -125,6 +139,13 @@ const data = [
             "SnackDown is a global programming event that invites programmers from all over the world to take part in India’s most prestigious multi-round programming competition. Hosted by CodeChef, SnackDown is open to anyone with a knack for programming and began in the year 2010. SnackDown aims to pit the finest programming brains from different parts of the globe against each other. Everyone from middle/high school to college to working professionals from the industry can attempt to take home the coveted crown of SnackDown champion.",
         siteUrl: "https://snackdown.codechef.com/",
         YouTube: "https://www.youtube.com/watch?v=6GIw04ieGv4",
+    },
+    {
+        title: "Codegoda by Agoda",
+        about:
+            "Codegoda is one of the biggest online programming competitions in the region that has been joined by over 14,000 coders from 83 countries. It’s a single-round competition where programmers log in to tackle fun challenges and take home prizes worth a total of 10,000 USD and a fast-tracked opportunity to join Agoda’s world-class tech team in Gurugram or Bangkok (relocation provided for eligible candidates).",
+        siteUrl: "https://codegoda.io/",
+        YouTube: "https://www.youtube.com/watch?v=on66UzHVB2g",
     },
     {
         title: "Coderita 2.0 by GeeksforGeeks",
@@ -162,6 +183,16 @@ Prizes will be rewarded to only women participants who have given the consent to
             "https://www.youtube.com/playlist?list=PLQXZIFwMtjoxrJvVaqoGlFYJRwUCHUq1t",
     },
     {
+        title: "Cosmos and Chaos",
+        about: `“Curiosity creates innovation. Innovation fuels success.”
+
+Astronomy Club brings Cosmos and Chaos- a 3-hour rendition of a multi-dimensional treasure hunt, spanning 5 phases. Our aim? To allow our participants to channel their inner Sherlock Holmes, and challenge the limits of their cognitive and creative abilities in a limited time frame.
+
+The event will be based on the theme of astronomy. There will be 5 phases or levels that the participants have to complete. A team can progress to higher levels as soon as they are approved for completion of a prior level. They can collaboratively work as a team of 2-4 members to find answers.`,
+        siteUrl:
+            "https://unstop.com/competition/cosmos-and-chaos-uphoria-x-zenevia-bennett-university-bu-greater-noida-440498",
+    },
+    {
         title: "D.E. Shaw Mentorship Program ",
         about: `DESIS ASCEND EDUCARE is a program for women in tech that focuses on helping participants enhance their skills from D.E. Shaw Private Limited. Those who take part can receive mentorship in various technical and non-technical areas from subject matter experts, and get first-hand industry exposure, networking opportunities, and much more.
             Eligibility Criteria:
@@ -177,6 +208,12 @@ Prizes will be rewarded to only women participants who have given the consent to
             "DevFest India is the annual developer’s fest organized by Google Developers Group.Are you someone who’s looking to enhance your skills, who believes in lifting others as you climb? Are you someone frustrated with fixing bugs ? Or do you just want peer learning? This year, we have a safe space for everything. While learning about different technologies at DevFest India 2021 and getting job-ready, you can enlighten your mind with flash talks, create your profile for peer learning, make your own badges, and win exciting gifts! ",
         siteUrl: "https://devfestindia.com/",
         YouTube: "https://www.youtube.com/watch?v=U8SQZh6rHow",
+    },
+    {
+        title: "Delta Winter of Code",
+        about:
+            "Delta Winter of Code is a open source program held in every winter organised by Delta Force, and the Coding club of NIT Trichy. With an aim to support and improve the culture of open source software around us, this serves as a platform for young student developers (or even starters) to hone their technical skills by taking up projects of their interests. We hope this encourages collabrative experiences and allows students from all backgrounds to contribute to quality technical projects from diverse fields. ",
+        siteUrl: "https://dwoc.io/",
     },
     {
         title: "Discovery Fellowship",
@@ -303,6 +340,11 @@ The top 10 teams invited to the finals, compete onsite for a prize pool of more 
         YouTube: "https://www.youtube.com/watch?v=earTjC0iSjg",
     },
     {
+        title: "Google HashCode",
+        about: "Hash Code is Google’s team-based programming competition. It gives you a platform to share your skills and connect with other coders around the globe as you work together to solve a problem like a real Google engineering challenge! Coders all over the world will tackle the first problem through the Qualification Round in small teams of two to four. This round is hosted online but the teams can come together virtually to compete side-by-side in locally coordinated Hash Code Hubs. The top teams from this round are invited to be a part of the virtual World Finals and get their fair chance at winning.",
+        siteUrl: "https://codingcompetitions.withgoogle.com/hashcode",
+    },
+    {
         title: "Google Online Challenge",
         about: `Google’s Online Challenge is a platform that presents a fair, unbiased opportunity for you to engage in Google's hiring process. By participating in a timed online challenge, Google gains a better understanding of your skills while also providing you with insight into Google's hiring process. If you’re looking for a place that values your curiosity and desire to learn, seeking colleagues who are big thinkers and you’re eager to take on fresh challenges as a team, Google’s Online Challenge could take you one step closer to becoming a Googler.
 `,
@@ -379,6 +421,13 @@ At hackCBS, we help you turn your ideas into reality by providing a comforting a
         YouTube: "https://www.youtube.com/watch?v=tDcEn5Mu6nE",
     },
     {
+        title: "HackerEarth Challenges",
+        about: `HackerEarth is an AI-powered developer assessment software that helps companies accurately measure a developer’s skills through online coding tests. It takes a skill-based approach to assessment, allowing companies to automatically generate standardized tests based on various skills and then accurately measure the developer’s performance on those skills.
+
+        HackerEarth also has a community version of the product that is used by developers all across the globe, to assess their coding skills, become better at it, and measure their true potential. They do it by solving coding challenges across different topics/skills and by participating in online competitions/hackathons. They have a thriving community of 6M developers.`,
+        siteUrl: "https://www.hackerearth.com/challenges/",
+    },
+    {
         title: "HackerRank Contests",
         about: `If you are a beginner and want to develop basic concept then I will suggest you go with this website because they have some good problems for beginners which is sorted level wise i.e. you will get problems in increasing difficulty level. And by applying some basic logic you will able to crack them. And also we can say this is they have a good beginner-friendly environment.
 
@@ -408,22 +457,40 @@ The top performers also get a chance to work with Infosys. The top three winning
         YouTube: "https://www.youtube.com/watch?v=j5Q7gVtTy3M",
     },
     {
+        title: "Harvard WECode",
+        about: `The Harvard WECode (Women Engineers Code) Conference is organized by undergraduate women at Harvard University and is an initiative of Harvard Undergraduate Women in CS. WECode hosts the largest student-run women in tech conference in the world.
+        Harvard WECode is a global community of technical leaders aiming to foster a network among engineers, and promote greater representation in the technical industry by those who have been traditionally marginalized. WECode culminates in the world’s largest student-run women in tech conferences, held for undergraduates students. `,
+        siteUrl: "https://www.harvardwecode.com/",
+        YouTube: "https://www.youtube.com/watch?v=8cLlUfXoDy4&t=597s",
+    },
+    {
         title: "HP CodeWars",
         about: `Born in the US more than 20 years ago, this initiative was brought to Europe and Barcelona in 2015 and since then, it has been a major success counting on more than 300 students in every edition, adding new schools and talent year after year. This unique experience help students from high school to get inspired by all the things coding and programming allows them to do. With this initiative, HP aims to raise interest in STEM careers among youth, especially among girls! The target is to promote an educational, collaborative, and fun contest. Happening every first Saturday of March, this is an exciting and challenging day for the students to know our company from the within.`,
         siteUrl: "https://hpcodewarsbcn.com/",
         YouTube: "https://www.youtube.com/watch?v=KCCttp-_Qn8",
     },
     {
+        title: "Huawei Apps UP",
+        about: `The Huawei Global App Innovation Contest ("Apps UP" for short) is a global event held by Huawei that pools the skills of developers from around the world to build an app ecosystem that intelligently connects everything. It aims to inspire developers to innovate, bring together people, devices, and scenarios, and create consistent app experiences.`,
+        siteUrl: "https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898",
+        YouTube: "https://www.youtube.com/watch?v=HRBY0Ad_PBI",
+    },
+    {
+        title: "IBM zStudent Contest",
+        about: `HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrilling coding contest centered around sustainable energy that will teach you computing skills used to power some of today’s largest enterprise companies. Along the way, you will learn JCL, z/OS, SQL, COBOL, Python, APIs, Unix and more. `,
+        siteUrl: "https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/?utm_source=arsh&utm_medium=instagram_story&utm_campaign=IBMz",
+    },
+    {
+        title: "IEEEXtream",
+        about: `IEEEXtreme is a global challenge in which teams of IEEE Student members - advised and proctored by an IEEE member, and often supported by an IEEE Student Branch – compete in a 24-hour time span against each other to solve a set of programming problems.
+        It takes place on 22 October, 2022 and registrations will close by 12 October, 2022. `,
+        siteUrl: "https://ieeextreme.org/#REGISTRATION",
+    },
+    {
         title: "Imagine Cup by Microsoft",
         about: `Imagine Cup is an annual competition sponsored and hosted by Microsoft Corp. which brings together student developers worldwide to help resolve some of the world's toughest challenges.[1] It is considered as "Olympics of Technology" by computer science and engineering and is considered one of the top competitions and awards related to technology and software design. All Imagine Cup competitors create projects that address the Imagine Cup theme: "Imagine a world where technology helps solve the toughest problems". Started in 2003, it has steadily grown, with more than 358,000 competitors representing 183 countries and regions in 2011. `,
         siteUrl: "https://imaginecup.microsoft.com/en-us/Events",
         YouTube: "https://www.youtube.com/watch?v=Mtx8FWqxrMs",
-    },
-    {
-        title: "Github India Externship",
-        about: `The GitHub Externship is a 90-day fellowship program for third or pre-final year students of GitHub Campus Partner schools. The initiative provides hands-on learning with practical and on ground experience. It's collaborative, remote, and happens under the guidance of expert mentors. `,
-        siteUrl: "https://externship.github.in/",
-        YouTube: "https://www.youtube.com/watch?v=34YdIU4GQs4&t=2526s",
     },
     {
         title: " International Collegiate Programming Contest ",
@@ -462,6 +529,12 @@ The top performers also get a chance to work with Infosys. The top three winning
         siteUrl: "https://www.surveymonkey.com/r/INTUIT_2020",
     },
     {
+        title: " JGEC Winter Of Code",
+        about: `JWOC ( JGEC Winter of Code) is an open-source program organized by Developers' JGEC which helps students to plunge into Open Source contribution and get the realm of Software Development. In Google Developer Student Club, Jalpaiguri Govt. Engg College.
+        JWOC provides a fully immersive learning experience for students and first-time contributors by promoting the wonders of open-source software and crafting a community of new and experienced technical developers. The best projects are selected for this program. Students get acquainted with the projects from the mentors during the Community Bonding Period. Students work on these projects during the coding phase. At the end of the coding period, the winners of the programs are announced on the basis of their contribution in terms of quantity as well as quality. `,
+        siteUrl: "https://jwoc.tech/",
+    },
+    {
         title: "Kaggle by Google",
         about: `Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. `,
         siteUrl: "https://www.kaggle.com/",
@@ -486,6 +559,12 @@ Luckily, there's an easy way for you to get hands-on practice with core cloud co
         about: `The Linux Foundation hosts The Linux Foundation Training (LiFT) Scholarship Program to provide opportunities to up-and-coming developers and sysadmins who show promise for helping shape the future of Linux and open source software but do not otherwise have the ability to attend training courses or take certification exams.`,
         siteUrl:
             "https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/",
+    },
+    {
+        title: "Linkedin Coachin",
+        about: `Mock interviews and tests scheduled based on Data Structures and Algorithms Speaker sessions where senior and junior engineers from Linkedin spoke on various topics and gave us a lot of insights on what is happening in the industry currently A great community of like-minded individuals! We are a group of 40 young women constantly empowering each other and taking inspiration from each other `,
+        siteUrl: "https://www.linkedin.com/company/coachin_2/",
+        YouTube: "https://youtu.be/BS12nHUkraA",
     },
     {
         title: "Linkedin Wintathon",
@@ -516,6 +595,11 @@ The Student Contest and the Learning System are available worldwide.`,
         YouTube: "https://www.youtube.com/watch?v=lKLkqsKTo3Y",
     },
     {
+        title: "Meta Hacker Cup",
+        about: `Hacker Cup is Meta's annual open programming competition. Open to participants around the world, we invite you to apply problem-solving and algorithmic coding skills to advance through each year’s online rounds, win prizes, and have a chance to make it to the global finals and win the grand prize. `,
+        siteUrl: "https://www.facebook.com/codingcompetitions/hacker-cup",
+    },
+    {
         title: "Microsoft Codess",
         about: `Codess is a community for female coders initiated by Microsoft. Codess was established to explore ways to promote gender diversity in the engineering field.Codess aims to inspire female coders and help them achieve their professional goals. Through networking events, mentoring and sharing advice and experiences. `,
         siteUrl: "https://careers.microsoft.com/us/en/codess",
@@ -523,6 +607,12 @@ The Student Contest and the Learning System are available worldwide.`,
     {
         title: "Microsoft Engage Program",
         about: `Microsoft Engage is a student engagement and mentorship program by Microsoft that offers 1:1 mentorship to shortlisted students while working on a project, learning sessions specially curated for Engage students and a sneak peek into Microsoft’s culture and values. Students who have completed their second year(B.Tech/B.E.) or third year(Dual Degree) having 7 above CGPA with no pending backlogs and strong CS Fundamentals and coding principles were eligible to apply. There was no restriction on branch.`,
+    },
+    {
+        title: "Microsoft Fix-a-thon",
+        about: `Microsoft Fix-a-thon is a National-level hackathon, conducted to hire final year college students for the role of Support Engineering interns. Support engineers are part of Microsoft’s Customer Experience & Success (CE&S) team. `,
+        siteUrl: "https://careers.microsoft.com/us/en/fix-a-thon",
+        YouTube: "https://youtu.be/fGFQkdn5BPg",
     },
     {
         title: "Microsoft Imagine Cup",
@@ -541,6 +631,13 @@ ii) Some experience in coding or technology will definitely be helpful, but do n
 What are the benefits of being a Microsoft Learn Student Ambassador? . Access to Microsoft 365, plus TechSmith Snagit and Camtasia screen capture and recording software . Visual Studio Enterprise subscription and $150 monthly Azure credits . Exam certification vouchers . LinkedIn Learning . Free Name.com domain name . Event support . Engagement with Cloud Advocates and Microsoft MVPs . Student Ambassador Milestone badges to highlight program accomplishments on your LinkedIn profile `,
         siteUrl: "https://studentambassadors.microsoft.com/",
         YouTube: "https://www.youtube.com/watch?v=_H65WfXPxuA",
+    },
+    {
+        title: "Millennium Campus Fellowship Program",
+        about: `Millennium Campus Network (MCN) is a Boston-based, global non-profit convening and training 21st-century social impact leaders. Through the Millennium Fellowship and Millennium Oceans Prize, MCN helps young leaders use their voices and power to make a difference on campus and in community. The Millennium Fellowship, which launched in 2013, is a 10 session, semester-long leadership accelerator convening student leaders across universities to improve their student organizations, partnerships, and community impact. `,
+        siteUrl:
+            "https://www.millenniumfellows.org/",
+        YouTube: "https://youtu.be/1De8MJlpGRw",
     },
     {
         title: "Mitacs Globalink Research Internship",
@@ -562,6 +659,12 @@ This program also offers need-based stipends up to $5,000 USD to accepted studen
         siteUrl: "https://fellowship.mlh.io/",
         YouTube:
             "https://www.geeksforgeeks.org/mlh-fellowship-programs-offered-application-process-benefits/",
+    },
+    {
+        title: "MLH Global Hack Week, October 23-30, 2022",
+        about: `Global Hack Week October is their beginner-friendly hacker festival. You can expect to complete challenges, chat at hacker hangouts, enjoy fun live sessions, build technical projects, and make new memories.
+        Global Hack Weeks are attended by hackers from all over the globe. Whether this is your first time coding or you're a seasoned expert, we will have events here for you. Our last Global Hack Week included hackers from over 90 countries around the world! If you're a first-time hacker, there will be beginner-focused activities for you.`,
+        siteUrl: "https://ghw.mlh.io/oct",
     },
     {
         title: "MLH Prep Program",
@@ -593,14 +696,16 @@ The first being the ideation phase, second being the implementation phase ,third
         YouTube: "https://youtu.be/YTeck476Wzc",
     },
     {
-        title: "Kick start by Google",
-        about: `Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google).  `,
-        siteUrl: "https://codingcompetitions.withgoogle.com/kickstart",
-        YouTube: "https://www.youtube.com/watch?v=9wad39LmzPY",
+        title: " NASA International Space Apps Challenge (Space Apps)",
+        about: `The NASA International Space Apps Challenge (Space Apps) is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage the National Aeronautics and Space Administration’s (NASA’s) free and open data to address real-world problems on Earth and in space.
+        Each October, over the course of two days, Space Apps brings participants from around the world together at hundreds of in-person and virtual local events to solve challenges submitted by NASA experts. After the hackathon, project submissions are judged by space agency experts and winners are selected for one of 10 Global Awards. `,
+        siteUrl:
+            "https://www.spaceappschallenge.org/",
+        YouTube: "https://www.youtube.com/watch?v=hmKw7CQwNls",
     },
     {
-        title: " Nanyang Technological University (NTU) – India Connect",
-        about: `Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google). The India Connect @ntu office (IC@N) is proud to take a leading role in fostering partnerships with Indian institutes of higher learning and industrial organizations. The flagship programme of IC@N is the Visiting Research Student Programme for 2 to 6 months for undergraduate and Master’s level graduate students from India – so far more than 400 students have benefited from the programme. This research programme was introduced in 2016 to enable students of Indian universities to pursue their research interests at NTU by working under the supervision of NTU faculty, developing a strong research expertise in specific research areas, experiencing a multicultural life, developing a strong network of friends and a better understanding of Singapore. `,
+        title: " Nanyang Technological University (NTU) - India Connect",
+        about: `The India Connect @ntu office (IC@N) is proud to take a leading role in fostering partnerships with Indian institutes of higher learning and industrial organizations. The flagship programme of IC@N is the Visiting Research Student Programme for 2 to 6 months for undergraduate and Master’s level graduate students from India – so far more than 400 students have benefited from the programme. This research programme was introduced in 2016 to enable students of Indian universities to pursue their research interests at NTU by working under the supervision of NTU faculty, developing a strong research expertise in specific research areas, experiencing a multicultural life, developing a strong network of friends and a better understanding of Singapore.`,
         siteUrl:
             "https://www.ntu.edu.sg/education/student-exchanges/india-connect@ntu",
         YouTube: "https://www.youtube.com/watch?v=P-l0DaAiMw8",
@@ -679,10 +784,27 @@ In SIH, the students would also have the opportunity to work on challenges faced
         YouTube: "https://youtu.be/EuEZ83VAfgQ",
     },
     {
+        title: "Summer of Bitcoin ",
+        about: `A global summer internship program focused on introducing university students to bitcoin and open-source development. The organizations provide mentors who act as guides through the entire process, from learning about the community to contributing. Students get involved in and become familiar with the bitcoin open source community and put their summer break to good use.The last date to apply for Summer of Bitcoin program is March 5, 2022. `,
+        siteUrl: "https://www.summerofbitcoin.org/",
+        YouTube: "https://youtu.be/GwpTNKCsgSc",
+    },
+    {
+        title: "TechGig Geek Goddess",
+        about: `TechGig Geek Goddess, presented by American Express, is India's biggest women-only hackathon, wherein you stand a chance to win prizes upto INR 10+ Lakh. This is a huge opportunity to showcase your coding skills, compete with your peers, meet top women tech leaders and interact with innovative technology companies at one place.`,
+        siteUrl: "https://www.techgig.com/geekgoddess",
+        YouTube: "https://www.youtube.com/watch?v=ws_L3sWFE_4&list=PLyys4weFOrPecVbNdoUc9bgAsIR-SYQx7",
+    },
+    {
         title: "Technica",
         about: `Technica is the world’s largest hackathon for underrepresented genders, hosted over the duration of 24 hours each fall by students at the University of Maryland and online. This year’s theme is "Reach New Heights!" This year, we want to help all of our hackers rise to the next level in their tech journey, whether that means tackling challenging new projects or writing your first line of code. We encourage you to be open-minded, be curious, and find your space in tech. Explore your untapped potential — the sky's the limit at Technica! Whether we serve as a push in the right direction or as a place for you to explore your curiosities, we hope that you are able to #ReachNewHeights! `,
         siteUrl: "https://gotechnica.org/",
         YouTube: "https://www.youtube.com/watch?v=zzIGwnKOkyw",
+    },
+    {
+        title: "Technovation Challenge",
+        about: `The Technovation Challenge is designed to get more girls interested in coding and computer science. Girls work in teams of 1-5 and with volunteer mentors to use technology to design an app that helps solve real world problems such as climate change, bullying, and hunger. Both novices and girls with strong backgrounds in computer science can participate, as the competition is designed to help girls build their tech skills. `,
+        siteUrl: "https://technovationchallenge.org/",
     },
     {
         title: "TopCoder Open",
@@ -695,6 +817,19 @@ In SIH, the students would also have the opportunity to work on challenges faced
         about: `TCS CodeVita, the largest global computer programming competition, is a 24-hour online programming contest where a participant can log in from anywhere, any time. Coding enthusiasts can sharpen their programming skills through a series of intriguing real-life challenges across a stretch of 3 Rounds and an opportunity to win the coveted "World's Best Coder" title along with prize money of $10000. `,
         siteUrl: "https://www.tcscodevita.com/",
         YouTube: "https://youtu.be/5Ma4V_rsyGw",
+    },
+    {
+        title: "Twitter DevelopHer for Women",
+        about: `A two-day program for third year students who identify as women. Participants will experience hands-on technical workshops, professional development seminars, meet with senior leaders, engage with our Business Resource Groups (BRGs), and explore career opportunities at Twitter.
+        `,
+        siteUrl: "https://careers.twitter.com/en/early-career.html",
+        YouTube: "https://youtu.be/y2ciehLvJP4",
+    },
+    {
+        title: "Twitter #DevelopHER JAPAC",
+        about: `Twitter #DevelopHER, A two-day program for third year students who identify as women. Participants will experience hands-on technical workshops, professional development seminars, meet with senior leaders, engage with our Business Resource Groups (BRGs), and explore career opportunities at Twitter. `,
+        siteUrl: "https://careers.twitter.com/en/early-career.html",
+        YouTube: "https://www.youtube.com/watch?v=y2ciehLvJP4&t=4s",
     },
     {
         title: "Uber HackTag",
@@ -712,6 +847,14 @@ PRIZES-
         siteUrl:
             "https://dare2compete.com/competition/uber-hacktag-uber-technologies-inc-148162",
         YouTube: "https://www.youtube.com/watch?v=sBo7rCu1XYY",
+    },
+    {
+        title: "Uber She++m",
+        about: `Uber She++ is Uber’s event for promoting diversity and inclusion. It is a 2-day event that includes interaction with senior leaders at Uber, a fireside chat with women engineers at Uber, and a lot more about Uber’s culture.
+        Application Dates: Usually opens around March (around Women’s Day).`,
+        siteUrl:
+            "https://events.beamery.com/uber/uber-she++-2022-t1khjteyw/0",
+        YouTube: "https://www.youtube.com/watch?v=FLBLrEc4wEo",
     },
     {
         title: "Uplift Project",
@@ -760,6 +903,12 @@ Pre-final & Final year women students only Graduating year - 2020 & 2021 Only fr
         YouTube: "https://www.youtube.com/watch?v=AA7we1OR0Y4",
     },
     {
+        title: "VK Cup",
+        about: `The VK Cup Championship is an open computer programming competition that is held by VK, Codeforces and Saratov State University. VK is the largest European social network with more than a 100 million active users. The Championship Final Round will be held in July in St. Petersburg. Top 50 contestants of the Round 3 will be invited to the Finals, with trip expenses covered by the organizing committee.`,
+        siteUrl:
+            "https://codeforces.com/blog/entry/3977",
+    },
+    {
         title: "Women Engineers Program",
         about: `The Women Engineers program is a program offered by TalentSprint and supported by Google. This program provides opportunity to talented and motivated women students to excel in the global tech industry. To address gender disparity in the tech industry, this program nurtures promising women student to rapidly advance their expertise for the evolving tech industry.
 
@@ -777,44 +926,17 @@ Pre-final & Final year women students only Graduating year - 2020 & 2021 Only fr
         YouTube: "https://youtu.be/yhGu9lxfs-g",
     },
     {
-        title: "IEEEXtream",
-        about: `IEEEXtreme is a global challenge in which teams of IEEE Student members – advised and proctored by an IEEE member, and often supported by an IEEE Student Branch – compete in a 24-hour time span against each other to solve a set of programming problems.
-
-It takes place on 22 October, 2022 and registrations will close by 12 October, 2022. `,
-        siteUrl: "https://ieeextreme.org/#REGISTRATION",
+        title: "Women Engineers Program",
+        about: `The Women Engineers program is a program offered by TalentSprint and supported by Google. This program provides opportunity to talented and motivated women students to excel in the global tech industry. To address gender disparity in the tech industry, this program nurtures promising women student to rapidly advance their expertise for the evolving tech industry.`,
+        siteUrl:
+            "https://we.talentsprint.com/",
+        YouTube: "https://youtu.be/yhGu9lxfs-g",
     },
     {
         title: "Zuno Fellowship Program",
         about: `The idea behind the Zuno Fellowship Program is to be the largest Fellowship Program in India. Candidates will stand a chance to win rewards worth over $1M annually and also have a chance to Upskill, add Premium Internship tag, win Cash & Brand Goodies.All candidates between the age of 17 - 25 years who are pursuing their UG or PG courses. It takes place on 17 December, 04:00 PM - 07:00 PM `,
         siteUrl:
             "https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia",
-    },
-    {
-        title: "IBM zStudent Contest",
-        about: `HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrilling coding contest centered around sustainable energy that will teach you computing skills used to power some of today’s largest enterprise companies. Along the way, you will learn JCL, z/OS, SQL, COBOL, Python, APIs, Unix and more.
-
-Through completion of Fundamentals and Concepts levels (how you earn the Concepts Badge), contestants will have skills in:
-
-VS Code JCL Files and Members Unix System Services (USS) REXX Python `,
-        siteUrl:
-            "https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/?utm_source=arsh&utm_medium=instagram_story&utm_campaign=IBMz",
-    },
-    {
-        title: "Cosmos and Chaos",
-        about: `“Curiosity creates innovation. Innovation fuels success.”
-
-Astronomy Club brings Cosmos and Chaos- a 3-hour rendition of a multi-dimensional treasure hunt, spanning 5 phases. Our aim? To allow our participants to channel their inner Sherlock Holmes, and challenge the limits of their cognitive and creative abilities in a limited time frame.
-
-The event will be based on the theme of astronomy. There will be 5 phases or levels that the participants have to complete. A team can progress to higher levels as soon as they are approved for completion of a prior level. They can collaboratively work as a team of 2-4 members to find answers.`,
-        siteUrl:
-            "https://unstop.com/competition/cosmos-and-chaos-uphoria-x-zenevia-bennett-university-bu-greater-noida-440498",
-    },
-    {
-        title: "MLH Global Hack Week, October 23-30, 2022",
-        about: `Global Hack Week October is their beginner-friendly hacker festival. You can expect to complete challenges, chat at hacker hangouts, enjoy fun live sessions, build technical projects, and make new memories.
-
-Global Hack Weeks are attended by hackers from all over the globe. Whether this is your first time coding or you're a seasoned expert, we will have events here for you. Our last Global Hack Week included hackers from over 90 countries around the world! If you're a first-time hacker, there will be beginner-focused activities for you. `,
-        siteUrl: "https://ghw.mlh.io/oct",
     },
 ];
 
