@@ -1449,6 +1449,19 @@ Official Website:<br>
 Explanation on Youtube:<br>
 https://youtu.be/1De8MJlpGRw
 </details>
+
+<details>
+<summary>MSME Idea Hackathon 2.0(Theme Based)</summary>
+<br>
+About <br>
+The objective of the scheme is to promote and support untapped creativity and to promote adoption of latest technologies in MSMEs that seek the validation of their ideas at the proof-of-concept level. The scheme also supports engagement with enablers who will advise such MSMEs in expanding the business by supporting them in design, strategy and execution <br>
+<br>
+Official Website:<br>
+ https://my.msme.gov.in/inc/<br>
+<br>
+Explanation on Youtube:<br>
+https://youtu.be/kAVt0Ct2NpM
+</details>
  
 <details>
 <summary>Mitacs Globalink Research Internship</summary>
