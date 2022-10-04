@@ -887,6 +887,73 @@ https://wintathon2020.splashthat.com/<br>
  <br>
  
  </details>
+ 
+ <details>
+ <summary>Micron Global Mentorship Program for Women</summary>
+ <br>
+ About<br>
+ Micron Technology is conducting a Micron Global Women’s Mentorship Program.
+ 
+ The program is open to all female students proficient in English, pursuing an undergraduate or graduate degree in the following disciplines, and graduating in 2023 or 2024.
+
+Electrical/Electronics Engineering
+
+Computer Engineering
+
+Data Science
+
+Artificial Intelligence / Machine Learning
+
+Mathematics and Statistics
+
+Materials Science
+
+Structure of the program-:
+
+There is no cost to participate in the program
+
+Participants will be selected by the Micron team based on applicants’ resume and essay
+
+All participants will be broken in teams of 5 students and will be assigned a Micron Mentor
+
+All Mentors are successful Micron female Leaders with many years of experience
+
+Each team will have 8 weekly virtual meetings and one final global virtual event upon completion of the program
+
+Each team will have weekly 1-hour long Zoom calls with Micron female Mentors
+
+Topics discussed during each session will vary depending on the participants’ feedback but are likely to include the following:
+Career and work-life balance
+
+Secrets to professional success
+
+Applying for a job, interviewing skills
+
+What does it take to be a good leader?
+
+Professional development and continuous learning
+
+Dealing with stress
+
+Having difficult conversations, receiving and giving negative feedback
+
+Effective communication
+
+Powerful relationship building and networking
+
+Requirements:
+
+You must be a female student pursuing a Bachelor’s, Master’s, or PhD degree in Electrical/Electronics Engineering, Computer Engineering, Data Science, Artificial Intelligence / Machine Learning, Mathematics/Statistics, or Materials Science
+
+You will be graduating in 2023 or 2024
+
+Proficient in English language
+<br>
+Official Website- <br>
+https://careersquare.in/2022/01/02/micron-global-womens-mentorship-program/<br>
+<br>
+</details>
+
 
  <details>
 <summary>Master the Mainframe by IBM</summary>
