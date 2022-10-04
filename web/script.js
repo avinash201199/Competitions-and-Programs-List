@@ -451,7 +451,7 @@ The top performers also get a chance to work with Infosys. The top three winning
     },
     {
         title: "International Obfuscated C Code Contest",
-        about: "The International Obfuscated C Code Contest (IOCCC) is a computer programming contest for the most creatively obfuscated C code. Described as 'celebrating [C\'s] syntactical opaqueness' this contest is held annually",
+        about: "The International Obfuscated C Code Contest (IOCCC) is a computer programming contest for the most creatively obfuscated C code. Described as 'celebrating [C\'s] syntactical opaqueness' this contest is held annually.",
         siteUrl: "https://www.ioccc.org/",
         YouTube: "https://www.youtube.com/watch?v=7F3IHxVEsvk&t=42s"
     },
