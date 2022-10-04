@@ -1,5 +1,7 @@
 # <h1 align="center">Competitions and Programs List for Students</h1> </font>
 
+[Website URL](https://avinash201199.github.io/Competitions-and-Programs-List/)
+
 This repository contains a list of some great competitions and programs for college students, in which they can compete, learn, explore, and gain experience.
 
 This experience will improve their job resumes for jobs and help them in their career growth.
@@ -242,6 +244,30 @@ Code Gladiators is a TechGig hackathon presented by Cognizant. This hackathon co
 https://www.techgig.com/codegladiators<br>
 
 </details>
+<details>
+<summary>Codechef Starters</summary>
+<br>
+About <br>
+Starters is a global programming event that invites programmers from all over the world to take part in India’s most prestigious multi-round programming competition. Hosted by CodeChef, Starters is open to anyone with a knack for programming.
+Starters aims to pit the finest programming brains from different parts of the globe against each other.  <br>
+<br>
+Official Website- <br>
+https://www.codechef.com/START59?itm_medium=hpbanner_1&itm_campaign=START59<br>
+<br>
+</details>
+
+
+<details>
+
+<summary>Codegoda</summary>
+<br>
+About <br>
+The Codegoda is a Competitive Programming Competition conducted by <a href="https://www.agoda.com/">Agoda</a> where coders get 5 hours to code and solve algorithmic challenges, with a chance to win up to $10,000 USD in cash prizes. Agoda tech powers global travel at scale, with 220Tbs of data written daily (That is ~58,000 Netflix HD Movies, ~70 million iPhone Photos), 1 trillion data events generated every day, 1,000 experiments running in parallel at any given time, and 1,200 deployments every day. Whether you are a seasoned programmer or a beginner – Codegoda is designed to help you develop new problem-solving skills in a competitive environment with like-minded peers. You have an opportunity to advance your computational thinking, sharpen your algorithmic problem-solving skills, gain competitive programming experience, network with other programmers in the industry, and practice writing actual code.  <br>
+<br>
+Official Website- <br>
+https://codegoda.io/<br>
+
+</details>
 
 <details>
 <summary>Code Jam to I/O for Women</summary>
@@ -273,6 +299,20 @@ https://www.youtube.com/watch?v=6GIw04ieGv4
 </details>
 
 <details>
+<summary>Codegoda by Agoda</summary>
+<br>
+About <br>
+Codegoda is one of the biggest online programming competitions in the region that has been joined by over 14,000 coders from 83 countries. It’s a single-round competition where programmers log in to tackle fun challenges and take home prizes worth a total of 10,000 USD and a fast-tracked opportunity to join Agoda’s world-class tech team in Gurugram or Bangkok (relocation provided for eligible candidates). <br>
+<br>
+Official Website- <br>
+https://codegoda.io/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=on66UzHVB2g
+</details>
+
+<details>
+
 <summary>Coderita 2.0 by GeeksforGeeks</summary>
 <br>
 About<br>
@@ -281,6 +321,7 @@ Every year this contest helds on Women's Day.<br>
 <br>
 For more details : <br>
 https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-geeksforgeeks/<br>
+
 </details>
 
 <details>
@@ -355,6 +396,26 @@ https://www.youtube.com/watch?v=U8SQZh6rHow
 </details>
 
 <details>
+<summary>Delta Winter of Code</summary>
+<br>
+ABOUT- <br>
+ Delta Winter of Code is a open source program held in every winter organised by Delta Force, and the Coding club of NIT Trichy. With an aim to support and improve the culture of open source software around us, this serves as a platform for young student developers (or even starters) to hone their technical skills by taking up projects of their interests. We hope this encourages collabrative experiences and allows students from all backgrounds to contribute to quality technical projects from diverse fields. 
+<br>
+
+<br>Eligibility<br>
+• Anyone can contribute doesn't matter wheather He/She is new to open-source and expert in this file. Motive is to make every familiar with open source and it's power how can it impact in positive way<br>
+ 
+• It generally start between Nov and run till January.<br>
+<br>
+ 
+OFFICIAL WEBSITE LINK- <br>
+https://dwoc.io/ <br>
+<br>
+
+
+</details>
+
+<details>
 <summary>Discovery Fellowship</summary>
 <br>
 About<br>
@@ -375,6 +436,30 @@ About<br>
 <br>
 For more details : <br>
 https://doodles.google.com/d4g <br>
+</details>
+
+<details>
+ <summary> Exercism </summary>
+ <br>
+ About
+ <br>
+The website differs from other coding platforms by requiring students to download exercises through a command line client, solve the code on their own computers then submit the solution for feedback, at which point they can also view other's solutions to the same problem.
+A lot of quizes and question based on every difficult levels are available on the exercism website. Also it looks very fancy and enjoyable to code.
+The Exercism codebase is open source, consisting of over 50 repositories, containing website code, API code, command-line code and over 40 stand-alone repositories for different language tracks.
+More than 1 Million students practice questions on the website and more than 3 lakh Mentoring Discussions have been made on this website.
+ <br>
+ Official Website : <br>
+ https://exercism.org/
+ <br>
+ Explanation On Youtube : <br>
+ https://youtu.be/BNfyAYlN8s4
+ <br>
+ How To Use Exercism : <br>
+ https://code.likeagirl.io/getting-started-with-exercism-io-e06e508a1fb6
+ <br>
+ https://www.codecraftr.nl/learning-programming-languages-with-exercism/
+ <br>
+ 
 </details>
 
 <details>
@@ -490,6 +575,20 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=1KXH58pcslU
 
 </details>
+<details>
+<summary>GOOGLE DEVELOPERS Machine Learning Bootcamp - India</summary>
+<br>
+About <br>
+Screened participants are required to complete a training course in deep learning, a ML certification, and a hands-on project in 4 months. Those that complete all of them will be given a chance to apply for a full-time job or an intern position at one of the IT companies in India that provide services involving machine learning. 
+<br><br>
+Official Website- <br>
+https://rsvp.withgoogle.com/events/google-ml-bootcamp-india/<br>
+<br>
+
+
+</details>
+
+
 
 <details>
 <summary>GirlScript Winter of Contributing</summary>
@@ -621,6 +720,16 @@ https://www.youtube.com/watch?v=earTjC0iSjg
 </details>
 
 <details>
+<summary>Google HashCode</summary>
+<br>
+About <br>
+Hash Code is Google’s team-based programming competition. It gives you a platform to share your skills and connect with other coders around the globe as you work together to solve a problem like a real Google engineering challenge! Coders all over the world will tackle the first problem through the Qualification Round in small teams of two to four. This round is hosted online but the teams can come together virtually to compete side-by-side in locally coordinated Hash Code Hubs. The top teams from this round are invited to be a part of the virtual World Finals and get their fair chance at winning.<br>
+<br>
+Official Website- <br>
+https://codingcompetitions.withgoogle.com/hashcode
+</details>
+
+<details>
 <summary>Google Online Challenge</summary>
 <br>
 About <br>
@@ -672,6 +781,42 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=psDqdNNZMfA
 
 </details>
+
+ <details>
+<summary>Grace Hooper Celebration Scholarship for Women</summary>
+<br>
+About <br>
+The Virtual GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. <br>
+<br>
+Official Website- <br>
+ https://ghc.anitab.org/attend/scholarships/
+<br>
+<br>
+Explanation on Youtube- <br>
+ https://www.youtube.com/watch?v=qmb0XG-55SA
+ 
+</details>
+
+
+<details>
+<summary>Google Cloud Programs</summary>
+<br> 1. Google Cloud Ready Facilitator Program<br>
+ <br>about<br>
+It is the programs of qwiklabs which provides goodies & swags.
+ It held in (April-June).
+<br>Official Website- <br>
+https://gdsc.community.dev/events/details/developer-student-clubs-college-of-engineering-thalassery-presents-googlecloudready-facilitator-program/
+<br>Explanation on Youtube- <br>
+https://lnkd.in/dabknRqp
+<br> 2. The Arcade<br>
+ About<br>
+This is Launched for the First Time and going on currently you can take part in it and this event will provide you all the goodies of qwiklabs in December
+<br>Official Website- <br>
+https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade
+<br>Explanation on Youtube- <br>
+https://lnkd.in/dPNVidri
+</details>
+
 
 <details>
 <summary>Google Kick Start</summary>
@@ -766,6 +911,20 @@ At hackCBS, we help you turn your ideas into reality by providing a comforting a
 </details>
  
 <details>
+<summary>HackerEarth Challanges</summary>
+<br>
+About <br>
+HackerEarth is an AI-powered developer assessment software that helps companies accurately measure a developer’s skills through online coding tests. It takes a skill-based approach to assessment, allowing companies to automatically generate standardized tests based on various skills and then accurately measure the developer’s performance on those skills.
+ 
+HackerEarth also has a community version of the product that is used by developers all across the globe, to assess their coding skills, become better at it, and measure their true potential. They do it by solving coding challenges across different topics/skills and by participating in online competitions/hackathons. They have a thriving community of 6M developers.<br>
+<br>
+Official Website- <br>
+https://www.hackerearth.com/challenges/<br>
+<br>
+
+</details>
+ 
+<details>
 <summary>HackerRank Contests</summary>
 <br>
 About <br>
@@ -826,6 +985,22 @@ https://www.youtube.com/watch?v=j5Q7gVtTy3M
 </details>
 
 <details>
+
+<summary>Harvard WECode</summary>
+<br>
+About <br>
+The Harvard WECode (Women Engineers Code) Conference is organized by undergraduate women at Harvard University and is an initiative of Harvard Undergraduate Women in CS. WECode hosts the largest student-run women in tech conference in the world.<br>
+Harvard WECode is a global community of technical leaders aiming to foster a network among engineers, and promote greater representation in the technical industry by those who have been traditionally marginalized. WECode culminates in the world’s largest student-run women in tech conferences, held for undergraduates students. <br>
+<br>
+Official Website- <br>
+https://www.harvardwecode.com/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=8cLlUfXoDy4&t=597s
+
+</details>
+
+<details>
 <summary>HP CodeWars</summary>
 <br>
 About 
@@ -837,6 +1012,20 @@ https://hpcodewarsbcn.com/<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=KCCttp-_Qn8
+
+</details>
+
+<details>
+<summary>Huawei Apps UP</summary>
+<br>
+About
+<br>
+The Huawei Global App Innovation Contest ("Apps UP" for short) is a global event held by Huawei that pools the skills of developers from around the world to build an app ecosystem that intelligently connects everything. It aims to inspire developers to innovate, bring together people, devices, and scenarios, and create consistent app experiences.<br>
+<br>
+Official Details for 2022: https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898<br>
+<br>
+2022 Youtube Announcement: <br>
+https://www.youtube.com/watch?v=HRBY0Ad_PBI
 
 </details>
 
@@ -963,6 +1152,21 @@ https://www.youtube.com/watch?v=VZUx4GuCJiM
 </details>
 
 <details>
+<summary>Learn to Earn Cloud Data Challenge</summary>
+<br>
+About <br>
+The world of sports has never been the same since a certain player named Google Cloud stepped onto the pitch. Be it helping coaches pick up their best players or helping you pick up your best fantasy team or making life easier for broadcasters to show your favorite game live for you to enjoy along with your favorite pizza, Google Cloud has got it all covered!
+        Google Cloud is transforming the way sports are played & viewed by monitoring the real-time parameters of athletes to utilize data to improve the team’s performance.
+        At the top level of any sport, it’s all about fractional improvements and technology is helping elite personalities power to glory. Google Cloud technology can enable colossal amounts of data to be crunched, analyzed and presented quickly. <br>
+<br>
+Official Website- <br>
+https://www.googlecloudcommunity.com/gc/Community-Blogs/Learn-to-Earn-Cloud-Data-Challenge-Step-up-your-Data-Game/ba-p/437137<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/uG5IJML0L0c
+
+</details>
+<details>
 <summary>LiFT Scholar!</summary>
 <br>
  About <br>
@@ -973,6 +1177,24 @@ Official Website: <br>
 https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/<br>
 
  </details>
+
+ <details>
+<summary>LinkedIn CoachIn</summary>
+<br>
+About <br>
+Mock interviews and tests scheduled based on Data Structures and Algorithms
+Speaker sessions where senior and junior engineers from Linkedin spoke on various topics and gave us a lot of insights on what is happening in the industry currently
+A great community of like-minded individuals! We are a group of 40 young women constantly empowering each other and taking inspiration from each other  <br>
+<br>
+Official Website - <br>
+https://www.linkedin.com/company/coachin_2/
+<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/BS12nHUkraA
+
+</details>
+
 
 <details>
 <summary>Linkedin Wintathon</summary>
@@ -1040,6 +1262,26 @@ Microsoft Engage is a student engagement and mentorship program by Microsoft tha
 </details>
 
 <details>
+<summary>Microsoft Fix-a-thon</summary>
+<br>
+About<br>
+Microsoft Fix-a-thon is a National-level hackathon, conducted to hire final year college students for the role of Support Engineering interns. Support engineers are part of Microsoft’s Customer Experience & Success (CE&S) team. <br>
+<br>
+Eligibility Criteria for Fix-a-thon:<br> 
+
+- Students who are pursuing BE/B.Tech in CSE/IT/other quantitative branches.<br>
+- CGPA above 8 in the current degree.<br>
+- Degree Completion year should be current year(last year of Graduation).<br>
+- Candidate should not have participated in any Microsoft hiring event in the last 12 months.<br>
+
+Official Website: <br>
+https://careers.microsoft.com/us/en/fix-a-thon <br>
+<br>
+Explanation on YouTube: <br>
+https://youtu.be/fGFQkdn5BPg
+</details>
+
+<details>
 <summary>Microsoft Imagine Cup</summary>
 <br>
 About <br>
@@ -1085,6 +1327,20 @@ https://www.youtube.com/watch?v=_H65WfXPxuA
 
 </details>
 
+<details>
+<summary>Millennium Campus Fellowship Program</summary>
+<br>
+About <br>
+ Millennium Campus Network (MCN) is a Boston-based, global non-profit convening and training 21st-century social impact leaders. Through the Millennium Fellowship and Millennium Oceans Prize, MCN helps young leaders use their voices and power to make a difference on campus and in community.
+ The Millennium Fellowship, which launched in 2013, is a 10 session, semester-long leadership accelerator convening student leaders across universities to improve their student organizations, partnerships, and community impact. <br>
+<br>
+Official Website:<br>
+ https://www.millenniumfellows.org/<br>
+<br>
+Explanation on Youtube:<br>
+https://youtu.be/1De8MJlpGRw
+</details>
+ 
 <details>
 <summary>Mitacs Globalink Research Internship</summary>
 <br>
@@ -1301,6 +1557,27 @@ Explanation on Youtube- <br>
 https://youtu.be/EuEZ83VAfgQ
 
 </details>
+ 
+<details>
+<summary>TechGig Geek Goddess</summary>
+<br>
+About<br>
+TechGig Geek Goddess, presented by American Express, is India's biggest women-only hackathon, wherein you stand a chance to win prizes upto INR 10+ Lakh. This is a huge opportunity to showcase your coding skills, compete with your peers, meet top women tech leaders and interact with innovative technology companies at one place. <br>
+<br>
+Rules:<br> 
+ 
+- Time duration of Geek Goddess 2022 - Open Round would be 3 hours.<br>
+- You will be able to access the problem statement once you click the "Solve Problem" button.<br>
+- The Problem Statement page has a Live Coding Environment where you can code and compile your code.<br>
+- Once you are done writing your code, a default test case will be used to check your code.<br>
+
+Official Website: <br>
+https://www.techgig.com/geekgoddess <br>
+<br>
+Explanation on YouTube: <br>
+https://www.youtube.com/watch?v=ws_L3sWFE_4&list=PLyys4weFOrPecVbNdoUc9bgAsIR-SYQx7
+</details>
+ 
 
 <details>
 <summary>Technica</summary>
@@ -1622,6 +1899,7 @@ https://technovationchallenge.org/<br>
 <br>
  
 </details>
+ 
 
 <details>
 <summary>Yandex Algorithm</summary>
@@ -1665,9 +1943,21 @@ https://www.youtube.com/watch?v=hmKw7CQwNls<br>
 </details>
 
 
-
-<details>
-
+ <details>
+<summary>Twitter DevelopHer for Women</summary>
+<br>
+About <br>
+A two-day program for third year students who identify as women. Participants will experience hands-on technical workshops, professional development seminars, meet with senior leaders, engage with our Business Resource Groups (BRGs), and explore career opportunities at Twitter. <br>
+<br>
+Official Website- <br>
+https://careers.twitter.com/en/early-career.html
+<br>
+<br>
+Explanation on Youtube- <br>
+ https://youtu.be/y2ciehLvJP4
+</details>
+<br>
+  
 
 
 

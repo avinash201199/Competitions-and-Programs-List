@@ -48,15 +48,6 @@ export const Accordion_Item_Content = styled.div`
 
   }
 
-  @keyframes animate {
-    0% { 
-      height: 0;
-    }
-    100% {
-      height: auto;
-    }
-  }
-
   h5{
     
     font-size: 1.6rem;
