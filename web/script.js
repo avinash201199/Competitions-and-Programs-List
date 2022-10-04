@@ -129,6 +129,127 @@ const data = [
   {
     title: " Codiva by Adobe ",
     about: `Codiva is a hackathon conducted by Adobe exclusively for women. Students who are in their final or pre-final years can be a part of this. The top-performing candidates are eligible for an interview for either an internship or full-time employment. And the packages offered by Adobe are going to be a great boost to the overall average package at your college. 
+    {
+        
+        title: "30 Days of Google Cloud by Google",
+        about:
+            '30 Days of Google Cloud program will provide you an opportunity to kickstart your career in cloud and get hands-on practice on Google Cloud - the tool that powers apps like Google Search, Gmail and YouTube.Along the way, you will learn & practice concepts like computing, application development, big data & machine learning using cloud & if you get stuck, you will have your "Campus Facilitators" who are specially trained on Google Cloud to help. 😎',
+        siteUrl: "https://events.withgoogle.com/30daysofgooglecloud/#content",
+        YouTube: "https://www.youtube.com/watch?v=r3qElNn2IZQ",
+    },
+    {
+      
+        title: "Adobe Analytics Challenge",
+        about:
+            "The Adobe Analytics Challenge is a unique analytics-focused business case competition where university students are given the opportunity to use Adobe’s industry-leading analytics products and access to real-world data from leading organizations such as Nike, Major League Baseball, T‑Mobile, Starwood, Lenovo, Condé Nast, Comcast, Overstock.com, Backcountry.com, Sony PlayStation, and MGM Resort International. ",
+        siteUrl: "https://www.adobeanalyticschallenge.com/",
+        YouTube: "https://www.youtube.com/watch?v=1fNx08ONKkM",
+    },
+    {
+        
+        title: "Adobe Express Community",
+        about:
+            "The Adobe Express community of like-minded business owners, online marketers, and content creators will help you find what it takes to become an expert at Adobe Express. Boost your content confidence with workshops and more for honing your skills in business and design.Empower your community to grow their businesses and stand out with Adobe Express. Tap into rewards from exclusive merchandise to free access to Adobe Express Premium.",
+        siteUrl: "https://www.adobe.com/express/ambassadors/",
+        YouTube: "https://www.adobe.com/express/ambassadors/list",
+    },
+    {
+        
+        title: "Adobe India Women-in-Technology Scholarship",
+        about:
+            "Adobe India Women-in-Technology Scholarship is for Indian females enrolled in a formal technology program in computer science, computer engineering, or a closely related technical field. The scholarship offered by Adobe Research aims to recognize outstanding female students in the field of technology. The scholarship focuses on creating gender equality in the science and engineering domain by encouraging women to excel in computing and technology.",
+        siteUrl:
+            "https://research.adobe.com/adobe-india-women-in-technology-scholarship/",
+        YouTube: "https://www.youtube.com/watch?v=eF6ek2j5gfE",
+    },
+    {
+        title: "Advent of Code",
+        about:
+            "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.You don't need a computer science background to participate - just a little programming knowledge and some problem solving skills will get you pretty far. Nor do you need a fancy computer; every problem has a solution that completes in at most 15 seconds on ten-year-old hardware. Advent of Code is a registered trademark in the United States.",
+        siteUrl: "https://adventofcode.com/",
+        YouTube: "https://www.youtube.com/watch?v=QAwQ8eKBpYw",
+    },
+    {
+        title: "Alexa Prize by Amazon",
+        about:
+            "The Alexa Prize, launched in 2016, is a competition for university students dedicated to advancing the field of conversational AI. Teams are challenged to design socialbots that Alexa customers can interact with via Alexa-enabled devices. Their ultimate goal is to meet the Grand Challenge: earn a composite score of 4.0 or higher (out of 5) from the judges, and have the judges find that at least two-thirds of their conversations with the socialbot in the final round of judging remain coherent and engaging for 20 minutes. ",
+        siteUrl: "https://developer.amazon.com/alexaprize",
+        YouTube: "https://www.youtube.com/watch?v=nVi-QwX82GI",
+    },
+    {
+        title: "Amazon WOW",
+        about:
+            "Amazon WoW is a networking platform for all women engineering students in India that connects them to Amazon leaders, recruiters, and the broader Amazon community. The platform provides an opportunity to participate in skill building sessions, utilize available resources, converse with alumni on their career experiences, and be acquainted with the culture at Amazon. The objective is to help women students build long-term career in technology. Amazon WoW is open to all women students across engineering campuses in India. Any women student who is currently pursuing a four-year B.Tech/BE or two-year MCA, M.Tech/ME program or five year Dual Degree can participate.",
+        siteUrl: "https://amazonwowindia.splashthat.com/",
+        YouTube: "https://www.youtube.com/watch?v=dRAVWI8UZlo",
+    },
+   
+    {
+        title: "Atlassian Women in Tech",
+        about:
+            "Atlassian Women in Tech is a networking platform for all women engineering students that connects them to Atlassian leaders, recruiters, and the broader Atlassian community.This is a wonderful initiative to empower women in tech. It is open to all young women in the country, regardless of their college,thus providing a fair opportunity for everyone.The event was well-planned with informative sessions and Q&As to help to prepare you for a smooth interview process.In this program you learned more about Atlassian's products, values, and assessment tools which helped you better to prepare for your interview.The objective is to help women students build long-term career in technology.",
+        siteUrl: "https://womenintech.girlscript.tech/",
+        YouTube: "https://www.youtube.com/watch?v=f8VcKV4IvhM",
+    },
+    {
+        title: "Bubble Cup",
+        about:
+            "Bubble Cup is an international team coding competition aimed at university and high school students. It is a coding contest started by Microsoft Development Center Serbia in 2008 with a purpose of creating a local competition similar to the ACM Collegiate Contest, but soon that idea was overgrown and the vision was expanded to attract talented programmers from the entire region and promote the values of communication, companionship and teamwork. Since Bubble Cup 10 (2017), Bubble Cup is being co-organized by Petlja Foundation. The competition consists of two parts – two online qualifying rounds in the spring and the final round in Belgrade in September.",
+        siteUrl: "https://www.bubblecup.org/",
+        YouTube: "https://www.youtube.com/watch?v=Jkul-W1KBTk",
+    },
+    {
+        title: "Capgemini Tech Challenge",
+        about:
+            "Capgemini Tech Challenge is one of the largest hackathons in India. Over 7.5 Lakh people have been a part of this challenge in the last seven years, 35% of them being women. Last year, only the finest lot of the registered participants made it to the finale.In case you are wondering what’s in store for you: There are prizes worth INR 20, 00, 000* A chance to land your dream job* at Capgemini Exclusive mentoring from the tech wizards of Capgemini An opportunity to showcase your tech skills in front of a C- suite jury;n the celebrated leaders from the start - up, academia and IT industry.",
+        siteUrl: "https://techchallenge.in.capgemini.com/",
+        YouTube: "https://www.youtube.com/watch?v=Q-JFUzGSWT8",
+    },
+    {
+        title: "Code For Good",
+        about:
+            "Use your coding skills to make a difference At our Code for Good hackathon, you'll collaborate with other coders to develop innovative technology solutions for not-for-profit organizations. You'll also learn about starting a Technology career with us while being guided by the sharpest minds in our industry. ",
+        siteUrl:
+            "https://careers.jpmorgan.com/in/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India",
+        YouTube: "https://www.youtube.com/watch?v=IIzfQqX4QDo",
+    },
+    {
+        title: "Code Jam by Google",
+        about:
+            "Google Code Jam is an international programming competition hosted and administered by Google.[2] The competition began in 2003.[3] The competition consists of a set of algorithmic problems which must be solved in a fixed amount of time. Competitors may use any programming language and development environment to obtain their solutions. ",
+        siteUrl: "https://codingcompetitions.withgoogle.com/codejam",
+        YouTube: "https://www.youtube.com/watch?v=ey5XU4MU6VQ",
+    },
+    {
+        title: "Code Gladiators ",
+        about:
+            "Code Gladiators is a TechGig hackathon presented by Cognizant. This hackathon continues for 4 months where an individual can write, compile and run code in a live coding environment provided by the application. The total prize pool at Code Gladiators worths Rs 50 Lakh. Due to the pandemic, this hackathon is hosted over a virtual platform. The registration of the TechGig Code Gladiators initiated during summers of every year. After a user completes the registration process 2 coding problems will be available to solve. The highest score regardless of unbound attempts will be considered as the final score. ",
+        siteUrl: "https://www.techgig.com/codegladiators",
+    },
+    {
+        title: "Code Jam to I/O for Women",
+        about:
+            "At Google, we’re committed to building for everyone, and we know that a diversity of voices leads to better outcomes. We’re committed to increasing representation and building community in the online coding contest space and at Google I/O, our largest developer conference. Code Jam to I/O for Women is one way we bring women (students and professionals) from around the globe together, working to solve tough algorithmic challenges in a 2.5 hour, single-round coding competition. The top 150 on the scoreboard will receive a ticket and a stipend to participate in virtual Google I/O. ",
+        siteUrl: "https://codingcompetitions.withgoogle.com/codejamio",
+        YouTube: "https://www.youtube.com/watch?v=Q_2TwBhqHPg",
+    },
+    {
+        title: "Codechef SnackDown",
+        about:
+            "SnackDown is a global programming event that invites programmers from all over the world to take part in India’s most prestigious multi-round programming competition. Hosted by CodeChef, SnackDown is open to anyone with a knack for programming and began in the year 2010. SnackDown aims to pit the finest programming brains from different parts of the globe against each other. Everyone from middle/high school to college to working professionals from the industry can attempt to take home the coveted crown of SnackDown champion.",
+        siteUrl: "https://snackdown.codechef.com/",
+        YouTube: "https://www.youtube.com/watch?v=6GIw04ieGv4",
+    },
+    {
+        title: "Coderita 2.0 by GeeksforGeeks",
+        about:
+            "Coderita 2.0 is a 1- Day online coding contest that is designed only for the female coders (Yes! only for Women) to appreciate their programming skills.Every year this contest helds on Women's Day.",
+        siteUrl:
+            "https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-geeksforgeeks/",
+    },
+    {
+        title: " Codiva by Adobe ",
+        about: `Codiva is a hackathon conducted by Adobe exclusively for women. Students who are in their final or pre-final years can be a part of this. The top-performing candidates are eligible for an interview for either an internship or full-time employment. And the packages offered by Adobe are going to be a great boost to the overall average package at your college. 
             Prizes
 1st prize – iPhone 8
 
@@ -920,6 +1041,7 @@ Global Hack Weeks are attended by hackers from all over the globe. Whether this 
     about: `Mock interviews and tests scheduled based on Data Structures and Algorithms
 Speaker sessions where senior and junior engineers from Linkedin spoke on various topics and gave us a lot of insights on what is happening in the industry currently
 A great community of like-minded individuals! We are a group of 40 young women constantly empowering each other and taking inspiration from each other `,
+<<<<<<< HEAD
     siteUrl: "https://coachin2021.splashthat.com/",
   },
   {
@@ -1021,6 +1143,18 @@ A great community of like-minded individuals! We are a group of 40 young women c
     siteUrl: "https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade",
     YouTube: "https://lnkd.in/dPNVidri",
   },
+=======
+        siteUrl: "https://coachin2021.splashthat.com/",
+    },
+     {
+        id: 97,
+        title: "Amazon ML Summer School",
+        about:
+            "Amazon ML Summer School aims at providing students the opportunity to gain Machine Learning (ML) skills which is the first step in becoming ready to build a career in ML. This program is an intensive course on key ML topics and is a great opportunity to learn from and interact with Scientists at Amazon who have immense knowledge in their ML domain. After a successful pilot in 2021, Amazon ML Summer School is being expanded to include students enrolled in any Indian campus and will see a bigger class size.",
+        siteUrl: "https://amazonmlsummerschoolindia.splashthat.com/",
+        YouTube: "https://youtu.be/0QedVNGvZlQ",
+    },
+>>>>>>> 436585046c211620b0cf46248f7570b175295d78
 ];
 
 // --------------------------------------------------------------------------------------------------------------------
