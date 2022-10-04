@@ -1557,7 +1557,22 @@ Explanation on Youtube- <br>
 https://youtu.be/EuEZ83VAfgQ
 
 </details>
+
+<details>
+<summary>Summer of Bitcoin </summary>
+<br>
+About <br>
+A global summer internship program focused on introducing university students to bitcoin and open-source development.
+The organizations provide mentors who act as guides through the entire process, from learning about the community to contributing.
+Students get involved in and become familiar with the bitcoin open source community and put their summer break to good use.The last date to apply for Summer of Bitcoin program is March 5, 2022.
+<br> Official Website- <br>
+https://www.summerofbitcoin.org<br>
  
+Explanation on Youtube- <br>
+https://youtu.be/GwpTNKCsgSc
+
+</details>
+
 <details>
 <summary>TechGig Geek Goddess</summary>
 <br>

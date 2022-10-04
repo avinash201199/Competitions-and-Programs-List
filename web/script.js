@@ -702,6 +702,12 @@ In SIH, the students would also have the opportunity to work on challenges faced
         YouTube: "https://youtu.be/EuEZ83VAfgQ",
     },
     {
+        title: "Summer of Bitcoin",
+        about: `A global summer internship program focused on introducing university students to bitcoin and open-source development.The organizations provide mentors who act as guides through the entire process, from learning about the community to contributing.Students get involved in and become familiar with the bitcoin open source community and put their summer break to good use.The last date to apply for Summer of Bitcoin program is March 5, 2022. `,
+        siteUrl: "https://www.summerofbitcoin.org",
+        YouTube: "https://youtu.be/GwpTNKCsgSc",
+    },
+    {
         title: "Technica",
         about: `Technica is the world’s largest hackathon for underrepresented genders, hosted over the duration of 24 hours each fall by students at the University of Maryland and online. This year’s theme is "Reach New Heights!" This year, we want to help all of our hackers rise to the next level in their tech journey, whether that means tackling challenging new projects or writing your first line of code. We encourage you to be open-minded, be curious, and find your space in tech. Explore your untapped potential — the sky's the limit at Technica! Whether we serve as a push in the right direction or as a place for you to explore your curiosities, we hope that you are able to #ReachNewHeights! `,
         siteUrl: "https://gotechnica.org/",
