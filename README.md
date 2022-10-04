@@ -363,6 +363,23 @@ https://www.youtube.com/playlist?list=PLQXZIFwMtjoxrJvVaqoGlFYJRwUCHUq1t
 </details>
 
 <details>
+<summary>Cosmos and Chaos</summary>
+<br>
+About <br>
+“Curiosity creates innovation. Innovation fuels success.”
+
+Astronomy Club brings Cosmos and Chaos- a 3-hour rendition of a multi-dimensional treasure hunt, spanning 5 phases. Our aim? To allow our participants to channel their inner Sherlock Holmes, and challenge the limits of their cognitive and creative abilities in a limited time frame.
+
+The event will be based on the theme of astronomy. There will be 5 phases or levels that the participants have to complete. 
+A team can progress to higher levels as soon as they are approved for completion of a prior level. They can collaboratively work as a team of 2-4 members to find answers.
+
+<br>
+Official Website- <br>
+https://unstop.com/competition/cosmos-and-chaos-uphoria-x-zenevia-bennett-university-bu-greater-noida-440498<br>
+<br>
+</details>
+
+<details>
 <summary>D.E. Shaw Mentorship Program </summary>
 <br>
  About <br>
@@ -1028,6 +1045,40 @@ Official Details for 2022: https://developer.huawei.com/consumer/en/activity/dig
 https://www.youtube.com/watch?v=HRBY0Ad_PBI
 
 </details>
+ 
+<details>
+<summary>IBM zStudent Contest</summary>
+<br>
+About <br>
+HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrilling coding contest centered around sustainable energy that will teach you computing skills used to power some of today’s largest enterprise companies. Along the way, you will learn JCL, z/OS, SQL, COBOL, Python, APIs, Unix and more.
+
+Through completion of Fundamentals and Concepts levels (how you earn the Concepts Badge), contestants will have skills in:
+
+VS Code
+JCL
+Files and Members
+Unix System Services (USS)
+REXX
+Python
+
+<br>
+Official Website- <br>
+https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/?utm_source=arsh&utm_medium=instagram_story&utm_campaign=IBMz<br>
+<br>
+</details>
+ 
+<details>
+<summary>IEEEXtream</summary>
+<br>
+About <br>
+IEEEXtreme is a global challenge in which teams of IEEE Student members – advised and proctored by an IEEE member, and often supported by an IEEE Student Branch – compete in a 24-hour time span against each other to solve a set of programming problems.
+
+It takes place on 22 October, 2022 and registrations will close by 12 October, 2022. <br>
+<br>
+Official Website- <br>
+https://ieeextreme.org/#REGISTRATION<br>
+<br>
+</details>
 
 <details>
 <summary>Imagine Cup by Microsoft</summary>
@@ -1242,6 +1293,25 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=lKLkqsKTo3Y
 
 </details>
+ 
+<details>
+<summary>Meta Hacker Cup</summary>
+<br>
+About <br>
+Hacker Cup is Meta's annual open programming competition. 
+Open to participants around the world, we invite you to apply problem-solving and algorithmic
+coding skills to advance through each year’s online rounds, win prizes, and
+have a chance to make it to the global finals and win the grand prize.
+
+<br>
+ 
+ 
+Official Website- <br>
+https://www.facebook.com/codingcompetitions/hacker-cup<br>
+<br>
+ 
+</details>
+ 
 <details>
 <summary>Microsoft Codess</summary>
 <br>
@@ -1373,6 +1443,20 @@ https://fellowship.mlh.io/<br>
 You can also visit: <br>
 https://www.geeksforgeeks.org/mlh-fellowship-programs-offered-application-process-benefits/ <br>
 </details>
+ 
+<details>
+<summary>MLH Global Hack Week, October 23-30, 2022</summary>
+<br>
+About <br>
+Global Hack Week October is their beginner-friendly hacker festival. You can expect to complete challenges, chat at hacker hangouts, enjoy fun live sessions, build technical projects, and make new memories.
+
+Global Hack Weeks are attended by hackers from all over the globe. Whether this is your first time coding or you're a seasoned expert, we will have events here for you. Our last Global Hack Week included hackers from over 90 countries around the world! If you're a first-time hacker, there will be beginner-focused activities for you.
+
+<br>
+Official Website- <br>
+https://ghw.mlh.io/oct<br>
+<br>
+</details>
 
 <details>
 <summary>MLH Prep Program</summary>
@@ -1415,6 +1499,23 @@ YouTube link for information-<br>
 https://youtu.be/YTeck476Wzc<br>
 
 </details>
+ 
+<details>
+<summary>
+NASA International Space Apps Challenge (Space Apps)</summary>
+<br>
+About-<br>
+The NASA International Space Apps Challenge (Space Apps) is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage the National Aeronautics and Space Administration’s (NASA’s) free and open data to address real-world problems on Earth and in space.
+
+Each October, over the course of two days, Space Apps brings participants from around the world together at hundreds of in-person and virtual local events to solve challenges submitted by NASA experts. After the hackathon, project submissions are judged by space agency experts and winners are selected for one of 10 Global Awards.
+<br>
+Official Link-
+<https://www.spaceappschallenge.org/><br>
+
+YouTube link for information-<br>
+https://www.youtube.com/watch?v=hmKw7CQwNls<br>
+</details>
+ 
 
 <details>
 <summary>
@@ -1591,6 +1692,25 @@ Technica is the world’s largest hackathon for underrepresented genders, hosted
 https://www.youtube.com/watch?v=zzIGwnKOkyw
 
 </details>
+ 
+<details>
+<summary>Technovation Challenge</summary>
+<br>
+About <br>
+The Technovation Challenge is designed to get more girls interested in coding and computer science. 
+Girls work in teams of 1-5 and with volunteer mentors to use technology to design an app that helps 
+solve real world problems such as climate change, bullying, and hunger. 
+Both novices and girls with strong backgrounds in computer science can participate, 
+as the competition is designed to help girls build their tech skills.
+
+<br>
+ 
+ 
+Official Website- <br>
+https://technovationchallenge.org/<br>
+<br>
+ 
+</details>
 
 <details>
   <summary>TopCoder Open</summary>
@@ -1622,6 +1742,21 @@ Explanation on YouTube   <br>
 https://youtu.be/5Ma4V_rsyGw
  
  </details>
+ 
+
+<details>
+<summary>Twitter DevelopHer for Women</summary>
+<br>
+About <br>
+A two-day program for third year students who identify as women. Participants will experience hands-on technical workshops, professional development seminars, meet with senior leaders, engage with our Business Resource Groups (BRGs), and explore career opportunities at Twitter. <br>
+<br>
+Official Website- <br>
+https://careers.twitter.com/en/early-career.html
+<br>
+<br>
+Explanation on Youtube- <br>
+ https://youtu.be/y2ciehLvJP4
+</details>
 
 <details>
  <summary>Twitter #DevelopHER JAPAC</summary>
@@ -1756,6 +1891,16 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=AA7we1OR0Y4
 
 </details>
+ 
+<details>
+<summary>VK Cup</summary>
+<br>
+About<br>
+The VK Cup Championship is an open computer programming competition that is held by VK, Codeforces and Saratov State University. VK is the largest European social network with more than a 100 million active users. The Championship Final Round will be held in July in St. Petersburg. Top 50 contestants of the Round 3 will be invited to the Finals, with trip expenses covered by the organizing committee.<br>
+<br>
+For more details : <br>
+https://codeforces.com/blog/entry/3977 <br>
+</details>
 
 <details>
 
@@ -1786,121 +1931,7 @@ https://youtu.be/yhGu9lxfs-g<br>
 Related blog post: <br>
 https://medium.com/@archanakumari943064/all-about-women-engineers-program-7bb7a7f434c8 <br>
 </details>
-
-<details>
-<summary>IEEEXtream</summary>
-<br>
-About <br>
-IEEEXtreme is a global challenge in which teams of IEEE Student members – advised and proctored by an IEEE member, and often supported by an IEEE Student Branch – compete in a 24-hour time span against each other to solve a set of programming problems.
-
-It takes place on 22 October, 2022 and registrations will close by 12 October, 2022. <br>
-<br>
-Official Website- <br>
-https://ieeextreme.org/#REGISTRATION<br>
-<br>
-</details>
- <details>
-<summary>Zuno Fellowship Program</summary>
-<br>
-About <br>
-The idea behind the Zuno Fellowship Program is to be the largest Fellowship Program in India. Candidates will stand a chance to win rewards worth over $1M annually and also have a chance to Upskill, add Premium Internship tag, win Cash & Brand Goodies.All candidates between the age of 17 - 25 years who are pursuing their UG or PG courses.
-It takes place on 17 December,  04:00 PM - 07:00 PM <br>
-<br>
-Official Website- <br>
-https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia
-<br>
-</details>
  
-<details>
-<summary>IBM zStudent Contest</summary>
-<br>
-About <br>
-HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrilling coding contest centered around sustainable energy that will teach you computing skills used to power some of today’s largest enterprise companies. Along the way, you will learn JCL, z/OS, SQL, COBOL, Python, APIs, Unix and more.
-
-Through completion of Fundamentals and Concepts levels (how you earn the Concepts Badge), contestants will have skills in:
-
-VS Code
-JCL
-Files and Members
-Unix System Services (USS)
-REXX
-Python
-
-<br>
-Official Website- <br>
-https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/?utm_source=arsh&utm_medium=instagram_story&utm_campaign=IBMz<br>
-<br>
-</details>
-
-<details>
-<summary>Cosmos and Chaos</summary>
-<br>
-About <br>
-“Curiosity creates innovation. Innovation fuels success.”
-
-Astronomy Club brings Cosmos and Chaos- a 3-hour rendition of a multi-dimensional treasure hunt, spanning 5 phases. Our aim? To allow our participants to channel their inner Sherlock Holmes, and challenge the limits of their cognitive and creative abilities in a limited time frame.
-
-The event will be based on the theme of astronomy. There will be 5 phases or levels that the participants have to complete. 
-A team can progress to higher levels as soon as they are approved for completion of a prior level. They can collaboratively work as a team of 2-4 members to find answers.
-
-<br>
-Official Website- <br>
-https://unstop.com/competition/cosmos-and-chaos-uphoria-x-zenevia-bennett-university-bu-greater-noida-440498<br>
-<br>
-</details>
-
-<details>
-<summary>MLH Global Hack Week, October 23-30, 2022</summary>
-<br>
-About <br>
-Global Hack Week October is their beginner-friendly hacker festival. You can expect to complete challenges, chat at hacker hangouts, enjoy fun live sessions, build technical projects, and make new memories.
-
-Global Hack Weeks are attended by hackers from all over the globe. Whether this is your first time coding or you're a seasoned expert, we will have events here for you. Our last Global Hack Week included hackers from over 90 countries around the world! If you're a first-time hacker, there will be beginner-focused activities for you.
-
-<br>
-Official Website- <br>
-https://ghw.mlh.io/oct<br>
-<br>
-</details>
-
-<details>
-<summary>Meta Hacker Cup</summary>
-<br>
-About <br>
-Hacker Cup is Meta's annual open programming competition. 
-Open to participants around the world, we invite you to apply problem-solving and algorithmic
-coding skills to advance through each year’s online rounds, win prizes, and
-have a chance to make it to the global finals and win the grand prize.
-
-<br>
- 
- 
-Official Website- <br>
-https://www.facebook.com/codingcompetitions/hacker-cup<br>
-<br>
- 
-</details>
-
-<details>
-<summary>Technovation Challenge</summary>
-<br>
-About <br>
-The Technovation Challenge is designed to get more girls interested in coding and computer science. 
-Girls work in teams of 1-5 and with volunteer mentors to use technology to design an app that helps 
-solve real world problems such as climate change, bullying, and hunger. 
-Both novices and girls with strong backgrounds in computer science can participate, 
-as the competition is designed to help girls build their tech skills.
-
-<br>
- 
- 
-Official Website- <br>
-https://technovationchallenge.org/<br>
-<br>
- 
-</details>
- 
-
 <details>
 <summary>Yandex Algorithm</summary>
 <br>
@@ -1913,51 +1944,18 @@ Official Website- <br>
 https://yandex.com/cup/algorithm
 <br>
 </details>
-
-
-
-<details>
-<summary>VK Cup</summary>
-<br>
-About<br>
-The VK Cup Championship is an open computer programming competition that is held by VK, Codeforces and Saratov State University. VK is the largest European social network with more than a 100 million active users. The Championship Final Round will be held in July in St. Petersburg. Top 50 contestants of the Round 3 will be invited to the Finals, with trip expenses covered by the organizing committee.<br>
-<br>
-For more details : <br>
-https://codeforces.com/blog/entry/3977 <br>
-</details>
-
-<details>
-<summary>
-NASA International Space Apps Challenge (Space Apps)</summary>
-<br>
-About-<br>
-The NASA International Space Apps Challenge (Space Apps) is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage the National Aeronautics and Space Administration’s (NASA’s) free and open data to address real-world problems on Earth and in space.
-
-Each October, over the course of two days, Space Apps brings participants from around the world together at hundreds of in-person and virtual local events to solve challenges submitted by NASA experts. After the hackathon, project submissions are judged by space agency experts and winners are selected for one of 10 Global Awards.
-<br>
-Official Link-
-<https://www.spaceappschallenge.org/><br>
-
-YouTube link for information-<br>
-https://www.youtube.com/watch?v=hmKw7CQwNls<br>
-</details>
-
-
+ 
  <details>
-<summary>Twitter DevelopHer for Women</summary>
+<summary>Zuno Fellowship Program</summary>
 <br>
 About <br>
-A two-day program for third year students who identify as women. Participants will experience hands-on technical workshops, professional development seminars, meet with senior leaders, engage with our Business Resource Groups (BRGs), and explore career opportunities at Twitter. <br>
+The idea behind the Zuno Fellowship Program is to be the largest Fellowship Program in India. Candidates will stand a chance to win rewards worth over $1M annually and also have a chance to Upskill, add Premium Internship tag, win Cash & Brand Goodies.All candidates between the age of 17 - 25 years who are pursuing their UG or PG courses.
+It takes place on 17 December,  04:00 PM - 07:00 PM <br>
 <br>
 Official Website- <br>
-https://careers.twitter.com/en/early-career.html
+https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia
 <br>
-<br>
-Explanation on Youtube- <br>
- https://youtu.be/y2ciehLvJP4
 </details>
-<br>
-  
 
 
 
