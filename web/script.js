@@ -59,6 +59,7 @@ const data = [
         siteUrl: "https://amazonwowindia.splashthat.com/",
         YouTube: "https://www.youtube.com/watch?v=dRAVWI8UZlo",
     },
+   
     {
         id: 8,
         title: "Atlassian Women in Tech",
@@ -893,6 +894,14 @@ The event will be based on the theme of astronomy. There will be 5 phases or lev
 
 Global Hack Weeks are attended by hackers from all over the globe. Whether this is your first time coding or you're a seasoned expert, we will have events here for you. Our last Global Hack Week included hackers from over 90 countries around the world! If you're a first-time hacker, there will be beginner-focused activities for you. `,
         siteUrl: "https://ghw.mlh.io/oct",
+    },
+     {
+        id: 97,
+        title: "Amazon ML Summer School",
+        about:
+            "Amazon ML Summer School aims at providing students the opportunity to gain Machine Learning (ML) skills which is the first step in becoming ready to build a career in ML. This program is an intensive course on key ML topics and is a great opportunity to learn from and interact with Scientists at Amazon who have immense knowledge in their ML domain. After a successful pilot in 2021, Amazon ML Summer School is being expanded to include students enrolled in any Indian campus and will see a bigger class size.",
+        siteUrl: "https://amazonmlsummerschoolindia.splashthat.com/",
+        YouTube: "https://youtu.be/0QedVNGvZlQ",
     },
 ];
 
