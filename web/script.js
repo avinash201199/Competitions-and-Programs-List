@@ -465,6 +465,12 @@ The top performers also get a chance to work with Infosys. The top three winning
         YouTube: "https://youtu.be/WfRqE4NBecM",
     },
     {
+        title: "International Obfuscated C Code Contest",
+        about: "The International Obfuscated C Code Contest (IOCCC) is a computer programming contest for the most creatively obfuscated C code. Described as 'celebrating [C\'s] syntactical opaqueness' this contest is held annually.",
+        siteUrl: "https://www.ioccc.org/",
+        YouTube: "https://www.youtube.com/watch?v=7F3IHxVEsvk&t=42s"
+    },
+    {
         title: "Internet Problem Solving Contest ",
         about: `The Internet Problem Solving Contest (IPSC) is an online contest for teams consisting of up to three people. Several problems are published at the beginning of the competition. Some of them are unusual kinds of problems which will test your out of the box thinking.To solve a problem you will have to compute correct output data for the given input data sets. Usually this means that you will write a program that solves the problem, but you may produce the output by hand or in any other way.`,
         siteUrl: "https://ipsc.ksp.sk/",
