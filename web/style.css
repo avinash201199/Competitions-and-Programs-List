@@ -182,3 +182,22 @@ body {
         font-size: 1.4rem;
     }
 }
+
+footer {
+    
+    padding: 15px;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    color: black;
+   
+
+}
+.fa:hover {
+    transform: scale(1.5);
+    /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}

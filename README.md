@@ -439,6 +439,30 @@ https://doodles.google.com/d4g <br>
 </details>
 
 <details>
+ <summary> Exercism </summary>
+ <br>
+ About
+ <br>
+The website differs from other coding platforms by requiring students to download exercises through a command line client, solve the code on their own computers then submit the solution for feedback, at which point they can also view other's solutions to the same problem.
+A lot of quizes and question based on every difficult levels are available on the exercism website. Also it looks very fancy and enjoyable to code.
+The Exercism codebase is open source, consisting of over 50 repositories, containing website code, API code, command-line code and over 40 stand-alone repositories for different language tracks.
+More than 1 Million students practice questions on the website and more than 3 lakh Mentoring Discussions have been made on this website.
+ <br>
+ Official Website : <br>
+ https://exercism.org/
+ <br>
+ Explanation On Youtube : <br>
+ https://youtu.be/BNfyAYlN8s4
+ <br>
+ How To Use Exercism : <br>
+ https://code.likeagirl.io/getting-started-with-exercism-io-e06e508a1fb6
+ <br>
+ https://www.codecraftr.nl/learning-programming-languages-with-exercism/
+ <br>
+ 
+</details>
+
+<details>
 <summary>e-Yantra Robotic Competition by IIT Bombay</summary>
 <br>
 About <br>
@@ -758,6 +782,42 @@ https://www.youtube.com/watch?v=psDqdNNZMfA
 
 </details>
 
+ <details>
+<summary>Grace Hooper Celebration Scholarship for Women</summary>
+<br>
+About <br>
+The Virtual GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. <br>
+<br>
+Official Website- <br>
+ https://ghc.anitab.org/attend/scholarships/
+<br>
+<br>
+Explanation on Youtube- <br>
+ https://www.youtube.com/watch?v=qmb0XG-55SA
+ 
+</details>
+
+
+<details>
+<summary>Google Cloud Programs</summary>
+<br> 1. Google Cloud Ready Facilitator Program<br>
+ <br>about<br>
+It is the programs of qwiklabs which provides goodies & swags.
+ It held in (April-June).
+<br>Official Website- <br>
+https://gdsc.community.dev/events/details/developer-student-clubs-college-of-engineering-thalassery-presents-googlecloudready-facilitator-program/
+<br>Explanation on Youtube- <br>
+https://lnkd.in/dabknRqp
+<br> 2. The Arcade<br>
+ About<br>
+This is Launched for the First Time and going on currently you can take part in it and this event will provide you all the goodies of qwiklabs in December
+<br>Official Website- <br>
+https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade
+<br>Explanation on Youtube- <br>
+https://lnkd.in/dPNVidri
+</details>
+
+
 <details>
 <summary>Google Kick Start</summary>
 <br>
@@ -956,6 +1016,20 @@ https://www.youtube.com/watch?v=KCCttp-_Qn8
 </details>
 
 <details>
+<summary>Huawei Apps UP</summary>
+<br>
+About
+<br>
+The Huawei Global App Innovation Contest ("Apps UP" for short) is a global event held by Huawei that pools the skills of developers from around the world to build an app ecosystem that intelligently connects everything. It aims to inspire developers to innovate, bring together people, devices, and scenarios, and create consistent app experiences.<br>
+<br>
+Official Details for 2022: https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898<br>
+<br>
+2022 Youtube Announcement: <br>
+https://www.youtube.com/watch?v=HRBY0Ad_PBI
+
+</details>
+
+<details>
 <summary>Imagine Cup by Microsoft</summary>
 <br>
 About <br>
@@ -1098,6 +1172,21 @@ https://www.youtube.com/watch?v=VZUx4GuCJiM
 </details>
 
 <details>
+<summary>Learn to Earn Cloud Data Challenge</summary>
+<br>
+About <br>
+The world of sports has never been the same since a certain player named Google Cloud stepped onto the pitch. Be it helping coaches pick up their best players or helping you pick up your best fantasy team or making life easier for broadcasters to show your favorite game live for you to enjoy along with your favorite pizza, Google Cloud has got it all covered!
+        Google Cloud is transforming the way sports are played & viewed by monitoring the real-time parameters of athletes to utilize data to improve the team’s performance.
+        At the top level of any sport, it’s all about fractional improvements and technology is helping elite personalities power to glory. Google Cloud technology can enable colossal amounts of data to be crunched, analyzed and presented quickly. <br>
+<br>
+Official Website- <br>
+https://www.googlecloudcommunity.com/gc/Community-Blogs/Learn-to-Earn-Cloud-Data-Challenge-Step-up-your-Data-Game/ba-p/437137<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/uG5IJML0L0c
+
+</details>
+<details>
 <summary>LiFT Scholar!</summary>
 <br>
  About <br>
@@ -1108,6 +1197,24 @@ Official Website: <br>
 https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/<br>
 
  </details>
+
+ <details>
+<summary>LinkedIn CoachIn</summary>
+<br>
+About <br>
+Mock interviews and tests scheduled based on Data Structures and Algorithms
+Speaker sessions where senior and junior engineers from Linkedin spoke on various topics and gave us a lot of insights on what is happening in the industry currently
+A great community of like-minded individuals! We are a group of 40 young women constantly empowering each other and taking inspiration from each other  <br>
+<br>
+Official Website - <br>
+https://www.linkedin.com/company/coachin_2/
+<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/BS12nHUkraA
+
+</details>
+
 
 <details>
 <summary>Linkedin Wintathon</summary>
@@ -1813,46 +1920,25 @@ https://technovationchallenge.org/<br>
  
 </details>
  
+
+
  <details>
-<summary>Grace Hooper Celebration Scholarship for Women</summary>
+<summary>Twitter DevelopHer for Women</summary>
 <br>
 About <br>
-The Virtual GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. <br>
+A two-day program for third year students who identify as women. Participants will experience hands-on technical workshops, professional development seminars, meet with senior leaders, engage with our Business Resource Groups (BRGs), and explore career opportunities at Twitter. <br>
 <br>
 Official Website- <br>
- https://ghc.anitab.org/attend/scholarships/
+https://careers.twitter.com/en/early-career.html
 <br>
 <br>
 Explanation on Youtube- <br>
- https://www.youtube.com/watch?v=qmb0XG-55SA
-
-
+ https://youtu.be/y2ciehLvJP4
 </details>
-
-
-
-
-<details>
-<summary>Google Cloud Programs</summary>
-<br> 1. Google Cloud Ready Facilitator Program<br>
- <br>about<br>
-It is the programs of qwiklabs which provides goodies & swags.
- It held in (April-June).
-<br>Official Website- <br>
-https://gdsc.community.dev/events/details/developer-student-clubs-college-of-engineering-thalassery-presents-googlecloudready-facilitator-program/
-<br>Explanation on Youtube- <br>
-https://lnkd.in/dabknRqp
-<br> 2. The Arcade<br>
- About<br>
-This is Launched for the First Time and going on currently you can take part in it and this event will provide you all the goodies of qwiklabs in December
-<br>Official Website- <br>
-https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade
-<br>Explanation on Youtube- <br>
-https://lnkd.in/dPNVidri
-</details>
-
-
 <br>
+  
+
+
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)

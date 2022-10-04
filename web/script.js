@@ -192,6 +192,14 @@ Eligibilty: Open to women in their sophomore year of a full- time undergraduate 
         siteUrl: "https://doodles.google.com/d4g",
     },
     {
+        id: 103,
+        title: "Exercism",
+        about: "The website differs from other coding platforms by requiring students to download exercises through a command line client, solve the code on their own computers then submit the solution for feedback, at which point they can also view other's solutions to the same problem. A lot of quizes and question based on every difficult levels are available on the exercism website. Also it looks very fancy and enjoyable to code. The Exercism codebase is open source, consisting of over 50 repositories, containing website code, API code, command-line code and over 40 stand-alone repositories for different language tracks. More than 1 Million students practice questions on the website and more than 3 lakh Mentoring Discussions have been made on this website.",
+        siteUrl: "https://exercism.org/",
+        YouTube: "https://youtu.be/BNfyAYlN8s4",
+    },
+    {
+        id: 23,
         title: "e-Yantra Robotic Competition by IIT Bombay",
         about: `The e-Yantra Robotics Competition (eYRC) is the flagship initiative of the e-Yantra project. The competition is open to students from an engineering or polytechnic background and comprises 2 stages spanning over 6-7 months. The competition comprises 2 stages, from which Stage 1 is open to all and is a Robotics MOOC (Massive Online Open Course). During the competition, the participating teams are allotted “themes" with varying levels of complexity that are abstractions of real- world problems.A selected cohort from Stage 1 is admitted into Stage 2. The leading 5 - 6 teams from Stage 2 are hosted for the National Finals at IIT Bombay in March every year where they demonstrate their projects before a jury.! `,
         siteUrl: "https://portal.e-yantra.org/",
@@ -414,6 +422,12 @@ The top performers also get a chance to work with Infosys. The top three winning
         YouTube: "https://www.youtube.com/watch?v=KCCttp-_Qn8",
     },
     {
+        title:"Huawei Apps UP",
+        about:`The Huawei Global App Innovation Contest ("Apps UP" for short) is a global event held by Huawei that pools the skills of developers from around the world to build an app ecosystem that intelligently connects everything. It aims to inspire developers to innovate, bring together people, devices, and scenarios, and create consistent app experiences`,
+        siteUrl:"https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898",
+        YouTube:"https://www.youtube.com/watch?v=HRBY0Ad_PBI",
+    },
+    {
         title: "Imagine Cup by Microsoft",
         about: `Imagine Cup is an annual competition sponsored and hosted by Microsoft Corp. which brings together student developers worldwide to help resolve some of the world's toughest challenges.[1] It is considered as "Olympics of Technology" by computer science and engineering and is considered one of the top competitions and awards related to technology and software design. All Imagine Cup competitors create projects that address the Imagine Cup theme: "Imagine a world where technology helps solve the toughest problems". Started in 2003, it has steadily grown, with more than 358,000 competitors representing 183 countries and regions in 2011. `,
         siteUrl: "https://imaginecup.microsoft.com/en-us/Events",
@@ -480,6 +494,15 @@ The top performers also get a chance to work with Infosys. The top three winning
 Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills. `,
         siteUrl: "https://go.qwiklabs.com/learn-to-earn",
         YouTube: "https://www.youtube.com/watch?v=VZUx4GuCJiM",
+    },
+    {
+        title: "Learn to Earn Cloud Data Challenge",
+        about: `The world of sports has never been the same since a certain player named Google Cloud stepped onto the pitch. Be it helping coaches pick up their best players or helping you pick up your best fantasy team or making life easier for broadcasters to show your favorite game live for you to enjoy along with your favorite pizza, Google Cloud has got it all covered!
+        Google Cloud is transforming the way sports are played & viewed by monitoring the real-time parameters of athletes to utilize data to improve the team’s performance.
+        At the top level of any sport, it’s all about fractional improvements and technology is helping elite personalities power to glory. Google Cloud technology can enable colossal amounts of data to be crunched, analyzed and presented quickly.
+Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills. `,
+        siteUrl: "https://www.googlecloudcommunity.com/gc/Community-Blogs/Learn-to-Earn-Cloud-Data-Challenge-Step-up-your-Data-Game/ba-p/437137",
+        YouTube: "https://youtu.be/uG5IJML0L0c",
     },
     {
         title: "LiFT Scholar!",
@@ -815,6 +838,12 @@ The event will be based on the theme of astronomy. There will be 5 phases or lev
 
 Global Hack Weeks are attended by hackers from all over the globe. Whether this is your first time coding or you're a seasoned expert, we will have events here for you. Our last Global Hack Week included hackers from over 90 countries around the world! If you're a first-time hacker, there will be beginner-focused activities for you. `,
         siteUrl: "https://ghw.mlh.io/oct",
+    }, {
+        title: "LinkedIn Coachin, March, 2023",
+        about: `Mock interviews and tests scheduled based on Data Structures and Algorithms
+Speaker sessions where senior and junior engineers from Linkedin spoke on various topics and gave us a lot of insights on what is happening in the industry currently
+A great community of like-minded individuals! We are a group of 40 young women constantly empowering each other and taking inspiration from each other `,
+        siteUrl: "https://coachin2021.splashthat.com/",
     },
 ];
 
