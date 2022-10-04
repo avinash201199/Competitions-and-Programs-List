@@ -2024,7 +2024,19 @@ https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm
 <br>
 </details>
 
-
+<details>
+<summary>SnackDown</summary>
+<br>
+About <br>
+SnackDown is India's global programming event that invites coders from all over the world - everyone from middle/high school to colleges to working professionals from the industry, to make an attempt to take home the coveted crown of SnackDown champion. <br>
+<br>
+Official Website- <br>
+https://snackdown.codechef.com/
+<br>
+<br>
+Explanation on Youtube- <br>
+ https://www.youtube.com/watch?v=cA7wS7wyDLA
+</details>
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
