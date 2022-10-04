@@ -475,6 +475,11 @@ The top performers also get a chance to work with Infosys. The top three winning
 `,
         siteUrl: "https://www.surveymonkey.com/r/INTUIT_2020",
     },
+{
+title:"JGEC Winter Of Code",
+about:"JWOC ( JGEC Winter of Code) is an open-source program organized by Developers' JGEC which helps students to plunge into Open Source contribution and get the realm of Software Development. In Google Developer Student Club, Jalpaiguri Govt. Engg College.",
+siteUrl:"https://jwoc.tech/"
+},
     {
         title: "Kaggle by Google",
         about: `Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. `,
@@ -487,6 +492,7 @@ The top performers also get a chance to work with Infosys. The top three winning
         siteUrl: "https://codingcompetitions.withgoogle.com/kickstart",
         YouTube: "https://www.youtube.com/watch?v=9wad39LmzPY",
     },
+
     {
         title: "Learn to Earn Cloud Challenge",
         about: `Google Cloud skills are in demand. 86% of IT leaders report that the shortage of cloud computing skills will slow down their cloud projects.
