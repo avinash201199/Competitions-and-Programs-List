@@ -1158,7 +1158,27 @@ https://www.surveymonkey.com/r/INTUIT_2020<br>
  
 </details>
 
+<details>
+<summary>JGEC Winter Of Code</summary>
+<br>
+ABOUT- <br>
+JWOC ( JGEC Winter of Code) is an open-source program organized by Developers' JGEC which helps students to plunge into Open Source contribution and get the realm of Software Development. In Google Developer Student Club, Jalpaiguri Govt. Engg College.
+ 
+JWOC provides a fully immersive learning experience for students and first-time contributors by promoting the wonders of open-source software and crafting a community of new and experienced technical developers. The best projects are selected for this program. Students get acquainted with the projects from the mentors during the Community Bonding Period. Students work on these projects during the coding phase. At the end of the coding period, the winners of the programs are announced on the basis of their contribution in terms of quantity as well as quality.
+<br>
 
+<br>Eligibility<br>
+• Anyone can contribute doesn't matter wheather He/She is new to open-source and expert in this file. Motive is to make every familiar with open source and it's power how can it impact in positive way<br>
+ 
+• It generally start between JAN and run till March .<br>
+<br>
+ 
+OFFICIAL WEBSITE LINK- <br>
+https://jwoc.tech/ <br>
+<br>
+
+
+</details>
 
 <details>
 <summary>Kaggle by Google</summary>
