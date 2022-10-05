@@ -615,6 +615,17 @@ Official Website- <br>
 </details>
 
 <details>
+<summary>Hack N Crack</summary>
+<br>
+About <br>
+In HACKnCRACK, showcase your coding skills, compete with your peers, and meet top tech enthusiasts from colleges and universities all around the world. Put your game face on and test your compilation and problem-solving skills.<br>
+<br>
+Official Website- <br>
+ https://unstop.com/hackathon/hackncrack-techbairn-438842<br>
+
+</details>
+
+<details>
  <summary>HackwithInfy by Infosys</summary>
  <br>
  About <br>
