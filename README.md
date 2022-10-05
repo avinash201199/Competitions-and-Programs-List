@@ -512,6 +512,19 @@ https://www.youtube.com/watch?v=VXgX-qQnTZU
 
 </details>
 
+ <details>
+ <summary>EY Techathon </summary>
+ <br>
+ About <br>
+Participants will submit their interest in the challenge along with details of their team members and the problem statement(s) they are looking to solve. Participants will make a detailed submission on their ideas, explaining the scope of the problem they are solving, how they will apply technology, the solution models and why their idea is innovative. Shortlisted participants will present their solution models in this round to a jury panel comprising EY leaders. Based on this round, finalists will be announced. The Metaverse use cases will be presented by the finalists to a jury comprising industry leaders in the grand finale and the winners will be announced. <br>
+ Official Website-<br>
+https://www.ey.com/en_in/techathon-3
+ <br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=DGpeEoqo7Js
+ 
+ </details>
+
 <details>
 <summary>Figma Student Leader</summary>
 <br>
@@ -695,19 +708,6 @@ For this Hackathon, we are introducing the following contribution areas: Website
  <br>
 Explanation on Youtube- <br>
  https://www.youtube.com/watch?v=4K47L8Q0pwo&t=17s
- 
- </details>
- 
- <details>
- <summary>Global Coding Challenge by Credit Suisse</summary>
- <br>
- About <br>
-The Global Coding Challenge is an online coding competition between participants across the globe. Around 3 weeks, users will be able to attempt solutions to nine coding problems. Participants can improve their code as many times as they like during the competition. After the completion of the competition, the Leaderboards will lock and the Global Coding Champion would be announced shortly. The competition has been entirely designed, built and run by Credit Suisse TAs.<br>
- Official Website-<br>
- https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/
- <br>
-Explanation on Youtube- <br>
- https://www.youtube.com/watch?v=9Q4RDyqgN2g
  
  </details>
 
