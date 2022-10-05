@@ -2043,14 +2043,14 @@ https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm
 </details>
  
  
-<summary>SWOC Script Winter of code </summary>
+<summary>Code for Good</summary>
 <br>
 About <br>
-Script Winter of Code is an open-source program envisioned by the Script Foundation. It aims to bring students into the world of open source development and see the power of unified problem-solving in real-time.Students also get a chance to win cool Swags and  Goodies.All candidates between the age of 17 - 25 years who are pursuing their UG or PG courses.
-It takes place on: Jan 1,2023 to  March 1,2023   <br>
+
+It takes place in 2023<br>
 <br>
 Official Website- <br>
-https://swocs3.devfolio.co/
+https://careers.jpmorgan.com/global/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India
 <br>
 </details>
 
