@@ -518,6 +518,17 @@ Luckily, there's an easy way for you to get hands-on practice with core cloud co
         YouTube: "https://youtu.be/uG5IJML0L0c",
     },
     {
+        title: "Learn to Earn Cloud Security Challenge",
+        about: `These labs help you get started with cloud security basics. At the end of each lab, you’ll have hands-on experience with securing your cloud. Complete this game to earn the Level 1 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!
+  These labs will give you a deeper understanding of security features in the cloud. These labs are a little more challenging. It’s OK to take a lab more than once to achieve a great score. Complete this game to earn the Level 2 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!
+  These labs will challenge you to explore advanced cloud security scenarios. It’s OK to take a lab more than once to achieve a great score. Complete this game to earn the Level 3 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!`,
+        
+        siteurl: "https://www.cloudskillsboost.google/games/2288",
+        Youtube: "https://www.youtube.com/watch?v=rFR5SZ0CQks",
+    
+    
+    },
+    {
         title: "LiFT Scholar!",
         about: `The Linux Foundation hosts The Linux Foundation Training (LiFT) Scholarship Program to provide opportunities to up-and-coming developers and sysadmins who show promise for helping shape the future of Linux and open source software but do not otherwise have the ability to attend training courses or take certification exams.`,
         siteUrl:
