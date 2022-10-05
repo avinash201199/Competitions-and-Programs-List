@@ -230,11 +230,11 @@ https://www.youtube.com/watch?v=X-eT_np4naY (English) [Preparation]<br>
 <details>
  <summary>Code For Good </summary>  <br>
 Use your coding skills to make a difference
-At our Code for Good hackathon, you'll collaborate with other coders to develop innovative technology solutions for not-for-profit organizations. You'll also learn about starting a Technology career with us while being guided by the sharpest minds in our industry.
+At this hackathon, you can collaborate with other coders to develop innovative technology solutions for not-for-profit organizations. You'll also learn about starting a Technology career with us while being guided by the sharpest minds in our industry.
 <br>
  
 Website
-https://careers.jpmorgan.com/in/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India  <br>
+https://careers.jpmorgan.com/in/en/students/programs/code-for-good  <br>
  
  Explanantion on Youtube
  https://www.youtube.com/watch?v=IIzfQqX4QDo
@@ -2068,7 +2068,18 @@ Official Website- <br>
 https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia
 <br>
 </details>
+ 
+ 
+<summary>Code for Good</summary>
+<br>
+About <br>
 
+It takes place in 2023<br>
+<br>
+Official Website- <br>
+https://careers.jpmorgan.com/global/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India
+<br>
+</details>
 
 
 For any doubt contact me here: - <br>
