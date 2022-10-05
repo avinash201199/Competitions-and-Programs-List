@@ -2041,7 +2041,18 @@ Official Website- <br>
 https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia
 <br>
 </details>
-
+ 
+ 
+<summary>SWOC Script Winter of code </summary>
+<br>
+About <br>
+Script Winter of Code is an open-source program envisioned by the Script Foundation. It aims to bring students into the world of open source development and see the power of unified problem-solving in real-time.Students also get a chance to win cool Swags and  Goodies.All candidates between the age of 17 - 25 years who are pursuing their UG or PG courses.
+It takes place on: Jan 1,2023 to  March 1,2023   <br>
+<br>
+Official Website- <br>
+https://swocs3.devfolio.co/
+<br>
+</details>
 
 
 For any doubt contact me here: - <br>
