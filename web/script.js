@@ -122,6 +122,13 @@ const data = [
         YouTube: "https://www.youtube.com/watch?v=IIzfQqX4QDo",
     },
     {
+        title: "Code for Change",
+        about:
+            " Open platform for the Learners to learn and trainers to transfer their learning to learners.",
+        siteUrl: "https://codeforchangenepal.com/",
+        YouTube: "https://www.youtube.com/channel/UC9x8pdE8UWErO6hW2mJSVLQ/videos"
+    },
+    {
         title: "Code Jam by Google",
         about:
             "Google Code Jam is an international programming competition hosted and administered by Google.[2] The competition began in 2003.[3] The competition consists of a set of algorithmic problems which must be solved in a fixed amount of time. Competitors may use any programming language and development environment to obtain their solutions. ",

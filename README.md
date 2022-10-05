@@ -241,6 +241,14 @@ https://careers.jpmorgan.com/in/en/students/programs/code-for-good?search=&tags=
  
  </details>
 
+ <details>
+  <summary>Code for Change</summary>  <br>
+Open platform for the Learners to learn and trainers to transfer their learning to learners.
+<br>
+Website: https://codeforchangenepal.com/ <br>
+Youtube: https://www.youtube.com/channel/UC9x8pdE8UWErO6hW2mJSVLQ/videos
+ </details>
+
 <details>
 <summary>Code Jam by Google</summary>
 <br>
