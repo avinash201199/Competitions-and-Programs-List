@@ -465,6 +465,12 @@ The top performers also get a chance to work with Infosys. The top three winning
         YouTube: "https://youtu.be/WfRqE4NBecM",
     },
     {
+        title: "International Obfuscated C Code Contest",
+        about: "The International Obfuscated C Code Contest (IOCCC) is a computer programming contest for the most creatively obfuscated C code. Described as 'celebrating [C\'s] syntactical opaqueness' this contest is held annually.",
+        siteUrl: "https://www.ioccc.org/",
+        YouTube: "https://www.youtube.com/watch?v=7F3IHxVEsvk&t=42s"
+    },
+    {
         title: "Internet Problem Solving Contest ",
         about: `The Internet Problem Solving Contest (IPSC) is an online contest for teams consisting of up to three people. Several problems are published at the beginning of the competition. Some of them are unusual kinds of problems which will test your out of the box thinking.To solve a problem you will have to compute correct output data for the given input data sets. Usually this means that you will write a program that solves the problem, but you may produce the output by hand or in any other way.`,
         siteUrl: "https://ipsc.ksp.sk/",
@@ -874,6 +880,14 @@ A great community of like-minded individuals! We are a group of 40 young women c
             "Amazon ML Summer School aims at providing students the opportunity to gain Machine Learning (ML) skills which is the first step in becoming ready to build a career in ML. This program is an intensive course on key ML topics and is a great opportunity to learn from and interact with Scientists at Amazon who have immense knowledge in their ML domain. After a successful pilot in 2021, Amazon ML Summer School is being expanded to include students enrolled in any Indian campus and will see a bigger class size.",
         siteUrl: "https://amazonmlsummerschoolindia.splashthat.com/",
         YouTube: "https://youtu.be/0QedVNGvZlQ",
+    },
+     {
+        id: 98,
+        title: "Hyperledger mentorship program",
+        about:
+            "The Hyperledger mentorship program is aimed at creating a structured hands-on learning opportunity for new developers who may otherwise lack the opportunity to gain exposure to Hyperledger open source development and entry to the technical community. Mentees will be eligible to receive a stipend. For Indian students, Total Stipend Amount will 3000 USD",
+        siteUrl: "https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program",
+        
     },
 ];
 
