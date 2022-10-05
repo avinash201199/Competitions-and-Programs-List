@@ -697,6 +697,19 @@ Explanation on Youtube- <br>
  https://www.youtube.com/watch?v=4K47L8Q0pwo&t=17s
  
  </details>
+ 
+ <details>
+ <summary>Global Coding Challenge by Credit Suisse</summary>
+ <br>
+ About <br>
+The Global Coding Challenge is an online coding competition between participants across the globe. Around 3 weeks, users will be able to attempt solutions to nine coding problems. Participants can improve their code as many times as they like during the competition. After the completion of the competition, the Leaderboards will lock and the Global Coding Champion would be announced shortly. The competition has been entirely designed, built and run by Credit Suisse TAs.<br>
+ Official Website-<br>
+ https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/
+ <br>
+Explanation on Youtube- <br>
+ https://www.youtube.com/watch?v=9Q4RDyqgN2g
+ 
+ </details>
 
 <details>
 <summary>GoogleCloudReady Facilitator Program</summary>
