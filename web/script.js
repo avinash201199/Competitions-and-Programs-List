@@ -518,6 +518,14 @@ Luckily, there's an easy way for you to get hands-on practice with core cloud co
         YouTube: "https://youtu.be/uG5IJML0L0c",
     },
     {
+        title: "Learn to Earn Cloud Security Challenge",
+        about: `Google Cloud skills are in demand whether it be in data, security or in any other form.These labs will give you a deeper understanding of security features in the cloud. These labs are a little more challenging.
+
+Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Security Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills. `,
+        siteUrl: "https://www.googlecloudcommunity.com/gc/Learning-Forums/Learn-to-Earn-Cloud-Security-Challenge-1-ish-day-left-on-current/m-p/183508",
+        YouTube: "https://www.youtube.com/watch?v=gnRCB-gM7MI",
+    },
+    {
         title: "LiFT Scholar!",
         about: `The Linux Foundation hosts The Linux Foundation Training (LiFT) Scholarship Program to provide opportunities to up-and-coming developers and sysadmins who show promise for helping shape the future of Linux and open source software but do not otherwise have the ability to attend training courses or take certification exams.`,
         siteUrl:
