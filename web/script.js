@@ -63,6 +63,15 @@ const data = [
         siteUrl: "https://developer.amazon.com/alexaprize",
         YouTube: "https://www.youtube.com/watch?v=nVi-QwX82GI",
     },
+    
+    {
+        title: "Google Kick Start",
+        about:
+            "Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google). ",
+        siteUrl: "https://codingcompetitions.withgoogle.com/kickstart",
+        YouTube: "https://www.youtube.com/watch?v=9wad39LmzPY",
+    },
+    
     {
         title: "Amazon WOW",
         about:
