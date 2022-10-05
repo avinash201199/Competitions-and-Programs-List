@@ -2074,19 +2074,6 @@ https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm
 <br>
 About <br>
 
-<details>
-<summary>SnackDown</summary>
-<br>
-About <br>
-SnackDown is India's global programming event that invites coders from all over the world - everyone from middle/high school to colleges to working professionals from the industry, to make an attempt to take home the coveted crown of SnackDown champion. <br>
-<br>
-Official Website- <br>
-https://snackdown.codechef.com/
-<br>
-<br>
-Explanation on Youtube- <br>
- https://www.youtube.com/watch?v=cA7wS7wyDLA
-</details>
 =======
 It takes place in 2023<br>
 <br>
