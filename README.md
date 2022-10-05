@@ -1152,6 +1152,19 @@ https://youtu.be/WfRqE4NBecM
 </details>
 
 <details>
+<summary>International Obfuscated C Code Contest </summary>
+<br>
+About <br>
+The International Obfuscated C Code Contest (IOCCC) is a computer programming contest for the most creatively obfuscated C code. Described as 'celebrating [C\'s] syntactical opaqueness' this contest is held annually<br>
+<br>
+Official Website- <br>
+https://www.ioccc.org/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=7F3IHxVEsvk&t=42s
+</details>
+
+<details>
 <summary> Internet Problem Solving Contest </summary>
 <br>
 About <br>

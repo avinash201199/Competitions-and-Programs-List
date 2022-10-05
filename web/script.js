@@ -492,6 +492,13 @@ The top performers also get a chance to work with Infosys. The top three winning
         YouTube: "https://www.youtube.com/watch?v=HRBY0Ad_PBI",
     },
     {
+        title: "Hyperledger mentorship program",
+        about:
+            "The Hyperledger mentorship program is aimed at creating a structured hands-on learning opportunity for new developers who may otherwise lack the opportunity to gain exposure to Hyperledger open source development and entry to the technical community. Mentees will be eligible to receive a stipend. For Indian students, Total Stipend Amount will 3000 USD",
+        siteUrl: "https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program",
+        
+    },
+    {
         title: "IBM zStudent Contest",
         about: `HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrilling coding contest centered around sustainable energy that will teach you computing skills used to power some of today’s largest enterprise companies. Along the way, you will learn JCL, z/OS, SQL, COBOL, Python, APIs, Unix and more. `,
         siteUrl: "https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/?utm_source=arsh&utm_medium=instagram_story&utm_campaign=IBMz",
@@ -531,6 +538,12 @@ The top performers also get a chance to work with Infosys. The top three winning
 7)Previously, first prize winners have used Haskell, OCaml, C++, Cilk, Java, F#, and Rust..`,
         siteUrl: "https://www.icfpconference.org/",
         YouTube: "https://youtu.be/WfRqE4NBecM",
+    },
+    {
+        title: "International Obfuscated C Code Contest",
+        about: "The International Obfuscated C Code Contest (IOCCC) is a computer programming contest for the most creatively obfuscated C code. Described as 'celebrating [C\'s] syntactical opaqueness' this contest is held annually.",
+        siteUrl: "https://www.ioccc.org/",
+        YouTube: "https://www.youtube.com/watch?v=7F3IHxVEsvk&t=42s"
     },
     {
         title: "Internet Problem Solving Contest ",
