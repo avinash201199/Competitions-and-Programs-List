@@ -634,6 +634,15 @@ The first being the ideation phase, second being the implementation phase ,third
         siteUrl: "https://codingcompetitions.withgoogle.com/kickstart",
         YouTube: "https://www.youtube.com/watch?v=9wad39LmzPY",
     },
+    
+    {
+        title: " NASSCOM Academic Grand Challenge",
+        about: `Telangana Al Mission (T-AM), powered by NASSCOM has been established by the Government of Telangana with a vision to position Telangana as a global hub for Artificial Intelligence and foster social innovation. To foster the entrepreneurial spirit amongst the students, T-AIM in collaboration with Wells Fargo is seeking applications for Academic Grand Challenge.The objective is to scout for talented student teams that will provide innovative and viable solutions using emerging technologies like Artificial Intelligence (AI) to assist Wells Fargo with two use cases.`,
+        siteUrl:
+            "https://taim-gc.in/academic/",
+        YouTube: "https://www.youtube.com/watch?v=n1XDGi4C-n8",
+    },
+    
     {
         title: " Nanyang Technological University (NTU) – India Connect",
         about: `Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google). The India Connect @ntu office (IC@N) is proud to take a leading role in fostering partnerships with Indian institutes of higher learning and industrial organizations. The flagship programme of IC@N is the Visiting Research Student Programme for 2 to 6 months for undergraduate and Master’s level graduate students from India – so far more than 400 students have benefited from the programme. This research programme was introduced in 2016 to enable students of Indian universities to pursue their research interests at NTU by working under the supervision of NTU faculty, developing a strong research expertise in specific research areas, experiencing a multicultural life, developing a strong network of friends and a better understanding of Singapore. `,

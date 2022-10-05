@@ -1567,6 +1567,24 @@ Official Link-
 YouTube link for information-<br>
 https://www.youtube.com/watch?v=hmKw7CQwNls<br>
 </details>
+
+
+<details>
+<summary>
+NASSCOM Academic Grand Challenge</summary>
+<br>
+
+
+About-<br>
+Telangana Al Mission (T-AM), powered by NASSCOM has been established by the Government of Telangana with a vision to position Telangana as a global hub for Artificial Intelligence and foster social innovation.
+To foster the entrepreneurial spirit amongst the students, T-AIM in collaboration with Wells Fargo is seeking applications for Academic Grand Challenge.The objective is to scout for talented student teams that will provide innovative and viable solutions using emerging technologies like Artificial Intelligence (AI) to assist Wells Fargo with two use cases.
+
+Official Link-
+<https://taim-gc.in/academic/><br>
+
+YouTube link for information-<br>
+https://www.youtube.com/watch?v=n1XDGi4C-n8<br>
+</details>
  
 
 <details>
