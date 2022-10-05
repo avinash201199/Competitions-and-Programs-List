@@ -9,6 +9,7 @@ This experience will improve their job resumes for jobs and help them in their c
 ### How to contribute 😎<br>
 
 You can contribute in many ways to this repository:
+
 1. If you are beginner then you can contribute by improving the structure of the repository. <br>
 2. You could design a website for this repository that includes its content. <br>
 3. You could add new competitions to the list. <br>
@@ -32,6 +33,7 @@ https://events.withgoogle.com/30daysofgooglecloud/#content<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=r3qElNn2IZQ
+
 </details>
 <details>
 
@@ -118,7 +120,6 @@ AmazeWIT (WIT - Women in Technology) is a unique networking and mentoring platfo
 This is a dedicated cohort-based connection that brings women of similar skill sets and aspirations together to enhance their knowledge of the field. It includes leadership sessions focusing on topics ranging from data structures, coding, algorithms, and more.
 As of now, AmazeWIT Circles are curated for Software Development Engineers where technology leaders from Amazon cover topics relevant for tech innovation- thus enabling a long-term career in technology.
 
-
 <br>Official Website- <br>
 https://amazewitcirclesamazon.splashthat.com/
 <br>Explanation on Youtube- <br>
@@ -143,7 +144,7 @@ https://www.youtube.com/watch?v=dRAVWI8UZlo
 <summary>Amazon ML Summer School</summary>
 <br>About<br>
 
-Amazon ML Summer School aims at providing students the opportunity to gain Machine Learning (ML) skills which is the first step in becoming ready to build a career in ML. This program is an intensive course on key ML topics and is a great opportunity to learn from and interact with Scientists at Amazon who have immense knowledge in their ML domain. After a successful pilot in 2021, Amazon ML Summer School is being expanded to include students enrolled in any Indian campus and will see a bigger class size. 
+Amazon ML Summer School aims at providing students the opportunity to gain Machine Learning (ML) skills which is the first step in becoming ready to build a career in ML. This program is an intensive course on key ML topics and is a great opportunity to learn from and interact with Scientists at Amazon who have immense knowledge in their ML domain. After a successful pilot in 2021, Amazon ML Summer School is being expanded to include students enrolled in any Indian campus and will see a bigger class size.
 
 Key takeaways:
 • In-depth knowledge on key ML topics from Amazon Scientists
@@ -157,7 +158,6 @@ https://amazonmlsummerschoolindia.splashthat.com/
 https://youtu.be/0QedVNGvZlQ
 
 </details>
-
 
 <details>
 <summary>Atlassian Women in Tech</summary>
@@ -205,6 +205,20 @@ https://techchallenge.in.capgemini.com/<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=Q-JFUzGSWT8
+
+</details>
+
+<details>
+<summary>Cisco Ideathon</summary>
+<br>
+About <br>
+The Cisco Ideathon is an opportunity for students with potential and creativity to be a part of Cisco’s technological innovations. It presents a competitive model to showcase original thinking and problem-solving aptitude using technologies like 5G, Internet of Things, networking infrastructure and collaboration to address global issues related to education, healthcare, water conservation, environment and sustainability. The program enables qualiers of Ideathon to get an internship with full-time placement opportunities.<br>
+<br>
+Official Website- <br>
+https://www.cisco.com/c/m/en_in/customer-experience-academy.html<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=Z6_yb4V4xFs
 
 </details>
 
@@ -274,7 +288,6 @@ Official Website- <br>
 https://www.codechef.com/START59?itm_medium=hpbanner_1&itm_campaign=START59<br>
 <br>
 </details>
-
 
 <details>
 
@@ -389,7 +402,7 @@ About <br>
 
 Astronomy Club brings Cosmos and Chaos- a 3-hour rendition of a multi-dimensional treasure hunt, spanning 5 phases. Our aim? To allow our participants to channel their inner Sherlock Holmes, and challenge the limits of their cognitive and creative abilities in a limited time frame.
 
-The event will be based on the theme of astronomy. There will be 5 phases or levels that the participants have to complete. 
+The event will be based on the theme of astronomy. There will be 5 phases or levels that the participants have to complete.
 A team can progress to higher levels as soon as they are approved for completion of a prior level. They can collaboratively work as a team of 2-4 members to find answers.
 
 <br>
@@ -440,14 +453,13 @@ ABOUT- <br>
 
 <br>Eligibility<br>
 • Anyone can contribute doesn't matter wheather He/She is new to open-source and expert in this file. Motive is to make every familiar with open source and it's power how can it impact in positive way<br>
- 
+
 • It generally start between Nov and run till January.<br>
 <br>
- 
+
 OFFICIAL WEBSITE LINK- <br>
 https://dwoc.io/ <br>
 <br>
-
 
 </details>
 
@@ -522,6 +534,7 @@ If you’re interested in becoming a Student Leader and starting a group at your
 <br>
 Official Website- <br>
 https://friends.figma.com/become-a-student-leader/<br>
+
 </details>
 
 <details>
@@ -621,10 +634,7 @@ Official Website- <br>
 https://rsvp.withgoogle.com/events/google-ml-bootcamp-india/<br>
 <br>
 
-
 </details>
-
-
 
 <details>
 <summary>GirlScript Winter of Contributing</summary>
@@ -833,7 +843,6 @@ Explanation on Youtube- <br>
  
 </details>
 
-
 <details>
 <summary>Google Cloud Programs</summary>
 <br> 1. Google Cloud Ready Facilitator Program<br>
@@ -852,7 +861,6 @@ https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade
 <br>Explanation on Youtube- <br>
 https://lnkd.in/dPNVidri
 </details>
-
 
 <details>
 <summary>Google Kick Start</summary>
@@ -1097,6 +1105,7 @@ It takes place on 22 October, 2022 and registrations will close by 12 October, 2
 Official Website- <br>
 https://ieeextreme.org/#REGISTRATION<br>
 <br>
+
 </details>
 
 <details>
@@ -1201,14 +1210,13 @@ JWOC provides a fully immersive learning experience for students and first-time 
 
 <br>Eligibility<br>
 • Anyone can contribute doesn't matter wheather He/She is new to open-source and expert in this file. Motive is to make every familiar with open source and it's power how can it impact in positive way<br>
- 
+
 • It generally start between JAN and run till March .<br>
 <br>
- 
+
 OFFICIAL WEBSITE LINK- <br>
 https://jwoc.tech/ <br>
 <br>
-
 
 </details>
 
@@ -1297,7 +1305,6 @@ Explanation on Youtube- <br>
 https://youtu.be/BS12nHUkraA
 
 </details>
-
 
 <details>
 <summary>Linkedin Wintathon</summary>
@@ -1389,7 +1396,7 @@ Microsoft Engage is a student engagement and mentorship program by Microsoft tha
 About<br>
 Microsoft Fix-a-thon is a National-level hackathon, conducted to hire final year college students for the role of Support Engineering interns. Support engineers are part of Microsoft’s Customer Experience & Success (CE&S) team. <br>
 <br>
-Eligibility Criteria for Fix-a-thon:<br> 
+Eligibility Criteria for Fix-a-thon:<br>
 
 - Students who are pursuing BE/B.Tech in CSE/IT/other quantitative branches.<br>
 - CGPA above 8 in the current degree.<br>
@@ -1401,6 +1408,7 @@ https://careers.microsoft.com/us/en/fix-a-thon <br>
 <br>
 Explanation on YouTube: <br>
 https://youtu.be/fGFQkdn5BPg
+
 </details>
 
 <details>
@@ -1566,8 +1574,8 @@ Official Link-
 
 YouTube link for information-<br>
 https://www.youtube.com/watch?v=hmKw7CQwNls<br>
+
 </details>
- 
 
 <details>
 <summary>
@@ -1605,6 +1613,7 @@ The program facilitates and nurtures the skills to contribute to your career gro
 
 Official Website- <br>
 https://www.oneplus.in/campus#:~:text=What%20is%20the%20OnePlus%20Student,prosper%20in%20your%20respective%20fields.
+
  </details>
 
 <details>
@@ -1635,6 +1644,7 @@ Open Mainframe Project also has its own open-source program and the mentees will
 
 Timeline: February-September<br>
 Link: https://www.openmainframeproject.org/all-projects/mentorship-program <br>
+
 </details>
 <details>
 <summary> Redox OS Summer of Code</summary>
@@ -1672,8 +1682,6 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=nRjwazPk8S4
 
 </details>
-
-
 
 <details>
 <summary>Script Winter of Code </summary>
@@ -1744,8 +1752,8 @@ https://www.techgig.com/geekgoddess <br>
 <br>
 Explanation on YouTube: <br>
 https://www.youtube.com/watch?v=ws_L3sWFE_4&list=PLyys4weFOrPecVbNdoUc9bgAsIR-SYQx7
+
 </details>
- 
 
 <details>
 <summary>Technica</summary>
@@ -1809,7 +1817,6 @@ Explanation on YouTube   <br>
 https://youtu.be/5Ma4V_rsyGw
  
  </details>
- 
 
 <details>
 <summary>Twitter DevelopHer for Women</summary>
@@ -1837,9 +1844,9 @@ Out of the 9,000+ applicants they had this year, 30 students were selected for t
 Official Website <br>
 https://careers.twitter.com/en/early-career.html <br>
 <br>
-Explanation on YouTube   <br>
+Explanation on YouTube <br>
 https://www.youtube.com/watch?v=y2ciehLvJP4&t=4s
- 
+
 </details>
 
 <details>
@@ -1886,7 +1893,6 @@ YouTube Link for further information-<br>
 https://www.youtube.com/watch?v=FLBLrEc4wEo <br>
 
 </details>
-
 
 <details>
 <summary>Uplift Project</summary>
@@ -1997,6 +2003,7 @@ https://youtu.be/yhGu9lxfs-g<br>
 <br>
 Related blog post: <br>
 https://medium.com/@archanakumari943064/all-about-women-engineers-program-7bb7a7f434c8 <br>
+
 </details>
  
 <details>
@@ -2010,6 +2017,7 @@ This year, it's back as a separate track, and its tasks were created by Yandex d
 Official Website- <br>
 https://yandex.com/cup/algorithm
 <br>
+
 </details>
  
  <details>
@@ -2024,8 +2032,6 @@ https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm
 <br>
 </details>
 
-
-
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
 <br>(Must Check My Github for more cool stuff !)<br>
@@ -2034,4 +2040,4 @@ For any doubt contact me here: - <br>
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)
 
-[PayPal me to show some support](https://paypal.me/Avinash425) 
+[PayPal me to show some support](https://paypal.me/Avinash425)
