@@ -241,6 +241,14 @@ https://careers.jpmorgan.com/in/en/students/programs/code-for-good?search=&tags=
  
  </details>
 
+ <details>
+  <summary>Code for Change</summary>  <br>
+Open platform for the Learners to learn and trainers to transfer their learning to learners.
+<br>
+Website: https://codeforchangenepal.com/ <br>
+Youtube: https://www.youtube.com/channel/UC9x8pdE8UWErO6hW2mJSVLQ/videos
+ </details>
+
 <details>
 <summary>Code Jam by Google</summary>
 <br>
@@ -1152,6 +1160,19 @@ https://youtu.be/WfRqE4NBecM
 </details>
 
 <details>
+<summary>International Obfuscated C Code Contest </summary>
+<br>
+About <br>
+The International Obfuscated C Code Contest (IOCCC) is a computer programming contest for the most creatively obfuscated C code. Described as 'celebrating [C\'s] syntactical opaqueness' this contest is held annually<br>
+<br>
+Official Website- <br>
+https://www.ioccc.org/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=7F3IHxVEsvk&t=42s
+</details>
+
+<details>
 <summary> Internet Problem Solving Contest </summary>
 <br>
 About <br>
@@ -1553,6 +1574,24 @@ Official Link-
 
 YouTube link for information-<br>
 https://www.youtube.com/watch?v=hmKw7CQwNls<br>
+</details>
+
+
+<details>
+<summary>
+NASSCOM Academic Grand Challenge</summary>
+<br>
+
+
+About-<br>
+Telangana Al Mission (T-AM), powered by NASSCOM has been established by the Government of Telangana with a vision to position Telangana as a global hub for Artificial Intelligence and foster social innovation.
+To foster the entrepreneurial spirit amongst the students, T-AIM in collaboration with Wells Fargo is seeking applications for Academic Grand Challenge.The objective is to scout for talented student teams that will provide innovative and viable solutions using emerging technologies like Artificial Intelligence (AI) to assist Wells Fargo with two use cases.
+
+Official Link-
+<https://taim-gc.in/academic/><br>
+
+YouTube link for information-<br>
+https://www.youtube.com/watch?v=n1XDGi4C-n8<br>
 </details>
  
 
