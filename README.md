@@ -9,13 +9,13 @@ This experience will improve their job resumes for jobs and help them in their c
 ### How to contribute 😎<br>
 
 You can contribute in many ways to this repository:
-1. If you are beginner then you can contribute by improving the structure of the repository. <br>
+1. If you are beginner, then you can contribute by improving the structure of the repository. <br>
 2. You could design a website for this repository that includes its content. <br>
 3. You could add new competitions to the list. <br>
 
 Take a look at the [CONTRIBUTING.md](https://github.com/avinash201199/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started.
 
-#### Note: before contributing, please create an issue first so that I can assign you one to work on.
+#### Note: before contributing, please create an issue first so that, I can assign you one to work on.
 
 <hr>
 
