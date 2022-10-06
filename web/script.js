@@ -450,6 +450,12 @@ Luckily, there's an easy way for you to get hands-on practice with core cloud co
         YouTube: "https://www.youtube.com/watch?v=VZUx4GuCJiM",
     },
     {
+        title: "LFX Mentorship Program",
+        about: `LFX Mentorship (previously known as Community Bridge) is a platform developed by the Linux Foundation, which accelerates the adoption, innovation, and sustainability of open source software. LFX Mentorship is actively used by the Cloud Native Computing Foundation as a mentorship platform across the CNCF projects. It is an open-source program where students can contribute to open-source projects and get a minimum stipend of $3000. The goal of a mentorship program is to accelerate the personal and professional development of mentees. This is achieved by providing mentees with guidance, advice and feedback from mentors with more experience than themselves.`,
+        siteUrl: 'https://mentorship.lfx.linuxfoundation.org/#projects_all',
+        YouTube: 'https://youtu.be/DROr4kSrrY0'
+    },
+    {
         title: "LiFT Scholar!",
         about: `The Linux Foundation hosts The Linux Foundation Training (LiFT) Scholarship Program to provide opportunities to up-and-coming developers and sysadmins who show promise for helping shape the future of Linux and open source software but do not otherwise have the ability to attend training courses or take certification exams.`,
         siteUrl:

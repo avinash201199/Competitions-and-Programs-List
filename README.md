@@ -1277,6 +1277,20 @@ https://www.youtube.com/watch?v=rFR5SZ0CQks
 
 </details>
  
+<details>
+<summary>LFX Mentorship Program</summary>
+<br>
+About <br>
+LFX Mentorship (previously known as Community Bridge) is a platform developed by the Linux Foundation, which accelerates the adoption, innovation, and sustainability of open source software. LFX Mentorship is actively used by the Cloud Native Computing Foundation as a mentorship platform across the CNCF projects. It is an open-source program where students can contribute to open-source projects and get a minimum stipend of $3000. The goal of a mentorship program is to accelerate the personal and professional development of mentees. This is achieved by providing mentees with guidance, advice and feedback from mentors with more experience than themselves. <br>
+<br>
+Official Website - <br>
+https://mentorship.lfx.linuxfoundation.org/#projects_all
+<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/DROr4kSrrY0
+
+</details>
  
 <details>
 <summary>LiFT Scholar!</summary>
