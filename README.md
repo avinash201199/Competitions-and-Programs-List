@@ -982,6 +982,28 @@ https://www.youtube.com/watch?v=mq_FIHdxmIk
 </details>
 
 <details>
+<summary>HackerRamp by Myntra</summary>
+<br>
+About <br>
+Myntra HackerRamp is an opportunity for budding engineers all over India to unleash their creative selves and bring their ideas to life. This contest provides you with a forum to not only ideate but implement a functional working prototype with expert mentoring from engineering leaders at Myntra. At Myntra, we believe that any act of innovation, learning or transformation requires unbridled enthusiasm and a never-give-up attitude. It’s your chance to learn from the best and build innovative solutions to one of the most challenging problems in the Industry. <br>
+<br>
+Official Website- <br>
+ https://unstop.com/competition/myntra-hackerramp-campus-edition-2021-myntra-201010<br>
+
+</details>
+
+<details>
+<summary>Hack N Crack</summary>
+<br>
+About <br>
+In HACKnCRACK, showcase your coding skills, compete with your peers, and meet top tech enthusiasts from colleges and universities all around the world. Put your game face on and test your compilation and problem-solving skills.<br>
+<br>
+Official Website- <br>
+ https://unstop.com/hackathon/hackncrack-techbairn-438842<br>
+
+</details>
+
+<details>
  <summary>HackwithInfy by Infosys</summary>
  <br>
  About <br>
