@@ -27,10 +27,7 @@ body {
     position: relative;
 }
 
-.wrapper .container a{
-    color: inherit;
-    text-decoration: none;
-}
+
 
 .wrapper .container a .GitHubIcon{
     position: absolute;
@@ -38,18 +35,6 @@ body {
     right: 3rem;
     font-size: 4rem;
     cursor: pointer;
-    transition: all 0.1s linear;
-}
-
-
-.wrapper .container a .GitHubIcon:hover{
-    font-size: 4.4rem;
-    right: 2.8rem;
-}
-
-.wrapper .container a .GitHubIcon:active{
-    font-size: 4rem;
-    right: 3rem;
 }
 
 .wrapper .container .greeting{
@@ -182,33 +167,6 @@ body {
     display: flex;
 }
 
-.wrapper .container div footer .footer-social-icons{
-    box-sizing: border-box;
-    display: flex;
-    width: 25vw;
-    margin: 0 auto;
-    justify-content: space-between;
-}
-
-.wrapper .container div footer .footer-social-icons a{
-    color: inherit;
-    text-decoration: none;
-}
-
-.wrapper .container div footer .footer-social-icons .footerIcon{
-    font-size: 4rem;
-    cursor: pointer;
-    transition: all 0.1s linear;
-    box-sizing: border-box;
-}
-
-.wrapper .container div footer .footer-social-icons .footerIcon:hover{
-    font-size: 4.4rem;
-}
-
-.wrapper .container div footer .footer-social-icons .footerIcon:active{
-    font-size: 4rem;
-}
 
 /* for @responsiveness -> smaller screens */
 @media (max-width: 768px){
@@ -242,8 +200,4 @@ footer {
 .fa:hover {
     transform: scale(1.5);
     /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-}
-
-.githubIcon{
-    border: 1px solid black;
 }
