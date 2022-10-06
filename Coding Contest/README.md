@@ -10,18 +10,6 @@ Explanation on Youtube- <br>
 https://youtu.be/fzymgR7EdUs
 
 </details>
-
-
-<details>
-<summary>Leetcode Contests</summary>
-<br>
-About <br>
-Leetcode hosts weekly and biweekly competitions mostly centred around data structures and algorithms. Each contest has a variety of prizes to be won.
-<br> Official Website- <br>
-leetcode.com/contest<br>
-
-</details>
-
 <details>
 <summary>Newton School Grand Coding Contest</summary>
 <br>
@@ -35,4 +23,16 @@ https://www.youtube.com/watch?v=W8KXpxYK900&ab_channel=CompetitiveCoding-NewtonS
 
 </details>
 
+<details>
+<summary> JobAThon by Gfg </summary>
+<br>About<br>
 
+Jobathan is a 2.5 hrs coding contest targeted toward hiring freshers and interns, organized by GeeksforGeeks on the 21st of every month for organizations that are looking to hire top coders. Till now nearly 50 companies have trusted it to fulfill their hiring needs.
+For this, organizations can directly contact us through our official email address, or they can submit their queries through this form (Form Link), a representative from the GeeksforGeeks’ team will reach out to the organizations.
+<br>Official Website- <br>
+https://www.geeksforgeeks.org/geeksforgeeks-jobathon/
+
+<br>Explanation on Youtube- <br>
+https://youtu.be/EkIv4HuGGcQ
+
+</details>
