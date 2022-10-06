@@ -9,13 +9,13 @@ This experience will improve their job resumes for jobs and help them in their c
 ### How to contribute 😎<br>
 
 You can contribute in many ways to this repository:
-1. If you are beginner then you can contribute by improving the structure of the repository. <br>
+1. If you are beginner, then you can contribute by improving the structure of the repository. <br>
 2. You could design a website for this repository that includes its content. <br>
 3. You could add new competitions to the list. <br>
 
 Take a look at the [CONTRIBUTING.md](https://github.com/avinash201199/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started.
 
-#### Note: before contributing, please create an issue first so that I can assign you one to work on.
+#### Note: before contributing, please create an issue first so that, I can assign you one to work on.
 
 <hr>
 
@@ -978,6 +978,28 @@ https://hacktoberfest.digitalocean.com/<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=mq_FIHdxmIk
+
+</details>
+
+<details>
+<summary>HackerRamp by Myntra</summary>
+<br>
+About <br>
+Myntra HackerRamp is an opportunity for budding engineers all over India to unleash their creative selves and bring their ideas to life. This contest provides you with a forum to not only ideate but implement a functional working prototype with expert mentoring from engineering leaders at Myntra. At Myntra, we believe that any act of innovation, learning or transformation requires unbridled enthusiasm and a never-give-up attitude. It’s your chance to learn from the best and build innovative solutions to one of the most challenging problems in the Industry. <br>
+<br>
+Official Website- <br>
+ https://unstop.com/competition/myntra-hackerramp-campus-edition-2021-myntra-201010<br>
+
+</details>
+
+<details>
+<summary>Hack N Crack</summary>
+<br>
+About <br>
+In HACKnCRACK, showcase your coding skills, compete with your peers, and meet top tech enthusiasts from colleges and universities all around the world. Put your game face on and test your compilation and problem-solving skills.<br>
+<br>
+Official Website- <br>
+ https://unstop.com/hackathon/hackncrack-techbairn-438842<br>
 
 </details>
 
