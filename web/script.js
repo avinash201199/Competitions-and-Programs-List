@@ -428,6 +428,12 @@ Eligibilty: Open to women in their sophomore year of a full- time undergraduate 
         YouTube: "https://www.youtube.com/watch?v=VXgX-qQnTZU",
     },
     {
+        title: "EY Techathon",
+        about: "Participants will submit their interest in the challenge along with details of their team members and the problem statement(s) they are looking to solve. Participants will make a detailed submission on their ideas, explaining the scope of the problem they are solving, how they will apply technology, the solution models and why their idea is innovative. Shortlisted participants will present their solution models in this round to a jury panel comprising EY leaders. Based on this round, finalists will be announced. The Metaverse use cases will be presented by the finalists to a jury comprising industry leaders in the grand finale and the winners will be announced.",
+        siteUrl: "https://www.ey.com/en_in/techathon-3",
+        Youtube: "https://www.youtube.com/watch?v=DGpeEoqo7Js"
+    },
+    {
         title: "Figma Student Leader",
         about: `They are constantly inspired by students who use Figma both inside and outside of the classroom. We believe creating community while studying is an important part in growing and learning. Their Student Leaders facilitate a space for students to connect, grow, and learn.
 If you're interested in becoming a Student Leader and starting a group at your school, They want to hear from you!
