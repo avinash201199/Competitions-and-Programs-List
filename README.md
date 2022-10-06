@@ -1693,6 +1693,15 @@ Redox is a general-purpose operating system written in pure Rust. The Redox OS S
 Link: https://www.redox-os.org/rsoc/<br>
 
 </details>
+
+<details>
+<summary> Rakathon - 24hrs Hackathon </summary>
+About<br>
+Rakathon, a 24hrs hackathon competition by Rakuten, is a platform for software professionals, industry experts, freelancers, and budding engineers with the brightest and most innovative minds to develop practical solutions to the real-world problems. Themes for this year includes Sustainability (Green Tech), Fintech, Data Democratization, Cloud, & Observability. The hackathon is open to everyone. A team can have 1-4 members. Competition includes three phases: 1. Idea Submission     2.Idea Development    3. Grand Finale. Top 100 receive amazing swags (Wildcraft Bag, Boat Eardopes, Rakuten Jersey). Top 3 teams receive cash prizes worth INR 10,00,000/-
+<br>
+Link: https://corp.rakuten.co.in/news/rakathon-2022/<br>
+</details>
+
 <details>
 <summary>
 SheCodes by Accolite Digital </summary>
