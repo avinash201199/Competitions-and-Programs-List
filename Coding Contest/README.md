@@ -10,6 +10,18 @@ Explanation on Youtube- <br>
 https://youtu.be/fzymgR7EdUs
 
 </details>
+
+
+<details>
+<summary>Leetcode Contests</summary>
+<br>
+About <br>
+Leetcode hosts weekly and biweekly competitions mostly centred around data structures and algorithms. Each contest has a variety of prizes to be won.
+<br> Official Website- <br>
+leetcode.com/contest<br>
+
+</details>
+
 <details>
 <summary>Newton School Grand Coding Contest</summary>
 <br>
@@ -22,4 +34,5 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=W8KXpxYK900&ab_channel=CompetitiveCoding-NewtonSchool
 
 </details>
+
 
