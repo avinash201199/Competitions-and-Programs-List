@@ -19,22 +19,6 @@ Take a look at the [CONTRIBUTING.md](https://github.com/avinash201199/Competitio
 
 <hr>
 
-<details>
-<summary>30 Days of Google Cloud by Google</summary>
-<br>
-About <br>
-30 Days of Google Cloud program will provide you an opportunity to kickstart your career in cloud and get hands-on practice on Google Cloud - the tool that powers apps like Google Search, Gmail and YouTube.
-
-Along the way, you will learn & practice concepts like computing, application development, big data & machine learning using cloud & if you get stuck, you will have your "Campus Facilitators" who are specially trained on Google Cloud to help. 😎 <br>
-<br>
-Official Website- <br>
-https://events.withgoogle.com/30daysofgooglecloud/#content<br>
-<br>
-Explanation on Youtube- <br>
-https://www.youtube.com/watch?v=r3qElNn2IZQ
-</details>
-<details>
-
 <summary>Adobe Analytics Challenge</summary>
 <br>
 About <br>
@@ -845,13 +829,14 @@ Explanation on Youtube- <br>
 <details>
 <summary>Google Cloud Programs</summary>
 <br> 1. Google Cloud Ready Facilitator Program<br>
- <br>about<br>
+ <br>About<br>
 It is the programs of qwiklabs which provides goodies & swags.
  It held in (April-June).
 <br>Official Website- <br>
 https://gdsc.community.dev/events/details/developer-student-clubs-college-of-engineering-thalassery-presents-googlecloudready-facilitator-program/
 <br>Explanation on Youtube- <br>
 https://lnkd.in/dabknRqp
+
 <br> 2. The Arcade<br>
  About<br>
 This is Launched for the First Time and going on currently you can take part in it and this event will provide you all the goodies of qwiklabs in December
@@ -859,6 +844,60 @@ This is Launched for the First Time and going on currently you can take part in 
 https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade
 <br>Explanation on Youtube- <br>
 https://lnkd.in/dPNVidri
+
+<br>3. 30 Days of Google Cloud by Google<br>
+About <br>
+30 Days of Google Cloud program will provide you an opportunity to kickstart your career in cloud and get hands-on practice on Google Cloud - the tool that powers apps like Google Search, Gmail and YouTube.
+
+Along the way, you will learn & practice concepts like computing, application development, big data & machine learning using cloud & if you get stuck, you will have your "Campus Facilitators" who are specially trained on Google Cloud to help. 😎 <br>
+<br>
+Official Website- <br>
+https://events.withgoogle.com/30daysofgooglecloud/#content<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=r3qElNn2IZQ
+
+<br>4. Learn to Earn Cloud Challenge
+<br>
+About <br>
+Google Cloud skills are in demand. 86% of IT leaders report that the shortage of cloud computing skills will slow down their cloud projects.
+
+Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills. <br>
+<br>
+Official Website- <br>
+https://go.qwiklabs.com/learn-to-earn<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=VZUx4GuCJiM
+
+
+<br>5. Learn to Earn Cloud Data Challenge
+<br>
+About <br>
+The world of sports has never been the same since a certain player named Google Cloud stepped onto the pitch. Be it helping coaches pick up their best players or helping you pick up your best fantasy team or making life easier for broadcasters to show your favorite game live for you to enjoy along with your favorite pizza, Google Cloud has got it all covered!
+        Google Cloud is transforming the way sports are played & viewed by monitoring the real-time parameters of athletes to utilize data to improve the team’s performance.
+        At the top level of any sport, it’s all about fractional improvements and technology is helping elite personalities power to glory. Google Cloud technology can enable colossal amounts of data to be crunched, analyzed and presented quickly. <br>
+<br>
+Official Website- <br>
+https://www.googlecloudcommunity.com/gc/Community-Blogs/Learn-to-Earn-Cloud-Data-Challenge-Step-up-your-Data-Game/ba-p/437137<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/uG5IJML0L0c
+
+
+<br>6. Learn to Earn Cloud Security Challenge
+<br>
+About <br>
+These labs help you get started with cloud security basics. At the end of each lab, you’ll have hands-on experience with securing your cloud. Complete this game to earn the Level 1 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!
+  These labs will give you a deeper understanding of security features in the cloud. These labs are a little more challenging. It’s OK to take a lab more than once to achieve a great score. Complete this game to earn the Level 2 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!
+  These labs will challenge you to explore advanced cloud security scenarios. It’s OK to take a lab more than once to achieve a great score. Complete this game to earn the Level 3 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!<br>
+<br>
+Official Website- <br>
+https://www.cloudskillsboost.google/games/2288<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=rFR5SZ0CQks
+
 </details>
 
 
@@ -1248,54 +1287,6 @@ https://codingcompetitions.withgoogle.com/kickstart<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=9wad39LmzPY
-
-</details>
-<details>
-<summary>Learn to Earn Cloud Challenge</summary>
-<br>
-About <br>
-Google Cloud skills are in demand. 86% of IT leaders report that the shortage of cloud computing skills will slow down their cloud projects.
-
-Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills. <br>
-<br>
-Official Website- <br>
-https://go.qwiklabs.com/learn-to-earn<br>
-<br>
-Explanation on Youtube- <br>
-https://www.youtube.com/watch?v=VZUx4GuCJiM
-
-</details>
-
-<details>
-<summary>Learn to Earn Cloud Data Challenge</summary>
-<br>
-About <br>
-The world of sports has never been the same since a certain player named Google Cloud stepped onto the pitch. Be it helping coaches pick up their best players or helping you pick up your best fantasy team or making life easier for broadcasters to show your favorite game live for you to enjoy along with your favorite pizza, Google Cloud has got it all covered!
-        Google Cloud is transforming the way sports are played & viewed by monitoring the real-time parameters of athletes to utilize data to improve the team’s performance.
-        At the top level of any sport, it’s all about fractional improvements and technology is helping elite personalities power to glory. Google Cloud technology can enable colossal amounts of data to be crunched, analyzed and presented quickly. <br>
-<br>
-Official Website- <br>
-https://www.googlecloudcommunity.com/gc/Community-Blogs/Learn-to-Earn-Cloud-Data-Challenge-Step-up-your-Data-Game/ba-p/437137<br>
-<br>
-Explanation on Youtube- <br>
-https://youtu.be/uG5IJML0L0c
-
-</details>
- 
- 
- <details>
-<summary>Learn to Earn Cloud Security Challenge</summary>
-<br>
-About <br>
-These labs help you get started with cloud security basics. At the end of each lab, you’ll have hands-on experience with securing your cloud. Complete this game to earn the Level 1 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!
-  These labs will give you a deeper understanding of security features in the cloud. These labs are a little more challenging. It’s OK to take a lab more than once to achieve a great score. Complete this game to earn the Level 2 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!
-  These labs will challenge you to explore advanced cloud security scenarios. It’s OK to take a lab more than once to achieve a great score. Complete this game to earn the Level 3 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!<br>
-<br>
-Official Website- <br>
-https://www.cloudskillsboost.google/games/2288<br>
-<br>
-Explanation on Youtube- <br>
-https://www.youtube.com/watch?v=rFR5SZ0CQks
 
 </details>
  
