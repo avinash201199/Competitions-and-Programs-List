@@ -11,6 +11,25 @@ https://youtu.be/fzymgR7EdUs
 
 </details>
 
+<details>
+<summary>Global Coding Challenge by Credit Suisse</summary>
+<br>
+About <br>
+The Global Coding Challenge is an online coding competition between participants across the globe. Around 3 weeks, users will be able to attempt solutions to nine coding problems. Participants can improve their code as many times as they like during the competition. After the completion of the competition, the Leaderboards will lock and the Global Coding Champion will be announced shortly. The competition has been entirely designed, built and run by Credit Suisse TAs.
+
+Competition is split across 7 regions: UK, USA & Canada, Europe, India, Southeast Asia, Switzerland, and the rest of the world.9 original questions, ranging from easy to hard, to be answered using any of 6 popular programming languages.There are prizes for the best individual coder globally, the top 3 coders of all 7 regions.
+
+Don't miss the chance to grab exciting prizes including MacBook Pro, iPhone, iPad Pro and much more!
+In the past competitions, students who have participated and done well have also joined the Credit Suisse team on a Summer Internship or as Technical Analysts.
+<br>
+Official Website- <br>
+https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/cJgwxMxNDCU
+
+</details>
+
 
 <details>
 <summary>Leetcode Contests</summary>
