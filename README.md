@@ -1693,6 +1693,26 @@ Redox is a general-purpose operating system written in pure Rust. The Redox OS S
 Link: https://www.redox-os.org/rsoc/<br>
 
 </details>
+
+<details>
+<summary>Reply Challenges</summary>
+<br>
+About <br>
+The Reply Code challenge was created in 2019. A team of coding experts from Reply (the Reply Code Masters), entered a few competitions. Based on their experiences, they decided to design a challenge powered by Reply aimed at Replyers first and then to students and professionals.
+Now, over four intense hours, participants from all over the world come together each year to solve algorithm-based problems, using any programming language.
+
+The Standard Edition is for students and professionals aged 16 or older. It involves solving logical mathematical problems by writing an algorithm in any programming language. You can train with the past problems and see if the level of the challenge fits for you.
+
+If you're a teen students aged between 14 and 19, you can play on the Teen Edition!
+<br> Official Website- <br>
+https://challenges.reply.com/tamtamy/home.action<br>
+
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=DckNhqySweU&list=PLgqiBpQGzC2B8U_c5gOWSSipf0H_1wT4w
+
+</details>
+
+
 <details>
 <summary>
 SheCodes by Accolite Digital </summary>
@@ -1759,17 +1779,6 @@ Explanation on Youtube- <br>
 https://youtu.be/EuEZ83VAfgQ
 
 </details>
-<<<<<<< HEAD
-<details>
-<summary>Season of KDE </summary>
-<br>
-About <br>
-Season of KDE is an outreach program hosted by the KDE community. Every year since 2013, KDE Student Programs has been running Season of KDE as a program similar to, but not quite the same as Google Summer of Code, offering an opportunity to everyone (not just students) to participate in both code and non-code projects that benefits the KDE ecosystem. In the past few years, SoK participants have not only contributed new application features but have also developed the KDE Continuous Integration System, statistical reports for developers, a web framework, ported KDE Applications, created documentation and lots and lots of other work.
-<br> Official Website- <br>
-https://season.kde.org/<br>
-
-</details>
-=======
 
 <details>
 <summary>Summer of Bitcoin </summary>
@@ -1780,7 +1789,6 @@ The organizations provide mentors who act as guides through the entire process, 
 Students get involved in and become familiar with the bitcoin open source community and put their summer break to good use.The last date to apply for Summer of Bitcoin program is March 5, 2022.
 <br> Official Website- <br>
 https://www.summerofbitcoin.org<br>
->>>>>>> 8cf05337769e5a48bee841866362ab34c77262e5
  
 Explanation on Youtube- <br>
 https://youtu.be/GwpTNKCsgSc
@@ -2084,18 +2092,7 @@ Official Website- <br>
 https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia
 <br>
 </details>
- 
- 
-<summary>Code for Good</summary>
-<br>
-About <br>
 
-It takes place in 2023<br>
-<br>
-Official Website- <br>
-https://careers.jpmorgan.com/global/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India
-<br>
-</details>
 
 
 For any doubt contact me here: - <br>
