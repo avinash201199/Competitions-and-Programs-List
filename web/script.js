@@ -86,6 +86,13 @@ const data = [
         YouTube: "https://www.youtube.com/watch?v=Jkul-W1KBTk",
     },
     {
+        title: "BUIDL-for-Web3-Hackathon",
+        about:
+            "The #BUIDL for Web3 Hack (2022) is a hackathon designed by Lumos Metaverse to open up access to the Web3 space for #BUIDLers like you. We invite you to choose a track featured by a Web3 platform that best suits your project. ",
+        siteUrl: "https://unstop.com/hackathon/buidl-for-web3-hackathon-2022-lumos-labs-413149",
+        YouTube: "https://www.youtube.com/watch?v=VA9fV24-IBg",
+    },
+    {
         title: "Capgemini Tech Challenge",
         about:
             "Capgemini Tech Challenge is one of the largest hackathons in India. Over 7.5 Lakh people have been a part of this challenge in the last seven years, 35% of them being women. Last year, only the finest lot of the registered participants made it to the finale.In case you are wondering what’s in store for you: There are prizes worth INR 20, 00, 000* A chance to land your dream job* at Capgemini Exclusive mentoring from the tech wizards of Capgemini An opportunity to showcase your tech skills in front of a C- suite jury;n the celebrated leaders from the start - up, academia and IT industry.",

@@ -188,6 +188,27 @@ https://www.youtube.com/watch?v=Jkul-W1KBTk
 </details>
 
 <details>
+<summary> BUIDL for Web3 Hackathon (2022) </summary>
+<br>About<br>
+
+The #BUIDL for Web3 Hack (2022) is a hackathon designed by Lumos Metaverse to open up access to the Web3 space for #BUIDLers like you. We invite you to choose a track featured by a Web3 platform that best suits your project. 
+
+As a special reveal to all the participants, the #BUIDL for Web3 Hack Demo Day will be hosted on the much-awaited Lumos Metaverse. Through this hackathon, we are ready to take you with us into the Lumos Metaverse. 
+
+<br>Prizes<br>
+Win exciting prizes from a grand pool of US $100,000.
+Additional Prize Money by BuidlersTribe - Grant up to $25,000* each in convertible Grant.
+*Startups with traction
+
+
+<br>Official Website- <br>
+https://unstop.com/hackathon/buidl-for-web3-hackathon-2022-lumos-labs-413149
+
+
+
+</details>
+
+<details>
 <summary>Capgemini Tech Challenge</summary>
 <br>
 About <br>
