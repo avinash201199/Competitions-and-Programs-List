@@ -2090,17 +2090,7 @@ https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm
 <br>
 </details>
  
-<details>
-<summary>Code for Good</summary>
-<br>
-About <br>
 
-It takes place in 2023<br>
-<br>
-Official Website- <br>
-https://careers.jpmorgan.com/global/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India
-<br>
-</details>
 
 
 For any doubt contact me here: - <br>
