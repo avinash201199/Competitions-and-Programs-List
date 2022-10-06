@@ -209,20 +209,6 @@ https://www.youtube.com/watch?v=Q-JFUzGSWT8
 </details>
 
 <details>
-<summary>Clean Tech Competition</summary>
-<br>
-About <br>
-This is a worldwide research and design challenge for pre-college youth. The program encourages scientific understanding of real-world issues and the integration of environmentally responsible energy sources. Each year, the Clean Tech Competition addresses an issue that is grounded in core technological competency areas and focuses on the next great engineering challenges.<br>
-<br>
-Official Website- <br>
-https://www.cstl.org/cleantech/<br>
-<br>
-Explanation on Youtube- <br>
-https://youtu.be/DjX-I0fBQtQ
-
-</details>
-
-<details>
 <summary>CodeAgon by CodeNation(Trilogy Innovations)</summary>
 <br>
 CodeAgon is a nationwide coding challenge in India focusing on Data Structures and Algorithms organised by CodeNation.<br>
