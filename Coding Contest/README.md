@@ -23,3 +23,20 @@ https://www.youtube.com/watch?v=W8KXpxYK900&ab_channel=CompetitiveCoding-NewtonS
 
 </details>
 
+
+</details>
+<details>
+<summary>Leet code</summary>
+<br>
+About <br>
+Leetcode hosts weekly and biweekly competitions mostly centred around data structures and algorithms. Each contest has a variety of prizes to be won.
+
+
+<br> Official Website- <br>
+leetcode.com/contest<br>
+
+Explanation on Youtube- <br>
+[https://www.youtube.com/watch?v=W8KXpxYK900&ab_channel=CompetitiveCoding-NewtonSchool](https://www.youtube.com/watch?v=CltYi33y0ls)
+
+</details>
+
