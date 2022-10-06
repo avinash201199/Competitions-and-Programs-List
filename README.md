@@ -97,6 +97,25 @@ https://www.youtube.com/watch?v=QAwQ8eKBpYw
 </details>
 
 <details>
+<summary>  TECHgium Global Innovation Challenge </summary>
+<br>About<br>
+
+TECHgium® is a multi-stage Innovation competition by L&T Technology Services for students across the world. 
+
+TECHgium® provides a platform for-
+->Students to engage on real-world industry use cases and challenges to come up with solutions and taking a step towards industry readiness.
+->For institutes and faculty to engage with industry challenge statements along with the students and thereby taking steps towards bridging gap between industry and academia.  
+->Top 3 winning teams take away prizes worth 18Lakhs.
+
+<br>Official Website- <br>
+https://ltts.techgium.com/
+
+<br>Explanation on Youtube- <br>
+https://youtu.be/yAJ8-gwrrYY
+
+</details>
+
+<details>
 <summary>Alexa Prize by Amazon</summary>
 <br>
 About <br>
