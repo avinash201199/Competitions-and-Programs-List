@@ -1,6 +1,20 @@
 // line 3 - 897 contains data for the page
 // @DOM_Manipulation and @functionality code starts at @line_901
 
+
+
+// structure of the @Object in Array:
+// {
+//     id: (an number in increasing order, follow the sequence),
+//     title: (title of the event / program / competitions same as in the github's README.md file),
+//     about: (about  the event),
+//     siteUrl: ( official or any other link of the event),
+//     Youtube: (link to video of the event on youtube)
+// }
+
+// NOTE: All the keys and properties of the @Object are important. @Youtube key is optional, in case if you don't have this. 
+
+
 const data = [
     {
         
@@ -11,7 +25,7 @@ const data = [
         YouTube: "https://www.youtube.com/watch?v=r3qElNn2IZQ",
     },
     {
-       
+      
         title: "Adobe Analytics Challenge",
         about:
             "The Adobe Analytics Challenge is a unique analytics-focused business case competition where university students are given the opportunity to use Adobe’s industry-leading analytics products and access to real-world data from leading organizations such as Nike, Major League Baseball, T‑Mobile, Starwood, Lenovo, Condé Nast, Comcast, Overstock.com, Backcountry.com, Sony PlayStation, and MGM Resort International. ",
@@ -19,7 +33,7 @@ const data = [
         YouTube: "https://www.youtube.com/watch?v=1fNx08ONKkM",
     },
     {
-       
+        
         title: "Adobe Express Community",
         about:
             "The Adobe Express community of like-minded business owners, online marketers, and content creators will help you find what it takes to become an expert at Adobe Express. Boost your content confidence with workshops and more for honing your skills in business and design.Empower your community to grow their businesses and stand out with Adobe Express. Tap into rewards from exclusive merchandise to free access to Adobe Express Premium.",
@@ -27,7 +41,7 @@ const data = [
         YouTube: "https://www.adobe.com/express/ambassadors/list",
     },
     {
- 
+        
         title: "Adobe India Women-in-Technology Scholarship",
         about:
             "Adobe India Women-in-Technology Scholarship is for Indian females enrolled in a formal technology program in computer science, computer engineering, or a closely related technical field. The scholarship offered by Adobe Research aims to recognize outstanding female students in the field of technology. The scholarship focuses on creating gender equality in the science and engineering domain by encouraging women to excel in computing and technology.",
@@ -36,7 +50,6 @@ const data = [
         YouTube: "https://www.youtube.com/watch?v=eF6ek2j5gfE",
     },
     {
-      
         title: "Advent of Code",
         about:
             "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.You don't need a computer science background to participate - just a little programming knowledge and some problem solving skills will get you pretty far. Nor do you need a fancy computer; every problem has a solution that completes in at most 15 seconds on ten-year-old hardware. Advent of Code is a registered trademark in the United States.",
@@ -122,6 +135,26 @@ const data = [
             "https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-geeksforgeeks/",
     },
     {
+        title: " Codiva by Adobe ",
+        about: `Codiva is a hackathon conducted by Adobe exclusively for women. Students who are in their final or pre-final years can be a part of this. The top-performing candidates are eligible for an interview for either an internship or full-time employment. And the packages offered by Adobe are going to be a great boost to the overall average package at your college. 
+            Prizes
+1st prize – iPhone 8
+
+2nd prize – Apple iPad Air 2
+
+3rd prize – Bose Bluetooth Speakers
+
+4th to 20th Place – Online gift vouchers worth Rs. 2000
+
+Top 50 participants – Adobe branded T-shirts
+
+Top 20 contestants will get a chance to interview with Adobe for Internship or Full-time position depending on eligibility
+
+Prizes will be rewarded to only women participants who have given the consent to share their information with Adobe 
+            `,
+        siteUrl: "https://www.hackerrank.com/adobe-codiva/",
+    },
+    {
         title: "Cook-off by CodeChef ",
         about:
             "Cook-off is an amazing 2.5 hours long coding competition held by Codechef every month. This competition helps improve your analytical and problem solving skills. ",
@@ -160,6 +193,14 @@ Eligibilty: Open to women in their sophomore year of a full- time undergraduate 
         siteUrl: "https://doodles.google.com/d4g",
     },
     {
+        id: 103,
+        title: "Exercism",
+        about: "The website differs from other coding platforms by requiring students to download exercises through a command line client, solve the code on their own computers then submit the solution for feedback, at which point they can also view other's solutions to the same problem. A lot of quizes and question based on every difficult levels are available on the exercism website. Also it looks very fancy and enjoyable to code. The Exercism codebase is open source, consisting of over 50 repositories, containing website code, API code, command-line code and over 40 stand-alone repositories for different language tracks. More than 1 Million students practice questions on the website and more than 3 lakh Mentoring Discussions have been made on this website.",
+        siteUrl: "https://exercism.org/",
+        YouTube: "https://youtu.be/BNfyAYlN8s4",
+    },
+    {
+        id: 23,
         title: "e-Yantra Robotic Competition by IIT Bombay",
         about: `The e-Yantra Robotics Competition (eYRC) is the flagship initiative of the e-Yantra project. The competition is open to students from an engineering or polytechnic background and comprises 2 stages spanning over 6-7 months. The competition comprises 2 stages, from which Stage 1 is open to all and is a Robotics MOOC (Massive Online Open Course). During the competition, the participating teams are allotted “themes" with varying levels of complexity that are abstractions of real- world problems.A selected cohort from Stage 1 is admitted into Stage 2. The leading 5 - 6 teams from Stage 2 are hosted for the National Finals at IIT Bombay in March every year where they demonstrate their projects before a jury.! `,
         siteUrl: "https://portal.e-yantra.org/",
@@ -382,6 +423,12 @@ The top performers also get a chance to work with Infosys. The top three winning
         YouTube: "https://www.youtube.com/watch?v=KCCttp-_Qn8",
     },
     {
+        title:"Huawei Apps UP",
+        about:`The Huawei Global App Innovation Contest ("Apps UP" for short) is a global event held by Huawei that pools the skills of developers from around the world to build an app ecosystem that intelligently connects everything. It aims to inspire developers to innovate, bring together people, devices, and scenarios, and create consistent app experiences`,
+        siteUrl:"https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898",
+        YouTube:"https://www.youtube.com/watch?v=HRBY0Ad_PBI",
+    },
+    {
         title: "Imagine Cup by Microsoft",
         about: `Imagine Cup is an annual competition sponsored and hosted by Microsoft Corp. which brings together student developers worldwide to help resolve some of the world's toughest challenges.[1] It is considered as "Olympics of Technology" by computer science and engineering and is considered one of the top competitions and awards related to technology and software design. All Imagine Cup competitors create projects that address the Imagine Cup theme: "Imagine a world where technology helps solve the toughest problems". Started in 2003, it has steadily grown, with more than 358,000 competitors representing 183 countries and regions in 2011. `,
         siteUrl: "https://imaginecup.microsoft.com/en-us/Events",
@@ -418,6 +465,12 @@ The top performers also get a chance to work with Infosys. The top three winning
         YouTube: "https://youtu.be/WfRqE4NBecM",
     },
     {
+        title: "International Obfuscated C Code Contest",
+        about: "The International Obfuscated C Code Contest (IOCCC) is a computer programming contest for the most creatively obfuscated C code. Described as 'celebrating [C\'s] syntactical opaqueness' this contest is held annually.",
+        siteUrl: "https://www.ioccc.org/",
+        YouTube: "https://www.youtube.com/watch?v=7F3IHxVEsvk&t=42s"
+    },
+    {
         title: "Internet Problem Solving Contest ",
         about: `The Internet Problem Solving Contest (IPSC) is an online contest for teams consisting of up to three people. Several problems are published at the beginning of the competition. Some of them are unusual kinds of problems which will test your out of the box thinking.To solve a problem you will have to compute correct output data for the given input data sets. Usually this means that you will write a program that solves the problem, but you may produce the output by hand or in any other way.`,
         siteUrl: "https://ipsc.ksp.sk/",
@@ -429,6 +482,11 @@ The top performers also get a chance to work with Infosys. The top three winning
 `,
         siteUrl: "https://www.surveymonkey.com/r/INTUIT_2020",
     },
+{
+title:"JGEC Winter Of Code",
+about:"JWOC ( JGEC Winter of Code) is an open-source program organized by Developers' JGEC which helps students to plunge into Open Source contribution and get the realm of Software Development. In Google Developer Student Club, Jalpaiguri Govt. Engg College.",
+siteUrl:"https://jwoc.tech/"
+},
     {
         title: "Kaggle by Google",
         about: `Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. `,
@@ -441,6 +499,7 @@ The top performers also get a chance to work with Infosys. The top three winning
         siteUrl: "https://codingcompetitions.withgoogle.com/kickstart",
         YouTube: "https://www.youtube.com/watch?v=9wad39LmzPY",
     },
+
     {
         title: "Learn to Earn Cloud Challenge",
         about: `Google Cloud skills are in demand. 86% of IT leaders report that the shortage of cloud computing skills will slow down their cloud projects.
@@ -448,6 +507,15 @@ The top performers also get a chance to work with Infosys. The top three winning
 Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills. `,
         siteUrl: "https://go.qwiklabs.com/learn-to-earn",
         YouTube: "https://www.youtube.com/watch?v=VZUx4GuCJiM",
+    },
+    {
+        title: "Learn to Earn Cloud Data Challenge",
+        about: `The world of sports has never been the same since a certain player named Google Cloud stepped onto the pitch. Be it helping coaches pick up their best players or helping you pick up your best fantasy team or making life easier for broadcasters to show your favorite game live for you to enjoy along with your favorite pizza, Google Cloud has got it all covered!
+        Google Cloud is transforming the way sports are played & viewed by monitoring the real-time parameters of athletes to utilize data to improve the team’s performance.
+        At the top level of any sport, it’s all about fractional improvements and technology is helping elite personalities power to glory. Google Cloud technology can enable colossal amounts of data to be crunched, analyzed and presented quickly.
+Luckily, there's an easy way for you to get hands-on practice with core cloud concepts. Build your skills with the Learn to Earn Cloud Challenge. You'll get free access to 32+ hands-on labs, plus an opportunity to earn prizes, grow your network, and showcase your skills. `,
+        siteUrl: "https://www.googlecloudcommunity.com/gc/Community-Blogs/Learn-to-Earn-Cloud-Data-Challenge-Step-up-your-Data-Game/ba-p/437137",
+        YouTube: "https://youtu.be/uG5IJML0L0c",
     },
     {
         title: "LiFT Scholar!",
@@ -588,6 +656,7 @@ The program facilitates and nurtures the skills to contribute to your career gro
             "https://www.oneplus.in/campus#:~:text=What%20is%20the%20OnePlus%20Student,prosper%20in%20your%20respective%20fields.",
     },
     {
+        id: 76,
         title: "Outreachy Program",
         about: `Outreachy is a diversity initiative that provides paid, remote internships to people subject to systemic bias and impacted by underrepresentation in the technical industry where they are living.
 
@@ -644,6 +713,12 @@ In SIH, the students would also have the opportunity to work on challenges faced
         about: `The mission of the 2022 Solution Challenge is to solve for one or more of the United Nations 17 Sustainable Development Goals using Google technology. The Solution Challenge is open to members of Google Developer Student Clubs. Join a Google Developer Student Club (GDSC) on the GDSC community page. The last date to apply for the Solution Challenge 2022 is 31st March, 2022. `,
         siteUrl: "https://developers.google.com/community/gdsc-solution-challenge",
         YouTube: "https://youtu.be/EuEZ83VAfgQ",
+    },
+    {
+        title: "Summer of Bitcoin",
+        about: `A global summer internship program focused on introducing university students to bitcoin and open-source development.The organizations provide mentors who act as guides through the entire process, from learning about the community to contributing.Students get involved in and become familiar with the bitcoin open source community and put their summer break to good use.The last date to apply for Summer of Bitcoin program is March 5, 2022. `,
+        siteUrl: "https://www.summerofbitcoin.org",
+        YouTube: "https://youtu.be/GwpTNKCsgSc",
     },
     {
         title: "Technica",
@@ -782,13 +857,28 @@ The event will be based on the theme of astronomy. There will be 5 phases or lev
 
 Global Hack Weeks are attended by hackers from all over the globe. Whether this is your first time coding or you're a seasoned expert, we will have events here for you. Our last Global Hack Week included hackers from over 90 countries around the world! If you're a first-time hacker, there will be beginner-focused activities for you. `,
         siteUrl: "https://ghw.mlh.io/oct",
+    }, {
+        title: "LinkedIn Coachin, March, 2023",
+        about: `Mock interviews and tests scheduled based on Data Structures and Algorithms
+Speaker sessions where senior and junior engineers from Linkedin spoke on various topics and gave us a lot of insights on what is happening in the industry currently
+A great community of like-minded individuals! We are a group of 40 young women constantly empowering each other and taking inspiration from each other `,
+        siteUrl: "https://coachin2021.splashthat.com/",
     },
      {
+        id: 97,
         title: "Amazon ML Summer School",
         about:
             "Amazon ML Summer School aims at providing students the opportunity to gain Machine Learning (ML) skills which is the first step in becoming ready to build a career in ML. This program is an intensive course on key ML topics and is a great opportunity to learn from and interact with Scientists at Amazon who have immense knowledge in their ML domain. After a successful pilot in 2021, Amazon ML Summer School is being expanded to include students enrolled in any Indian campus and will see a bigger class size.",
         siteUrl: "https://amazonmlsummerschoolindia.splashthat.com/",
         YouTube: "https://youtu.be/0QedVNGvZlQ",
+    },
+     {
+        id: 98,
+        title: "Hyperledger mentorship program",
+        about:
+            "The Hyperledger mentorship program is aimed at creating a structured hands-on learning opportunity for new developers who may otherwise lack the opportunity to gain exposure to Hyperledger open source development and entry to the technical community. Mentees will be eligible to receive a stipend. For Indian students, Total Stipend Amount will 3000 USD",
+        siteUrl: "https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program",
+        
     },
 ];
 
