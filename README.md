@@ -230,15 +230,23 @@ https://www.youtube.com/watch?v=X-eT_np4naY (English) [Preparation]<br>
 <details>
  <summary>Code For Good </summary>  <br>
 Use your coding skills to make a difference
-At our Code for Good hackathon, you'll collaborate with other coders to develop innovative technology solutions for not-for-profit organizations. You'll also learn about starting a Technology career with us while being guided by the sharpest minds in our industry.
+At this hackathon, you can collaborate with other coders to develop innovative technology solutions for not-for-profit organizations. You'll also learn about starting a Technology career with us while being guided by the sharpest minds in our industry.
 <br>
  
 Website
-https://careers.jpmorgan.com/in/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India  <br>
+https://careers.jpmorgan.com/in/en/students/programs/code-for-good  <br>
  
  Explanantion on Youtube
  https://www.youtube.com/watch?v=IIzfQqX4QDo
  
+ </details>
+
+ <details>
+  <summary>Code for Change</summary>  <br>
+Open platform for the Learners to learn and trainers to transfer their learning to learners.
+<br>
+Website: https://codeforchangenepal.com/ <br>
+Youtube: https://www.youtube.com/channel/UC9x8pdE8UWErO6hW2mJSVLQ/videos
  </details>
 
 <details>
@@ -1269,6 +1277,25 @@ Explanation on Youtube- <br>
 https://youtu.be/uG5IJML0L0c
 
 </details>
+ 
+ 
+ <details>
+<summary>Learn to Earn Cloud Security Challenge</summary>
+<br>
+About <br>
+These labs help you get started with cloud security basics. At the end of each lab, you’ll have hands-on experience with securing your cloud. Complete this game to earn the Level 1 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!
+  These labs will give you a deeper understanding of security features in the cloud. These labs are a little more challenging. It’s OK to take a lab more than once to achieve a great score. Complete this game to earn the Level 2 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!
+  These labs will challenge you to explore advanced cloud security scenarios. It’s OK to take a lab more than once to achieve a great score. Complete this game to earn the Level 3 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!<br>
+<br>
+Official Website- <br>
+https://www.cloudskillsboost.google/games/2288<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=rFR5SZ0CQks
+
+</details>
+ 
+ 
 <details>
 <summary>LiFT Scholar!</summary>
 <br>
@@ -1566,6 +1593,24 @@ Official Link-
 
 YouTube link for information-<br>
 https://www.youtube.com/watch?v=hmKw7CQwNls<br>
+</details>
+
+
+<details>
+<summary>
+NASSCOM Academic Grand Challenge</summary>
+<br>
+
+
+About-<br>
+Telangana Al Mission (T-AM), powered by NASSCOM has been established by the Government of Telangana with a vision to position Telangana as a global hub for Artificial Intelligence and foster social innovation.
+To foster the entrepreneurial spirit amongst the students, T-AIM in collaboration with Wells Fargo is seeking applications for Academic Grand Challenge.The objective is to scout for talented student teams that will provide innovative and viable solutions using emerging technologies like Artificial Intelligence (AI) to assist Wells Fargo with two use cases.
+
+Official Link-
+<https://taim-gc.in/academic/><br>
+
+YouTube link for information-<br>
+https://www.youtube.com/watch?v=n1XDGi4C-n8<br>
 </details>
  
 
@@ -2023,7 +2068,18 @@ Official Website- <br>
 https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia
 <br>
 </details>
+ 
+ 
+<summary>Code for Good</summary>
+<br>
+About <br>
 
+It takes place in 2023<br>
+<br>
+Official Website- <br>
+https://careers.jpmorgan.com/global/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India
+<br>
+</details>
 
 
 For any doubt contact me here: - <br>

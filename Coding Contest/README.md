@@ -11,6 +11,7 @@ https://youtu.be/fzymgR7EdUs
 
 </details>
 
+
 <details>
 <summary>Leetcode Contests</summary>
 <br>
@@ -20,3 +21,18 @@ Leetcode hosts weekly and biweekly competitions mostly centred around data struc
 leetcode.com/contest<br>
 
 </details>
+
+<details>
+<summary>Newton School Grand Coding Contest</summary>
+<br>
+About <br>
+Newton School Grand Coding Contest is an annual coding competition by Newton School, it is one of India's Premier Coding Challenges with prizes upto 10Lac Rupees. Top coders of India and across the globe compete in the foremost competitive coding contest of the country. It also gives access to internships and job opportunities directly through Newton School, with their hiring partner network of 800+ companies.
+<br> Official Website- <br>
+https://www.newtonschool.co/coding-contest<br>
+
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=W8KXpxYK900&ab_channel=CompetitiveCoding-NewtonSchool
+
+</details>
+
+
