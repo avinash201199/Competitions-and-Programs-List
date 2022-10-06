@@ -1175,6 +1175,21 @@ https://www.ioccc.org/<br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=7F3IHxVEsvk&t=42s
 </details>
+ 
+<details>
+<summary>International Olympiad in Informatics</summary>
+<br>
+About <br>
+The International Olympiad in Informatics (IOI) is an annual competitive programming and one of the International Science Olympiads for secondary school students. <br>
+The contest consists of two days of computer programming/coding and problem-solving of algorithmic nature. <br>
+The International Olympiad in Informatics is one of the most prestigious computer science competitions in the world. <br>
+<br>
+Official Website- <br>
+https://ioinformatics.org/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=V_Cc4Yk2xe4
+</details>
 
 <details>
 <summary> Internet Problem Solving Contest </summary>
