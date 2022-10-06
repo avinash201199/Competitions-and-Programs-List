@@ -648,6 +648,12 @@ The first being the ideation phase, second being the implementation phase ,third
         YouTube: "https://www.youtube.com/watch?v=P-l0DaAiMw8",
     },
     {
+        title: "NASA - CalTech Summer Undergraduate Research Fellowship (SURF) ",
+        about: `The Caltech Summer Undergraduate Research Fellowship, or SURF, provides undergraduate students pursing degrees in science, technology, engineering and mathematics with an introduction to the research process under the guidance of seasoned mentors at JPL and Caltech. As part of the program, students collaborate with potential mentors to define and develop a research project and write a proposal. A faculty committee reviews the proposal and recommends awards, then students carry out their research over a 10-week summer internship. `,
+        siteUrl: "https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship",
+        YouTube: "https://www.youtube.com/watch?v=Ix0rMUXbj7s",
+    },
+    {
         title: "Nutanix Heart Women in Technology Scholarships ",
         about: `Nutanix believes in the power of diversity and realizes that a key component to driving innovation is cultivating diverse teams. Nutanix Advancing Women in Technology Scholarship program help future tech leaders to pursue and complete their education goals. They offer up to eleven scholarships to students in the United States, India, United Kingdom, Serbia and Australia who want to apply their passion for technology while advancing women in the field to make a positive impact on the industry and the planet.`,
         siteUrl: "https://www.nutanix.com/scholarships",
