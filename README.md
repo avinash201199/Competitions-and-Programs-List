@@ -1607,7 +1607,7 @@ The Caltech Summer Undergraduate Research Fellowship, or SURF, provides undergra
 As part of the program, students collaborate with potential mentors to define and develop a research project and write a proposal. A faculty committee reviews the proposal and recommends awards, then students carry out their research over a 10-week summer internship. At the conclusion of the program, students submit a technical paper and give an oral presentation at a symposium modeled on a professional technical meeting. Students at JPL will also have the opportunity to participate in a number of enrichment activities, including tours, lectures and career advisement, arranged by the JPL Education Office.
 <br>
 Official Link-
-<https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship><br>
+<https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/><br>
 
 YouTube link for information-<br>
 https://www.youtube.com/watch?v=Ix0rMUXbj7s<br>
