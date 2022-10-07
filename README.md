@@ -1240,6 +1240,31 @@ https://jwoc.tech/ <br>
 </details>
 
 <details>
+<summary>JPMorgan Chase & Co. Quant Mentorship Program</summary>
+<br>
+ABOUT- <br>
+J.P. Morgan Quant Mentorship Program is a unique opportunity for you to build skills required for a successful career in Quantitative Finance. Learn how mathematical modelling and coding are employed in the financial services industry.
+<br>
+
+<br>Eligibility<br>
+This program is for students in their 2nd year doing Bachelors of Technology.<br>
+The selection process for this program will have 2 stages:
+
+Stage 1: Online Aptitude Test<br>
+Stage 2:  Case Study Challenge<br>
+This year-long program includes:<br>
+1. One-to-one mentorship and career guidance.<br>
+2. Access to J.P. Morgan’s online coursework.<br>
+3. Interactions with senior leaders at J.P. Morgan.<br>
+4. Opportunity to interview for an internship after pre-final year.<br>
+<br>
+ 
+OFFICIAL WEBSITE LINK- <br>
+https://jpmc.recsolu.com/app/collect/event/TDMNonCLZS-KWbHKF9c_DA <br>
+<br>
+</details>
+
+<details>
 <summary>Kaggle by Google</summary>
 <br>
 About <br>
