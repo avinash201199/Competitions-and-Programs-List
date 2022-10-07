@@ -1740,13 +1740,15 @@ Link: https://www.redox-os.org/rsoc/<br>
 </details>
 
 <details>
-<summary> Rakathon - 24hrs Hackathon </summary>
-About<br>
-Rakathon, a 24hrs hackathon competition by Rakuten, is a platform for software professionals, industry experts, freelancers, and budding engineers with the brightest and most innovative minds to develop practical solutions to the real-world problems. Themes for this year includes Sustainability (Green Tech), Fintech, Data Democratization, Cloud, & Observability. The hackathon is open to everyone. A team can have 1-4 members. Competition includes three phases: 1. Idea Submission     2.Idea Development    3. Grand Finale. Top 100 receive amazing swags (Wildcraft Bag, Boat Eardopes, Rakuten Jersey). Top 3 teams receive cash prizes worth INR 10,00,000/-
+<summary> Samsung - Solve for Tomorrow </summary>
+
+# About<br>
+Do you want to innovate for a brighter future? Do you want to solve real-world problems when it comes to education, environment, healthcare, and agriculture? Samsung Solve for Tomorrow gives you the opportunity to make a difference to our society. The contest is open for all participants between 16-22 years of age. A team of 1-3 members can participate. From round 1 - Idea Submission Round, top 50 teams are selected. These teams attend a 3-day bootcamp at FIIT, IIT Delhi campus. 10 teams are shortlisted for further rounds. These 10 teams get a chance to visit samsung's offices. And top 3 get 6 month incubation support and mentorship from Samsung experts.
 <br>
-Link: https://corp.rakuten.co.in/news/rakathon-2022/<br>
+Link: https://www.samsung.com/in/solvefortomorrow/<br>
 </details>
 
+<details>
 <summary>Reply Challenges</summary>
 <br>
 About <br>
