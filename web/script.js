@@ -518,6 +518,12 @@ Luckily, there's an easy way for you to get hands-on practice with core cloud co
         YouTube: "https://youtu.be/uG5IJML0L0c",
     },
     {
+        title: "LFX Mentorship Program",
+        about: `LFX Mentorship (previously known as Community Bridge) is a platform developed by the Linux Foundation, which accelerates the adoption, innovation, and sustainability of open source software. LFX Mentorship is actively used by the Cloud Native Computing Foundation as a mentorship platform across the CNCF projects. It is an open-source program where students can contribute to open-source projects and get a minimum stipend of $3000. The goal of a mentorship program is to accelerate the personal and professional development of mentees. This is achieved by providing mentees with guidance, advice and feedback from mentors with more experience than themselves.`,
+        siteUrl: 'https://mentorship.lfx.linuxfoundation.org/#projects_all',
+        YouTube: 'https://youtu.be/DROr4kSrrY0'
+    },
+    {
         title: "LiFT Scholar!",
         about: `The Linux Foundation hosts The Linux Foundation Training (LiFT) Scholarship Program to provide opportunities to up-and-coming developers and sysadmins who show promise for helping shape the future of Linux and open source software but do not otherwise have the ability to attend training courses or take certification exams.`,
         siteUrl:
@@ -642,6 +648,12 @@ The first being the ideation phase, second being the implementation phase ,third
         YouTube: "https://www.youtube.com/watch?v=P-l0DaAiMw8",
     },
     {
+        title: "NASA - CalTech Summer Undergraduate Research Fellowship (SURF) ",
+        about: `The Caltech Summer Undergraduate Research Fellowship, or SURF, provides undergraduate students pursing degrees in science, technology, engineering and mathematics with an introduction to the research process under the guidance of seasoned mentors at JPL and Caltech. As part of the program, students collaborate with potential mentors to define and develop a research project and write a proposal. A faculty committee reviews the proposal and recommends awards, then students carry out their research over a 10-week summer internship. `,
+        siteUrl: "https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship",
+        YouTube: "https://www.youtube.com/watch?v=Ix0rMUXbj7s",
+    },
+    {
         title: "Nutanix Heart Women in Technology Scholarships ",
         about: `Nutanix believes in the power of diversity and realizes that a key component to driving innovation is cultivating diverse teams. Nutanix Advancing Women in Technology Scholarship program help future tech leaders to pursue and complete their education goals. They offer up to eleven scholarships to students in the United States, India, United Kingdom, Serbia and Australia who want to apply their passion for technology while advancing women in the field to make a positive impact on the industry and the planet.`,
         siteUrl: "https://www.nutanix.com/scholarships",
@@ -682,6 +694,16 @@ Timeline: February-September`,
         title: " Redox OS Summer of Code",
         about: `Redox is a general-purpose operating system written in pure Rust. The Redox OS Summer of Code is the primary use of donations to the Redox OS project. Here, the students who have already demonstrated a desire and ability to contribute to Redox OS get selected.   `,
         siteUrl: "https://www.redox-os.org/rsoc/",
+    },
+    {
+        title: "Reply Challenges",
+        about: `The Reply Code challenge was created in 2019. A team of coding experts from Reply (the Reply Code Masters), entered a few competitions. Based on their experiences, they decided to design a challenge powered by Reply aimed at Replyers first and then to students and professionals.
+        Now, over four intense hours, participants from all over the world come together each year to solve algorithm-based problems, using any programming language.
+        
+        The Standard Edition is for students and professionals aged 16 or older. It involves solving logical mathematical problems by writing an algorithm in any programming language. You can train with the past problems and see if the level of the challenge fits for you.
+        
+        If you're a teen students aged between 14 and 19, you can play on the Teen Edition!`,
+        siteUrl: "https://challenges.reply.com/tamtamy/home.action",
     },
     {
         title: "SheCodes by Accolite Digital ",
