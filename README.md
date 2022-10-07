@@ -1175,6 +1175,21 @@ https://www.ioccc.org/<br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=7F3IHxVEsvk&t=42s
 </details>
+ 
+<details>
+<summary>International Olympiad in Informatics</summary>
+<br>
+About <br>
+The International Olympiad in Informatics (IOI) is an annual competitive programming and one of the International Science Olympiads for secondary school students. <br>
+The contest consists of two days of computer programming/coding and problem-solving of algorithmic nature. <br>
+The International Olympiad in Informatics is one of the most prestigious computer science competitions in the world. <br>
+<br>
+Official Website- <br>
+https://ioinformatics.org/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=V_Cc4Yk2xe4
+</details>
 
 <details>
 <summary> Internet Problem Solving Contest </summary>
@@ -1299,6 +1314,20 @@ https://www.youtube.com/watch?v=rFR5SZ0CQks
 
 </details>
  
+<details>
+<summary>LFX Mentorship Program</summary>
+<br>
+About <br>
+LFX Mentorship (previously known as Community Bridge) is a platform developed by the Linux Foundation, which accelerates the adoption, innovation, and sustainability of open source software. LFX Mentorship is actively used by the Cloud Native Computing Foundation as a mentorship platform across the CNCF projects. It is an open-source program where students can contribute to open-source projects and get a minimum stipend of $3000. The goal of a mentorship program is to accelerate the personal and professional development of mentees. This is achieved by providing mentees with guidance, advice and feedback from mentors with more experience than themselves. <br>
+<br>
+Official Website - <br>
+https://mentorship.lfx.linuxfoundation.org/#projects_all
+<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/DROr4kSrrY0
+
+</details>
  
 <details>
 <summary>LiFT Scholar!</summary>
@@ -1599,6 +1628,22 @@ YouTube link for information-<br>
 https://www.youtube.com/watch?v=hmKw7CQwNls<br>
 </details>
 
+<details>
+<summary>
+NASA - CalTech Summer Undergraduate Research Fellowship (SURF)</summary>
+<br>
+
+
+About-<br>
+The Caltech Summer Undergraduate Research Fellowship, or SURF, provides undergraduate students pursing degrees in science, technology, engineering and mathematics with an introduction to the research process under the guidance of seasoned mentors at JPL and Caltech.
+As part of the program, students collaborate with potential mentors to define and develop a research project and write a proposal. A faculty committee reviews the proposal and recommends awards, then students carry out their research over a 10-week summer internship. At the conclusion of the program, students submit a technical paper and give an oral presentation at a symposium modeled on a professional technical meeting. Students at JPL will also have the opportunity to participate in a number of enrichment activities, including tours, lectures and career advisement, arranged by the JPL Education Office.
+
+Official Link-
+<https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/><br>
+
+YouTube link for information-<br>
+https://www.youtube.com/watch?v=Ix0rMUXbj7s<br>
+</details>
 
 <details>
 <summary>
@@ -1702,6 +1747,24 @@ Rakathon, a 24hrs hackathon competition by Rakuten, is a platform for software p
 Link: https://corp.rakuten.co.in/news/rakathon-2022/<br>
 </details>
 
+<summary>Reply Challenges</summary>
+<br>
+About <br>
+The Reply Code challenge was created in 2019. A team of coding experts from Reply (the Reply Code Masters), entered a few competitions. Based on their experiences, they decided to design a challenge powered by Reply aimed at Replyers first and then to students and professionals.
+Now, over four intense hours, participants from all over the world come together each year to solve algorithm-based problems, using any programming language.
+
+The Standard Edition is for students and professionals aged 16 or older. It involves solving logical mathematical problems by writing an algorithm in any programming language. You can train with the past problems and see if the level of the challenge fits for you.
+
+If you're a teen students aged between 14 and 19, you can play on the Teen Edition!
+<br> Official Website- <br>
+https://challenges.reply.com/tamtamy/home.action<br>
+
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=DckNhqySweU&list=PLgqiBpQGzC2B8U_c5gOWSSipf0H_1wT4w
+
+</details>
+
+
 <details>
 <summary>
 SheCodes by Accolite Digital </summary>
@@ -1768,17 +1831,6 @@ Explanation on Youtube- <br>
 https://youtu.be/EuEZ83VAfgQ
 
 </details>
-<<<<<<< HEAD
-<details>
-<summary>Season of KDE </summary>
-<br>
-About <br>
-Season of KDE is an outreach program hosted by the KDE community. Every year since 2013, KDE Student Programs has been running Season of KDE as a program similar to, but not quite the same as Google Summer of Code, offering an opportunity to everyone (not just students) to participate in both code and non-code projects that benefits the KDE ecosystem. In the past few years, SoK participants have not only contributed new application features but have also developed the KDE Continuous Integration System, statistical reports for developers, a web framework, ported KDE Applications, created documentation and lots and lots of other work.
-<br> Official Website- <br>
-https://season.kde.org/<br>
-
-</details>
-=======
 
 <details>
 <summary>Summer of Bitcoin </summary>
@@ -1789,7 +1841,6 @@ The organizations provide mentors who act as guides through the entire process, 
 Students get involved in and become familiar with the bitcoin open source community and put their summer break to good use.The last date to apply for Summer of Bitcoin program is March 5, 2022.
 <br> Official Website- <br>
 https://www.summerofbitcoin.org<br>
->>>>>>> 8cf05337769e5a48bee841866362ab34c77262e5
  
 Explanation on Youtube- <br>
 https://youtu.be/GwpTNKCsgSc
@@ -1816,6 +1867,24 @@ Explanation on YouTube: <br>
 https://www.youtube.com/watch?v=ws_L3sWFE_4&list=PLyys4weFOrPecVbNdoUc9bgAsIR-SYQx7
 </details>
  
+<details>
+<summary>TECHgium Global Innovation Challenge </summary>
+<br>About<br>
+
+TECHgium® is a multi-stage Innovation competition by L&T Technology Services for students across the world. 
+
+TECHgium® provides a platform for-
+->Students to engage on real-world industry use cases and challenges to come up with solutions and taking a step towards industry readiness.
+->For institutes and faculty to engage with industry challenge statements along with the students and thereby taking steps towards bridging gap between industry and academia.  
+->Top 3 winning teams take away prizes worth 18Lakhs.
+
+<br>Official Website- <br>
+https://ltts.techgium.com/
+
+<br>Explanation on Youtube- <br>
+https://youtu.be/yAJ8-gwrrYY
+
+</details>
 
 <details>
 <summary>Technica</summary>
@@ -2093,18 +2162,7 @@ Official Website- <br>
 https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia
 <br>
 </details>
- 
- 
-<summary>Code for Good</summary>
-<br>
-About <br>
 
-It takes place in 2023<br>
-<br>
-Official Website- <br>
-https://careers.jpmorgan.com/global/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India
-<br>
-</details>
 
 
 For any doubt contact me here: - <br>
