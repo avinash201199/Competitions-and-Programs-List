@@ -72,4 +72,22 @@ https://www.youtube.com/watch?v=DckNhqySweU&list=PLgqiBpQGzC2B8U_c5gOWSSipf0H_1w
 
 </details>
 
+<details>
+<summary>Dare2Compete</summary>
+<br>
+About <br>
+Unstop (formerly Dare2Compete) enables companies to engage with candidates in the most interactive way to discover, assess, and hire the best talent. It has 3 Mn+ active users who constantly participate in competitions and engagements.
+
+On the other side, Unstop connects unstoppable talent with the world of opportunities. It enables students and professionals to learn, practice, participate in engagements, and get hired, rewarded, and recognized.
+
+To put it straight, Unstop is the one-stop solution for companies to simplify the entire HR lifecycle and for students to simplify their career journey.
+
+<br> Official Website- <br>
+https://unstop.com/home<br>
+
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=zawgqMAVNe0
+
+</details>
+
 
