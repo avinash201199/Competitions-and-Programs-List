@@ -861,6 +861,15 @@ https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade
 https://lnkd.in/dPNVidri
 </details>
 
+<details>
+<summary>Google Cloud Fly Cup Challenge</summary>
+<br>About<br>
+Google Cloud Fly Cup Challenge, created in partnership with The Drone Racing League (DRL) and taking place at Next ‘22 to usher in the new era of tech-driven sports. Using DRL race data and Google Cloud analytics tools, developers of any skill level will be able to predict race outcomes and provide tips to DRL pilots to help enhance their season performance. Participants will compete for a chance to win an all-expenses-paid trip to the season finale of the DRL World Championship Race and be crowned the champion on stage.  
+<br>Official Website- <br>
+https://cloud.google.com/blog/topics/training-certifications/sign-up-for-the-google-cloud-fly-cup-challenge
+<br>Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=9A3uZ6Syopk<br>
+</details>
 
 <details>
 <summary>Google Kick Start</summary>
