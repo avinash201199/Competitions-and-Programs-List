@@ -2197,7 +2197,20 @@ https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm
 <br>
 </details>
 
+<details>
+<summary>Code India Fellowship</summary>
+<br>
+About <br>
+We are proud to announce the Code India Fellowship, an incredible opportunity for the most passionate individuals of our country to help take programming and coding to the remotest parts of India.
 
+Aspiring to impart the knowledge, skills and a certain strength of character to the young minds of tomorrow, the Code India Fellowship is designed specifically to help better our future while simultaneously giving our fellows a chance to recognize the current realities of what life is like on the other side.
+
+The Code India Fellows will be placed in different organisations in different parts of the country like Delhi, Bangalore, Jammu, Dharamshala, etc, for the duration of a year, to teach coding and programming to the local children, with an emphasized focus on young girls. Tasked with the responsibility of overseeing the growth and educational journey of young children, our fellows have the explicit satisfaction of helping students, across the country, take their first steps into a brighter future. <br>
+<br>
+Official Website- <br>
+[https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia](https://devinfo.in/code-india-fellowship/)
+<br>
+</details>
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
