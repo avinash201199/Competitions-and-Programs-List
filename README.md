@@ -1,10 +1,11 @@
-# <h1 align="center">Competitions and Programs List for Students</h1> </font>
+# <h1 align="center">Competitions and Programs List for College Students</h1> </font>
 
 [Website URL](https://avinash201199.github.io/Competitions-and-Programs-List/)
 
 This repository contains a list of some great competitions and programs for college students, in which they can compete, learn, explore, and gain experience.
 
 This experience will improve their job resumes for jobs and help them in their career growth.
+
 
 ### How to contribute 😎<br>
 
@@ -24,6 +25,7 @@ Take a look at the [CONTRIBUTING.md](https://github.com/avinash201199/Competitio
 <br>
 About <br>
 30 Days of Google Cloud program will provide you an opportunity to kickstart your career in cloud and get hands-on practice on Google Cloud - the tool that powers apps like Google Search, Gmail and YouTube.
+link-https://inthecloud.withgoogle.com/google-cloud-skills/register.html
 
 Along the way, you will learn & practice concepts like computing, application development, big data & machine learning using cloud & if you get stuck, you will have your "Campus Facilitators" who are specially trained on Google Cloud to help. 😎 <br>
 <br>
@@ -38,7 +40,8 @@ https://www.youtube.com/watch?v=r3qElNn2IZQ
 <summary>Adobe Analytics Challenge</summary>
 <br>
 About <br>
-The Adobe Analytics Challenge is a unique analytics-focused business case competition where university students are given the opportunity to use Adobe’s industry-leading analytics products and access to real-world data from leading organizations such as Nike, Major League Baseball, T‑Mobile, Starwood, Lenovo, Condé Nast, Comcast, Overstock.com, Backcountry.com, Sony PlayStation, and MGM Resort International. <br>
+The Adobe Analytics Challenge is a unique analytics-focused business case competition where university students are given the opportunity to use Adobe’s industry-leading analytics products and access to real-world data from leading organizations such as Nike, Major League Baseball, T‑Mobile, Starwood, Lenovo, Condé Nast, Comcast, Overstock.com, Backcountry.com, Sony PlayStation, and MGM Resort International. 
+<br>
 <br>
 Official Website- <br>
 https://www.adobeanalyticschallenge.com/<br>
