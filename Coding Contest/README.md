@@ -12,6 +12,21 @@ https://youtu.be/fzymgR7EdUs
 </details>
 
 <details>
+<summary> Job-a-Thon </summary>
+<br>About<br>
+
+Jobathan is a 2.5 hrs coding contest targeted toward hiring freshers and interns, organized by GeeksforGeeks on the 21st of every month for organizations that are looking to hire top coders. Till now nearly 50 companies have trusted it to fulfill their hiring needs.
+For this, organizations can directly contact us through our official email address, or they can submit their queries through this form (Form Link), a representative from the GeeksforGeeks’ team will reach out to the organizations.
+
+<br>Official Website- <br>
+https://www.geeksforgeeks.org/geeksforgeeks-jobathon/
+
+<br>Explanation on Youtube- <br>
+https://youtu.be/EkIv4HuGGcQ
+
+</details>
+
+<details>
 <summary>Global Coding Challenge by Credit Suisse</summary>
 <br>
 About <br>
