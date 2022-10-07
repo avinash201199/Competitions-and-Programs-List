@@ -27,7 +27,10 @@ body {
     position: relative;
 }
 
-
+.wrapper .container a{
+    color: inherit;
+    text-decoration: none;
+}
 
 .wrapper .container a .GitHubIcon{
     position: absolute;
@@ -35,6 +38,17 @@ body {
     right: 3rem;
     font-size: 4rem;
     cursor: pointer;
+    transition: all 0.1s linear;
+}
+
+.wrapper .container a .GitHubIcon:hover{
+    font-size: 4.4rem;
+    right: 2.8rem;
+}
+
+.wrapper .container a .GitHubIcon:active{
+    font-size: 3.8rem;
+    right: 3.1rem;
 }
 
 .wrapper .container .greeting{
@@ -165,6 +179,10 @@ body {
 
 .wrapper .container .accordion_wrapper .accordion_container .active{
     display: flex;
+}
+
+.wrapper .container .footer-social-icons a{
+    transition: all 0.1s linear;
 }
 
 
