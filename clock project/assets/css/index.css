@@ -1,0 +1,123 @@
+.box{
+    align-items: center;
+    position: relative;
+    margin: auto;
+    /* padding: auto; */
+    background-image: linear-gradient(orange ,white , yellowgreen );
+    width: 40vw;
+    height: 40vw;
+    border-radius: 20px;
+    box-sizing: border-box;
+    
+}
+h1{
+    position: relative;
+    display: flex;
+    padding: 1rem;
+    font-size: 2rem;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: white;
+}
+
+#clockContainer{
+    
+    position: relative;
+    margin: auto;
+    height: 30vw;
+    width: 30vw; 
+    background: url("../img/clock.png") no-repeat;
+    background-size: 100%;
+}
+
+#hour, #minute, #second{
+    position: absolute;
+    background: black;
+    border-radius: 10px; 
+    transform-origin: bottom;
+}
+#hour{
+    width: 1.8%;
+    height: 25%;
+    top: 25%;
+    left: 48.85%;
+    opacity: 0.8;  
+}
+#minute{
+    width: 1.6%;
+    height: 30%;
+    top: 19%;
+    left: 48.9%;
+    opacity: 0.8;  
+}
+#second{
+    width: 1%;
+    height: 40%;
+    top: 9%;
+    left: 49.25%;
+    opacity: 0.8; 
+    
+}
+@media screen and (max-width: 1100px) {
+    
+        #clockContainer{
+            width: 20vw;
+            height: 20vw;
+        }
+
+        h1{
+            font-size: 1.5rem;
+        }
+
+    
+}
+
+@media screen and (max-width:900px){
+    h1{
+        font-size: 1.2rem;
+    }
+}
+@media screen and (max-width:700px) {
+    h1{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:560px) {
+    h1{
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 460px) {
+    h1{
+        font-size: 0.5rem;
+    }
+    #clockContainer{
+        width: 17vw;
+        height: 17vw;
+    }
+}
+
+@media screen and (max-width:400px) {
+    h1{
+        font-size: 0.4rem;
+
+
+    }
+    #clockContainer{
+        width: 15vw;
+        height: 15vw;
+    }
+}
+
+@media screen and (max-width:300px) {
+    h1{
+        font-size: 0.2rem;
+    }
+}
+
+@media screen and (max-width:200px) {
+    h1{
+        font-size: 0.2rem;
+    }
+}
