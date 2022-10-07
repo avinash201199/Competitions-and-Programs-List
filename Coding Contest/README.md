@@ -82,7 +82,6 @@ On the other side, Unstop connects unstoppable talent with the world of opportun
 
 To put it straight, Unstop is the one-stop solution for companies to simplify the entire HR lifecycle and for students to simplify their career journey.
 
-#BeUnstoppable.
 <br> Official Website- <br>
 https://unstop.com/home<br>
 
