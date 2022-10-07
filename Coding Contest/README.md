@@ -12,6 +12,21 @@ https://youtu.be/fzymgR7EdUs
 </details>
 
 <details>
+<summary> Job-a-Thon </summary>
+<br>About<br>
+
+Jobathan is a 2.5 hrs coding contest targeted toward hiring freshers and interns, organized by GeeksforGeeks on the 21st of every month for organizations that are looking to hire top coders. Till now nearly 50 companies have trusted it to fulfill their hiring needs.
+For this, organizations can directly contact us through our official email address, or they can submit their queries through this form (Form Link), a representative from the GeeksforGeeks’ team will reach out to the organizations.
+
+<br>Official Website- <br>
+https://www.geeksforgeeks.org/geeksforgeeks-jobathon/
+
+<br>Explanation on Youtube- <br>
+https://youtu.be/EkIv4HuGGcQ
+
+</details>
+
+<details>
 <summary>Global Coding Challenge by Credit Suisse</summary>
 <br>
 About <br>
@@ -69,6 +84,24 @@ https://challenges.reply.com/tamtamy/home.action<br>
 
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=DckNhqySweU&list=PLgqiBpQGzC2B8U_c5gOWSSipf0H_1wT4w
+
+</details>
+
+<details>
+<summary>Dare2Compete</summary>
+<br>
+About <br>
+Unstop (formerly Dare2Compete) enables companies to engage with candidates in the most interactive way to discover, assess, and hire the best talent. It has 3 Mn+ active users who constantly participate in competitions and engagements.
+
+On the other side, Unstop connects unstoppable talent with the world of opportunities. It enables students and professionals to learn, practice, participate in engagements, and get hired, rewarded, and recognized.
+
+To put it straight, Unstop is the one-stop solution for companies to simplify the entire HR lifecycle and for students to simplify their career journey.
+
+<br> Official Website- <br>
+https://unstop.com/home<br>
+
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=zawgqMAVNe0
 
 </details>
 

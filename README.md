@@ -1240,6 +1240,31 @@ https://jwoc.tech/ <br>
 </details>
 
 <details>
+<summary>JPMorgan Chase & Co. Quant Mentorship Program</summary>
+<br>
+ABOUT- <br>
+J.P. Morgan Quant Mentorship Program is a unique opportunity for you to build skills required for a successful career in Quantitative Finance. Learn how mathematical modelling and coding are employed in the financial services industry.
+<br>
+
+<br>Eligibility<br>
+This program is for students in their 2nd year doing Bachelors of Technology.<br>
+The selection process for this program will have 2 stages:
+
+Stage 1: Online Aptitude Test<br>
+Stage 2:  Case Study Challenge<br>
+This year-long program includes:<br>
+1. One-to-one mentorship and career guidance.<br>
+2. Access to J.P. Morgan’s online coursework.<br>
+3. Interactions with senior leaders at J.P. Morgan.<br>
+4. Opportunity to interview for an internship after pre-final year.<br>
+<br>
+ 
+OFFICIAL WEBSITE LINK- <br>
+https://jpmc.recsolu.com/app/collect/event/TDMNonCLZS-KWbHKF9c_DA <br>
+<br>
+</details>
+
+<details>
 <summary>Kaggle by Google</summary>
 <br>
 About <br>
@@ -1740,6 +1765,15 @@ Link: https://www.redox-os.org/rsoc/<br>
 </details>
 
 <details>
+<summary> Samsung - Solve for Tomorrow </summary>
+
+# About<br>
+Do you want to innovate for a brighter future? Do you want to solve real-world problems when it comes to education, environment, healthcare, and agriculture? Samsung Solve for Tomorrow gives you the opportunity to make a difference to our society. The contest is open for all participants between 16-22 years of age. A team of 1-3 members can participate. From round 1 - Idea Submission Round, top 50 teams are selected. These teams attend a 3-day bootcamp at FIIT, IIT Delhi campus. 10 teams are shortlisted for further rounds. These 10 teams get a chance to visit samsung's offices. And top 3 get 6 month incubation support and mentorship from Samsung experts.
+<br>
+Link: https://www.samsung.com/in/solvefortomorrow/<br>
+</details>
+
+<details>
 <summary>Reply Challenges</summary>
 <br>
 About <br>
@@ -1819,11 +1853,20 @@ The Solution Challenge is open to members of Google Developer Student Clubs. Joi
 The last date to apply for the Solution Challenge 2022 is 31st March, 2022.
 <br> Official Website- <br>
 https://developers.google.com/community/gdsc-solution-challenge<br>
- 
 Explanation on Youtube- <br>
 https://youtu.be/EuEZ83VAfgQ
-
 </details>
+
+
+<details>
+<summary>Season of KDE </summary>
+<br>
+About <br>
+Season of KDE is an outreach program hosted by the KDE community. Every year since 2013, KDE Student Programs has been running Season of KDE as a program similar to, but not quite the same as Google Summer of Code, offering an opportunity to everyone (not just students) to participate in both code and non-code projects that benefits the KDE ecosystem. In the past few years, SoK participants have not only contributed new application features but have also developed the KDE Continuous Integration System, statistical reports for developers, a web framework, ported KDE Applications, created documentation and lots and lots of other work.
+<br> Official Website- <br>
+https://season.kde.org/<br>
+</details>
+
 
 <details>
 <summary>Summer of Bitcoin </summary>
@@ -1834,10 +1877,8 @@ The organizations provide mentors who act as guides through the entire process, 
 Students get involved in and become familiar with the bitcoin open source community and put their summer break to good use.The last date to apply for Summer of Bitcoin program is March 5, 2022.
 <br> Official Website- <br>
 https://www.summerofbitcoin.org<br>
- 
 Explanation on Youtube- <br>
 https://youtu.be/GwpTNKCsgSc
-
 </details>
 
 <details>
@@ -2156,7 +2197,20 @@ https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm
 <br>
 </details>
 
+<details>
+<summary>Code India Fellowship</summary>
+<br>
+About <br>
+We are proud to announce the Code India Fellowship, an incredible opportunity for the most passionate individuals of our country to help take programming and coding to the remotest parts of India.
 
+Aspiring to impart the knowledge, skills and a certain strength of character to the young minds of tomorrow, the Code India Fellowship is designed specifically to help better our future while simultaneously giving our fellows a chance to recognize the current realities of what life is like on the other side.
+
+The Code India Fellows will be placed in different organisations in different parts of the country like Delhi, Bangalore, Jammu, Dharamshala, etc, for the duration of a year, to teach coding and programming to the local children, with an emphasized focus on young girls. Tasked with the responsibility of overseeing the growth and educational journey of young children, our fellows have the explicit satisfaction of helping students, across the country, take their first steps into a brighter future. <br>
+<br>
+Official Website- <br>
+[https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia](https://devinfo.in/code-india-fellowship/)
+<br>
+</details>
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
