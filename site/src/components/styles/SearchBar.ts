@@ -10,7 +10,6 @@ margin: 2rem auto 1rem;
 `
 
 export const SearchBar_input = styled.input`
-margin-left:2rem;
 height: 3rem;
 padding: 10px;
 width: 20rem;
@@ -20,7 +19,11 @@ font-size: 1.5rem;
     width: 15rem;
 }`
 
-export const SearchBar_button = styled.button`
+export const SearchBar_label = styled.label`
+margin-left:2rem;
+margin-right: 1rem;
 height: 3rem;
-padding: 0 4px 0 4px;
-font-size: 1.5rem;`
+font-family: 'IBM Plex Serif',serif;
+color: #090808;
+font-size: 2rem;
+font-weight:500;`
