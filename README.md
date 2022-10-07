@@ -1853,11 +1853,20 @@ The Solution Challenge is open to members of Google Developer Student Clubs. Joi
 The last date to apply for the Solution Challenge 2022 is 31st March, 2022.
 <br> Official Website- <br>
 https://developers.google.com/community/gdsc-solution-challenge<br>
- 
 Explanation on Youtube- <br>
 https://youtu.be/EuEZ83VAfgQ
-
 </details>
+
+
+<details>
+<summary>Season of KDE </summary>
+<br>
+About <br>
+Season of KDE is an outreach program hosted by the KDE community. Every year since 2013, KDE Student Programs has been running Season of KDE as a program similar to, but not quite the same as Google Summer of Code, offering an opportunity to everyone (not just students) to participate in both code and non-code projects that benefits the KDE ecosystem. In the past few years, SoK participants have not only contributed new application features but have also developed the KDE Continuous Integration System, statistical reports for developers, a web framework, ported KDE Applications, created documentation and lots and lots of other work.
+<br> Official Website- <br>
+https://season.kde.org/<br>
+</details>
+
 
 <details>
 <summary>Summer of Bitcoin </summary>
@@ -1868,10 +1877,8 @@ The organizations provide mentors who act as guides through the entire process, 
 Students get involved in and become familiar with the bitcoin open source community and put their summer break to good use.The last date to apply for Summer of Bitcoin program is March 5, 2022.
 <br> Official Website- <br>
 https://www.summerofbitcoin.org<br>
- 
 Explanation on Youtube- <br>
 https://youtu.be/GwpTNKCsgSc
-
 </details>
 
 <details>
