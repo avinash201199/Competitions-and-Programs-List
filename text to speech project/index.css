@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins",sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: linear-gradient(20deg, #000eff,#37ff02) ;
+}
+
+.firstContainer{
+    width: 370px;
+    border-radius: 7px;
+    padding: 30px;
+    background-color: #fff;
+}
+
+.firstContainer header{
+    font-size: 28px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.firstContainer form{
+    margin: 35px 0 20px;
+}
+
+form .row{
+    display: flex;
+    flex-direction: column;
+}
+
+form .row label{
+    font-size: 18px;
+    margin: 5px;
+}
+
+form :where(textarea,select,button){
+    outline: none;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+}
+
+form .row textarea{
+    border: 1px solid #999;
+    resize: none;
+    height: 110px;
+    font-size: 15px;
+    padding: 8px 10px;
+}
+
+form .row .outer{
+    height: 47px;
+    border: 1px solid #999;
+    border-radius: 5px;
+    display: flex;
+    padding: 0 10px;
+    align-items: center;
+}
+
+form .row select{
+    font-size: 14px;
+}
+
+form button{
+    height: 52px;
+    margin-top: 10px;
+    color: #fff;
+    background: linear-gradient(50deg,green,blue);
+    font-size: 17px;
+    cursor: pointer;
+}
+
+@media (max-width:460px) {
+    .firstContainer{
+        margin: 0 10px;
+    }
+
+    form .row select{
+        font-size: 12px;
+    }
+    .firstContainer header{
+        font-size: 22px;
+    }
+
+    form .row textarea{
+      
+        height: 90px;
+        
+    }
+    
+    
+}
