@@ -188,6 +188,20 @@ https://www.youtube.com/watch?v=Jkul-W1KBTk
 </details>
 
 <details>
+<summary>Binance Campus Builder</summary>
+<br>About<br>
+
+<b>Binance Campus Builder</b> is a platform for students across India, Sri Lanka and Bangladesh to explore new opportunities, accelerate crypto literacy and develop the tools required to become a leader, innovator and BUIDLer for a decentralized future. They have to establish a vibrant ecosystem for crypto-literate students eager to push the boundaries of blockchain technology and provide them with opportunities to grow and develop in the crypto space.
+
+<br>Official Website- <br>
+https://www.binance.com/en-IN/event/binance_campus_buidler
+
+<br>Explanation on Youtube- <br>
+Not uploaded yet!
+
+</details>
+
+<details>
 <summary>Capgemini Tech Challenge</summary>
 <br>
 About <br>
