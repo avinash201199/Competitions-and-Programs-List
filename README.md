@@ -421,6 +421,21 @@ https://unstop.com/competition/cosmos-and-chaos-uphoria-x-zenevia-bennett-univer
 </details>
 
 <details>
+<summary>Data Science for Social Good Fellowship, CMU</summary>
+<br>
+About <br>
+The Data Science for Social Good Fellowship is a full-time summer program to train aspiring data scientists to work on machine learning, data science, and AI projects with social impact in a fair and equitable manner. Working closely with governments and nonprofits, fellows take on real-world problems in education, health, criminal justice, sustainability, public safety, workforce development, human services, transportation, economic development, international development, and more.
+ <br>
+<br>
+Official Website- <br>
+https://www.dssgfellowship.org/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=V_ndznCKjg4
+
+</details>
+
+<details>
 <summary>D.E. Shaw Mentorship Program </summary>
 <br>
  About <br>
