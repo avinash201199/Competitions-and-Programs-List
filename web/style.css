@@ -90,7 +90,7 @@ body {
 
 .wrapper .container .accordion_wrapper {
     width: 80%;
-    margin: 10rem auto 1rem;
+    margin: 1rem auto;
 }
 
 .wrapper .container .accordion_wrapper .accordion_container {
@@ -185,6 +185,30 @@ body {
     transition: all 0.1s linear;
 }
 
+.search-bar-container
+{
+    width: 80%;
+    margin: 3rem auto;
+    display: flex;
+    align-items: center;
+}
+.search-bar-container input {
+    height: 3rem;
+    width: 20rem;
+    font-size: 1.5rem;
+    padding: 2px 5px;
+}
+.search-bar-container button {
+    height: 3rem;
+}
+.search-bar-container button .fa  {
+    font-size: 1.5rem;
+    padding: 5px 5px;
+}
+.search-bar-container button .fa:hover  {
+    cursor: pointer;
+    transform: scale(1);
+}
 
 /* for @responsiveness -> smaller screens */
 @media (max-width: 768px){
