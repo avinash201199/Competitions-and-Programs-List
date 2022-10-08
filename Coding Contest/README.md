@@ -23,3 +23,21 @@ https://www.youtube.com/watch?v=W8KXpxYK900&ab_channel=CompetitiveCoding-NewtonS
 
 </details>
 
+<details>
+<summary>World Programming Championship</summary>
+<br>
+About <br>
+World Programming Championship: Stages and Timelines
+
+Stage 1
+Participants are required to participate in a 14-hr long competitive coding competition and showcase their skills. Top 50 performers will be shortlisted on the basis of performance.
+
+Stage 2
+Qualified participants will go through a 6-hr long intense coding competition to decide the final winners.
+<br> Official Website- <br>
+https://unstop.com/hackathon/world-programming-championship-techfest-iit-bombay-indian-institute-of-technology-iit-bombay-134747<br>
+
+</details>
+
+
+
