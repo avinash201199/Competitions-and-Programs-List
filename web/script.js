@@ -435,12 +435,6 @@ The top performers also get a chance to work with Infosys. The top three winning
         YouTube: "https://www.youtube.com/watch?v=Mtx8FWqxrMs",
     },
     {
-        title: "Github India Externship",
-        about: `The GitHub Externship is a 90-day fellowship program for third or pre-final year students of GitHub Campus Partner schools. The initiative provides hands-on learning with practical and on ground experience. It's collaborative, remote, and happens under the guidance of expert mentors. `,
-        siteUrl: "https://externship.github.in/",
-        YouTube: "https://www.youtube.com/watch?v=34YdIU4GQs4&t=2526s",
-    },
-    {
         title: " International Collegiate Programming Contest ",
         about: `The International Collegiate Programming Contest is an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems, fostering collaboration, creativity, innovation, and the ability to perform under pressure. Through training and competition, teams challenge each other to raise the bar on the possible. Quite simply, it is the oldest, largest, and most prestigious programming contest in the world.`,
         siteUrl: "https://icpc.global/",
@@ -633,12 +627,6 @@ The first being the ideation phase, second being the implementation phase ,third
         siteUrl:
             "https://codingcompetitions.withgoogle.com/kickstarthttps://dare2compete.com/hackathon/myntra-hackerramp-weforshe-myntra-151942",
         YouTube: "https://youtu.be/YTeck476Wzc",
-    },
-    {
-        title: "Kick start by Google",
-        about: `Kick Start is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google (top participants may be invited to interview at Google).  `,
-        siteUrl: "https://codingcompetitions.withgoogle.com/kickstart",
-        YouTube: "https://www.youtube.com/watch?v=9wad39LmzPY",
     },
     {
         title: " Nanyang Technological University (NTU) – India Connect",
