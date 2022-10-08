@@ -1,3 +1,52 @@
+<!-- SHIFT|The healthcare Hackathon -->
+<details>
+<summary>SHIFT | The Healthcare Hackathon</summary>
+<br>
+
+# About <br>
+Welcome to SHIFT 2022, the healthcare hackathon by Siemens Healthineers for students and startups<br>
+
+Participate to shape the future of healthcare and your future. Get mentored to advance and SHIFT your idea into reality. Also gain internship opportunities for students and partnership opportunities for startups.<br>
+
+SHIFT is the Siemens Healthineers Innovation Ecosystem. SHIFT is driven by Siemens Healthineers [New Ambition](https://www.siemens-healthineers.com/press/releases/new-ambition) that addresses the greatest opportunities in healthcare: fighting the most threatening diseases, enabling efficient operations, and expanding access to care. SHIFT connects people, resources, and tools in one comprehensive ecosystem, enabling collaboration beyond borders and accelerating innovation globally.<br>
+
+## PRIZES:
+### IN TOTAL, INR 14,00,000 IN PRIZES
+
+- 1st Place INR 5,00,000 
+- 2nd Place INR 3,00,000 
+- 3rd Place IDR 1,00,000 
+<br>
+
+## ELIGIBILITY:
+
+- Students in undergraduate, post-graduate, and doctoral programs in science, technology, engineering, computing, and medical     disciplines can participate.
+- Early-stage startups which are less than three years old can take part.
+<br>
+
+## FOCUS THEMES:
+
+- Access to care
+- Digitally enabled services
+- Smart fluoroscopic imaging
+<br>
+
+## Timeline:
+
+- Registration (Sep 13 - Oct 10)
+- Idea Submission (Sep 13 - Oct 10)
+- Announcement of shortlisted teams (Oct 21) 
+- In-person 24 hour hackathon (Nov 17-18), held at [Siemens Healthineers Technology Centre, Bangalore](https://www.google.com/search?q=goldhill%20siemens&rlz=1C1CHBF_enIN943IN943&oq=goldhill+siemens+&aqs=chrome..69i57j0i512l3j0i22i30l2j0i390.7455j0j7&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:4&tbm=lcl&rflfq=1&num=10&rldimm=5429774550027316774&lqi=ChBnb2xkaGlsbCBzaWVtZW5zIgOIAQFI_JuO0eWAgIAIWhoQABABGAAYASIQZ29sZGhpbGwgc2llbWVuc5IBEHNvZnR3YXJlX2NvbXBhbnmaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTlBlRGszZVhwUlJSQUKqARgQASoUIhBnb2xkaGlsbCBzaWVtZW5zKAA&ved=2ahUKEwjzwY_nu__5AhXn9DgGHVnrA8YQvS56BAgLEAE&sa=X&rlst=f#rlfi=hd:;si:5429774550027316774,l,ChBnb2xkaGlsbCBzaWVtZW5zIgOIAQFI_JuO0eWAgIAIWhoQABABGAAYASIQZ29sZGhpbGwgc2llbWVuc5IBEHNvZnR3YXJlX2NvbXBhbnmaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTlBlRGszZVhwUlJSQUKqARgQASoUIhBnb2xkaGlsbCBzaWVtZW5zKAA;mv:[[12.8508877,77.6785221],[12.845703799999999,77.67645519999999]])
+- AMA Sessions:
+    - AMA Session 1 (Sep 26-30)
+    - AMA Session 2 (Oct 24-28)
+<br>
+
+### Official Website : [SHIFT|The healthcare hackathon](https://www.hackerearth.com/challenges/hackathon/shift-hackathon-2022/)
+<br>
+
+</details>
+
 <details>
 <summary>SAHABAT GANJAR HACKATHON 2022 | BUILDING AND EMPOWERING INDONESIA</summary>
 <br>
