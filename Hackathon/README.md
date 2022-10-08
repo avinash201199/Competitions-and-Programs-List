@@ -113,3 +113,21 @@ IIT Guwahati Alcheringa, in partnership with Codingal, the #1 coding platform th
 <br>
 Link: https://www.codingal.com/competitions/iit-guwahati-junior-code-champs/ <br>
 </details>
+
+
+<details>
+<summary>CodeShastra - 24 Hour Hackathon</summary>
+<br>
+
+# About<br>
+The Best student chapter of CSI is back with their Flagship event
+
+DJCSI's CodeShastra, Mumbai's first 24 hour college level hackathon has entered in the 8th edition
+
+With a footfall of almost 600 programmers from all ends of the city, CodeShastra desires to bring out best in you and bring about the best for you.
+
+Our aim is to provide a platform for the participants as they work in synergy to devise ingenious solutions to tackle various real life problems.
+<br>
+<br>
+Link: https://codeshastra.netlify.app/ <br>
+</details>
