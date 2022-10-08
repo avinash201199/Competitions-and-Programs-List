@@ -534,6 +534,13 @@ Luckily, there's an easy way for you to get hands-on practice with core cloud co
         siteUrl:
             "https://www.codechef.com/LTIME101?itm_medium=navmenu&itm_campaign=LTIME101",
     },
+    
+    {
+    title:'Leetcode Weekly and Biweekly contest',
+        about: 'Weekly and Biweekly contest are one and half hour long test tests paticipant Data Structures and Algorithmic Skills',
+        siteUrl:'https://leetcode.com/contest/'
+    
+    }
     {
         title: "Master the Mainframe by IBM",
         about: `Master the Mainframe is the world’s largest student mainframe competition. This unique, virtual contest is open globally to high school and college students to progressively teach mainframe skills in a real-world enterprise computing environment. Employers from around the globe use this contest to seek out candidates for mainframe careers.
