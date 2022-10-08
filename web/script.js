@@ -904,39 +904,60 @@ A great community of like-minded individuals! We are a group of 40 young women c
 
 const Accordion_wrapper = document.querySelector(".accordion_wrapper");
 
-Accordion_wrapper.innerHTML = data
-    .map((item) => {
+const accordion = (title, about, siteUrl, YouTube) => {
         return `<div class="accordion_container">
                     <div class="accordion_title">
                         <i class="fa-solid fa-caret-right arrow_icon"></i>
-                        <h5>${item.title}</h5>
+                        <h5>${title}</h5>
                     </div>
                     <div class="accordion_content">
                         <h5>About</h5>
-                        <section>${item.about}</section>
+                        <section>${about}</section>
 
                         <h5>Official Website</h5>
-                        <a href=${item.siteUrl}>${item.siteUrl}</a>
+                        <a href=${siteUrl}>${siteUrl}</a>
 
                         <h5>Explanation on Youtube</h5>
-                        <a href=${item.YouTube}>${item.YouTube}</a>
+                        <a href=${YouTube}>${YouTube}</a>
                     </div>
                 </div>`;
-    })
-    .join("");
-
-
-
-const accordion_content = () => document.getElementsByClassName("accordion_content"); 
-const accordion_title = () => document.getElementsByClassName("accordion_title"); 
-const arrow_icon = () => document.getElementsByClassName("arrow_icon"); 
-
-
-for (let i = 0; i < accordion_content().length; i++){
-        accordion_title()[i].onclick = function () {
-        accordion_content()[i].classList.toggle("active");
-        arrow_icon()[i].classList.toggle("open");
-    };
 }
 
+const insert_accordion_classes = () => {
+    const accordion_content = () => document.getElementsByClassName("accordion_content"); 
+    const accordion_title = () => document.getElementsByClassName("accordion_title"); 
+    const arrow_icon = () => document.getElementsByClassName("arrow_icon"); 
 
+
+    for (let i = 0; i < accordion_content().length; i++){
+            accordion_title()[i].onclick = function () {
+            accordion_content()[i].classList.toggle("active");
+            arrow_icon()[i].classList.toggle("open");
+        };
+    }
+}
+
+Accordion_wrapper.innerHTML = data
+    .map((item) => {
+        return accordion(item.title, item.about, item.siteUrl, item.YouTube);
+    })
+    .join("");
+    insert_accordion_classes();
+
+
+// Search Bar Functionality
+const search_input = document.querySelector("#search-input");
+const search_btn = document.querySelector("#search-btn");
+
+search_btn.onclick = () => {
+    let inputVal = search_input.value.toLowerCase();
+    
+    Accordion_wrapper.innerHTML = data.map((item) => {
+        if (item.title.toLowerCase().includes(inputVal)) {
+            return accordion(item.title, item.about, item.siteUrl, item.YouTube);
+        }
+    }).join("");
+
+    insert_accordion_classes();
+    
+};
