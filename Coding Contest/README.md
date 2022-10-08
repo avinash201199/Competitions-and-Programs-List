@@ -27,6 +27,28 @@ https://youtu.be/EkIv4HuGGcQ
 </details>
 
 <details>
+<summary> Relevel </summary>
+<br>About<br>
+
+Relevel is India's first hiring tournament platform. At Relevel, job aspirants can get access to multiple jobs in dream companies. Relevel also gives companies easy access to source and select the best of candidates, pre-assessed on their aptitude, competencies and skills.
+
+
+
+Relevel, an Unacademy Group Company, is India's first hiring platform that empowers job-seekers to showcase their skills through tests and get their dream job within 15 days.
+
+
+
+They are on a mission to democratise job opportunities at some of the finest companies in the country for millions of young Indians.
+
+<br>Official Website- <br>
+https://relevel.com/
+
+<br>Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=rojSJ4eq9Bg
+
+</details>
+
+<details>
 <summary>Global Coding Challenge by Credit Suisse</summary>
 <br>
 About <br>
