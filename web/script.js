@@ -163,6 +163,14 @@ Prizes will be rewarded to only women participants who have given the consent to
             "https://www.youtube.com/playlist?list=PLQXZIFwMtjoxrJvVaqoGlFYJRwUCHUq1t",
     },
     {
+        title: "Data Science for Social Good Fellowship, CMU ",
+        about:
+            "The Data Science for Social Good Fellowship is a full-time summer program to train aspiring data scientists to work on machine learning, data science, and AI projects with social impact in a fair and equitable manner. Working closely with governments and nonprofits, fellows take on real-world problems in education, health, criminal justice, sustainability, public safety, workforce development, human services, transportation, economic development, international development, and more. ",
+        siteUrl: "https://www.dssgfellowship.org/",
+        YouTube:
+            "https://www.youtube.com/watch?v=V_ndznCKjg4",
+    },
+    {
         title: "D.E. Shaw Mentorship Program ",
         about: `DESIS ASCEND EDUCARE is a program for women in tech that focuses on helping participants enhance their skills from D.E. Shaw Private Limited. Those who take part can receive mentorship in various technical and non-technical areas from subject matter experts, and get first-hand industry exposure, networking opportunities, and much more.
             Eligibility Criteria:
