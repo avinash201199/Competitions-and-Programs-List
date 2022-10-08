@@ -1,4 +1,16 @@
 <details>
+<summary>Google Code Jam</summary>
+<br>About <br>
+Google Code Jam is Google’s prestigious coding competition, a global battleground that urges all programmers to showcase their coding skills. A thrilling opportunity for all code-lovers, Google Coding Jam is a one-of-a-kind platform where programmers are pitted against each other and against time by putting their coding skills to the test. The champion gets the coveted Google Code Jam winning title and cash prize of $15,000!
+<br> Official Website- <br>
+https://codingcompetitions.withgoogle.com/codejam<br>
+
+Explanation on Youtube- <br>
+https://youtu.be/ccIxnSZ9SKE
+
+</details>
+
+<details>
 <summary>Code Gladiators</summary>
 <br>About <br>
 Code Gladiators is an annual coding competition by TechGig, that draws the best and the brightest coding talent from all parts of India. With multiple contests in emerging technologies and the coveted title of Code Gladiators up for grabs, the competition sees enthusiastic participation and has grown from strength to strength with each passing year.The last date to register in this contest is June 20,2022.
