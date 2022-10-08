@@ -49,3 +49,18 @@ Rakathon, a 24hrs hackathon competition by Rakuten, is a platform for software p
 <br>
 Link: https://corp.rakuten.co.in/news/rakathon-2022/<br>
 </details>
+
+<details>
+<summary>IIT GUWAHATI ALCHERINGA JUNIOR CODE CHAMPS </summary>
+<br>
+
+# About <br>
+IIT Guwahati Alcheringa, in partnership with Codingal, the #1 coding platform that provides online coding classes for kids, brings you "Junior Code Champs" hackathon for Grade 1-12 students.
+
+
+ 
+"Junior Code Champs" is a global online coding hackathon where students can participate individually
+<br>
+<br>
+Link: https://www.codingal.com/competitions/iit-guwahati-junior-code-champs/ <br>
+</details>
