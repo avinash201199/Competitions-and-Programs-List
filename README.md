@@ -109,7 +109,13 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=nVi-QwX82GI
 
 </details>
-
+<details>
+<summary>Angry Birds AI Competition</summary><br>
+About<br>
+The task of this competition is to develop a computer program that can successfully play Angry Birds. The long term goal is to build an intelligent Angry Birds playing agent that can play new levels better than the best human players. This is a very difficult problem as it requires agents to predict the outcome of physical actions without having complete knowledge of the world, and then to select a good action out of infinitely many possible actions. This is an essential capability of future AI systems that interact with the physical world. The Angry Birds AI competition provides a simplified and controlled environment for developing and testing these capabilities. 
+<br>
+link: http://aibirds.org/ <br>
+</details>
 <details>
 <summary>AmazeWIT Circles</summary>
 <br>About<br>
