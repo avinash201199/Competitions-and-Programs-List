@@ -131,3 +131,15 @@ Our aim is to provide a platform for the participants as they work in synergy to
 <br>
 Link: https://codeshastra.netlify.app/ <br>
 </details>
+<details>
+<summary>Flipkart Grid</summary>
+<br>
+
+# About<br>
+Software Development Challenge
+
+GRiD is Flipkart’s Flagship Engineering Campus Challenge which provides you with the opportunity to apply your technical knowledge and skills, to compete and complete key challenges.
+<br>
+<br>
+Link: https://unstop.com/hackathon/flipkart-grid-40-software-development-challenge-flipkart-grid-40-flipkart-348170 <br>
+</details>
