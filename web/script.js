@@ -898,6 +898,14 @@ A great community of like-minded individuals! We are a group of 40 young women c
         siteUrl: "https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program",
         
     },
+     {
+        id: 99,        
+        title: "Shell Ideas360",
+        about:
+            'Shell Ideas360 is more than a global competition that connects students to develop ideas to tackle the pressures on the world’s Food, Water and Energy resources. It’s an exciting journey of learning and discovery. Collaborate with like-minded innovators, Shell experts and mentors to expand your horizons. Shell Ideas360 invites students to become part of an international community of like-minded students and learn skills that will be invaluable for your studies and future career.',
+        siteUrl: "https://www.competitionsciences.org/competitions/shell-ideas360/",
+        YouTube: "https://youtu.be/HNcexWMNH4k",
+    },
 ];
 
 // --------------------------------------------------------------------------------------------------------------------
