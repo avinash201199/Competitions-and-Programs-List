@@ -1,3 +1,6 @@
+
+#this is a good repo to contribute to for hacktoberfest
+
 # <h1 align="center">Competitions and Programs List for Students</h1> </font>
 
 [Website URL](https://avinash201199.github.io/Competitions-and-Programs-List/)
