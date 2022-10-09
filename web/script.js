@@ -962,3 +962,14 @@ search_form.addEventListener("submit", (e) => {
     insert_accordion_classes();
     
 });
+
+// Navbar Functionality
+
+const nav_bar = document.querySelector(".nav-ul");
+const href = window.location.href;
+
+for(let i = 0; i < nav_bar.children.length;i++) {
+    if(nav_bar.children[i].children[0].href === href) {
+        nav_bar.children[i].children[0].classList.add("active");
+    }
+}
