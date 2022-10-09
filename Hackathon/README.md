@@ -1,3 +1,18 @@
+<details>
+<summary> Bug Bash by IIIT, Naya Raipur </summary>
+<br>
+# About <br>
+A great opportunity to improve debugging, analytical and logical skills by identifying and fixing bugs in various competitive programming problems.<br>
+ -Individual Participation.
+### Top 3 teams receive cash prizes worth INR 10,000/-
+ - 1st winner : 5,000/-
+ - 2nd winner : 3,000/-
+ - 3rd winner : 2,000/-
+ 
+<br>
+<br>
+Link: https://unstop.com/hackathon/bug-bash-technovate-2022-international-institute-of-information-technology-iiit-naya-raipur-439868<br>
+</details>
 <!-- SHIFT|The healthcare Hackathon -->
 <details>
 <summary>SHIFT | The Healthcare Hackathon</summary>
