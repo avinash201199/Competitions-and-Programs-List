@@ -1,0 +1,24 @@
+#ALGORITHM TO FIND A PERFECT NUMBER
+
+
+How to Find a Perfect Number?
+In order to find a perfect number, we can use the technique told by Euclid. According to Euclid, there is an expression that can be a perfect number subject to a specific condition. According to his proposition, if 2n -1 is a prime number, then 2n-1(2n-1) is a perfect number. This condition can be understood using the following table. Euclid said that (2n - 1) multiplied by 2n - 1, can be a perfect number if the term in the bracket, that is, (2n - 1) is a prime number. In other words, [2n - 1 × (2n - 1) = perfect number], if (2n - 1) is a prime number.
+
+Therefore, we need to find a value of 'n' for which (2n - 1) is prime. So, the following table will help us understand this better. Let us follow the steps given below so that we can relate to the table and understand the process.
+
+n	2n - 1	(2n - 1)	2n - 1 × (2n - 1)
+1	1	1	-
+2	2	3 (prime number)	6 (perfect number)
+3	4	7 (prime number)	28 (perfect number)
+4	8	15	-
+5	16	31 (prime number)	496 (perfect number)
+6	32	63	-
+7	64	127 (prime number)	8128 (perfect number)
+8	128	255	-
+9	256	511	-
+10	512	1023	-
+Step 1: Let us start with n = 1. After substituting the value of n = 1 in both the expressions, we will see the results. If we substitute 1 in 2n - 1, we get 21 - 1 = 20 = 1. And substituting 1 in (2n - 1), we get, (21 - 1) = 1.
+Step 2: After substituting n = 2, n = 3, n = 4, and so on we get the resultant numbers written in the table.
+Step 3: Now, we need to observe the column of (2n - 1), in which if the number is a prime number, then the product of the two expressions, 2n - 1 and (2n - 1) will result in a perfect number.
+Step 4: For example, if we take n = 2, we get 2 as the result of the first expression, and we get 3 in the second expression. When we take n = 3, we get 4 as the result of the first expression, and 7 in the second expression.
+Step 5: After listing out the numbers as given, we need to observe those numbers under the column (2n - 1) that are prime numbers. And the respective products of these will always result in a perfect number. In the table, we can see that 3, 7, 31, 127 are prime numbers, this means that their respective products shown in the next column will always be perfect numbers, that is, 6, 28, 496, and 8128 are perfect numbers. This means the product of the two factors, 2n - 1, and (2n - 1) is a perfect number if the (2n - 1) is a prime number.
