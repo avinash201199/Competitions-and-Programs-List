@@ -98,6 +98,16 @@ Rakathon, a 24hrs hackathon competition by Rakuten, is a platform for software p
 <br>
 Link: https://corp.rakuten.co.in/news/rakathon-2022/<br>
 </details>
+<details>
+<summary> Smart India Hackathon  </summary>
+<br>
+
+# About <br>
+Smart India Hackathon is a nationwide initiative to provide students with a platform to solve some of the pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem-solving. The first four editions SIH2017, SIH2018, SIH2019 and SIH2020 proved to be extremely successful in promoting innovation out-of-the-box thinking in young minds, especially engineering students from across India.
+<br>
+<br>
+Link: https://sih.gov.in//<br>
+</details>
 
 <details>
 <summary>IIT GUWAHATI ALCHERINGA JUNIOR CODE CHAMPS </summary>
