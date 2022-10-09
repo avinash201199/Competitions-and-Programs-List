@@ -137,4 +137,22 @@ https://www.youtube.com/watch?v=zawgqMAVNe0
 
 </details>
 
+<details>
+<summary>FOSSASIA Codeheat</summary>
+<br>
+About <br>
+Codeheat is a coding contest for FOSSASIA projects on GitHub.
 
+The contest is separated into two months period after which winners of each period are announced.
+
+The jury chooses the winners from the top 10 contributors according to code quality and relevance of commits for the project each period. The jury also takes other contributions like submitted scrum reports and technical blog posts into account, but of course awesome code is the most important item on the list.
+
+Other participants have the chance to win Tshirts and Swag and get certificates of participation.
+
+<br> Official Website- <br>
+https://codeheat.org/ <br>
+
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=7jD6Iy-1EOs
+
+</details>
