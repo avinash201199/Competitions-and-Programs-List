@@ -13,6 +13,32 @@ body {
     overflow-x: hidden;
 }
 
+.nav-bar {
+    padding: 5px;
+}
+
+.nav-ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.nav-ul li {
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+}
+
+.nav-ul li a {
+    font-size: 1.5rem;
+    padding: 10px;
+}
+
+.nav-ul li a.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 .wrapper {
     width: 100vw;
     /* height: 100vh; */
