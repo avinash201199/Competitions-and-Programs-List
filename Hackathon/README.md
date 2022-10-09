@@ -98,6 +98,16 @@ Rakathon, a 24hrs hackathon competition by Rakuten, is a platform for software p
 <br>
 Link: https://corp.rakuten.co.in/news/rakathon-2022/<br>
 </details>
+<details>
+<summary> Smart India Hackathon  </summary>
+<br>
+
+# About <br>
+Smart India Hackathon is a nationwide initiative to provide students with a platform to solve some of the pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem-solving. The first four editions SIH2017, SIH2018, SIH2019 and SIH2020 proved to be extremely successful in promoting innovation out-of-the-box thinking in young minds, especially engineering students from across India.
+<br>
+<br>
+Link: https://sih.gov.in//<br>
+</details>
 
 <details>
 <summary>IIT GUWAHATI ALCHERINGA JUNIOR CODE CHAMPS </summary>
@@ -113,7 +123,18 @@ IIT Guwahati Alcheringa, in partnership with Codingal, the #1 coding platform th
 <br>
 Link: https://www.codingal.com/competitions/iit-guwahati-junior-code-champs/ <br>
 </details>
+<details>
+<summary>Flipkart Grid</summary>
+<br>
 
+# About<br>
+Software Development Challenge
+
+GRiD is Flipkart’s Flagship Engineering Campus Challenge which provides you with the opportunity to apply your technical knowledge and skills, to compete and complete key challenges.
+<br>
+<br>
+Link: https://unstop.com/hackathon/flipkart-grid-40-software-development-challenge-flipkart-grid-40-flipkart-348170 <br>
+</details>
 
 <details>
 <summary>CodeShastra - 24 Hour Hackathon</summary>
@@ -131,15 +152,4 @@ Our aim is to provide a platform for the participants as they work in synergy to
 <br>
 Link: https://codeshastra.netlify.app/ <br>
 </details>
-<details>
-<summary>Flipkart Grid</summary>
-<br>
 
-# About<br>
-Software Development Challenge
-
-GRiD is Flipkart’s Flagship Engineering Campus Challenge which provides you with the opportunity to apply your technical knowledge and skills, to compete and complete key challenges.
-<br>
-<br>
-Link: https://unstop.com/hackathon/flipkart-grid-40-software-development-challenge-flipkart-grid-40-flipkart-348170 <br>
-</details>

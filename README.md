@@ -556,6 +556,20 @@ https://www.youtube.com/watch?v=VXgX-qQnTZU
 </details>
 
 <details>
+<summary>e-Yantra INNOVATION CHALLENGE by IIT Bombay</summary>
+<br>
+About <br>
+The e-Yantra Innovation Challenge (eYIC 2022-23) has been launched Indian Institute of Technology (IIT), Bombay to seek solutions for inclusive urban infrastructure. e-Yantra is a Robotics outreach program that caters to young engineers in solving problems using technology. Winning teams who successfully pitch will receive seed funding from a prize pool of Rs 1 crore. There is also 25 lakhs worth of prizes to be won. Innovation challenge is divided into four stages. Stage 1 is a training sprint that familiarises participants with the theme, trains them in technologies, and helps them articulate problems with training through MOOCs and live sessions by experts. Stage 2 is a prototyping sprint where teams work under e-Yantra mentorship to build a prototype of their proposed solution. Stage 3 is an innovation sprint where e-Yantra helps develop a pitch to an Incubator – here, the IIT Bombay Incubator SINE.  The last stage is an implementation sprint, where teams refine their Proof-of-concept (PoC) under the guidance of e-Yantra mentors. e-Yantra provides the resources, training and guidance, and even a travel allowance and boarding/lodging at IIT Bombay for the Finals at IIT Bombay.<br>
+<br>
+Official Website- <br>
+https://eyic.e-yantra.org/<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/iLcDcVFAMiU
+
+</details>
+
+<details>
 <summary>Figma Student Leader</summary>
 <br>
 About <br>

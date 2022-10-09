@@ -947,11 +947,12 @@ Accordion_wrapper.innerHTML = data
 
 // Search Bar Functionality
 const search_input = document.querySelector("#search-input");
-const search_btn = document.querySelector("#search-btn");
+const search_form = document.querySelector("#search-form");
 
-search_btn.onclick = () => {
+search_form.addEventListener("submit", (e) => {
     let inputVal = search_input.value.toLowerCase();
-    
+    e.preventDefault();
+
     Accordion_wrapper.innerHTML = data.map((item) => {
         if (item.title.toLowerCase().includes(inputVal)) {
             return accordion(item.title, item.about, item.siteUrl, item.YouTube);
@@ -960,4 +961,4 @@ search_btn.onclick = () => {
 
     insert_accordion_classes();
     
-};
+});
