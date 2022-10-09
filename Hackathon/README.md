@@ -123,7 +123,18 @@ IIT Guwahati Alcheringa, in partnership with Codingal, the #1 coding platform th
 <br>
 Link: https://www.codingal.com/competitions/iit-guwahati-junior-code-champs/ <br>
 </details>
+<details>
+<summary>Flipkart Grid</summary>
+<br>
 
+# About<br>
+Software Development Challenge
+
+GRiD is Flipkart’s Flagship Engineering Campus Challenge which provides you with the opportunity to apply your technical knowledge and skills, to compete and complete key challenges.
+<br>
+<br>
+Link: https://unstop.com/hackathon/flipkart-grid-40-software-development-challenge-flipkart-grid-40-flipkart-348170 <br>
+</details>
 
 <details>
 <summary>CodeShastra - 24 Hour Hackathon</summary>
@@ -141,3 +152,4 @@ Our aim is to provide a platform for the participants as they work in synergy to
 <br>
 Link: https://codeshastra.netlify.app/ <br>
 </details>
+
