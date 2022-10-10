@@ -27,6 +27,17 @@ https://youtu.be/EkIv4HuGGcQ
 </details>
 
 <details>
+<summary> Code Like Ada </summary>
+<br>About<br>
+
+Code Like Ada is a women's tech hackathon focused on recruiting the best talent in India conducted by LG Ads Solutions (fromerly known as Alphonso).Top performers will get 2-month internship offers with a stipend of 2.5 Lakhs/month. 
+
+<br>Official Website- <br>
+https://www.linkedin.com/posts/lgads_code-like-ada-registration-activity-6975469661500956673-YWt0/?trk=public_profile_like_view&originalSubdomain=in
+
+</details>
+
+<details>
 <summary> Relevel </summary>
 <br>About<br>
 
@@ -134,6 +145,19 @@ https://unstop.com/home<br>
 
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=zawgqMAVNe0
+
+</details>
+
+<details>
+<summary>Codeforces Rounds</summary>
+<br>
+About <br>
+Codeforces is one of the best platforms for competitive coding and is usually known for its short challenges/contests where programmers from every corner of the world participate. Here you can practice problems from very beginner level to very advanced level.
+
+In Codeforces, the contests are very frequent. There are 2-3 contests every week and the duration of each contest is 2-3 hours mostly. Some contests are available to you according to your rankings as well. If you are a beginner then you can give contests rated for Division 2, Division 3, and Division 4. Your rating will increase or decrease on the basis of problems you solve in each contest and in how much time you solve it. The lesser time you take for each problem, the more will be your rating.
+
+<br> Official Website <br>
+https://codeforces.com/<br>
 
 </details>
 
