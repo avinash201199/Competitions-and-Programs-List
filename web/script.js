@@ -906,6 +906,13 @@ A great community of like-minded individuals! We are a group of 40 young women c
         siteUrl: "https://www.competitionsciences.org/competitions/shell-ideas360/",
         YouTube: "https://youtu.be/HNcexWMNH4k",
     },
+    {
+        id: 100,        
+        title: "CodeHers by Walmart",
+        about:
+            'This is one of the biggest hackathons in India that is exclusively for women, organized by Walmart Global Tech India. The organization wanted to give women coders equal opportunity of showcasing their talent for innovative coding. The goal of these all-India hackathons is to fill the gaps in the tech workforce created due to the lack of female representation in the field. Walmart ended up adding 350+ talented female coders to its workforce across both the seasons of Walmart CodeHers hackathons, with a compensation range of ₹23-25 lakhs',
+        siteUrl: "https://unstop.com/competition/walmart-codehers-2022-walmart-global-tech-india-266010",
+    },
 ];
 
 // --------------------------------------------------------------------------------------------------------------------
