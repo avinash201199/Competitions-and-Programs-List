@@ -1579,6 +1579,25 @@ https://www.youtube.com/watch?v=_H65WfXPxuA
 </details>
 
 <details>
+    <summary>Microsoft Reinforcement Learning Open Source Fest</summary>
+    <br>
+    About <br>
+    The Reinforcement Learning (RL) Open Source Fest is a global online program focused on introducing students to open-source reinforcement learning programs and software development while working alongside researchers, data scientists, and engineers on the Real World Reinforcement Learning team at Microsoft Research NYC. Students will work on a four-month research programming project for either a Summer (May-August 2022) or Fall session (September – December 2022). Accepted students will receive a $10,000 USD stipend. Selected students will receive their stipend payment at the beginning of their session. Microsoft sends the payment directly to a student’s academic institution, which then disperses funds according to the institution’s guidelines.
+    Our goal is to bring together a diverse group of students from around the world to collectively solve open-source reinforcement learning problems and advance the state-of-the-art research and development alongside the RL community while providing open-source code written and released to benefit all.
+    At the end of the program, students will present each of their projects to the Microsoft Research Real World Reinforcement Learning team online.<br>
+    <br>
+    Eligibility Criteria:-<br>
+    To be eligible for the program, students must be enrolled in or accepted into an accredited institution including colleges, universities, Master programs, PhD programs, and undergraduate programs.<br>
+    <br>
+    Official Website- <br>
+    https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/<br>
+    <br>
+    Explanation On YouTube :- <br>
+    https://www.youtube.com/watch?v=UdsMA_4pJsA&t=111s
+</details>
+
+
+<details>
 <summary>Millennium Campus Fellowship Program</summary>
 <br>
 About <br>
