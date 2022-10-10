@@ -2255,6 +2255,7 @@ Official Website- <br>
 [https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia](https://devinfo.in/code-india-fellowship/)
 <br>
 </details>
+<details>
 <summary>Goldman Sachs 10,000 Women</summary>
 <br>
 About <br>
