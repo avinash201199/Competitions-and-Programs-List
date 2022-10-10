@@ -27,6 +27,17 @@ https://youtu.be/EkIv4HuGGcQ
 </details>
 
 <details>
+<summary> Code Like Ada </summary>
+<br>About<br>
+
+Code Like Ada is a women's tech hackathon focused on recruiting the best talent in India conducted by LG Ads Solutions (fromerly known as Alphonso).Top performers will get 2-month internship offers with a stipend of 2.5 Lakhs/month. 
+
+<br>Official Website- <br>
+https://www.linkedin.com/posts/lgads_code-like-ada-registration-activity-6975469661500956673-YWt0/?trk=public_profile_like_view&originalSubdomain=in
+
+</details>
+
+<details>
 <summary> Relevel </summary>
 <br>About<br>
 
