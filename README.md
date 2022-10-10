@@ -178,7 +178,31 @@ https://womenintech.girlscript.tech/
 https://www.youtube.com/watch?v=f8VcKV4IvhM
 
 </details>
+<details>
+ 
+ <summary>Ascend Fellowship</summary>
+ <br>
+ About<br>
+ 
+  The program is open to women students who are enrolled in a
+full-time course and meet one of the following eligibility criteria:
+Students must have demonstrated excellence in academic or professional
+pursuits, have a keen interest in the intersection of finance and technology,
+and should be curious to learn more about the firm.
+Eligibility criteria
+Second/third-year student in a BTech/BE program
+Third/fourth-year student in a five-year dual degree program
+(BTech + MTech, BE + ME)
+First-year student in a two-year MTech/MS/MCA program; or
+Second-year student in a three-year MCA program
+ 
+<br>Official Website- <br>
 
+
+<br>Explanation on Youtube- <br>
+ "https://www.youtube.com/watch?v=96AtHaKpilQ"
+ 
+ </details>
 <details>
 <summary>Bubble Cup</summary>
 <br>About<br>
