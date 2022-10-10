@@ -168,3 +168,12 @@ Our aim is to provide a platform for the participants as they work in synergy to
 Link: https://codeshastra.netlify.app/ <br>
 </details>
 
+<details>
+<summary> Shell Ideas360 by Shell International Limited </summary>
+<br>
+# About <br>
+ Shell Ideas360 is a global competition organised by Shell International for students to develop game-changing ideas for tackling Energy, Water and Food issues. The five individuals or teams that are selected to progress through to the final stage will receive a sponsored trip to Shell Eco-Marathon 2014 in Rotterdam, the Netherlands, and the winner of the competition will receive the grand prize of a National Geographic Expedition. As part of Shell's commitment to investing in innovation, the best ideas (whether or not they are selected for the Final) will also be considered for funding by the Shell GameChanger programme.
+<br>
+<br>
+Link: https://www.competitionsciences.org/competitions/shell-ideas360/ <br>
+</details>
