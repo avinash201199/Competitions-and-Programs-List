@@ -2255,6 +2255,21 @@ Official Website- <br>
 [https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia](https://devinfo.in/code-india-fellowship/)
 <br>
 </details>
+<summary>Goldman Sachs 10,000 Women</summary>
+<br>
+About <br>
+A global initiative that fosters economic growth by providing women entrepreneurs around the world with a business and management education, mentoring and networking, and access to capital. The Goldman Sachs 10,000 Women online course is a free-to-access, practical business education program, available to all women around the world. 10 essential business courses providing critical tools across all aspects of business, from leadership to negotiations, marketing and sales.
+Practical education, interactive activities and instruction by educators from top business schools
+Truly flexible online learning experience, tailored to your individual needs 
+Access to a global network of alumni upon graduation. <br>
+<br>
+Official Website- <br>
+https://www.goldmansachs.com/citizenship/10000women/<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/g4frPDHEoJo
+</details>
+
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
