@@ -2,25 +2,25 @@
 
 You can contribute in many ways 
 
-1. By adding new competition into the list 
+1. By adding a new competition into the list 
 
 - Star this repository.
-- Create an issue with description about the competiton and wait for approval.
-- Then fork this repository.
-- Add description about the program ,official website and youtube link in alphabetical order.
-- Make pull request and wait for review.
+- Create an issue with description about the competiton or program and wait for approval.
 
+If you are adding any competition or program then
 
-2. If you are beginner then you can contribute by improving the structure or the layout or any mistakes in the repository.
-
-3. To contribute to the official website of this repository:
-
+- Add description about the competition, official website and youtube link in alphabetical order in readme file 
 - Go to the web directory.
 - Then `script.js` file.
 - There you will find an `array` containing `objects`
 - You can add more lists of events/competitions there in the `object` form in `array`.
 - Follow the structure of the object's attributes and naming conventions.
-- Also update in readme file.
+- Make pull request and wait for review.
+
+
+2. If you are adding any coding contest then add it in coding contest folder.
+3. If you are adding any hackathon then add it in hackathon folder .
+
 
 #### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
 
