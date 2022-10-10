@@ -18,8 +18,8 @@ If you are adding any competition or program then
 - Make pull request and wait for review.
 
 
-2. If you are adding any coding contest then add it in coding contest folder.
-3. If you are adding any hackathon then add it in hackathon folder .
+2. If you are adding any coding contest then add it in coding contest folder' readme.
+3. If you are adding any hackathon then add it in hackathon folder' readme .
 
 
 #### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
