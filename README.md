@@ -180,6 +180,16 @@ https://www.youtube.com/watch?v=f8VcKV4IvhM
 </details>
 
 <details>
+<summary>AWS Health AI Hackathon</summary>
+<br>About<br>
+
+In this hackathon, participants will use Amazon Comprehend Medical, to structure medical record notes, together with other purpose-built Health AI services and broader AWS cloud services, such as SageMaker, to build, train and deploy machine learning models to make sense of health data to address key challenges for health organizations like health equity, bias in healthcare, predicting healthcare outcomes in populations, and improving care quality. You are welcome to use your own datasets and we will also provide datasets for you to consider (see details below). If you bring your own datasets, ensure they don’t contain Protected Health Information (PHI) and are not restricted for use in a public setting (e.g. this hackathon.) Through this hackathon, we hope to stimulate new ways to use machine learning and natural language processing to unlock new insights from health data to improve care and health equity. 
+<br>Official Website- <br>
+https://awshealthai.devpost.com/?ref_feature=challenge&ref_medium=discover
+
+</details>
+
+<details>
 <summary>Bubble Cup</summary>
 <br>About<br>
 
