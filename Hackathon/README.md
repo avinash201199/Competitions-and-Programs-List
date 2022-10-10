@@ -168,3 +168,16 @@ Our aim is to provide a platform for the participants as they work in synergy to
 Link: https://codeshastra.netlify.app/ <br>
 </details>
 
+<details>
+<summary> Walmart CodeHers </summary>
+<br>
+
+# About <br>
+This is one of the biggest hackathons in India that is exclusively for women, organized by Walmart Global Tech India. The organization wanted to give women coders equal opportunity of showcasing their talent for innovative coding. The goal of these all-India hackathons is to fill the gaps in the tech workforce created due to the lack of female representation in the field. 
+
+Walmart ended up adding 350+ talented female coders to its workforce across both the seasons of Walmart CodeHers hackathons, with a compensation range of ₹23-25 lakhs
+ 
+<br>
+<br>
+Link: https://unstop.com/competition/walmart-codehers-2022-walmart-global-tech-india-266010<br>
+</details>
