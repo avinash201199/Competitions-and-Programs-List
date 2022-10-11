@@ -203,3 +203,16 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=uGrBHohIgQY&ab_channel=WilliamLin
 
 </details>
+
+<details>
+<summary>Google Code Jam</summary>
+<br>
+About <br>
+Google Code Jam is conducted by Google from 2003.The competition consists of a set of algorithmic problems which must be solved in a fixed amount of time.
+The winner is awarded $15000 and there are smaller prizes for the runner ups.
+<br> Official Website- <br>
+https://codingcompetitions.withgoogle.com/codejam<br>
+
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=cpguolx2oms
+</details>
