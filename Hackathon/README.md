@@ -1,4 +1,4 @@
-<details>
+<details
 <summary> Bug Bash by IIIT, Naya Raipur </summary>
 <br>
 # About <br>
@@ -176,4 +176,26 @@ Link: https://codeshastra.netlify.app/ <br>
 <br>
 <br>
 Link: https://www.competitionsciences.org/competitions/shell-ideas360/ <br>
+</details>
+
+
+<details>
+<summary> Build a Climate Fintech App by Rapyd </summary>
+<br>
+# About <br>
+Climate Fintech is now one of the fastest growing areas of the Fintech sector. In 2021, Climate Fintech Startups raised $1.2 billion in funding. This is three times more than all the previous years combined. Big ideas are needed to solve the global climate crisis and the ability to use financial technology is playing an increasing role in managing climate change.
+<br>
+<br>
+Link: https://rapyd.hackerearth.com/ <br>
+</details>
+
+
+<details>
+<summary> IBM zStudent Contest </summary>
+<br>
+# About <br>
+HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrilling coding contest centered around sustainable energy that will teach you computing skills used to power some of today’s largest enterprise companies. Along the way, you will learn JCL, z/OS, SQL, COBOL, Python, APIs, Unix and more.
+<br>
+<br>
+Link: https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/ <br>
 </details>
