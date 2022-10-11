@@ -218,3 +218,22 @@ Judging is done based on virtual presentations to the jury.
 <br>
 Link: https://adobeanalyticschallenge.com/ <br>
 </details>
+
+
+<details>
+<summary> INNOHACKS </summary>
+<br>
+#About <br>
+InnoHacks is an annual hackathon organized by Innogeeks at KIET Group of Institutions, Delhi-NCR, Ghaziabad. It aims to bring talented young minds together for 24 hours, celebrate their technical passion, and build exciting projects!
+
+ Registration and Ideation Phase
+
+The teams would be required to register and submit their presentation online. The presentation must contain all the necessary details of your product (maximum of 6 slides). This will include: Selected Theme, Problem Statement, Abstract, Idea/ Solution, Tech Stack to be used. Students will be shortlisted based on this round for the offline round.
+
+ Offline On-Campus Hackathon
+
+The top 30 teams shortlisted from the ideation phase will be invited for an offline on-campus hackathon at KIET Group Of Institutions, Delhi NCR.
+<br>
+<br>
+Link : https://unstop.com/hackathon/innohacks-hack-n-innovate-kiet-group-of-institutions-kiet-ghaziabad-281899 <br>
+</details>
