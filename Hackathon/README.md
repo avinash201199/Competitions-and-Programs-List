@@ -286,18 +286,12 @@ Link: https://unstop.com/competition/walmart-codehers-2022-walmart-global-tech-i
 
 
 <details>
-<summary> Adobe Analytics Challenge </summary>
+<summary> Hackathons by Devfolio </summary>
 <br>
 
 # About <br>
-Unique challenge for university students to use Adobe's world class products and form business cases from data! It is one of the top business competitions and is also seen as a hiring challenge. 
-Some partners are Disney, Nike, etc.
-
-Students should be from the same univeristy with max team size = 3, and should have a self-picked mentor/guide.
-Reawrd as cash prizes are given to top 6 teams.
-
-Judging is done based on virtual presentations to the jury. 
+ Devfolio is the largest and fastest growing community of builders. It is the platform of choice for hackathons, be it for participating or organizing one. Devfolio is the result of a need for intuitive tools to manage community hackathons like [ETHIndia] (https://ethindia.co/), [wmn] (https://wmn.community/); and [InOut] (https://hackinout.co/) (7 editions so far) handcrafted and organized by the Devfolio team. The platform offers three different hackathon modes - Online, Offline and Online with Application review.
 <br>
 <br>
-Link: https://adobeanalyticschallenge.com/ <br>
+Link: https://devfolio.co/hackathons <br>
 </details>
