@@ -602,6 +602,17 @@ What are the benefits of being a Microsoft Learn Student Ambassador? . Access to
         YouTube: "https://www.youtube.com/watch?v=_H65WfXPxuA",
     },
     {
+        title:"Microsoft Reinforcement Learning Open Source Fest",
+        about: `The Reinforcement Learning (RL) Open Source Fest is a global online program focused on introducing students to open-source reinforcement learning programs and software development while working alongside researchers, data scientists, and engineers on the Real World Reinforcement Learning team at Microsoft Research NYC. Students will work on a four-month research programming project for either a Summer (May-August 2022) or Fall session (September – December 2022). Accepted students will receive a $10,000 USD stipend. Selected students will receive their stipend payment at the beginning of their session. Microsoft sends the payment directly to a student’s academic institution, which then disperses funds according to the institution’s guidelines.
+        Our goal is to bring together a diverse group of students from around the world to collectively solve open-source reinforcement learning problems and advance the state-of-the-art research and development alongside the RL community while providing open-source code written and released to benefit all.
+        At the end of the program, students will present each of their projects to the Microsoft Research Real World Reinforcement Learning team online.
+        
+        Eligibility Criteria:-
+        To be eligible for the program, students must be enrolled in or accepted into an accredited institution including colleges, universities, Master programs, PhD programs, and undergraduate programs.`,
+        siteUrl: "https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/",
+        YouTube: "https://www.youtube.com/watch?v=UdsMA_4pJsA&t=111s",
+    },
+    {
         title: "Mitacs Globalink Research Internship",
         about: `Mitacs Globalink Research Internship is a competitive initiative for international undergraduates from the following countries and regions: Australia, Brazil, China, Colombia, France, Germany, Hong Kong, India, Mexico, Pakistan, Taiwan, Tunisia, Ukraine, United Kingdom and the United States. From May to October of each year, top-ranked applicants participate in a 12-week research internship under the supervision of Canadian university faculty members in a variety of academic disciplines, from science, engineering, and mathematics to the humanities and social sciences. `,
         siteUrl:
