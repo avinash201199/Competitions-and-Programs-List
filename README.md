@@ -1,4 +1,3 @@
-# <h1 align="center">Competitions and Programs List for Students</h1> </font>
 
 ## Note : Due to mass pr in this repo,this repo has been excluded from hacktorberfest but you can still contribute as it's very helpful for college students.
 [Website URL](https://avinash201199.github.io/Competitions-and-Programs-List/)
