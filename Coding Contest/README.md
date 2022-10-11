@@ -180,3 +180,15 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=7jD6Iy-1EOs
 
 </details>
+
+<details> 
+<summary> Yandex Contest
+</summary><br>
+About<br>
+An online platform for setting up programming competitions.
+
+We help you hold individual and team competitions — tournaments, exams, olympiads, and international championships. There are various concentrations: frontend, backend, machine learning, mobile development, analytics and competitive programming.
+Fill out an application if you want to use Yandex.Contest to hold competitions at your school.
+<br>
+Link: https://contest.yandex.com/ <br>
+</details>
