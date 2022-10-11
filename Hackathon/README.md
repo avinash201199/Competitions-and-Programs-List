@@ -112,6 +112,85 @@ https://sahabatganjar.com/hackathon2022/<br>
  
 </details>
 
+<details>
+<summary> IIT Bombay Mood Indigo Future Hacks </summary>
+<br>
+
+# About <br>
+IIT Bombay Mood Indigo, in partnership with Codingal, the #1 coding platform that provides online coding classes for kids, brings you "Future Hacks" for Grade 1-12 students.
+ 
+Future Hacks is a global online coding hackathon where students can participate individually.
+
+So don't miss this opportunity to learn, compete, and win certificates from IIT Bombay Mood Indigo.
+ <br>
+ Theme 1: Game Building
+
+ 
+
+Project: Build a game that helps you learn basic concepts like pattern recognition, sequence, memory, counting, and much more. You will have come up with an original game idea and then bring it to life using your coding skills. 
+
+ 
+
+Theme 2: Make Music
+
+ 
+
+Project: Build an app or a game that plays music/sound. You can create a list of characters and add sound/music to them. The app or game should play the relevant sound of an instrument, animal, vehicle, or any character. 
+
+ 
+
+Platforms: Use any block-based platforms like Scratch, code.org, Thunkable etc
+
+ 
+
+ 
+
+Middle Group (Grade 5-8)
+ 
+Theme 1: Education
+
+ 
+
+Project: Build a game or a app around education. 
+
+ 
+
+Theme 2: Natural Phenomena
+
+ 
+
+Project: Build an app with useful information about natural phenomena and the science behind them. For example, an earthquake is a natural phenomenon.
+
+ 
+
+Platform: Build a project using block-based platforms such as Scratch, Thunkable, code.org, etc. by choosing one of the above themes.
+
+ 
+
+Senior Group (Grade 9-12)
+ 
+Theme 1: Inventions
+
+ 
+
+Project: Human history is full of inventions. What’s your favourite invention? Is it the aeroplane, self-driving car or anything else? Get creative and build an app or a website that has useful information about one of your favourite inventions ever.
+
+ 
+
+Theme 2: Natural Resources
+
+ 
+
+Project: Natural resources are resources that exist without any actions of humankind. On Earth, it includes sunlight, atmosphere, water, land, all minerals along with all vegetation, and animal life. Think and build an app or a website that has useful information about any one of the natural resources. Demonstrate the factors including the use, depletion and conservation of that natural resource. 
+
+ 
+
+Platform: Build a project using text-based platforms such as C, C++, CSS, Java etc, or block-based platforms like Scratch, Thunkable, code.org, etc. by choosing one of the above themes.
+
+<br>
+<br>
+Link: https://www.codingal.com/competitions/iit-bombay-moodindigo-futurehacks/<br>
+</details>
 
 <details>
 <summary> Rakathon - 24hrs Hackathon </summary>
@@ -123,7 +202,11 @@ Rakathon, a 24hrs hackathon competition by Rakuten, is a platform for software p
 <br>
 Link: https://corp.rakuten.co.in/news/rakathon-2022/<br>
 </details>
+
+
+
 <details>
+
 <summary> Smart India Hackathon  </summary>
 <br>
 
