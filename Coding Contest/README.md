@@ -180,3 +180,26 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=7jD6Iy-1EOs
 
 </details>
+
+<details>
+<summary>Google Kick Start</summary>
+<br>
+About <br>
+Onine coding contest with international particpants. Solve quality algorithmic questions designed by engineers at Google.
+Rounds take place region-wise.
+
+
+Scoring is based n penalty time and total points earned.
+Point earned = Total score | Penalty time =  Time taken to pass maximum testcases
+Top partcipants might even get interview opportunity at Google.
+Certificates are given to all participants who submit at least 1 question. Consecutive particpation after an year will also display rank on certificate.
+
+
+
+<br> Official Website- <br>
+https://codingcompetitions.withgoogle.com/kickstart/about <br>
+
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=uGrBHohIgQY&ab_channel=WilliamLin
+
+</details>
