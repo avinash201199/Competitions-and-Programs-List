@@ -1,6 +1,6 @@
 # <h1 align="center">Competitions and Programs List for Students</h1> </font>
 
-Note : Due to mass pr in this repo, it's excluded from hacktorberfest but still you can contribute because it's very helpful for college students.
+## Note : Due to mass pr in this repo, it's excluded from hacktorberfest but still you can contribute because it's very helpful for college students.
 [Website URL](https://avinash201199.github.io/Competitions-and-Programs-List/)
 
 This repository contains a list of some great competitions and programs for college students, in which they can compete, learn, explore, and gain experience.
