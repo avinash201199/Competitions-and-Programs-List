@@ -1,20 +1,21 @@
-# <h1 align="center">Competitions and Programs list for Students</h1> </font>
+# <h1 align="center">Competitions and Programs List for Students</h1> </font>
 
-This repository contains list of some of the great competitions and programs for college students, in which they can compete,learn,explore and experience.
-These experience will tighten their resume for jobs and will help them in their career growth.
+[Website URL](https://avinash201199.github.io/Competitions-and-Programs-List/)
+
+This repository contains a list of some great competitions and programs for college students, in which they can compete, learn, explore, and gain experience.
+
+This experience will improve their job resumes for jobs and help them in their career growth.
 
 ### How to contribute 😎<br>
 
-You can contribute in many ways in this repository 
-1. If you are beginner then you can contribute by improving the structure of the repository. <br>
-2. Design the website for this repository with the content. <br>
-3. Add more competition into the list which are not present. <br>
+You can contribute in many ways to this repository:
+1. If you are beginner, then you can contribute by improving the structure of the repository. <br>
+2. You could design a website for this repository that includes its content. <br>
+3. You could add new competitions to the list. <br>
 
-Check [Contributing.md](https://github.com/avinash201199/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started 
+Take a look at the [CONTRIBUTING.md](https://github.com/avinash201199/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started.
 
-#### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
-
-[Helpful Website](https://github.com/avinash201199/Competitions-and-Programs-List/tree/main/Helpful%20Websites) You can also contribute by adding some resourceful websites.
+#### Note: before contributing, please create an issue first so that, I can assign you one to work on.
 
 <hr>
 
@@ -108,6 +109,28 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=nVi-QwX82GI
 
 </details>
+<details>
+<summary>Angry Birds AI Competition</summary><br>
+About<br>
+The task of this competition is to develop a computer program that can successfully play Angry Birds. The long term goal is to build an intelligent Angry Birds playing agent that can play new levels better than the best human players. This is a very difficult problem as it requires agents to predict the outcome of physical actions without having complete knowledge of the world, and then to select a good action out of infinitely many possible actions. This is an essential capability of future AI systems that interact with the physical world. The Angry Birds AI competition provides a simplified and controlled environment for developing and testing these capabilities. 
+<br>
+link: http://aibirds.org/ <br>
+</details>
+<details>
+<summary>AmazeWIT Circles</summary>
+<br>About<br>
+
+AmazeWIT (WIT - Women in Technology) is a unique networking and mentoring platform to educate women and prepare them for long term careers in technology.Through this initiative, their goal is to develop community of women in technology who can share,interact and support each other while learning from the journeys of successful women and leaders in this field.
+This is a dedicated cohort-based connection that brings women of similar skill sets and aspirations together to enhance their knowledge of the field. It includes leadership sessions focusing on topics ranging from data structures, coding, algorithms, and more.
+As of now, AmazeWIT Circles are curated for Software Development Engineers where technology leaders from Amazon cover topics relevant for tech innovation- thus enabling a long-term career in technology.
+
+
+<br>Official Website- <br>
+https://amazewitcirclesamazon.splashthat.com/
+<br>Explanation on Youtube- <br>
+https://youtu.be/PegOU0RO3MM
+
+</details>
 
 <details>
 <summary>Amazon WOW</summary>
@@ -122,6 +145,25 @@ https://amazonwowindia.splashthat.com/
 https://www.youtube.com/watch?v=dRAVWI8UZlo
 
 </details>
+<details>
+<summary>Amazon ML Summer School</summary>
+<br>About<br>
+
+Amazon ML Summer School aims at providing students the opportunity to gain Machine Learning (ML) skills which is the first step in becoming ready to build a career in ML. This program is an intensive course on key ML topics and is a great opportunity to learn from and interact with Scientists at Amazon who have immense knowledge in their ML domain. After a successful pilot in 2021, Amazon ML Summer School is being expanded to include students enrolled in any Indian campus and will see a bigger class size. 
+
+Key takeaways:
+• In-depth knowledge on key ML topics from Amazon Scientists
+• Platform to interact with Scientists and learn about break-through innovation
+• Opportunity to prepare for a career in ML
+
+<br>Official Website- <br>
+https://amazonmlsummerschoolindia.splashthat.com/
+
+<br>Explanation on Youtube- <br>
+https://youtu.be/0QedVNGvZlQ
+
+</details>
+
 
 <details>
 <summary>Atlassian Women in Tech</summary>
@@ -136,6 +178,40 @@ https://womenintech.girlscript.tech/
 https://www.youtube.com/watch?v=f8VcKV4IvhM
 
 </details>
+<details>
+ 
+ <summary>Ascend Fellowship</summary>
+ <br>
+ About<br>
+ 
+  The program is open to women students who are enrolled in a
+full-time course and meet one of the following eligibility criteria:
+Students must have demonstrated excellence in academic or professional
+pursuits, have a keen interest in the intersection of finance and technology,
+and should be curious to learn more about the firm.
+Eligibility criteria
+Second/third-year student in a BTech/BE program
+Third/fourth-year student in a five-year dual degree program
+(BTech + MTech, BE + ME)
+First-year student in a two-year MTech/MS/MCA program; or
+Second-year student in a three-year MCA program
+ 
+<br>Official Website- <br>
+https://www.deshaw.com/forms/OERCQTZFNjEtQUIyQi00ODkwLTlBODktMkU2MDQ1NzQwRUE4
+
+<br>Explanation on Youtube- <br>
+ "https://www.youtube.com/watch?v=96AtHaKpilQ"
+ 
+ </details>
+<details>
+<summary>AWS Health AI Hackathon</summary>
+<br>About<br>
+
+In this hackathon, participants will use Amazon Comprehend Medical, to structure medical record notes, together with other purpose-built Health AI services and broader AWS cloud services, such as SageMaker, to build, train and deploy machine learning models to make sense of health data to address key challenges for health organizations like health equity, bias in healthcare, predicting healthcare outcomes in populations, and improving care quality. You are welcome to use your own datasets and we will also provide datasets for you to consider (see details below). If you bring your own datasets, ensure they don’t contain Protected Health Information (PHI) and are not restricted for use in a public setting (e.g. this hackathon.) Through this hackathon, we hope to stimulate new ways to use machine learning and natural language processing to unlock new insights from health data to improve care and health equity. 
+<br>Official Website- <br>
+https://awshealthai.devpost.com/?ref_feature=challenge&ref_medium=discover
+
+</details>
 
 <details>
 <summary>Bubble Cup</summary>
@@ -148,6 +224,20 @@ https://www.bubblecup.org/
 
 <br>Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=Jkul-W1KBTk
+
+</details>
+
+<details>
+<summary>Binance Campus Builder</summary>
+<br>About<br>
+
+<b>Binance Campus Builder</b> is a platform for students across India, Sri Lanka and Bangladesh to explore new opportunities, accelerate crypto literacy and develop the tools required to become a leader, innovator and BUIDLer for a decentralized future. They have to establish a vibrant ecosystem for crypto-literate students eager to push the boundaries of blockchain technology and provide them with opportunities to grow and develop in the crypto space.
+
+<br>Official Website- <br>
+https://www.binance.com/en-IN/event/binance_campus_buidler
+
+<br>Explanation on Youtube- <br>
+Not uploaded yet!
 
 </details>
 
@@ -173,17 +263,44 @@ https://www.youtube.com/watch?v=Q-JFUzGSWT8
 </details>
 
 <details>
+<summary>CodeAgon by CodeNation(Trilogy Innovations)</summary>
+<br>
+CodeAgon is a nationwide coding challenge in India focusing on Data Structures and Algorithms organised by CodeNation.<br>
+Highlights:<br>
+1. Chance to win worth 200000+ INR.<br>
+2. Chance to interview with CodeNation for SDE role (CTC 3500000+ INR).<br>
+3. Chance to get internship at CodeNation.<br>
+<br>
+Website:<br>
+Challenge - https://www.interviewbit.com/contest/codeagon-2021-106e/ <br>
+CodeNation - https://codenation.org/ <br>
+<br>
+Explanation on Youtube:<br>
+https://www.youtube.com/watch?v=1wk8NYQl6t8 (Hindi/English)<br>
+https://www.youtube.com/watch?v=X-eT_np4naY (English) [Preparation]<br>
+<br>
+</details>
+
+<details>
  <summary>Code For Good </summary>  <br>
 Use your coding skills to make a difference
-At our Code for Good hackathon, you'll collaborate with other coders to develop innovative technology solutions for not-for-profit organizations. You'll also learn about starting a Technology career with us while being guided by the sharpest minds in our industry.
+At this hackathon, you can collaborate with other coders to develop innovative technology solutions for not-for-profit organizations. You'll also learn about starting a Technology career with us while being guided by the sharpest minds in our industry.
 <br>
  
 Website
-https://careers.jpmorgan.com/in/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India  <br>
+https://careers.jpmorgan.com/in/en/students/programs/code-for-good  <br>
  
  Explanantion on Youtube
  https://www.youtube.com/watch?v=IIzfQqX4QDo
  
+ </details>
+
+ <details>
+  <summary>Code for Change</summary>  <br>
+Open platform for the Learners to learn and trainers to transfer their learning to learners.
+<br>
+Website: https://codeforchangenepal.com/ <br>
+Youtube: https://www.youtube.com/channel/UC9x8pdE8UWErO6hW2mJSVLQ/videos
  </details>
 
 <details>
@@ -206,6 +323,30 @@ https://www.youtube.com/watch?v=ey5XU4MU6VQ
 Code Gladiators is a TechGig hackathon presented by Cognizant. This hackathon continues for 4 months where an individual can write, compile and run code in a live coding environment provided by the application. The total prize pool at Code Gladiators worths Rs 50 Lakh. Due to the pandemic, this hackathon is hosted over a virtual platform. The registration of the TechGig Code Gladiators initiated during summers of every year. After a user completes the registration process 2 coding problems will be available to solve. The highest score regardless of unbound attempts will be considered as the final score.
 <br> Official Website- <br>
 https://www.techgig.com/codegladiators<br>
+
+</details>
+<details>
+<summary>Codechef Starters</summary>
+<br>
+About <br>
+Starters is a global programming event that invites programmers from all over the world to take part in India’s most prestigious multi-round programming competition. Hosted by CodeChef, Starters is open to anyone with a knack for programming.
+Starters aims to pit the finest programming brains from different parts of the globe against each other.  <br>
+<br>
+Official Website- <br>
+https://www.codechef.com/START59?itm_medium=hpbanner_1&itm_campaign=START59<br>
+<br>
+</details>
+
+
+<details>
+
+<summary>Codegoda</summary>
+<br>
+About <br>
+The Codegoda is a Competitive Programming Competition conducted by <a href="https://www.agoda.com/">Agoda</a> where coders get 5 hours to code and solve algorithmic challenges, with a chance to win up to $10,000 USD in cash prizes. Agoda tech powers global travel at scale, with 220Tbs of data written daily (That is ~58,000 Netflix HD Movies, ~70 million iPhone Photos), 1 trillion data events generated every day, 1,000 experiments running in parallel at any given time, and 1,200 deployments every day. Whether you are a seasoned programmer or a beginner – Codegoda is designed to help you develop new problem-solving skills in a competitive environment with like-minded peers. You have an opportunity to advance your computational thinking, sharpen your algorithmic problem-solving skills, gain competitive programming experience, network with other programmers in the industry, and practice writing actual code.  <br>
+<br>
+Official Website- <br>
+https://codegoda.io/<br>
 
 </details>
 
@@ -239,6 +380,20 @@ https://www.youtube.com/watch?v=6GIw04ieGv4
 </details>
 
 <details>
+<summary>Codegoda by Agoda</summary>
+<br>
+About <br>
+Codegoda is one of the biggest online programming competitions in the region that has been joined by over 14,000 coders from 83 countries. It’s a single-round competition where programmers log in to tackle fun challenges and take home prizes worth a total of 10,000 USD and a fast-tracked opportunity to join Agoda’s world-class tech team in Gurugram or Bangkok (relocation provided for eligible candidates). <br>
+<br>
+Official Website- <br>
+https://codegoda.io/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=on66UzHVB2g
+</details>
+
+<details>
+
 <summary>Coderita 2.0 by GeeksforGeeks</summary>
 <br>
 About<br>
@@ -247,6 +402,7 @@ Every year this contest helds on Women's Day.<br>
 <br>
 For more details : <br>
 https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-geeksforgeeks/<br>
+
 </details>
 
 <details>
@@ -288,6 +444,38 @@ https://www.youtube.com/playlist?list=PLQXZIFwMtjoxrJvVaqoGlFYJRwUCHUq1t
 </details>
 
 <details>
+<summary>Cosmos and Chaos</summary>
+<br>
+About <br>
+“Curiosity creates innovation. Innovation fuels success.”
+
+Astronomy Club brings Cosmos and Chaos- a 3-hour rendition of a multi-dimensional treasure hunt, spanning 5 phases. Our aim? To allow our participants to channel their inner Sherlock Holmes, and challenge the limits of their cognitive and creative abilities in a limited time frame.
+
+The event will be based on the theme of astronomy. There will be 5 phases or levels that the participants have to complete. 
+A team can progress to higher levels as soon as they are approved for completion of a prior level. They can collaboratively work as a team of 2-4 members to find answers.
+
+<br>
+Official Website- <br>
+https://unstop.com/competition/cosmos-and-chaos-uphoria-x-zenevia-bennett-university-bu-greater-noida-440498<br>
+<br>
+</details>
+
+<details>
+<summary>Data Science for Social Good Fellowship, CMU</summary>
+<br>
+About <br>
+The Data Science for Social Good Fellowship is a full-time summer program to train aspiring data scientists to work on machine learning, data science, and AI projects with social impact in a fair and equitable manner. Working closely with governments and nonprofits, fellows take on real-world problems in education, health, criminal justice, sustainability, public safety, workforce development, human services, transportation, economic development, international development, and more.
+ <br>
+<br>
+Official Website- <br>
+https://www.dssgfellowship.org/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=V_ndznCKjg4
+
+</details>
+
+<details>
 <summary>D.E. Shaw Mentorship Program </summary>
 <br>
  About <br>
@@ -321,6 +509,26 @@ https://www.youtube.com/watch?v=U8SQZh6rHow
 </details>
 
 <details>
+<summary>Delta Winter of Code</summary>
+<br>
+ABOUT- <br>
+ Delta Winter of Code is a open source program held in every winter organised by Delta Force, and the Coding club of NIT Trichy. With an aim to support and improve the culture of open source software around us, this serves as a platform for young student developers (or even starters) to hone their technical skills by taking up projects of their interests. We hope this encourages collabrative experiences and allows students from all backgrounds to contribute to quality technical projects from diverse fields. 
+<br>
+
+<br>Eligibility<br>
+• Anyone can contribute doesn't matter wheather He/She is new to open-source and expert in this file. Motive is to make every familiar with open source and it's power how can it impact in positive way<br>
+ 
+• It generally start between Nov and run till January.<br>
+<br>
+ 
+OFFICIAL WEBSITE LINK- <br>
+https://dwoc.io/ <br>
+<br>
+
+
+</details>
+
+<details>
 <summary>Discovery Fellowship</summary>
 <br>
 About<br>
@@ -344,6 +552,30 @@ https://doodles.google.com/d4g <br>
 </details>
 
 <details>
+ <summary> Exercism </summary>
+ <br>
+ About
+ <br>
+The website differs from other coding platforms by requiring students to download exercises through a command line client, solve the code on their own computers then submit the solution for feedback, at which point they can also view other's solutions to the same problem.
+A lot of quizes and question based on every difficult levels are available on the exercism website. Also it looks very fancy and enjoyable to code.
+The Exercism codebase is open source, consisting of over 50 repositories, containing website code, API code, command-line code and over 40 stand-alone repositories for different language tracks.
+More than 1 Million students practice questions on the website and more than 3 lakh Mentoring Discussions have been made on this website.
+ <br>
+ Official Website : <br>
+ https://exercism.org/
+ <br>
+ Explanation On Youtube : <br>
+ https://youtu.be/BNfyAYlN8s4
+ <br>
+ How To Use Exercism : <br>
+ https://code.likeagirl.io/getting-started-with-exercism-io-e06e508a1fb6
+ <br>
+ https://www.codecraftr.nl/learning-programming-languages-with-exercism/
+ <br>
+ 
+</details>
+
+<details>
 <summary>e-Yantra Robotic Competition by IIT Bombay</summary>
 <br>
 About <br>
@@ -354,6 +586,20 @@ https://portal.e-yantra.org/<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=VXgX-qQnTZU
+
+</details>
+
+<details>
+<summary>e-Yantra INNOVATION CHALLENGE by IIT Bombay</summary>
+<br>
+About <br>
+The e-Yantra Innovation Challenge (eYIC 2022-23) has been launched Indian Institute of Technology (IIT), Bombay to seek solutions for inclusive urban infrastructure. e-Yantra is a Robotics outreach program that caters to young engineers in solving problems using technology. Winning teams who successfully pitch will receive seed funding from a prize pool of Rs 1 crore. There is also 25 lakhs worth of prizes to be won. Innovation challenge is divided into four stages. Stage 1 is a training sprint that familiarises participants with the theme, trains them in technologies, and helps them articulate problems with training through MOOCs and live sessions by experts. Stage 2 is a prototyping sprint where teams work under e-Yantra mentorship to build a prototype of their proposed solution. Stage 3 is an innovation sprint where e-Yantra helps develop a pitch to an Incubator – here, the IIT Bombay Incubator SINE.  The last stage is an implementation sprint, where teams refine their Proof-of-concept (PoC) under the guidance of e-Yantra mentors. e-Yantra provides the resources, training and guidance, and even a travel allowance and boarding/lodging at IIT Bombay for the Finals at IIT Bombay.<br>
+<br>
+Official Website- <br>
+https://eyic.e-yantra.org/<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/iLcDcVFAMiU
 
 </details>
 
@@ -456,6 +702,20 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=1KXH58pcslU
 
 </details>
+<details>
+<summary>GOOGLE DEVELOPERS Machine Learning Bootcamp - India</summary>
+<br>
+About <br>
+Screened participants are required to complete a training course in deep learning, a ML certification, and a hands-on project in 4 months. Those that complete all of them will be given a chance to apply for a full-time job or an intern position at one of the IT companies in India that provide services involving machine learning. 
+<br><br>
+Official Website- <br>
+https://rsvp.withgoogle.com/events/google-ml-bootcamp-india/<br>
+<br>
+
+
+</details>
+
+
 
 <details>
 <summary>GirlScript Winter of Contributing</summary>
@@ -516,6 +776,20 @@ https://www.youtube.com/watch?v=34YdIU4GQs4&t=2526s
  </details>
 
 <details>
+ <summary>GitLab Hackathon</summary>
+ <br>
+ About <br>
+ The Hackathon is a virtual event open to anyone who is interested in contributing code, documentation, translations, UX designs and more to GitLab. By participating in GitLab's Hackathon, you have the opportunity to work on issues that matter to you and advance your skills/experience while joining a global, diverse and inclusive team of contributors and GitLab team members.
+For this Hackathon, we are introducing the following contribution areas: Website, Security, Front-end, Back-end, Documentation. Prizes are awarded to participants for having Merge Requests (MRs) merged that contribute to the issues/epics linked below on each contribution area.<br>
+ Official Website-<br>
+ https://about.gitlab.com/community/hackathon/
+ <br>
+Explanation on Youtube- <br>
+ https://www.youtube.com/watch?v=4K47L8Q0pwo&t=17s
+ 
+ </details>
+
+<details>
 <summary>GoogleCloudReady Facilitator Program</summary>
 <br>
 About <br>
@@ -573,6 +847,49 @@ https://www.youtube.com/watch?v=earTjC0iSjg
 </details>
 
 <details>
+<summary>Google HashCode</summary>
+<br>
+About <br>
+Hash Code is Google’s team-based programming competition. It gives you a platform to share your skills and connect with other coders around the globe as you work together to solve a problem like a real Google engineering challenge! Coders all over the world will tackle the first problem through the Qualification Round in small teams of two to four. This round is hosted online but the teams can come together virtually to compete side-by-side in locally coordinated Hash Code Hubs. The top teams from this round are invited to be a part of the virtual World Finals and get their fair chance at winning.<br>
+<br>
+Official Website- <br>
+https://codingcompetitions.withgoogle.com/hashcode
+</details>
+
+<details>
+<summary>Google Online Challenge</summary>
+<br>
+About <br>
+Google’s Online Challenge is a platform that presents a fair, unbiased opportunity for you to engage in Google's hiring process. By participating in a timed online challenge, Google gains a better understanding of your skills while also providing you with insight into Google's hiring process.
+If you’re looking for a place that values your curiosity and desire to learn, seeking colleagues who are big thinkers and you’re eager to take on fresh challenges as a team, Google’s Online Challenge could take you one step closer to becoming a Googler.<br>
+<br>
+Official Website- <br>
+https://onlinechallenge.withgoogle.com/
+</details>
+
+<details>
+<summary>Google Maps Platform Hackathon</summary>
+<br>
+About <br>
+Google Maps Platform allows developers to create unique location-based experiences using our APIs & SDKs. Now is your chance to build or expand an existing app to incorporate rich location experiences using the latest APIs and push the boundaries of what is possible with their platform.
+<br>
+ In this hackathon they invite you to use Google Maps Platform APIs and SDKs. Build a unique app in one of the following categories.<br><br>
+Map Customization<br>
+Use Cloud-based map styling to create custom map styles for real-time updates across all devices and platforms. The new Cloud-based map styling makes it easy to tailor experiences for specific industries or customer needs with hundreds of customization types.<br><br>
+Data Visualization<br>
+Let data tell a unique story. Help make decisions and improve overall operational efficiencies by displaying data on your map. <br><br>
+Mobile App<br>
+Use Google Maps Platform mobile SDKs to connect your mobile app and the real world. Leverage mobile SDKs to build dynamic, interactive, geospatial experiences for your mobile app.<br><br>
+User Experience<br>
+Provide a unique experience for your app users with Google Maps Platform APIs and tools. Whether it’s unique transit information, a delivery game, or beyond, discover the breadth of capabilities Google Maps Platform has to offer.<br><br>
+Official Website: <br>
+https://googlemapsplatform.devpost.com/?ref_feature=challenge&ref_medium=discover<br>
+<br>
+Explanation on Youtube: <br>
+https://www.youtube.com/watch?v=kA679ERgBV4<br>
+</details>
+
+<details>
 <summary>Google Step Intern</summary>
 <br>
 About <br>
@@ -589,6 +906,62 @@ https://buildyourfuture.withgoogle.com/programs/step/<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=psDqdNNZMfA
+
+</details>
+
+ <details>
+<summary>Grace Hooper Celebration Scholarship for Women</summary>
+<br>
+About <br>
+The Virtual GHC Scholars Program provides funds for women who are either undergraduate students, graduate students, or faculty to attend our Celebration. Women who get selected as scholars gain access to career and academic workshops, networking opportunities, and memories that will last a lifetime. <br>
+<br>
+Official Website- <br>
+ https://ghc.anitab.org/attend/scholarships/
+<br>
+<br>
+Explanation on Youtube- <br>
+ https://www.youtube.com/watch?v=qmb0XG-55SA
+ 
+</details>
+
+
+<details>
+<summary>Google Cloud Programs</summary>
+<br> 1. Google Cloud Ready Facilitator Program<br>
+ <br>about<br>
+It is the programs of qwiklabs which provides goodies & swags.
+ It held in (April-June).
+<br>Official Website- <br>
+https://gdsc.community.dev/events/details/developer-student-clubs-college-of-engineering-thalassery-presents-googlecloudready-facilitator-program/
+<br>Explanation on Youtube- <br>
+https://lnkd.in/dabknRqp
+<br> 2. The Arcade<br>
+ About<br>
+This is Launched for the First Time and going on currently you can take part in it and this event will provide you all the goodies of qwiklabs in December
+<br>Official Website- <br>
+https://go.qwiklabs.com/dhgvbjsnmsdbhdwhb-arcade
+<br>Explanation on Youtube- <br>
+https://lnkd.in/dPNVidri
+</details>
+
+<details>
+<summary>Google Cloud Fly Cup Challenge</summary>
+<br>About<br>
+Google Cloud Fly Cup Challenge, created in partnership with The Drone Racing League (DRL) and taking place at Next ‘22 to usher in the new era of tech-driven sports. Using DRL race data and Google Cloud analytics tools, developers of any skill level will be able to predict race outcomes and provide tips to DRL pilots to help enhance their season performance. Participants will compete for a chance to win an all-expenses-paid trip to the season finale of the DRL World Championship Race and be crowned the champion on stage.  
+<br>Official Website- <br>
+https://cloud.google.com/blog/topics/training-certifications/sign-up-for-the-google-cloud-fly-cup-challenge
+<br>Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=9A3uZ6Syopk<br>
+</details>
+
+<details>
+<summary>Google Kick Start</summary>
+<br>
+About <br>
+Google Kickstart, formerly known as APAC is a test designed to hire people who are looking for a career in Google. The major difference between its former form and Kickstart is that there will be more testing rounds than before and is targeted to any age group rather than graduating students.
+<br>
+Official Website- <br>
+https://codingcompetitions.withgoogle.com/kickstart/<br>
 
 </details>
 
@@ -622,24 +995,6 @@ https://www.youtube.com/watch?v=fyy2Mr84vNM
 
 </details>
 
-<details>
-<summary>Global Coding Challenge by Credit Suisse</summary>
-<br>
-About <br>
-The Global Coding Challenge is an online coding competition between participants across the globe. Around 3 weeks, users will be able to attempt solutions to nine coding problems. Participants can improve their code as many times as they like during the competition. After the completion of the competition, the Leaderboards will lock and the Global Coding Champion will be announced shortly. The competition has been entirely designed, built and run by Credit Suisse TAs.
-
-Competition is split across 7 regions: UK, USA & Canada, Europe, India, Southeast Asia, Switzerland, and the rest of the world.9 original questions, ranging from easy to hard, to be answered using any of 6 popular programming languages.There are prizes for the best individual coder globally, the top 3 coders of all 7 regions.
-
-Don't miss the chance to grab exciting prizes including MacBook Pro, iPhone, iPad Pro and much more!
-In the past competitions, students who have participated and done well have also joined the Credit Suisse team on a Summer Internship or as Technical Analysts.
-<br>
-Official Website- <br>
-https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/<br>
-<br>
-Explanation on Youtube- <br>
-https://youtu.be/cJgwxMxNDCU
-
-</details>
 
 <details>
 <summary>HackerCup by Facebook</summary>
@@ -674,6 +1029,37 @@ At hackCBS, we help you turn your ideas into reality by providing a comforting a
 </details>
  
 <details>
+<summary>HackerEarth Challanges</summary>
+<br>
+About <br>
+HackerEarth is an AI-powered developer assessment software that helps companies accurately measure a developer’s skills through online coding tests. It takes a skill-based approach to assessment, allowing companies to automatically generate standardized tests based on various skills and then accurately measure the developer’s performance on those skills.
+ 
+HackerEarth also has a community version of the product that is used by developers all across the globe, to assess their coding skills, become better at it, and measure their true potential. They do it by solving coding challenges across different topics/skills and by participating in online competitions/hackathons. They have a thriving community of 6M developers.<br>
+<br>
+Official Website- <br>
+https://www.hackerearth.com/challenges/<br>
+<br>
+
+</details>
+ 
+<details>
+<summary>HackerRank Contests</summary>
+<br>
+About <br>
+If you are a beginner and want to develop basic concept then I will suggest you go with this website because they have some good problems for beginners which is sorted level wise i.e. you will get problems in increasing difficulty level. And by applying some basic logic you will able to crack them. And also we can say this is they have a good beginner-friendly environment.
+
+They also divide problems topic wise manner e.g. In case you just completed for loop concept and want to solve the problem on that then you can. And they have some other features like 30 Days of codes or recently they publish a new section i.e. interview preparation where you will get some videos related to technical interview rounds.
+
+The main domain they cover:
+Algorithms, Mathematics, SQL, Functional programming, AI and more.<br>
+<br>
+Official Website- <br>
+https://www.hackerrank.com/contests<br>
+<br>
+
+</details>
+ 
+<details>
 <summary>Hacktoberfest by DigitalOcean</summary>
 <br>
 About <br>
@@ -684,6 +1070,28 @@ https://hacktoberfest.digitalocean.com/<br>
 <br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=mq_FIHdxmIk
+
+</details>
+
+<details>
+<summary>HackerRamp by Myntra</summary>
+<br>
+About <br>
+Myntra HackerRamp is an opportunity for budding engineers all over India to unleash their creative selves and bring their ideas to life. This contest provides you with a forum to not only ideate but implement a functional working prototype with expert mentoring from engineering leaders at Myntra. At Myntra, we believe that any act of innovation, learning or transformation requires unbridled enthusiasm and a never-give-up attitude. It’s your chance to learn from the best and build innovative solutions to one of the most challenging problems in the Industry. <br>
+<br>
+Official Website- <br>
+ https://unstop.com/competition/myntra-hackerramp-campus-edition-2021-myntra-201010<br>
+
+</details>
+
+<details>
+<summary>Hack N Crack</summary>
+<br>
+About <br>
+In HACKnCRACK, showcase your coding skills, compete with your peers, and meet top tech enthusiasts from colleges and universities all around the world. Put your game face on and test your compilation and problem-solving skills.<br>
+<br>
+Official Website- <br>
+ https://unstop.com/hackathon/hackncrack-techbairn-438842<br>
 
 </details>
 
@@ -717,6 +1125,22 @@ https://www.youtube.com/watch?v=j5Q7gVtTy3M
 </details>
 
 <details>
+
+<summary>Harvard WECode</summary>
+<br>
+About <br>
+The Harvard WECode (Women Engineers Code) Conference is organized by undergraduate women at Harvard University and is an initiative of Harvard Undergraduate Women in CS. WECode hosts the largest student-run women in tech conference in the world.<br>
+Harvard WECode is a global community of technical leaders aiming to foster a network among engineers, and promote greater representation in the technical industry by those who have been traditionally marginalized. WECode culminates in the world’s largest student-run women in tech conferences, held for undergraduates students. <br>
+<br>
+Official Website- <br>
+https://www.harvardwecode.com/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=8cLlUfXoDy4&t=597s
+
+</details>
+
+<details>
 <summary>HP CodeWars</summary>
 <br>
 About 
@@ -729,6 +1153,54 @@ https://hpcodewarsbcn.com/<br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=KCCttp-_Qn8
 
+</details>
+
+<details>
+<summary>Huawei Apps UP</summary>
+<br>
+About
+<br>
+The Huawei Global App Innovation Contest ("Apps UP" for short) is a global event held by Huawei that pools the skills of developers from around the world to build an app ecosystem that intelligently connects everything. It aims to inspire developers to innovate, bring together people, devices, and scenarios, and create consistent app experiences.<br>
+<br>
+Official Details for 2022: https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898<br>
+<br>
+2022 Youtube Announcement: <br>
+https://www.youtube.com/watch?v=HRBY0Ad_PBI
+
+</details>
+ 
+<details>
+<summary>IBM zStudent Contest</summary>
+<br>
+About <br>
+HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrilling coding contest centered around sustainable energy that will teach you computing skills used to power some of today’s largest enterprise companies. Along the way, you will learn JCL, z/OS, SQL, COBOL, Python, APIs, Unix and more.
+
+Through completion of Fundamentals and Concepts levels (how you earn the Concepts Badge), contestants will have skills in:
+
+VS Code
+JCL
+Files and Members
+Unix System Services (USS)
+REXX
+Python
+
+<br>
+Official Website- <br>
+https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/?utm_source=arsh&utm_medium=instagram_story&utm_campaign=IBMz<br>
+<br>
+</details>
+ 
+<details>
+<summary>IEEEXtream</summary>
+<br>
+About <br>
+IEEEXtreme is a global challenge in which teams of IEEE Student members – advised and proctored by an IEEE member, and often supported by an IEEE Student Branch – compete in a 24-hour time span against each other to solve a set of programming problems.
+
+It takes place on 22 October, 2022 and registrations will close by 12 October, 2022. <br>
+<br>
+Official Website- <br>
+https://ieeextreme.org/#REGISTRATION<br>
+<br>
 </details>
 
 <details>
@@ -784,6 +1256,20 @@ https://youtu.be/WfRqE4NBecM
 </details>
 
 <details>
+<summary>International Obfuscated C Code Contest </summary>
+<br>
+About <br>
+The International Obfuscated C Code Contest (IOCCC) is a computer programming contest for the most creatively obfuscated C code. Described as 'celebrating [C\'s] syntactical opaqueness' this contest is held annually<br>
+<br>
+Official Website- <br>
+https://www.ioccc.org/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=7F3IHxVEsvk&t=42s
+</details>
+
+
+<details>
 <summary> Internet Problem Solving Contest </summary>
 <br>
 About <br>
@@ -809,7 +1295,52 @@ https://www.surveymonkey.com/r/INTUIT_2020<br>
  
 </details>
 
+<details>
+<summary>JGEC Winter Of Code</summary>
+<br>
+ABOUT- <br>
+JWOC ( JGEC Winter of Code) is an open-source program organized by Developers' JGEC which helps students to plunge into Open Source contribution and get the realm of Software Development. In Google Developer Student Club, Jalpaiguri Govt. Engg College.
+ 
+JWOC provides a fully immersive learning experience for students and first-time contributors by promoting the wonders of open-source software and crafting a community of new and experienced technical developers. The best projects are selected for this program. Students get acquainted with the projects from the mentors during the Community Bonding Period. Students work on these projects during the coding phase. At the end of the coding period, the winners of the programs are announced on the basis of their contribution in terms of quantity as well as quality.
+<br>
 
+<br>Eligibility<br>
+• Anyone can contribute doesn't matter wheather He/She is new to open-source and expert in this file. Motive is to make every familiar with open source and it's power how can it impact in positive way<br>
+ 
+• It generally start between JAN and run till March .<br>
+<br>
+ 
+OFFICIAL WEBSITE LINK- <br>
+https://jwoc.tech/ <br>
+<br>
+
+
+</details>
+
+<details>
+<summary>JPMorgan Chase & Co. Quant Mentorship Program</summary>
+<br>
+ABOUT- <br>
+J.P. Morgan Quant Mentorship Program is a unique opportunity for you to build skills required for a successful career in Quantitative Finance. Learn how mathematical modelling and coding are employed in the financial services industry.
+<br>
+
+<br>Eligibility<br>
+This program is for students in their 2nd year doing Bachelors of Technology.<br>
+The selection process for this program will have 2 stages:
+
+Stage 1: Online Aptitude Test<br>
+Stage 2:  Case Study Challenge<br>
+This year-long program includes:<br>
+1. One-to-one mentorship and career guidance.<br>
+2. Access to J.P. Morgan’s online coursework.<br>
+3. Interactions with senior leaders at J.P. Morgan.<br>
+4. Opportunity to interview for an internship after pre-final year.<br>
+<br>
+ 
+OFFICIAL WEBSITE LINK- <br>
+https://jpmc.recsolu.com/app/collect/event/TDMNonCLZS-KWbHKF9c_DA <br>
+<br>
+</details>
 
 <details>
 <summary>Kaggle by Google</summary>
@@ -854,6 +1385,54 @@ https://www.youtube.com/watch?v=VZUx4GuCJiM
 </details>
 
 <details>
+<summary>Learn to Earn Cloud Data Challenge</summary>
+<br>
+About <br>
+The world of sports has never been the same since a certain player named Google Cloud stepped onto the pitch. Be it helping coaches pick up their best players or helping you pick up your best fantasy team or making life easier for broadcasters to show your favorite game live for you to enjoy along with your favorite pizza, Google Cloud has got it all covered!
+        Google Cloud is transforming the way sports are played & viewed by monitoring the real-time parameters of athletes to utilize data to improve the team’s performance.
+        At the top level of any sport, it’s all about fractional improvements and technology is helping elite personalities power to glory. Google Cloud technology can enable colossal amounts of data to be crunched, analyzed and presented quickly. <br>
+<br>
+Official Website- <br>
+https://www.googlecloudcommunity.com/gc/Community-Blogs/Learn-to-Earn-Cloud-Data-Challenge-Step-up-your-Data-Game/ba-p/437137<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/uG5IJML0L0c
+
+</details>
+ 
+ 
+ <details>
+<summary>Learn to Earn Cloud Security Challenge</summary>
+<br>
+About <br>
+These labs help you get started with cloud security basics. At the end of each lab, you’ll have hands-on experience with securing your cloud. Complete this game to earn the Level 1 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!
+  These labs will give you a deeper understanding of security features in the cloud. These labs are a little more challenging. It’s OK to take a lab more than once to achieve a great score. Complete this game to earn the Level 2 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!
+  These labs will challenge you to explore advanced cloud security scenarios. It’s OK to take a lab more than once to achieve a great score. Complete this game to earn the Level 3 game badge, and you’ll be one step closer to completing the challenge. Race the clock to increase your score and watch your name rise on the leaderboard!<br>
+<br>
+Official Website- <br>
+https://www.cloudskillsboost.google/games/2288<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=rFR5SZ0CQks
+
+</details>
+ 
+<details>
+<summary>LFX Mentorship Program</summary>
+<br>
+About <br>
+LFX Mentorship (previously known as Community Bridge) is a platform developed by the Linux Foundation, which accelerates the adoption, innovation, and sustainability of open source software. LFX Mentorship is actively used by the Cloud Native Computing Foundation as a mentorship platform across the CNCF projects. It is an open-source program where students can contribute to open-source projects and get a minimum stipend of $3000. The goal of a mentorship program is to accelerate the personal and professional development of mentees. This is achieved by providing mentees with guidance, advice and feedback from mentors with more experience than themselves. <br>
+<br>
+Official Website - <br>
+https://mentorship.lfx.linuxfoundation.org/#projects_all
+<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/DROr4kSrrY0
+
+</details>
+ 
+<details>
 <summary>LiFT Scholar!</summary>
 <br>
  About <br>
@@ -864,6 +1443,24 @@ Official Website: <br>
 https://linuxfoundation.org/diversity-inclusivity/lift-scholarships/<br>
 
  </details>
+
+ <details>
+<summary>LinkedIn CoachIn</summary>
+<br>
+About <br>
+Mock interviews and tests scheduled based on Data Structures and Algorithms
+Speaker sessions where senior and junior engineers from Linkedin spoke on various topics and gave us a lot of insights on what is happening in the industry currently
+A great community of like-minded individuals! We are a group of 40 young women constantly empowering each other and taking inspiration from each other  <br>
+<br>
+Official Website - <br>
+https://www.linkedin.com/company/coachin_2/
+<br>
+<br>
+Explanation on Youtube- <br>
+https://youtu.be/BS12nHUkraA
+
+</details>
+
 
 <details>
 <summary>Linkedin Wintathon</summary>
@@ -978,6 +1575,25 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=lKLkqsKTo3Y
 
 </details>
+ 
+<details>
+<summary>Meta Hacker Cup</summary>
+<br>
+About <br>
+Hacker Cup is Meta's annual open programming competition. 
+Open to participants around the world, we invite you to apply problem-solving and algorithmic
+coding skills to advance through each year’s online rounds, win prizes, and
+have a chance to make it to the global finals and win the grand prize.
+
+<br>
+ 
+ 
+Official Website- <br>
+https://www.facebook.com/codingcompetitions/hacker-cup<br>
+<br>
+ 
+</details>
+ 
 <details>
 <summary>Microsoft Codess</summary>
 <br>
@@ -995,6 +1611,26 @@ https://careers.microsoft.com/us/en/codess<br>
 About <br>
 Microsoft Engage is a student engagement and mentorship program by Microsoft that offers 1:1 mentorship to shortlisted students while working on a project, learning sessions specially curated for Engage students and a sneak peek into Microsoft’s culture and values. Students who have completed their second year(B.Tech/B.E.) or third year(Dual Degree) having 7 above CGPA with no pending backlogs and strong CS Fundamentals and coding principles were eligible to apply. There was no restriction on branch.<br>
 <br>
+</details>
+
+<details>
+<summary>Microsoft Fix-a-thon</summary>
+<br>
+About<br>
+Microsoft Fix-a-thon is a National-level hackathon, conducted to hire final year college students for the role of Support Engineering interns. Support engineers are part of Microsoft’s Customer Experience & Success (CE&S) team. <br>
+<br>
+Eligibility Criteria for Fix-a-thon:<br> 
+
+- Students who are pursuing BE/B.Tech in CSE/IT/other quantitative branches.<br>
+- CGPA above 8 in the current degree.<br>
+- Degree Completion year should be current year(last year of Graduation).<br>
+- Candidate should not have participated in any Microsoft hiring event in the last 12 months.<br>
+
+Official Website: <br>
+https://careers.microsoft.com/us/en/fix-a-thon <br>
+<br>
+Explanation on YouTube: <br>
+https://youtu.be/fGFQkdn5BPg
 </details>
 
 <details>
@@ -1044,6 +1680,39 @@ https://www.youtube.com/watch?v=_H65WfXPxuA
 </details>
 
 <details>
+    <summary>Microsoft Reinforcement Learning Open Source Fest</summary>
+    <br>
+    About <br>
+    The Reinforcement Learning (RL) Open Source Fest is a global online program focused on introducing students to open-source reinforcement learning programs and software development while working alongside researchers, data scientists, and engineers on the Real World Reinforcement Learning team at Microsoft Research NYC. Students will work on a four-month research programming project for either a Summer (May-August 2022) or Fall session (September – December 2022). Accepted students will receive a $10,000 USD stipend. Selected students will receive their stipend payment at the beginning of their session. Microsoft sends the payment directly to a student’s academic institution, which then disperses funds according to the institution’s guidelines.
+    Our goal is to bring together a diverse group of students from around the world to collectively solve open-source reinforcement learning problems and advance the state-of-the-art research and development alongside the RL community while providing open-source code written and released to benefit all.
+    At the end of the program, students will present each of their projects to the Microsoft Research Real World Reinforcement Learning team online.<br>
+    <br>
+    Eligibility Criteria:-<br>
+    To be eligible for the program, students must be enrolled in or accepted into an accredited institution including colleges, universities, Master programs, PhD programs, and undergraduate programs.<br>
+    <br>
+    Official Website- <br>
+    https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/<br>
+    <br>
+    Explanation On YouTube :- <br>
+    https://www.youtube.com/watch?v=UdsMA_4pJsA&t=111s
+</details>
+
+
+<details>
+<summary>Millennium Campus Fellowship Program</summary>
+<br>
+About <br>
+ Millennium Campus Network (MCN) is a Boston-based, global non-profit convening and training 21st-century social impact leaders. Through the Millennium Fellowship and Millennium Oceans Prize, MCN helps young leaders use their voices and power to make a difference on campus and in community.
+ The Millennium Fellowship, which launched in 2013, is a 10 session, semester-long leadership accelerator convening student leaders across universities to improve their student organizations, partnerships, and community impact. <br>
+<br>
+Official Website:<br>
+ https://www.millenniumfellows.org/<br>
+<br>
+Explanation on Youtube:<br>
+https://youtu.be/1De8MJlpGRw
+</details>
+ 
+<details>
 <summary>Mitacs Globalink Research Internship</summary>
 <br>
 About <br>
@@ -1074,6 +1743,20 @@ https://fellowship.mlh.io/<br>
 <br>
 You can also visit: <br>
 https://www.geeksforgeeks.org/mlh-fellowship-programs-offered-application-process-benefits/ <br>
+</details>
+ 
+<details>
+<summary>MLH Global Hack Week, October 23-30, 2022</summary>
+<br>
+About <br>
+Global Hack Week October is their beginner-friendly hacker festival. You can expect to complete challenges, chat at hacker hangouts, enjoy fun live sessions, build technical projects, and make new memories.
+
+Global Hack Weeks are attended by hackers from all over the globe. Whether this is your first time coding or you're a seasoned expert, we will have events here for you. Our last Global Hack Week included hackers from over 90 countries around the world! If you're a first-time hacker, there will be beginner-focused activities for you.
+
+<br>
+Official Website- <br>
+https://ghw.mlh.io/oct<br>
+<br>
 </details>
 
 <details>
@@ -1117,6 +1800,57 @@ YouTube link for information-<br>
 https://youtu.be/YTeck476Wzc<br>
 
 </details>
+ 
+<details>
+<summary>
+NASA International Space Apps Challenge (Space Apps)</summary>
+<br>
+About-<br>
+The NASA International Space Apps Challenge (Space Apps) is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and others in cities around the world, where teams engage the National Aeronautics and Space Administration’s (NASA’s) free and open data to address real-world problems on Earth and in space.
+
+Each October, over the course of two days, Space Apps brings participants from around the world together at hundreds of in-person and virtual local events to solve challenges submitted by NASA experts. After the hackathon, project submissions are judged by space agency experts and winners are selected for one of 10 Global Awards.
+<br>
+Official Link-
+<https://www.spaceappschallenge.org/><br>
+
+YouTube link for information-<br>
+https://www.youtube.com/watch?v=hmKw7CQwNls<br>
+</details>
+
+<details>
+<summary>
+NASA - CalTech Summer Undergraduate Research Fellowship (SURF)</summary>
+<br>
+
+
+About-<br>
+The Caltech Summer Undergraduate Research Fellowship, or SURF, provides undergraduate students pursing degrees in science, technology, engineering and mathematics with an introduction to the research process under the guidance of seasoned mentors at JPL and Caltech.
+As part of the program, students collaborate with potential mentors to define and develop a research project and write a proposal. A faculty committee reviews the proposal and recommends awards, then students carry out their research over a 10-week summer internship. At the conclusion of the program, students submit a technical paper and give an oral presentation at a symposium modeled on a professional technical meeting. Students at JPL will also have the opportunity to participate in a number of enrichment activities, including tours, lectures and career advisement, arranged by the JPL Education Office.
+
+Official Link-
+<https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/><br>
+
+YouTube link for information-<br>
+https://www.youtube.com/watch?v=Ix0rMUXbj7s<br>
+</details>
+
+<details>
+<summary>
+NASSCOM Academic Grand Challenge</summary>
+<br>
+
+
+About-<br>
+Telangana Al Mission (T-AM), powered by NASSCOM has been established by the Government of Telangana with a vision to position Telangana as a global hub for Artificial Intelligence and foster social innovation.
+To foster the entrepreneurial spirit amongst the students, T-AIM in collaboration with Wells Fargo is seeking applications for Academic Grand Challenge.The objective is to scout for talented student teams that will provide innovative and viable solutions using emerging technologies like Artificial Intelligence (AI) to assist Wells Fargo with two use cases.
+
+Official Link-
+<https://taim-gc.in/academic/><br>
+
+YouTube link for information-<br>
+https://www.youtube.com/watch?v=n1XDGi4C-n8<br>
+</details>
+ 
 
 <details>
 <summary>
@@ -1177,6 +1911,50 @@ YouTube link for information-<br>
 https://www.youtube.com/watch?v=2C6lJorOYfA&t=1s<br>
 
 </details>
+<details>
+<summary> Open Mainframe Project Mentorship Program</summary>
+About<br>
+Open Mainframe Project also has its own open-source program and the mentees will be able to expand their knowledge on the mainframe technology. So, if you’re interested in the mainframe and all these things you can definitely check that out. You’ll also help in contributing to open source projects which will make it easier for infrastructure applications to run on the mainframe. So, it is an overwhelming fact that the application or the code that you’re writing is actually being used by a lot of people.<br>
+
+Timeline: February-September<br>
+Link: https://www.openmainframeproject.org/all-projects/mentorship-program <br>
+</details>
+<details>
+<summary> Redox OS Summer of Code</summary>
+About<br>
+Redox is a general-purpose operating system written in pure Rust. The Redox OS Summer of Code is the primary use of donations to the Redox OS project. Here, the students who have already demonstrated a desire and ability to contribute to Redox OS get selected.
+<br>
+Link: https://www.redox-os.org/rsoc/<br>
+
+</details>
+
+<details>
+<summary> Samsung - Solve for Tomorrow </summary>
+
+# About<br>
+Do you want to innovate for a brighter future? Do you want to solve real-world problems when it comes to education, environment, healthcare, and agriculture? Samsung Solve for Tomorrow gives you the opportunity to make a difference to our society. The contest is open for all participants between 16-22 years of age. A team of 1-3 members can participate. From round 1 - Idea Submission Round, top 50 teams are selected. These teams attend a 3-day bootcamp at FIIT, IIT Delhi campus. 10 teams are shortlisted for further rounds. These 10 teams get a chance to visit samsung's offices. And top 3 get 6 month incubation support and mentorship from Samsung experts.
+<br>
+Link: https://www.samsung.com/in/solvefortomorrow/<br>
+</details>
+
+<details>
+<summary>Reply Challenges</summary>
+<br>
+About <br>
+The Reply Code challenge was created in 2019. A team of coding experts from Reply (the Reply Code Masters), entered a few competitions. Based on their experiences, they decided to design a challenge powered by Reply aimed at Replyers first and then to students and professionals.
+Now, over four intense hours, participants from all over the world come together each year to solve algorithm-based problems, using any programming language.
+
+The Standard Edition is for students and professionals aged 16 or older. It involves solving logical mathematical problems by writing an algorithm in any programming language. You can train with the past problems and see if the level of the challenge fits for you.
+
+If you're a teen students aged between 14 and 19, you can play on the Teen Edition!
+<br> Official Website- <br>
+https://challenges.reply.com/tamtamy/home.action<br>
+
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=DckNhqySweU&list=PLgqiBpQGzC2B8U_c5gOWSSipf0H_1wT4w
+
+</details>
+
 
 <details>
 <summary>
@@ -1239,9 +2017,70 @@ The Solution Challenge is open to members of Google Developer Student Clubs. Joi
 The last date to apply for the Solution Challenge 2022 is 31st March, 2022.
 <br> Official Website- <br>
 https://developers.google.com/community/gdsc-solution-challenge<br>
- 
 Explanation on Youtube- <br>
 https://youtu.be/EuEZ83VAfgQ
+</details>
+
+
+<details>
+<summary>Season of KDE </summary>
+<br>
+About <br>
+Season of KDE is an outreach program hosted by the KDE community. Every year since 2013, KDE Student Programs has been running Season of KDE as a program similar to, but not quite the same as Google Summer of Code, offering an opportunity to everyone (not just students) to participate in both code and non-code projects that benefits the KDE ecosystem. In the past few years, SoK participants have not only contributed new application features but have also developed the KDE Continuous Integration System, statistical reports for developers, a web framework, ported KDE Applications, created documentation and lots and lots of other work.
+<br> Official Website- <br>
+https://season.kde.org/<br>
+</details>
+
+
+<details>
+<summary>Summer of Bitcoin </summary>
+<br>
+About <br>
+A global summer internship program focused on introducing university students to bitcoin and open-source development.
+The organizations provide mentors who act as guides through the entire process, from learning about the community to contributing.
+Students get involved in and become familiar with the bitcoin open source community and put their summer break to good use.The last date to apply for Summer of Bitcoin program is March 5, 2022.
+<br> Official Website- <br>
+https://www.summerofbitcoin.org<br>
+Explanation on Youtube- <br>
+https://youtu.be/GwpTNKCsgSc
+</details>
+
+<details>
+<summary>TechGig Geek Goddess</summary>
+<br>
+About<br>
+TechGig Geek Goddess, presented by American Express, is India's biggest women-only hackathon, wherein you stand a chance to win prizes upto INR 10+ Lakh. This is a huge opportunity to showcase your coding skills, compete with your peers, meet top women tech leaders and interact with innovative technology companies at one place. <br>
+<br>
+Rules:<br> 
+ 
+- Time duration of Geek Goddess 2022 - Open Round would be 3 hours.<br>
+- You will be able to access the problem statement once you click the "Solve Problem" button.<br>
+- The Problem Statement page has a Live Coding Environment where you can code and compile your code.<br>
+- Once you are done writing your code, a default test case will be used to check your code.<br>
+
+Official Website: <br>
+https://www.techgig.com/geekgoddess <br>
+<br>
+Explanation on YouTube: <br>
+https://www.youtube.com/watch?v=ws_L3sWFE_4&list=PLyys4weFOrPecVbNdoUc9bgAsIR-SYQx7
+</details>
+ 
+<details>
+<summary>TECHgium Global Innovation Challenge </summary>
+<br>About<br>
+
+TECHgium® is a multi-stage Innovation competition by L&T Technology Services for students across the world. 
+
+TECHgium® provides a platform for-
+->Students to engage on real-world industry use cases and challenges to come up with solutions and taking a step towards industry readiness.
+->For institutes and faculty to engage with industry challenge statements along with the students and thereby taking steps towards bridging gap between industry and academia.  
+->Top 3 winning teams take away prizes worth 18Lakhs.
+
+<br>Official Website- <br>
+https://ltts.techgium.com/
+
+<br>Explanation on Youtube- <br>
+https://youtu.be/yAJ8-gwrrYY
 
 </details>
 
@@ -1256,6 +2095,25 @@ Technica is the world’s largest hackathon for underrepresented genders, hosted
 <br> Explanation on Youtube: <br>
 https://www.youtube.com/watch?v=zzIGwnKOkyw
 
+</details>
+ 
+<details>
+<summary>Technovation Challenge</summary>
+<br>
+About <br>
+The Technovation Challenge is designed to get more girls interested in coding and computer science. 
+Girls work in teams of 1-5 and with volunteer mentors to use technology to design an app that helps 
+solve real world problems such as climate change, bullying, and hunger. 
+Both novices and girls with strong backgrounds in computer science can participate, 
+as the competition is designed to help girls build their tech skills.
+
+<br>
+ 
+ 
+Official Website- <br>
+https://technovationchallenge.org/<br>
+<br>
+ 
 </details>
 
 <details>
@@ -1288,6 +2146,38 @@ Explanation on YouTube   <br>
 https://youtu.be/5Ma4V_rsyGw
  
  </details>
+ 
+
+<details>
+<summary>Twitter DevelopHer for Women</summary>
+<br>
+About <br>
+A two-day program for third year students who identify as women. Participants will experience hands-on technical workshops, professional development seminars, meet with senior leaders, engage with our Business Resource Groups (BRGs), and explore career opportunities at Twitter. <br>
+<br>
+Official Website- <br>
+https://careers.twitter.com/en/early-career.html
+<br>
+<br>
+Explanation on Youtube- <br>
+ https://youtu.be/y2ciehLvJP4
+</details>
+
+<details>
+ <summary>Twitter #DevelopHER JAPAC</summary>
+ <br>
+ About <br>
+Twitter #DevelopHER, A two-day program for third year students who identify as women. Participants will experience hands-on technical workshops, professional development seminars, meet with senior leaders, engage with our Business Resource Groups (BRGs), and explore career opportunities at Twitter.
+
+<br>Application procedure:<br> Simple procedure asking for a resume and LinkedIn profile. The applications open around August-September every year.
+Out of the 9,000+ applicants they had this year, 30 students were selected for the final #DevelopHer program.<br>
+<br>
+Official Website <br>
+https://careers.twitter.com/en/early-career.html <br>
+<br>
+Explanation on YouTube   <br>
+https://www.youtube.com/watch?v=y2ciehLvJP4&t=4s
+ 
+</details>
 
 <details>
 <summary>Uber HackTag</summary>
@@ -1312,6 +2202,28 @@ YouTube Link for information-<br>
 https://www.youtube.com/watch?v=sBo7rCu1XYY <br>
 
 </details>
+
+<details>
+<summary>Uber She++</summary>
+<br>
+ABOUT- <br>
+Uber She++ is Uber’s event for promoting diversity and inclusion. It is a 2-day event that includes interaction with senior leaders at Uber, a fireside chat with women engineers at Uber, and a lot more about Uber’s culture. <br>
+Application Dates: Usually opens around March (around Women’s Day).<br>
+
+<br>Eligibility<br>
+• You will received a form to fill out, from your Placement cell for this event, around the second week of March.The form included basic details such as college, stream, and CGPA.<br>
+• The 17 best engineering colleges in India were eligible for She++, which included the top 3 NITs (including my college NITK Surathkal), 3 BITS, the top 7–8 IITs, IIITH, and few colleges from Delhi (NSIT, DTU).<br>
+• Almost everyone who registered and met the basic criteria of studying from the above colleges, irrespective of the branch of study, was selected for the next coding round.<br>
+• Basically, 2nd-year students from a 4-year program and 3rd-year students from a 5-year program from the above colleges are eligible for She++. <br>
+<br>
+OFFICIAL WEBSITE LINK- <br>
+https://events.beamery.com/uber/uber-she++-2022-t1khjteyw/0 <br>
+<br>
+YouTube Link for further information-<br>
+https://www.youtube.com/watch?v=FLBLrEc4wEo <br>
+
+</details>
+
 
 <details>
 <summary>Uplift Project</summary>
@@ -1383,6 +2295,16 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=AA7we1OR0Y4
 
 </details>
+ 
+<details>
+<summary>VK Cup</summary>
+<br>
+About<br>
+The VK Cup Championship is an open computer programming competition that is held by VK, Codeforces and Saratov State University. VK is the largest European social network with more than a 100 million active users. The Championship Final Round will be held in July in St. Petersburg. Top 50 contestants of the Round 3 will be invited to the Finals, with trip expenses covered by the organizing committee.<br>
+<br>
+For more details : <br>
+https://codeforces.com/blog/entry/3977 <br>
+</details>
 
 <details>
 
@@ -1413,19 +2335,20 @@ https://youtu.be/yhGu9lxfs-g<br>
 Related blog post: <br>
 https://medium.com/@archanakumari943064/all-about-women-engineers-program-7bb7a7f434c8 <br>
 </details>
-
+ 
 <details>
-<summary>IEEEXtream</summary>
+<summary>Yandex Algorithm</summary>
 <br>
 About <br>
-IEEEXtreme is a global challenge in which teams of IEEE Student members – advised and proctored by an IEEE member, and often supported by an IEEE Student Branch – compete in a 24-hour time span against each other to solve a set of programming problems.
+Yandex has supported competitive programming for many years: it arranges competitions and organizes training camps and schools. From 2011 to 2018, the company held international competitions for competitive programing: Yandex.Algorithm.
 
-It takes place on 22 October, 2022 and registrations will close by 12 October, 2022. <br>
+This year, it's back as a separate track, and its tasks were created by Yandex developers, programming competition participants. <br>
 <br>
 Official Website- <br>
-https://ieeextreme.org/#REGISTRATION<br>
+https://yandex.com/cup/algorithm
 <br>
 </details>
+ 
  <details>
 <summary>Zuno Fellowship Program</summary>
 <br>
@@ -1437,31 +2360,21 @@ Official Website- <br>
 https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia
 <br>
 </details>
- 
+
 <details>
-<summary>IBM zStudent Contest</summary>
+<summary>Code India Fellowship</summary>
 <br>
 About <br>
-HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrilling coding contest centered around sustainable energy that will teach you computing skills used to power some of today’s largest enterprise companies. Along the way, you will learn JCL, z/OS, SQL, COBOL, Python, APIs, Unix and more.
+We are proud to announce the Code India Fellowship, an incredible opportunity for the most passionate individuals of our country to help take programming and coding to the remotest parts of India.
 
-Through completion of Fundamentals and Concepts levels (how you earn the Concepts Badge), contestants will have skills in:
+Aspiring to impart the knowledge, skills and a certain strength of character to the young minds of tomorrow, the Code India Fellowship is designed specifically to help better our future while simultaneously giving our fellows a chance to recognize the current realities of what life is like on the other side.
 
-VS Code
-JCL
-Files and Members
-Unix System Services (USS)
-REXX
-Python
-
+The Code India Fellows will be placed in different organisations in different parts of the country like Delhi, Bangalore, Jammu, Dharamshala, etc, for the duration of a year, to teach coding and programming to the local children, with an emphasized focus on young girls. Tasked with the responsibility of overseeing the growth and educational journey of young children, our fellows have the explicit satisfaction of helping students, across the country, take their first steps into a brighter future. <br>
 <br>
 Official Website- <br>
-https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/?utm_source=arsh&utm_medium=instagram_story&utm_campaign=IBMz<br>
+[https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia](https://devinfo.in/code-india-fellowship/)
 <br>
 </details>
-<details>
-
-
-
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
