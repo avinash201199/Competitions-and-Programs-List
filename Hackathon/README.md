@@ -200,3 +200,21 @@ Walmart ended up adding 350+ talented female coders to its workforce across both
 <br>
 Link: https://unstop.com/competition/walmart-codehers-2022-walmart-global-tech-india-266010 <br>
 </details>
+
+
+<details>
+<summary> Adobe Analytics Challenge </summary>
+<br>
+
+# About <br>
+Unique challenge for university students to use Adobe's world class products and form business cases from data! It is one of the top business competitions and is also seen as a hiring challenge. 
+Some partners are Disney, Nike, etc.
+
+Students should be from the same univeristy with max team size = 3, and should have a self-picked mentor/guide.
+Reawrd as cash prizes are given to top 6 teams.
+
+Judging is done based on virtual presentations to the jury. 
+<br>
+<br>
+Link: https://adobeanalyticschallenge.com/ <br>
+</details>
