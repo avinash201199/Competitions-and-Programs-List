@@ -70,7 +70,12 @@ const data = [
         siteUrl: "https://amazonwowindia.splashthat.com/",
         YouTube: "https://www.youtube.com/watch?v=dRAVWI8UZlo",
     },
-   
+    {
+    title: "Ascend Fellowship",
+        about:
+            "The program is open to women students who are enrolled in a full-time course and meet one of the following eligibility criteria: Students must have demonstrated excellence in academic or professional pursuits, have a keen interest in the intersection of finance and technology, and should be curious to learn more about the firm.Eligibility criteria Second/third-year student in a BTech/BE program Third/fourth-year student in a five-year dual degree program (BTech + MTech, BE + ME) First-year student in a two-year MTech/MS/MCA program; or Second-year student in a three-year MCA program",
+        YouTube: "https://www.youtube.com/watch?v=96AtHaKpilQ",
+    },
     {
         title: "Atlassian Women in Tech",
         about:
@@ -587,6 +592,17 @@ What are the benefits of being a Microsoft Learn Student Ambassador? . Access to
         YouTube: "https://www.youtube.com/watch?v=_H65WfXPxuA",
     },
     {
+        title:"Microsoft Reinforcement Learning Open Source Fest",
+        about: `The Reinforcement Learning (RL) Open Source Fest is a global online program focused on introducing students to open-source reinforcement learning programs and software development while working alongside researchers, data scientists, and engineers on the Real World Reinforcement Learning team at Microsoft Research NYC. Students will work on a four-month research programming project for either a Summer (May-August 2022) or Fall session (September – December 2022). Accepted students will receive a $10,000 USD stipend. Selected students will receive their stipend payment at the beginning of their session. Microsoft sends the payment directly to a student’s academic institution, which then disperses funds according to the institution’s guidelines.
+        Our goal is to bring together a diverse group of students from around the world to collectively solve open-source reinforcement learning problems and advance the state-of-the-art research and development alongside the RL community while providing open-source code written and released to benefit all.
+        At the end of the program, students will present each of their projects to the Microsoft Research Real World Reinforcement Learning team online.
+        
+        Eligibility Criteria:-
+        To be eligible for the program, students must be enrolled in or accepted into an accredited institution including colleges, universities, Master programs, PhD programs, and undergraduate programs.`,
+        siteUrl: "https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/",
+        YouTube: "https://www.youtube.com/watch?v=UdsMA_4pJsA&t=111s",
+    },
+    {
         title: "Mitacs Globalink Research Internship",
         about: `Mitacs Globalink Research Internship is a competitive initiative for international undergraduates from the following countries and regions: Australia, Brazil, China, Colombia, France, Germany, Hong Kong, India, Mexico, Pakistan, Taiwan, Tunisia, Ukraine, United Kingdom and the United States. From May to October of each year, top-ranked applicants participate in a 12-week research internship under the supervision of Canadian university faculty members in a variety of academic disciplines, from science, engineering, and mathematics to the humanities and social sciences. `,
         siteUrl:
@@ -905,6 +921,13 @@ A great community of like-minded individuals! We are a group of 40 young women c
             'Shell Ideas360 is more than a global competition that connects students to develop ideas to tackle the pressures on the world’s Food, Water and Energy resources. It’s an exciting journey of learning and discovery. Collaborate with like-minded innovators, Shell experts and mentors to expand your horizons. Shell Ideas360 invites students to become part of an international community of like-minded students and learn skills that will be invaluable for your studies and future career.',
         siteUrl: "https://www.competitionsciences.org/competitions/shell-ideas360/",
         YouTube: "https://youtu.be/HNcexWMNH4k",
+    },
+    {
+        id: 100,        
+        title: "CodeHers by Walmart",
+        about:
+            'This is one of the biggest hackathons in India that is exclusively for women, organized by Walmart Global Tech India. The organization wanted to give women coders equal opportunity of showcasing their talent for innovative coding. The goal of these all-India hackathons is to fill the gaps in the tech workforce created due to the lack of female representation in the field. Walmart ended up adding 350+ talented female coders to its workforce across both the seasons of Walmart CodeHers hackathons, with a compensation range of ₹23-25 lakhs',
+        siteUrl: "https://unstop.com/competition/walmart-codehers-2022-walmart-global-tech-india-266010",
     },
 ];
 

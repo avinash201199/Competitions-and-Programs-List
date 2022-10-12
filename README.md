@@ -1,5 +1,5 @@
-# <h1 align="center">Competitions and Programs List for Students</h1> </font>
 
+## Note : Due to so many pull request by single person this repo has been excluded from hacktorberfest but you can still contribute in this repo as it's very helpful for college students. Thank you !
 [Website URL](https://avinash201199.github.io/Competitions-and-Programs-List/)
 
 This repository contains a list of some great competitions and programs for college students, in which they can compete, learn, explore, and gain experience.
@@ -176,6 +176,40 @@ https://womenintech.girlscript.tech/
 
 <br>Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=f8VcKV4IvhM
+
+</details>
+<details>
+ 
+ <summary>Ascend Fellowship</summary>
+ <br>
+ About<br>
+ 
+  The program is open to women students who are enrolled in a
+full-time course and meet one of the following eligibility criteria:
+Students must have demonstrated excellence in academic or professional
+pursuits, have a keen interest in the intersection of finance and technology,
+and should be curious to learn more about the firm.
+Eligibility criteria
+Second/third-year student in a BTech/BE program
+Third/fourth-year student in a five-year dual degree program
+(BTech + MTech, BE + ME)
+First-year student in a two-year MTech/MS/MCA program; or
+Second-year student in a three-year MCA program
+ 
+<br>Official Website- <br>
+https://www.deshaw.com/forms/OERCQTZFNjEtQUIyQi00ODkwLTlBODktMkU2MDQ1NzQwRUE4
+
+<br>Explanation on Youtube- <br>
+ "https://www.youtube.com/watch?v=96AtHaKpilQ"
+ 
+ </details>
+<details>
+<summary>AWS Health AI Hackathon</summary>
+<br>About<br>
+
+In this hackathon, participants will use Amazon Comprehend Medical, to structure medical record notes, together with other purpose-built Health AI services and broader AWS cloud services, such as SageMaker, to build, train and deploy machine learning models to make sense of health data to address key challenges for health organizations like health equity, bias in healthcare, predicting healthcare outcomes in populations, and improving care quality. You are welcome to use your own datasets and we will also provide datasets for you to consider (see details below). If you bring your own datasets, ensure they don’t contain Protected Health Information (PHI) and are not restricted for use in a public setting (e.g. this hackathon.) Through this hackathon, we hope to stimulate new ways to use machine learning and natural language processing to unlock new insights from health data to improve care and health equity. 
+<br>Official Website- <br>
+https://awshealthai.devpost.com/?ref_feature=challenge&ref_medium=discover
 
 </details>
 
@@ -1577,6 +1611,25 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=_H65WfXPxuA
 
 </details>
+
+<details>
+    <summary>Microsoft Reinforcement Learning Open Source Fest</summary>
+    <br>
+    About <br>
+    The Reinforcement Learning (RL) Open Source Fest is a global online program focused on introducing students to open-source reinforcement learning programs and software development while working alongside researchers, data scientists, and engineers on the Real World Reinforcement Learning team at Microsoft Research NYC. Students will work on a four-month research programming project for either a Summer (May-August 2022) or Fall session (September – December 2022). Accepted students will receive a $10,000 USD stipend. Selected students will receive their stipend payment at the beginning of their session. Microsoft sends the payment directly to a student’s academic institution, which then disperses funds according to the institution’s guidelines.
+    Our goal is to bring together a diverse group of students from around the world to collectively solve open-source reinforcement learning problems and advance the state-of-the-art research and development alongside the RL community while providing open-source code written and released to benefit all.
+    At the end of the program, students will present each of their projects to the Microsoft Research Real World Reinforcement Learning team online.<br>
+    <br>
+    Eligibility Criteria:-<br>
+    To be eligible for the program, students must be enrolled in or accepted into an accredited institution including colleges, universities, Master programs, PhD programs, and undergraduate programs.<br>
+    <br>
+    Official Website- <br>
+    https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/<br>
+    <br>
+    Explanation On YouTube :- <br>
+    https://www.youtube.com/watch?v=UdsMA_4pJsA&t=111s
+</details>
+
 
 <details>
 <summary>Millennium Campus Fellowship Program</summary>

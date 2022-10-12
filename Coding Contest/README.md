@@ -180,3 +180,39 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=7jD6Iy-1EOs
 
 </details>
+
+<details>
+<summary>Google Kick Start</summary>
+<br>
+About <br>
+Onine coding contest with international particpants. Solve quality algorithmic questions designed by engineers at Google.
+Rounds take place region-wise.
+
+
+Scoring is based n penalty time and total points earned.
+Point earned = Total score | Penalty time =  Time taken to pass maximum testcases
+Top partcipants might even get interview opportunity at Google.
+Certificates are given to all participants who submit at least 1 question. Consecutive particpation after an year will also display rank on certificate.
+
+
+
+<br> Official Website- <br>
+https://codingcompetitions.withgoogle.com/kickstart/about <br>
+
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=uGrBHohIgQY&ab_channel=WilliamLin
+
+</details>
+
+<details>
+<summary>Google Code Jam</summary>
+<br>
+About <br>
+Google Code Jam is conducted by Google from 2003.The competition consists of a set of algorithmic problems which must be solved in a fixed amount of time.
+The winner is awarded $15000 and there are smaller prizes for the runner ups.
+<br> Official Website- <br>
+https://codingcompetitions.withgoogle.com/codejam<br>
+
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=cpguolx2oms
+</details>
