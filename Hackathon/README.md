@@ -1,4 +1,4 @@
-<details>
+<details
 <summary> Bug Bash by IIIT, Naya Raipur </summary>
 <br>
 # About <br>
@@ -272,6 +272,16 @@ Link: https://www.competitionsciences.org/competitions/shell-ideas360/ <br>
 </details>
 
 <details>
+<summary> Build a Climate Fintech App by Rapyd </summary>
+<br>
+# About <br>
+Climate Fintech is now one of the fastest growing areas of the Fintech sector. In 2021, Climate Fintech Startups raised $1.2 billion in funding. This is three times more than all the previous years combined. Big ideas are needed to solve the global climate crisis and the ability to use financial technology is playing an increasing role in managing climate change.
+<br>
+<br>
+Link: https://rapyd.hackerearth.com/ <br>
+</details>
+
+<details>
 <summary> CodeHers by Walmart </summary>
 <br>
 
@@ -286,9 +296,18 @@ Link: https://unstop.com/competition/walmart-codehers-2022-walmart-global-tech-i
 
 
 <details>
+<summary> IBM zStudent Contest </summary>
+<br>
+# About <br>
+HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrilling coding contest centered around sustainable energy that will teach you computing skills used to power some of today’s largest enterprise companies. Along the way, you will learn JCL, z/OS, SQL, COBOL, Python, APIs, Unix and more.
+<br>
+<br>
+Link: https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/ <br>
+</details>
+
+<details>
 <summary> Hackathons by Devfolio </summary>
 <br>
-
 # About <br>
  Devfolio is the largest and fastest growing community of builders. It is the platform of choice for hackathons, be it for participating or organizing one. Devfolio is the result of a need for intuitive tools to manage community hackathons like [ETHIndia] (https://ethindia.co/), [wmn] (https://wmn.community/); and [InOut] (https://hackinout.co/) (7 editions so far) handcrafted and organized by the Devfolio team. The platform offers three different hackathon modes - Online, Offline and Online with Application review.
 <br>
