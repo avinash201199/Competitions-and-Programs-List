@@ -13,6 +13,22 @@ A great opportunity to improve debugging, analytical and logical skills by ident
 <br>
 Link: https://unstop.com/hackathon/bug-bash-technovate-2022-international-institute-of-information-technology-iiit-naya-raipur-439868<br>
 </details>
+
+<details>
+<summary> "BUIDL for Web3 Hackathon" </summary>
+<br>
+# About <br>
+The #BUIDL for Web3 Hack (2022) is a hackathon designed by Lumos Metaverse to open up access to the Web3 space for #BUIDLers like you.
+## Win exciting prizes from a grand pool of US $100,000 <br>
+Additional Prize Money by BuidlersTribe - Grant up to $25,000* each in convertible Grant.<br>
+Domain Credits Worth $150,000 by Unstoppable Domains - Distributed to top Participants and Hackathon Winners
+ 
+<br>
+<br>
+Link: https://unstop.com/hackathon/buidl-for-web3-hackathon-2022-lumos-labs-413149<br>
+</details>
+
+
 <!-- SHIFT|The healthcare Hackathon -->
 <details>
 <summary>SHIFT | The Healthcare Hackathon</summary>
