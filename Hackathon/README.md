@@ -279,6 +279,8 @@ Climate Fintech is now one of the fastest growing areas of the Fintech sector. I
 <br>
 <br>
 Link: https://rapyd.hackerearth.com/ <br>
+</details>
+
 <details>
 <summary> CodeHers by Walmart </summary>
 <br>
@@ -302,10 +304,10 @@ HackerEarth brings you IBM zStudent Contest, sponsored by IBM Z Xplore, a thrill
 <br>
 Link: https://www.hackerearth.com/challenges/hackathon/ibm-z-student-contest-2022/ <br>
 </details>
+
 <details>
 <summary> Hackathons by Devfolio </summary>
 <br>
-
 # About <br>
  Devfolio is the largest and fastest growing community of builders. It is the platform of choice for hackathons, be it for participating or organizing one. Devfolio is the result of a need for intuitive tools to manage community hackathons like [ETHIndia] (https://ethindia.co/), [wmn] (https://wmn.community/); and [InOut] (https://hackinout.co/) (7 editions so far) handcrafted and organized by the Devfolio team. The platform offers three different hackathon modes - Online, Offline and Online with Application review.
 <br>
