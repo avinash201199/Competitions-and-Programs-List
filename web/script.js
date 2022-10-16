@@ -91,6 +91,13 @@ const data = [
         YouTube: "https://www.youtube.com/watch?v=Jkul-W1KBTk",
     },
     {
+        title: "AWS Deepracer League",
+        about:
+            "AWS DeepRacer is an integrated learning system for users of all levels to learn and explore reinforcement learning and to experiment and build autonomous driving applications.",
+        siteUrl: "https://aws.amazon.com/deepracer/league",
+        YouTube: "https://www.youtube.com/watch?v=ezhhS0n1rSc",
+    },
+    {
         title: "Capgemini Tech Challenge",
         about:
             "Capgemini Tech Challenge is one of the largest hackathons in India. Over 7.5 Lakh people have been a part of this challenge in the last seven years, 35% of them being women. Last year, only the finest lot of the registered participants made it to the finale.In case you are wondering what’s in store for you: There are prizes worth INR 20, 00, 000* A chance to land your dream job* at Capgemini Exclusive mentoring from the tech wizards of Capgemini An opportunity to showcase your tech skills in front of a C- suite jury;n the celebrated leaders from the start - up, academia and IT industry.",
