@@ -214,6 +214,17 @@ https://awshealthai.devpost.com/?ref_feature=challenge&ref_medium=discover
 </details>
 
 <details>
+<summary>AWS Deepracer League</summary>
+<br>About<br>
+AWS DeepRacer is an integrated learning system for users of all levels to learn and explore reinforcement learning and to experiment and build autonomous driving applications.
+AWS DeepRacer League brings developers from all over the world together through Machine Learning (ML) competition. With hands-on training, participants learn to build reinforcement learning (RL) models to race on an AWS DeepRacer device and in the 3D virtual racing simulator. Whether you're a seasoned pro at the top of the global leaderboard or developing a model for the first time, AWS DeepRacer is the fastest way to get rolling with ML.
+<br>Official Website- <br>
+https://aws.amazon.com/deepracer/league
+<br>Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=ezhhS0n1rSc
+</details>
+
+<details>
 <summary>Bubble Cup</summary>
 <br>About<br>
 
