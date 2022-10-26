@@ -216,3 +216,16 @@ https://codingcompetitions.withgoogle.com/codejam<br>
 Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=cpguolx2oms
 </details>
+
+
+<details>
+<summary>Linux Foundation</summary>
+<br>
+About <br>
+The Linux Foundation provides a neutral, trusted hub for developers and organizations to code, manage, and scale open technology projects and ecosystems.
+
+ <br>
+https://www.linuxfoundation.org/<br>
+
+
+</details>
