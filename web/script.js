@@ -105,6 +105,12 @@ const data = [
         YouTube: "https://www.youtube.com/watch?v=Q-JFUzGSWT8",
     },
     {
+        title: "SPIDER 3.O: The Web Crawler",
+        about:
+            "SPIDER, The Web Crawler is a front-end web developing competition for all the learners out there who have dreamt of building a website of their own. The event SPIDER is designed to boost your learning of 'Basic Web Development' through a more practical approach, something which our education system lacks.",
+        siteUrl: "https://unstop.com/o/igH3Tql?lb=ICLF5wJ",
+    },
+    {
         title: "Code For Good",
         about:
             "Use your coding skills to make a difference At our Code for Good hackathon, you'll collaborate with other coders to develop innovative technology solutions for not-for-profit organizations. You'll also learn about starting a Technology career with us while being guided by the sharpest minds in our industry. ",
