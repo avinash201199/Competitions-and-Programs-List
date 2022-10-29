@@ -248,6 +248,14 @@ Attractive prizes could be won with a cash prize pool of INR 6,00,000. Top Teams
         YouTube: "https://youtu.be/ZOSH8tXbJao",
     },
     {
+        title: "LetsUpgrade JavaScript Essentials Program",
+        about: `Learn and Upskill your JavaScript knowledge from basics to advance decorator level. At the end of the week, you will be able to code your own applications. `,
+        siteUrl:
+            "https://letsupgrade.in/programs/essentials-javascript-programming?invite=yashk9293849",
+        YouTube:
+            "https://youtu.be/IG0ISfr9HhI?list=PL2U8BLk0YRjCU6gosScOOsZXaNSCy30Cx",
+    },
+    {
         title: "Flipkart Runway",
         about: `Flipkart Runway is Flipkart's early career program for women engineers. It aims at laying an early foundation for women in engineering by giving them early exposure to developmental opportunities through challenging & real-time problem statements, mentoring, and networking opportunities. Open to all women engineers who are in 2nd year of their engineering course. Selected students will get an opportunity to intern with Flipkart . `,
         siteUrl:
