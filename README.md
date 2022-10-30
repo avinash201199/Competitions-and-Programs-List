@@ -2280,6 +2280,18 @@ https://medium.com/@archanakumari943064/all-about-women-engineers-program-7bb7a7
 </details>
  
 <details>
+<summary>Walmart Sparkplug 2022</summary>
+<br>
+About 
+ <br>
+  Sparkplug is a unique online coding challenge for prospective students who want to pursue summer internships with Walmart Global Tech in India in 2023! This is a     challenge designed for passionate coders who want to come experience working with the best engineering minds at Walmart Global Tech based in Bangalore/Chennai/       Gurgaon. The Top 150 students will be selected for summer internship opportunities across various development teams at a monthly stipend of ₹1-1.1 lakh.
+<br><br>
+Official Website- https://one.walmart.com/content/globaltechindia/en_in.html<br><br>
+Youtube link- https://www.youtube.com/watch?v=P-Bo6_iyeYU
+<br>
+</details>
+ 
+<details>
 <summary>Yandex Algorithm</summary>
 <br>
 About <br>
@@ -2318,6 +2330,8 @@ Official Website- <br>
 [https://www.monsterindia.com/zuno/fellowship?utm_source=september_fellowship&utm_medium=retention_zunoseptember&utm_campaign=fellowship_email&utm_id=zuno_ia](https://devinfo.in/code-india-fellowship/)
 <br>
 </details>
+ 
+
 
 For any doubt contact me here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
