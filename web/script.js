@@ -936,6 +936,13 @@ A great community of like-minded individuals! We are a group of 40 young women c
             'This is one of the biggest hackathons in India that is exclusively for women, organized by Walmart Global Tech India. The organization wanted to give women coders equal opportunity of showcasing their talent for innovative coding. The goal of these all-India hackathons is to fill the gaps in the tech workforce created due to the lack of female representation in the field. Walmart ended up adding 350+ talented female coders to its workforce across both the seasons of Walmart CodeHers hackathons, with a compensation range of ₹23-25 lakhs',
         siteUrl: "https://unstop.com/competition/walmart-codehers-2022-walmart-global-tech-india-266010",
     },
+    {
+        id: 100,
+        title: "Walmart Sparkplug 2022",
+        about: "Sparkplug is a unique online coding challenge for prospective students who want to pursue summer internships with Walmart Global Tech in India in 2023! This is a challenge designed for passionate coders who want to come experience working with the best engineering minds at Walmart Global Tech based in Bangalore/Chennai/Gurgaon. The Top 150 students will be selected for summer internship opportunities across various development teams at a monthly stipend of ₹1-1.1 lakh.",
+        siteUrl: "https://one.walmart.com/content/globaltechindia/en_in.html",
+        Youtube: "https://www.youtube.com/watch?v=P-Bo6_iyeYU"
+    }
 ];
 
 // --------------------------------------------------------------------------------------------------------------------
