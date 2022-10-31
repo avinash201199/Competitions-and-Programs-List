@@ -35,6 +35,12 @@ They also divide problems topic wise manner e.g. In case you just completed for 
 The main domain they cover: Algorithms, Mathematics, SQL, Functional programming, AI and more.`,
     siteUrl: "https://www.hackerrank.com/contests",
   },
+  
+  {
+    title: "LeetCode Contests",
+    about: `Every Sunday the contest is open and it consists of 4 question and the time duration is 1.5 hrs. The main domain they cover: Algorithms, Mathematics, SQL, System Design, Data Structures.`,
+    siteUrl: "https://www.leetcode.com/contest",
+  },
 ];
 
 // --------------------------------------------------------------------------------------------------------------------
