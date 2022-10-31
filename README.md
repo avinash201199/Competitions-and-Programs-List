@@ -2058,6 +2058,32 @@ https://technovationchallenge.org/<br>
 <br>
  
 </details>
+ 
+ <details>
+<summary>Techfest IIT Bombay Hackathon 2022-23</summary>
+<br>
+About <br>
+Online is the new normal. Online services had made things super easy but have also posed some problems. In this competition, participants are required to design a platform that can tackle the major challenges faced during online shopping. The ultimate aim is to enhance the online shopping experience for the consumers and drive conversions for the merchants.
+
+You can choose one of the given methods on your platform
+
+1. Preventing Cart Abandonment
+2. Encouraging customers not to use COD
+3. Referral Program
+  
+● The Participants have to register on the official Techfest Website and fill in all the necessary details: http://www.techfest.org > Competitions > Simpl Case Challenge >Explore More> Register or may directly
+register on techfest.org/competitions/casechallenge.
+● Submission Format- The submission should be emailed to casechallenge@techfest.org with the subject Simpl Case Challenge Submission: Team Id (For example: Simple Case Challenge: CC12345678)
+
+
+<br>
+ 
+ 
+Official Website- <br>
+http://www.techfest.org <br>
+<br>
+ 
+</details>
 
 <details>
   <summary>TopCoder Open</summary>
