@@ -120,6 +120,12 @@ const data = [
         YouTube: "https://www.youtube.com/watch?v=ey5XU4MU6VQ",
     },
     {
+        title: "Codegeist 2022",
+        about:
+            "Codegeist is Atlassian’s annual developer hackathon where you can unleash your potential by building custom apps and integrations on Atlassian’s serverless app development platform — Forge. Developers from around the globe showcase their creativity through apps that extend Atlassian products.",
+        siteUrl: "https://codegeist.devpost.com/",
+    },
+    {
         title: "Code Gladiators ",
         about:
             "Code Gladiators is a TechGig hackathon presented by Cognizant. This hackathon continues for 4 months where an individual can write, compile and run code in a live coding environment provided by the application. The total prize pool at Code Gladiators worths Rs 50 Lakh. Due to the pandemic, this hackathon is hosted over a virtual platform. The registration of the TechGig Code Gladiators initiated during summers of every year. After a user completes the registration process 2 coding problems will be available to solve. The highest score regardless of unbound attempts will be considered as the final score. ",
