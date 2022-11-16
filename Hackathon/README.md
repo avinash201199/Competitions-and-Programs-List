@@ -333,3 +333,20 @@ The top 30 teams shortlisted from the ideation phase will be invited for an offl
 <br>
 Link : https://unstop.com/hackathon/innohacks-hack-n-innovate-kiet-group-of-institutions-kiet-ghaziabad-281899 <br>
 </details>
+
+<details>
+<summary> EY TECHNATHON </summary>
+<br>
+#About <br>
+Welcome to the 3rd edition of the EY Techathon, your opportunity to build a better world in the Metaverse.
+Use technology and your imagination to solve any one of the three real-world challenges: Engineering,Entertainment,Health
+
+Participants will get a chance to use cutting-edge technology and interact with EY leadership and industry veterans.
+
+Winners will get a chance to win exciting cash prizes and internship opportunities at EY.
+College students from every discipline, across the country can participate in this technology challenge.
+
+
+<br>
+Link : https://www.ey.com/en_in/techathon-3 <br>
+</details>
