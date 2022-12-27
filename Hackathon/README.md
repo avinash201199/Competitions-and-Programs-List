@@ -63,6 +63,32 @@ SHIFT is the Siemens Healthineers Innovation Ecosystem. SHIFT is driven by Sieme
 </details>
 
 <details>
+
+<summary>American Express Makeathon</summary>
+<br>
+
+# About <br>
+American Express is back with Makeathon 2021, a diversity event for women technologists across engineering colleges! This team-based competition will club essential elements of a coding based challenge (Round 1) and a Hackathon/ prototype building (Round 2), offering budding women engineers the opportunity to showcase their technical prowess on a national platform competing with some of the best minds in the country.<br>
+
+## Eligibilty <br>
+Women students graduating in the year 2022 & 2023.<br>
+
+## Prizes <br>
+ ### Winning Team
+ - Full time/Internship opportunities with American Express!
+ - Win Apple watches!
+ ### First Runner up team
+ - Full time/Internship opportunities with American Express!
+ - Win Apple airpods!
+ ###Second Runner up team
+ - Full time/Internship opportunities with American Express!
+ - Win Samsung tablets!
+ ### Special Prizes
+ - Gift vouchers for top 10 teams in the finale.
+ 
+ ### Official Website : [American Express Makeathon](https://american-express-makeathon-2022.hackerearth.com/)
+<br>
+ 
 <summary>AWS Health AI Hackathon</summary>
 <br>About<br>
 
