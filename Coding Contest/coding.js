@@ -46,7 +46,6 @@ const data = [
   },
   
   
-   
   {
     title: "Google Code Jam",
     about:
@@ -61,6 +60,14 @@ const data = [
       "Onine coding contest with international particpants. Solve quality algorithmic questions designed by engineers at Google.Rounds take place region-wise.Scoring is based n penalty time and total points earned.Point earned = Total score | Penalty time =  Time taken to pass maximum testcasesTop partcipants might even get interview opportunity at Google. Certificates are given to all participants who submit at least 1 question. Consecutive particpation after an year will also display rank on certificate.",
     siteUrl: "https://codingcompetitions.withgoogle.com/codejam",
     YouTube: "https://www.youtube.com/watch?v=cpguolx2oms",
+  },
+  
+    {
+    title: "Global Coding Challenge by Credit Suisse",
+    about:
+      "The Global Coding Challenge is an online coding competition between participants across the globe. Around 3 weeks, users will be able to attempt solutions to nine coding problems. Participants can improve their code as many times as they like during the competition. After the completion of the competition, the Leaderboards will lock and the Global Coding Champion will be announced shortly. The competition has been entirely designed, built and run by Credit Suisse TAs. Competition is split across 7 regions: UK, USA & Canada, Europe, India, Southeast Asia, Switzerland, and the rest of the world.9 original questions, ranging from easy to hard, to be answered using any of 6 popular programming languages.There are prizes for the best individual coder globally, the top 3 coders of all 7 regions. Don't miss the chance to grab exciting prizes including MacBook Pro, iPhone, iPad Pro and much more! In the past competitions, students who have participated and done well have also joined the Credit Suisse team on a Summer Internship or as Technical Analysts.",
+    siteUrl: "https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/",
+    YouTube: "https://youtu.be/9Q4RDyqgN2g",
   },
   
  
