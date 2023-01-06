@@ -27,19 +27,21 @@ At hackCBS, we help you turn your ideas into reality by providing a comforting a
     YouTube: "https://www.youtube.com/watch?v=tDcEn5Mu6nE",
   },
   {
-    title: "HackerRank Contests",
-    about: `If you are a beginner and want to develop basic concept then I will suggest you go with this website because they have some good problems for beginners which is sorted level wise i.e. you will get problems in increasing difficulty level. And by applying some basic logic you will able to crack them. And also we can say this is they have a good beginner-friendly environment.
+    title: " EY TECHNATHON",
+    about: `Welcome to the 3rd edition of the EY Techathon, your opportunity to build a better world in the Metaverse.
+Use technology and your imagination to solve any one of the three real-world challenges: Engineering,Entertainment,Health
 
-They also divide problems topic wise manner e.g. In case you just completed for loop concept and want to solve the problem on that then you can. And they have some other features like 30 Days of codes or recently they publish a new section i.e. interview preparation where you will get some videos related to technical interview rounds.
+Participants will get a chance to use cutting-edge technology and interact with EY leadership and industry veterans.
 
-The main domain they cover: Algorithms, Mathematics, SQL, Functional programming, AI and more.`,
-    siteUrl: "https://www.hackerrank.com/contests",
+Winners will get a chance to win exciting cash prizes and internship opportunities at EY.
+College students from every discipline, across the country can participate in this technology challenge.`,
+    siteUrl: "https://www.ey.com/en_in/techathon-3",
   },
   
   {
-    title: "LeetCode Contests",
-    about: `Every Sunday the contest is open and it consists of 4 question and the time duration is 1.5 hrs. The main domain they cover: Algorithms, Mathematics, SQL, System Design, Data Structures.`,
-    siteUrl: "https://www.leetcode.com/contest",
+    title: "Smart India Hackathon",
+    about: `Smart India Hackathon is a nationwide initiative to provide students with a platform to solve some of the pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem-solving. The first four editions SIH2017, SIH2018, SIH2019 and SIH2020 proved to be extremely successful in promoting innovation out-of-the-box thinking in young minds, especially engineering students from across India.`,
+    siteUrl: "https://sih.gov.in//",
   },
 ];
 
