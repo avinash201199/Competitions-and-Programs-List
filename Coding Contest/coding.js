@@ -28,6 +28,24 @@ const data = [
     siteUrl: "https://codingcompetitions.withgoogle.com/codejamio",
     YouTube: "https://www.youtube.com/watch?v=Q_2TwBhqHPg",
   },
+  
+  {
+    title: "Code Gladiators",
+    about:
+      "Code Gladiators is an annual coding competition by TechGig, that draws the best and the brightest coding talent from all parts of India. With multiple contests in emerging technologies and the coveted title of Code Gladiators up for grabs, the competition sees enthusiastic participation and has grown from strength to strength with each passing year.The last date to register in this contest is June 20,2022.",
+    siteUrl: "https://www.techgig.com/codegladiators",
+    YouTube: "https://youtu.be/fzymgR7EdUs",
+  },
+  
+   
+  {
+    title: "Google Code Jam",
+    about:
+      "Google Code Jam is conducted by Google from 2003.The competition consists of a set of algorithmic problems which must be solved in a fixed amount of time.The winner is awarded $15000 and there are smaller prizes for the runner ups.",
+    siteUrl: "https://codingcompetitions.withgoogle.com/codejam",
+    YouTube: "https://www.youtube.com/watch?v=cpguolx2oms",
+  },
+  
 ];
 
 // --------------------------------------------------------------------------------------------------------------------
