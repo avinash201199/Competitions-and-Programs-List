@@ -70,10 +70,19 @@ const data = [
     YouTube: "https://youtu.be/9Q4RDyqgN2g",
   },
   
+   {
+    title: "Hackerrank Contests",
+    about:
+      "Hackerrank Conducts various coding contest which are based on the core knowledge of Data Structures and Algorithms and also for any specific language. They have wide range of exciting quality prizes like macbook too. ",
+    siteUrl: "https://www.hackerrank.com/contests",
+    YouTube: "https://youtu.be/2t7jYYBW4NI",
+  },
+  
+  
   {
     title: "Leetcode Contests",
     about:
-      "eetcode hosts weekly and biweekly competitions mostly centred around data structures and algorithms. Each contest has a variety of prizes to be won.",
+      "Leetcode hosts weekly and biweekly competitions mostly centred around data structures and algorithms. Each contest has a variety of prizes to be won.",
     siteUrl: "https://leetcode.com/contest/",
     YouTube: "https://youtu.be/elUB_Ga82tM",
   },
