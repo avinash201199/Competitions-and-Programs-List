@@ -70,7 +70,14 @@ const data = [
     YouTube: "https://youtu.be/9Q4RDyqgN2g",
   },
   
- 
+  {
+    title: "Leetcode Contests",
+    about:
+      "eetcode hosts weekly and biweekly competitions mostly centred around data structures and algorithms. Each contest has a variety of prizes to be won.",
+    siteUrl: "https://leetcode.com/contest/",
+    YouTube: "https://youtu.be/elUB_Ga82tM",
+  },
+  
   
 ];
 
