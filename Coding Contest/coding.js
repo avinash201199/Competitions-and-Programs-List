@@ -87,6 +87,14 @@ const data = [
     YouTube: "https://youtu.be/elUB_Ga82tM",
   },
   
+  {
+    title: "Newton School Grand Coding Contest",
+    about:
+      "Newton School Grand Coding Contest is an annual coding competition by Newton School, it is one of India's Premier Coding Challenges with prizes upto 10Lac Rupees. Top coders of India and across the globe compete in the foremost competitive coding contest of the country. It also gives access to internships and job opportunities directly through Newton School, with their hiring partner network of 800+ companies.",
+    siteUrl: "https://www.newtonschool.co/coding-contest",
+    YouTube: "https://youtu.be/W8KXpxYK900",
+  },
+  
   
 ];
 
