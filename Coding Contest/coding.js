@@ -37,6 +37,15 @@ const data = [
     YouTube: "https://youtu.be/fzymgR7EdUs",
   },
   
+    {
+    title: "FOSSASIA Codeheat",
+    about:
+      "Codeheat is a coding contest for FOSSASIA projects on GitHub. The contest is separated into two months period after which winners of each period are announced. The jury chooses the winners from the top 10 contributors according to code quality and relevance of commits for the project each period. The jury also takes other contributions like submitted scrum reports and technical blog posts into account, but of course awesome code is the most important item on the list. Other participants have the chance to win Tshirts and Swag and get certificates of participation.",
+    siteUrl: "https://codeheat.org/",
+    YouTube: "https://www.youtube.com/watch?v=7jD6Iy-1EOs",
+  },
+  
+  
    
   {
     title: "Google Code Jam",
@@ -45,6 +54,16 @@ const data = [
     siteUrl: "https://codingcompetitions.withgoogle.com/codejam",
     YouTube: "https://www.youtube.com/watch?v=cpguolx2oms",
   },
+  
+   {
+    title: "Google Kick Start",
+    about:
+      "Onine coding contest with international particpants. Solve quality algorithmic questions designed by engineers at Google.Rounds take place region-wise.Scoring is based n penalty time and total points earned.Point earned = Total score | Penalty time =  Time taken to pass maximum testcasesTop partcipants might even get interview opportunity at Google. Certificates are given to all participants who submit at least 1 question. Consecutive particpation after an year will also display rank on certificate.",
+    siteUrl: "https://codingcompetitions.withgoogle.com/codejam",
+    YouTube: "https://www.youtube.com/watch?v=cpguolx2oms",
+  },
+  
+ 
   
 ];
 
