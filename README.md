@@ -1967,6 +1967,17 @@ https://ssoc.devfolio.co/<br>
 </details>
 
 <details>
+<summary>Solana Hackathons</summary>
+<br>
+About <br>
+Solana hackathons provide ambitious builders a launchpad to create projects that push the web3 and crypto space forward.
+
+<br>
+Official Website- <br>
+https://solana.com/hackathon<br>
+</details>
+
+<details>
 <summary>Solution Challenge </summary>
 <br>
 About <br>
@@ -2001,6 +2012,28 @@ Students get involved in and become familiar with the bitcoin open source commun
 https://www.summerofbitcoin.org<br>
 Explanation on Youtube- <br>
 https://youtu.be/GwpTNKCsgSc
+</details>
+
+<details>
+<summary>Superteam Bounties</summary>
+<br>
+About <br>
+Bounties are a way to learn and dabble in opportunities to build in web3. These are some of the bounties offered by superteam.
+
+<br>
+Official Website- <br>
+https://superteam.fun/bounties<br>
+</details>
+
+<details>
+<summary>Superteam Instagrants</summary>
+<br>
+About <br>
+Equity-free grants to support builders across the Solana ecosystem. Instagrants are typically for contributors and members. Applications take less than 15 minutes. Good luck!
+
+<br>
+Official Website- <br>
+https://superteam.fun/instagrants<br>
 </details>
 
 <details>
