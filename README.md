@@ -5,12 +5,12 @@ This repository contains a list of some great competitions and programs for coll
 
 This experience will improve their job resumes for jobs and help them in their career growth.
 
-### How to contribute 😎<br>
+### Ways to contribute 😎<br>
 
 You can contribute in many ways to this repository:
 1. If you are beginner, then you can contribute by improving the structure of the repository. <br>
 2. Improve the UI of the website or add new features . <br>
-3. Add new competition in the list. <br>
+3. Add new competition into the list. <br>
 
 Take a look at the [CONTRIBUTING.md](https://github.com/avinash201199/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started.
 
