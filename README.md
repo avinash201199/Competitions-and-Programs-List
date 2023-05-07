@@ -9,8 +9,8 @@ This experience will improve their job resumes for jobs and help them in their c
 
 You can contribute in many ways to this repository:
 1. If you are beginner, then you can contribute by improving the structure of the repository. <br>
-2. You could design a website for this repository that includes its content. <br>
-3. You could add new competitions to the list. <br>
+2. Improve the UI of the website or add new features . <br>
+3. Add new competition in the list. <br>
 
 Take a look at the [CONTRIBUTING.md](https://github.com/avinash201199/Competitions-and-Programs-List/blob/main/CONTRIBUTING.md) file to get started.
 
