@@ -376,3 +376,22 @@ College students from every discipline, across the country can participate in th
 <br>
 Link : https://www.ey.com/en_in/techathon-3 <br>
 </details>
+
+<details>
+<summary> ICON HyperBuild </summary>
+<br>
+#About <br>
+Date: January 26 – March 16, 2023 (Submissions), Competition ends March 27, 2023
+
+Location: Online
+
+Are you a blockchain developer looking to develop a cross-chain project that transcends blockchain barriers? If so, this hackathon is for you.
+
+ICON provides interoperability technologies such as BTP, ICON Bridge and ICE/Snow network, allowing developers to crossover multiple blockchains. You will be challenged to use ICON tools to build an interoperable solution from one of the following blockchain trending categories: tooling/infrastructure, social impact/public good, metaverse, NFT, and gaming and utility.
+
+Let’s say you work in the social/impact/public good category. In that case, you will be tasked with developing blockchain protocols/platforms built using ICON project interoperability features to create significant or positive change to solve or at least address social issues and challenges such as climate change, economic inequality, fake news, and other harmful or unjust practices in the world.
+
+This is a competitive hackathon awarding $40,000 in total prizes. 
+<br>
+Link : https://iconhyperbuild.devpost.com/ <br>
+</details>
