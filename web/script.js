@@ -153,6 +153,20 @@ const data = [
             "https://www.geeksforgeeks.org/coderita-online-coding-competition-for-women-by-geeksforgeeks/",
     },
     {
+        title: "CodeRush October 23",
+        about : 
+            `codeRush contests is conducted by Newtonschool you can practice the sample question before the contests.
+            You can submit your code in C++, C, Java, Python 3 or Javascript.
+            Please attempt the test on Laptop/Desktop. You may not get an optimal coding experience on mobile phones.
+            Score is awarded only if all the test cases pass for a question.
+            You are ranked on basis of the number of questions solved. Ties are broken on the basis of penalty time.
+            The penalty time is computed as the sum of the total time elapsed when you submitted the correct submission plus a penalty of 10 minutes for every rejected submission (Wrong answer, Time limit exceeded, Runtime Error) for a problem you solved
+            In case of any issues, please email at support@newtonschool.co
+            Java coders: You need to have a Main class in your program with a main function
+            C coders: You need to return int for main function`,
+        siteUrl: "https://my.newtonschool.co/contest/all",
+    },
+    {
         title: " Codiva by Adobe ",
         about: `Codiva is a hackathon conducted by Adobe exclusively for women. Students who are in their final or pre-final years can be a part of this. The top-performing candidates are eligible for an interview for either an internship or full-time employment. And the packages offered by Adobe are going to be a great boost to the overall average package at your college. 
             Prizes
