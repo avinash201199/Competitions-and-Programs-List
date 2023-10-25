@@ -1946,12 +1946,12 @@ https://www.youtube.com/watch?v=nRjwazPk8S4
 
 
 <details>
-<summary>Script Winter of Code </summary>
+<summary>Social Winter of Code </summary>
 <br>
 About <br>
-Script Winter of Code is an open-source program envisioned by the Script Foundation. It aims to bring students into the world of open source development and see the power of unified problem-solving in real time. The students will be guided by experienced mentors throughout their journey. They will learn the skills essential in the world of programming, all the while developing a deep appreciation for the world of open-source. Registrations has started and will close on 10th November
+Social Winter of Code is an open-source program envisioned by Social (Formerly Script Foundation). It aims to bring students into the world of open source development and see the power of unified problem-solving in real time. The students will be guided by experienced mentors throughout their journey. They will learn the skills essential in the world of programming, all the while developing a deep appreciation for the world of open-source. Registrations has started and will close on 10th November
 <br> Official Website- <br>
-https://swoc.scriptindia.org/#/<br>
+https://www.socialwinterofcode.com/#/<br>
 
 </details>
 
