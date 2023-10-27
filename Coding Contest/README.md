@@ -12,6 +12,21 @@ https://youtu.be/fzymgR7EdUs
 </details>
 
 <details>
+<summary>TCS CodeVita</summary>
+<br>
+About <br>
+  
+CodeVita, organized annually by TCS, is open to graduate students, promoting competitive programming and skill growth. Top participants earn TCS job interview opportunities. Started in 2012, it raises awareness about competitive coding.
+
+Eligibility: Those graduating in 2024, 2025, 2026, or 2027 worldwide, pursuing engineering/science-related degrees, are eligible. Registration details are typically announced by TCS in advance of the competition.
+<br> Official Website- <br>
+https://codevita.tcsapps.com<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=V3YUv3nj-UI
+
+</details>
+
+<details>
 <summary> Job-a-Thon </summary>
 <br>About<br>
 
