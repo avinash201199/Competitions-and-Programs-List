@@ -1099,6 +1099,20 @@ https://www.youtube.com/watch?v=mq_FIHdxmIk
 </details>
 
 <details>
+<summary>hacksquad.dev</summary>
+<br>
+About <br>
+Hacksquad is a community event that runs alongside Hacktoberfest, encouraging people to contribute to open source projects as part of a team.You can create your own squad or get assigned to a random one. Each squad competes to submit the most approved pull requests (PRs) during the month of October. Hacksquad squads provide a great way to meet other developers and learn from their experiences. You'll be surrounded by people who are passionate about open source and are eager to help you succeed. Hacksquad squads up for an exciting month of learning and collaboration during Hacktoberfest! You'll have the opportunity to learn new things from variety of workshops which will help you improve your skills. Hacksquad squads compete to submit the most approved PRs, so there's an added sense of excitement and competition. And by the end of the event, the top 60 squads will win awesome swag! there will be around ~300 winners!<br>
+<br>
+Official Website- <br>
+https://www.hacksquad.dev/<br>
+<br>
+Explanation on Youtube- <br>
+https://www.youtube.com/watch?v=n-MArqFDH-s
+
+</details>
+
+<details>
 <summary>HackerRamp by Myntra</summary>
 <br>
 About <br>
