@@ -18,10 +18,12 @@ body {
 }
 
 .nav-ul {
-    display: flex;
+    display: grid;
+    grid-auto-flow: column;
     list-style: none;
     justify-content: center;
 }
+
 
 .nav-ul li {
     font-size: 1.5rem;
@@ -32,6 +34,19 @@ body {
 .nav-ul li a {
     font-size: 1.5rem;
     padding: 10px;
+}
+.nav-ul  a .GitHubIcon {
+    font-size: 2rem;
+    transition: all 250ms ease-in-out;
+}
+.nav-ul  a .GitHubIcon:hover {
+    font-size: 2.5rem;
+    right: 2.8rem;
+}
+
+.nav-ul a .GitHubIcon:active {
+    font-size: 2.5rem;
+   
 }
 
 .nav-ul li a.active {
@@ -53,35 +68,20 @@ body {
     position: relative;
 }
 
-.wrapper .container a{
+.wrapper .container a {
     color: inherit;
     text-decoration: none;
 }
 
-.wrapper .container a .GitHubIcon{
-    position: absolute;
-    top: 4rem;
-    right: 3rem;
-    font-size: 4rem;
-    cursor: pointer;
-    transition: all 0.1s linear;
-}
 
-.wrapper .container a .GitHubIcon:hover{
-    font-size: 4.4rem;
-    right: 2.8rem;
-}
 
-.wrapper .container a .GitHubIcon:active{
-    font-size: 3.8rem;
-    right: 3.1rem;
-}
 
-.wrapper .container .greeting{
+
+.wrapper .container .greeting {
     font-size: 1.8rem;
 }
 
-.wrapper .container .greeting span{
+.wrapper .container .greeting span {
     font-size: 3rem;
     color: #ff0000;
 }
@@ -129,11 +129,11 @@ body {
     margin-top: 1.2rem;
     transition: all 1s ease-in-out;
     transition: all 0.5s cubic-bezier(0, 1, 0, 1);
-    
+
 }
 
 
-.wrapper .container .accordion_wrapper .accordion_container:last-child{
+.wrapper .container .accordion_wrapper .accordion_container:last-child {
     border-bottom: none;
 }
 
@@ -151,17 +151,17 @@ body {
     font-size: 1.85rem;
     font-weight: 500;
     margin-left: .5rem;
-    
+
 }
 
-.wrapper .container .accordion_wrapper .accordion_container .accordion_title .arrow_icon{
+.wrapper .container .accordion_wrapper .accordion_container .accordion_title .arrow_icon {
     font-size: 2rem;
     color: #284B63;
     opacity: 0.8;
 }
 
-.wrapper .container .accordion_wrapper .accordion_container .accordion_title .open{
-    transform: rotate(450deg); 
+.wrapper .container .accordion_wrapper .accordion_container .accordion_title .open {
+    transform: rotate(450deg);
     transition: all 0.3s ease-in-out;
 }
 
@@ -203,56 +203,61 @@ body {
     word-wrap: break-word;
 }
 
-.wrapper .container .accordion_wrapper .accordion_container .active{
+.wrapper .container .accordion_wrapper .accordion_container .active {
     display: flex;
 }
 
-.wrapper .container .footer-social-icons a{
+.wrapper .container .footer-social-icons a {
     transition: all 0.1s linear;
 }
 
-.search-bar-container
-{
+.search-bar-container {
     width: 80%;
     margin: 3rem auto;
     display: flex;
     align-items: center;
 }
+
 .search-bar-container input {
     height: 3rem;
     width: 20rem;
     font-size: 1.5rem;
     padding: 2px 5px;
 }
+
 .search-bar-container button {
     height: 3rem;
 }
-.search-bar-container button .fa  {
+
+.search-bar-container button .fa {
     font-size: 1.5rem;
     padding: 5px 5px;
 }
-.search-bar-container button .fa:hover  {
+
+.search-bar-container button .fa:hover {
     cursor: pointer;
     transform: scale(1);
 }
 
 /* for @responsiveness -> smaller screens */
-@media (max-width: 768px){
-    .wrapper .container a .GitHubIcon{
-        top: 2.5%;
-        font-size: 3.3rem;
+@media (max-width: 768px) {
+    .nav-ul{
+      display: flex;
+    
+      flex-wrap:wrap;
     }
-    .wrapper .container .accordion_wrapper{
+
+    .wrapper .container .accordion_wrapper {
         width: 92%;
     }
 
-    .wrapper .container .accordion_wrapper .accordion_container .accordion_content h5{
+    .wrapper .container .accordion_wrapper .accordion_container .accordion_content h5 {
         font-size: 1.4rem;
     }
 }
 
 footer {
-    
+
     padding: 15px;
     text-align: center;
     justify-content: space-evenly;
@@ -262,9 +267,10 @@ footer {
     padding: 20px;
     font-size: 30px;
     color: black;
-   
+
 
 }
+
 .fa:hover {
     transform: scale(1.5);
     /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
