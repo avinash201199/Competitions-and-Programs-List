@@ -979,6 +979,12 @@ A great community of like-minded individuals! We are a group of 40 young women c
         about: "Sparkplug is a unique online coding challenge for prospective students who want to pursue summer internships with Walmart Global Tech in India in 2023! This is a challenge designed for passionate coders who want to come experience working with the best engineering minds at Walmart Global Tech based in Bangalore/Chennai/Gurgaon. The Top 150 students will be selected for summer internship opportunities across various development teams at a monthly stipend of ₹1-1.1 lakh.",
         siteUrl: "https://one.walmart.com/content/globaltechindia/en_in.html",
         Youtube: "https://www.youtube.com/watch?v=P-Bo6_iyeYU"
+    },
+    {
+        id: 103,
+        title: "Technovation",
+        about: "The Technovation Hackathon aims at discovering innovative ideas from young minds for problems in society.With a top price of 1lackh rupees",
+        siteUrl: "https://hackathon.sharda.ac.in/",
     }
 ];
 
