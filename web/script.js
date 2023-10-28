@@ -979,6 +979,12 @@ A great community of like-minded individuals! We are a group of 40 young women c
         about: "Sparkplug is a unique online coding challenge for prospective students who want to pursue summer internships with Walmart Global Tech in India in 2023! This is a challenge designed for passionate coders who want to come experience working with the best engineering minds at Walmart Global Tech based in Bangalore/Chennai/Gurgaon. The Top 150 students will be selected for summer internship opportunities across various development teams at a monthly stipend of ₹1-1.1 lakh.",
         siteUrl: "https://one.walmart.com/content/globaltechindia/en_in.html",
         Youtube: "https://www.youtube.com/watch?v=P-Bo6_iyeYU"
+    },
+    {
+        id: 102,
+        title: "Hackout 2023",
+        about: "Hackout is Headout's annual open hackathon, designed to unite the community for an entire week of innovation and collaboration.",
+        siteUrl: "https://www.hackout.io/",
     }
 ];
 
