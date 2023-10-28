@@ -395,3 +395,21 @@ This is a competitive hackathon awarding $40,000 in total prizes.
 <br>
 Link : https://iconhyperbuild.devpost.com/ <br>
 </details>
+
+<details>
+<summary>Cricket Code Champions Hack</summary>
+<br>
+#About 
+<br>
+STARTS ON: Nov 01, 2023, 06:00 PM IST ,ENDS ON: Nov 19, 2023, 11:59 PM IST
+<br>
+Mode: Online
+<br>
+Cricket Code Champions Hack is a hackathon that merges the thrills of the ICC Cricket World Cup with cutting-edge technology and creative innovation.
+This hackathon invites tech enthusiasts, developers, and cricket aficionados to collaborate on groundbreaking solutions inspired by the world of cricket. Join this hackathon to bowl over the boundaries of convention and score with your ingenious ideas as you embark on a journey that bridges cricket's spirit with tech's prowess.
+<br>
+Main Prizes: 1st Prize- INR 25000,  2nd Prize- INR 15000, 3rd Prize- INR 10000
+
+<br>
+Link : https://www.hackerearth.com/challenges/hackathon/cricket-code-champions-hack/<br>
+</details>

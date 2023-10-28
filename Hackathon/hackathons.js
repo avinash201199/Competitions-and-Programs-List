@@ -43,6 +43,13 @@ College students from every discipline, across the country can participate in th
     about: `Smart India Hackathon is a nationwide initiative to provide students with a platform to solve some of the pressing problems we face in our daily lives, and thus inculcate a culture of product innovation and a mindset of problem-solving. The first four editions SIH2017, SIH2018, SIH2019 and SIH2020 proved to be extremely successful in promoting innovation out-of-the-box thinking in young minds, especially engineering students from across India.`,
     siteUrl: "https://sih.gov.in//",
   },
+
+  {
+    title: "Cricket Code Champions Hack",
+    about: `Cricket Code Champions Hack is a hackathon that merges the thrills of the ICC Cricket World Cup with cutting-edge technology and creative innovation.
+    This hackathon invites tech enthusiasts, developers, and cricket aficionados to collaborate on groundbreaking solutions inspired by the world of cricket.`,
+    siteUrl: "https://www.hackerearth.com/challenges/hackathon/cricket-code-champions-hack/",
+  }
 ];
 
 // --------------------------------------------------------------------------------------------------------------------
@@ -54,7 +61,8 @@ const accordion = (title, about, siteUrl, YouTube) => {
                       <div class="accordion_title">
                           <i class="fa-solid fa-caret-right arrow_icon"></i>
                           <h5>${title}</h5>
-                      </div>
+    
+                          </div>
                       <div class="accordion_content">
                           <h5>About</h5>
                           <section>${about}</section>
