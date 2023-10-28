@@ -232,14 +232,4 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=cpguolx2oms
 </details>
 
-<details>
-<summary>Walmart Sparkplug 2022</summary>
-<br>
-About <br>
-  Sparkplug is a unique online coding challenge for prospective students who want to pursue summer internships with Walmart Global Tech in India in 2023! This is a       challenge designed for passionate coders who want to come experience working with the best engineering minds at Walmart Global Tech based in Bangalore/Chennai/         Gurgaon. The Top 150 students will be selected for summer internship opportunities across various development teams at a monthly stipend of ₹1-1.1 lakh.
-<br>
-<br>
-Official Website- https://one.walmart.com/content/globaltechindia/en_in.html<br><br>
-Youtube link- https://www.youtube.com/watch?v=P-Bo6_iyeYU
-<br>
-</details>
+
