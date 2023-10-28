@@ -16,6 +16,12 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="web/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorigin="anonymous"></script>
     <title>List for students</title>
 </head>
 
@@ -26,30 +32,41 @@
 
             <nav class="nav-bar">
                 <ul class="nav-ul">
-                    <li><a href="index.html">Home</a> | </li> 
-                    <li><a href="coding_contest.html">Coding Contests</a> | </li> 
+                    <li><a href="index.html">Home</a> | </li>
+                    <li><a href="coding_contest.html">Coding Contests</a> | </li>
                     <li><a href="hackathons.html">Hackathons</a></li><br>
                     <li><a href="about.html">About Us</a></li>
                     <li><a href="contact.html">Contact Us</a></li>
                 </ul>
             </nav>
 
-            <p className="para"> Contact Us </p>
-
-            
-
-           
+            <div class="contact_form">
+                <form action="#">
+                    <fieldset>
+                        <legend>Contact Us</legend>
+                            <label class="details" for="name">Name</label>
+                            <input class="details" type="text" placeholder="Name"> <br>
+                            <label class="details" for="email">E-mail</label>
+                            <input class="details" type="email" placeholder="E-mail"> <br>
+                            <label class="details" for="email">Message</label>
+                            <textarea name="Feedback" id="feedback" cols="30" rows="10" >Write your message here...</textarea>
+                            <button type="button" class="btn">Submit</button>
+                    </fieldset>
+                </form>
+            </div>
 
             <a href="https://github.com/avinash201199/Competitions-and-Programs-List" target="_blank"><i
                     class="fa-brands fa-github GitHubIcon"></i></a>
 
             <p class="greeting">Made with<span>♥</span></p>
-            
+
             <div>
                 <footer>
                     <div class="footer-social-icons">
-                        <a href="https://www.linkedin.com/in/avinash-singh-071b79175/" target="_blank" class="fa fa-linkedin-square"></a>
-                        <a href="https://github.com/avinash201199/Competitions-and-Programs-List" target="_blank" class="fa fa-github-square"></a>
+                        <a href="https://www.linkedin.com/in/avinash-singh-071b79175/" target="_blank"
+                            class="fa fa-linkedin-square"></a>
+                        <a href="https://github.com/avinash201199/Competitions-and-Programs-List" target="_blank"
+                            class="fa fa-github-square"></a>
                         <a href="mailto:avinash201199@gmail.com" target="_blank" class="fa fa-envelope"></a>
                         <a href="https://www.instagram.com/lets__code/" target="_blank" class="fa fa-instagram"></a>
                     </div>
