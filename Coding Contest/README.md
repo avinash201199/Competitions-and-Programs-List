@@ -232,4 +232,15 @@ Explanation on Youtube- <br>
 https://www.youtube.com/watch?v=cpguolx2oms
 </details>
 
+<details>
+<summary>ACM ICPC (International Collegiate Programming Contest)</summary>
+<br>
+About <br>
+The International Collegiate Programming Contest is an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems, fostering collaboration, creativity, innovation, and the ability to perform under pressure. Through training and competition, teams challenge each other to raise the bar on the possible. Quite simply, it is the oldest, largest, and most prestigious programming contest in the world.
+<br> Official Website- <br>
+https://icpc.global/<br>
 
+Explanation on Youtube- <br>
+[https://youtu.be/fzymgR7EdUs](https://youtu.be/iuI0SKPT35Y?feature=shared)https://youtu.be/iuI0SKPT35Y?feature=shared
+
+</details>
