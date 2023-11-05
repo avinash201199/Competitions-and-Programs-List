@@ -233,6 +233,7 @@ https://www.youtube.com/watch?v=cpguolx2oms
 </details>
 
 <details>
+
 <summary>ACM ICPC (International Collegiate Programming Contest)</summary>
 <br>
 About <br>
@@ -242,5 +243,6 @@ https://icpc.global/<br>
 
 Explanation on Youtube- <br>
 [https://youtu.be/fzymgR7EdUs](https://youtu.be/iuI0SKPT35Y?feature=shared)https://youtu.be/iuI0SKPT35Y?feature=shared
+
 
 </details>
