@@ -233,14 +233,16 @@ https://www.youtube.com/watch?v=cpguolx2oms
 </details>
 
 <details>
-<summary>Meta Hacker Cup</summary>
+
+<summary>ACM ICPC (International Collegiate Programming Contest)</summary>
 <br>
 About <br>
-Hacker Cup is Meta's annual open programming competition. Open to participants around the world, we invite you to apply problem-solving and algorithmic coding skills to advance through each year’s online rounds, win prizes, and have a chance to make it to the global finals and win the grand prize.
+The International Collegiate Programming Contest is an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems, fostering collaboration, creativity, innovation, and the ability to perform under pressure. Through training and competition, teams challenge each other to raise the bar on the possible. Quite simply, it is the oldest, largest, and most prestigious programming contest in the world.
 <br> Official Website- <br>
-https://www.facebook.com/codingcompetitions/hacker-cup<br>
+https://icpc.global/<br>
 
 Explanation on Youtube- <br>
-[https://youtu.be/fzymgR7EdUs](https://youtu.be/ZW3fK1k86LU?feature=shared)https://youtu.be/ZW3fK1k86LU?feature=shared
+[https://youtu.be/fzymgR7EdUs](https://youtu.be/iuI0SKPT35Y?feature=shared)https://youtu.be/iuI0SKPT35Y?feature=shared
+
 
 </details>
