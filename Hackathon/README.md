@@ -1,4 +1,4 @@
-<details
+<details>
 <summary> Bug Bash by IIIT, Naya Raipur </summary>
 <br>
 # About <br>
@@ -413,3 +413,23 @@ Main Prizes: 1st Prize- INR 25000,  2nd Prize- INR 15000, 3rd Prize- INR 10000
 <br>
 Link : https://www.hackerearth.com/challenges/hackathon/cricket-code-champions-hack/<br>
 </details>
+
+<!-- Space App Challange-->
+<details>
+<summary> International Space Apps Challenge </summary>
+<br>
+ 
+# About 
+ <br>
+The NASA International Space Apps Challenge is a hackathon for coders, scientists, designers, storytellers, makers, technologists, and innovators around the world to come together and use open data from NASA and its Space Agency Partners to create solutions to challenges we face on Earth and in space.<br> 
+
+# What is Space Apps?
+The NASA International Space Apps Challenge (Space Apps) is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and innovators. During the hackathon, teams from cities around the world engage the National Aeronautics and Space Administration (NASA) and its Space Agency Partners' free and open data to address real-world problems on Earth and in space.
+ 
+<br>
+<br>
+Link: https://www.spaceappschallenge.org/ <br>
+</details>
+
+
+
