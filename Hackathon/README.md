@@ -1,4 +1,4 @@
-<details
+<details>
 <summary> Bug Bash by IIIT, Naya Raipur </summary>
 <br>
 # About <br>
@@ -413,3 +413,24 @@ Main Prizes: 1st Prize- INR 25000,  2nd Prize- INR 15000, 3rd Prize- INR 10000
 <br>
 Link : https://www.hackerearth.com/challenges/hackathon/cricket-code-champions-hack/<br>
 </details>
+
+<!-- Add HACKZURICH hackathon-->
+<details>
+<summary> HACK ZURICh </summary>
+<br>
+ 
+# About 
+ <br>
+HackZurich is one of the most important events in the European technology and innovation scene for tech talents from international elite universities. From over 5500 applications, the best tech talents are invited every year to develop innovative prototypes in 40 hours. Our partner companies provide a host of challenges, along with their hard- and software — an excellent opportunity to practice the creative use of the latest technologies and to network.<br> 
+
+# Key features
+- Touch base with new technologies
+- Europe's most renowned hybrid hackathon
+ 
+<br>
+<br>
+Link: https://hackzurich.com/ <br>
+</details>
+
+
+
