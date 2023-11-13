@@ -414,22 +414,20 @@ Main Prizes: 1st Prize- INR 25000,  2nd Prize- INR 15000, 3rd Prize- INR 10000
 Link : https://www.hackerearth.com/challenges/hackathon/cricket-code-champions-hack/<br>
 </details>
 
-<!-- Add HACKZURICH hackathon-->
-<details>
-<summary> HACK ZURICh </summary>
-<br>
- 
-# About 
- <br>
-HackZurich is one of the most important events in the European technology and innovation scene for tech talents from international elite universities. From over 5500 applications, the best tech talents are invited every year to develop innovative prototypes in 40 hours. Our partner companies provide a host of challenges, along with their hard- and software — an excellent opportunity to practice the creative use of the latest technologies and to network.<br> 
 
-# Key features
-- Touch base with new technologies
-- Europe's most renowned hybrid hackathon
- 
+<!-- Space App Challange-->
+<details>
+<summary> International Space Apps Challenge </summary>
 <br>
+# About 
 <br>
-Link: https://hackzurich.com/ <br>
+The NASA International Space Apps Challenge is a hackathon for coders, scientists, designers, storytellers, makers, technologists, and innovators around the world to come together and use open data from NASA and its Space Agency Partners to create solutions to challenges we face on Earth and in space.<br> 
+<br>
+# What is Space Apps?
+<br>
+The NASA International Space Apps Challenge (Space Apps) is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and innovators. During the hackathon, teams from cities around the world engage the National Aeronautics and Space Administration (NASA) and its Space Agency Partners' free and open data to address real-world problems on Earth and in space.
+<br>
+Link: https://www.spaceappschallenge.org/ <br>
 </details>
 
 
