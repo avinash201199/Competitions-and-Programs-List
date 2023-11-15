@@ -415,19 +415,19 @@ Link : https://www.hackerearth.com/challenges/hackathon/cricket-code-champions-h
 </details>
 
 
-<!-- Space App Challange-->
 <details>
-<summary> International Space Apps Challenge </summary>
+<summary>AngelHack Global Hackathon Series</summary>
 <br>
-# About 
+#About 
 <br>
-The NASA International Space Apps Challenge is a hackathon for coders, scientists, designers, storytellers, makers, technologists, and innovators around the world to come together and use open data from NASA and its Space Agency Partners to create solutions to challenges we face on Earth and in space.<br> 
 <br>
-# What is Space Apps?
+The AngelHack Global Hackathon Series is a series of hackathons that brings together developers from around the world. The series includes: 
+- 5,000 developers
+- 9 cities
+- 1 grand final
+The winning team from each hackathon receives $500 and an invitation to AngelHack's HACKcelerator.
 <br>
-The NASA International Space Apps Challenge (Space Apps) is an international hackathon for coders, scientists, designers, storytellers, makers, builders, technologists, and innovators. During the hackathon, teams from cities around the world engage the National Aeronautics and Space Administration (NASA) and its Space Agency Partners' free and open data to address real-world problems on Earth and in space.
-<br>
-Link: https://www.spaceappschallenge.org/ <br>
+Link : https://angelhack.com/for-developers/<br>
 </details>
 
 <details>
@@ -442,6 +442,5 @@ Website link : https://techcrunch.com/events/tc-disrupt-2023/
 youtube video Explanantion Link: https://www.youtube.com/live/HnyLYkx6_h0?feature=shared
  <br>
 </details>
-
 
 
