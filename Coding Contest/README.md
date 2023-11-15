@@ -249,21 +249,20 @@ Explanation on Youtube- <br>
 
 
 <details>
-<summary>Topcoder Open (TCO)</summary>
+<summary>SnackDown by CodeChef</summary>
 <br>
-  
 About <br>
-The Topcoder Open (TCO) is our annual online and onsite tournament to celebrate and reward the community. TCO encompasses every day competitions at Topcoder and adds points to them. While you’re competing, you’re earning TCO points and more potential prizes as well as trips to the TCO Finals held in the United States!
+The Ultimate Programming Showdown Is Back!
+India’s most prestigious programming competition is all set to begin this October.
 
-The ultimate programming tournament is back again for another year. We can’t wait to see the live competitions go down, the innovative speakers take the stage, and see who will reign as the new champions!
+SnackDown is India’s global programming event that invites coders from all over the world - everyone from middle/high school to colleges to working professionals from the industry, to make an attempt to take home the coveted crown of SnackDown champion.
 
+Hosted by CodeChef, the 6th edition of SnackDown is unique & better, and open to anyone with a knack for programming.
 <br> Official Website- <br>
-https://www.topcoder.com/community/member-programs/topcoder-open<br>
+https://snackdown.codechef.com/<br>
 
 Explanation on Youtube- <br>
-https://youtu.be/BxiiYypIzeQ?feature=shared
+https://youtu.be/GhYklS6rLL8?feature=shared
 
 </details>
-
-
 
