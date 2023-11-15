@@ -246,3 +246,21 @@ Explanation on Youtube- <br>
 
 
 </details>
+
+<details>
+<summary>SnackDown by CodeChef</summary>
+<br>
+About <br>
+The Ultimate Programming Showdown Is Back!
+India’s most prestigious programming competition is all set to begin this October.
+
+SnackDown is India’s global programming event that invites coders from all over the world - everyone from middle/high school to colleges to working professionals from the industry, to make an attempt to take home the coveted crown of SnackDown champion.
+
+Hosted by CodeChef, the 6th edition of SnackDown is unique & better, and open to anyone with a knack for programming.
+<br> Official Website- <br>
+https://snackdown.codechef.com/<br>
+
+Explanation on Youtube- <br>
+https://youtu.be/GhYklS6rLL8?feature=shared
+
+</details>
