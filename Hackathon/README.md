@@ -430,5 +430,18 @@ The NASA International Space Apps Challenge (Space Apps) is an international hac
 Link: https://www.spaceappschallenge.org/ <br>
 </details>
 
+<details>
+<summary> Techcrunch Disrupt Hackathon </summary>
+<br>
+# About <br>
+ Join thousands of the most motivated and ambitious founders, investors and builders in San Francisco on Sept 19-21 for TechCrunch Disrupt!
+<br>
+Website link : https://techcrunch.com/events/tc-disrupt-2023/
+<br>
+<br>
+youtube video Explanantion Link: https://www.youtube.com/live/HnyLYkx6_h0?feature=shared
+ <br>
+</details>
+
 
 
