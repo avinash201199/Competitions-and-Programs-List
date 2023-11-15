@@ -1,4 +1,4 @@
-<details
+<details>
 <summary> Bug Bash by IIIT, Naya Raipur </summary>
 <br>
 # About <br>
@@ -414,6 +414,7 @@ Main Prizes: 1st Prize- INR 25000,  2nd Prize- INR 15000, 3rd Prize- INR 10000
 Link : https://www.hackerearth.com/challenges/hackathon/cricket-code-champions-hack/<br>
 </details>
 
+
 <details>
 <summary>AngelHack Global Hackathon Series</summary>
 <br>
@@ -428,4 +429,5 @@ The winning team from each hackathon receives $500 and an invitation to AngelHac
 <br>
 Link : https://angelhack.com/for-developers/<br>
 </details>
+
 
