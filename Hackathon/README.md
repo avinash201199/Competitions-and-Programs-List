@@ -413,3 +413,19 @@ Main Prizes: 1st Prize- INR 25000,  2nd Prize- INR 15000, 3rd Prize- INR 10000
 <br>
 Link : https://www.hackerearth.com/challenges/hackathon/cricket-code-champions-hack/<br>
 </details>
+
+<details>
+<summary>AngelHack Global Hackathon Series</summary>
+<br>
+#About 
+<br>
+<br>
+The AngelHack Global Hackathon Series is a series of hackathons that brings together developers from around the world. The series includes: 
+- 5,000 developers
+- 9 cities
+- 1 grand final
+The winning team from each hackathon receives $500 and an invitation to AngelHack's HACKcelerator.
+<br>
+Link : https://angelhack.com/for-developers/<br>
+</details>
+
